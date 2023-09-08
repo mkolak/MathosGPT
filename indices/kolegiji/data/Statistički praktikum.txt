@@ -1,0 +1,61 @@
+OSNOVNE INFORMACIJE
+	Statistički praktikum izvodi se u ljetnom semestru druge godine prediplomskog studija matematike te kao izborni kolegij na trećoj godini prediplomskog studija matematike i računarstva. Cilj kolegija je razviti vještinu statističke analize podataka korištenjem osnovnih statističkih metoda i statističkog programskog okruženja.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m095.pdf)).
+	VODITELJ KOLEGIJA
+		doc.dr.sc. Ivan Papić
+			KONZULTACIJE: Četvrtak, 14:00 
+	OSNOVNA LITERATURA
+		1. Ž. Pauše - Uvod u matematičku statistiku , Školska knjiga, Zagreb, 1993.
+		2. M. Benšić, N. Šuvak - Primijenjena statistika (http://www.mathos.unios.hr/images/uploads/34.pdf), Sveučilište J.J. Strossmayera, Odjel za matematiku, Osijek, 2013.
+	DODATNA LITERATURA
+		1. M. Benšić, N. Šuvak - Uvod u vjerojatnost i statistiku (http://www.mathos.unios.hr/images/uploads/31.pdf), Sveučilište J.J. Strossmayera, Odjel za matematiku, Osijek, 2014.
+		2. J. Pitman - Probability , Springer, 1993.
+		3. L.E. Bain and M. Engelhardt - Introduction to Probability and Mathematical statistics, BROOKS/COLE Cengage Learning, 1992.
+		4. N. Elezović - Statistika i procesi, Element, Zagreb, 2007.
+		5. F. Daly, D.J. Hand, M.C. Jones, A.D. Lunn, K.J. McConway - Elements of Statistics, Addison-Wesly, Wokingham, England, 1995.
+		6. G. McPherson - Applying and Interpreting Statistics, a comprehensive Guide, Springer, 2001.
+		7. G.M. Clarke, D. Cooke - A Basic Course in Satistics, Arnold, London, 1992.
+		8. J.T. McClave, P.G. Benson, T. Sincich - Statistics for Business and Economics, Prentice Hall, New York, 2001.
+		9. G.K. Bhattacharyya, R.A. Johnson - Statistics Concepts and Methods, J. Wiley, 1977.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Statistički praktikum realizira se s fondom od 60 sati (tjedno jedan sat predavanja, dva sata vježbi i jedan sat seminara).
+	Četvrtak, 10:00-14:00	TERMIN: RP-2 (Grupa A - Preddiplomski studij matematika i računarstvo )	
+	Petak, 8:00-12:00	TERMIN: RP-2 (Grupa B - Preddiplomski studij matematika)	
+	Kod za uključenje na kolegij u akademskoj godini 2022./20223. u aplikaciji Microsoft teams je 5bhv1ss.
+
+
+PRAVILA POLAGANJA ISPITA
+	1. KOLOKVIJI
+		Tijekom semestra bit će organizirana dva kolokvija.
+		Na svakom kolokviju moguće je ostvariti najviše 100 bodova. 
+		Barem 50% bodova ostvarenih putem kolokvija zamjena su za pismeni ispit i studentu osiguravaju pravo pristupanja usmenom ispitu tijekom akademske godine u kojoj je slušao kolegij. Na temelju tako ostvarenih bodova, ocjena za pristupanje usmenom ispitu formira se prema sljedećem kriteriju:
+			50%-64%: dovoljan(2); 
+			65%-79%: dobar(3); 
+			80%-90%: vrlo dobar(4); 
+			91%-100%: izvrstan (5).
+	2. PISMENI ISPIT
+		Ukoliko student ne ostvari pravo pristupanja usmenom ispitu putem kolokvija, pristupa pismenom ispitu. Na pismenom ispitu moguće je ostvariti najviše 100 bodova. Ocjena pismenog ispita formira se prema sljedećem kriteriju:
+			50-64: dovoljan(2);
+			65-79: dobar(3); 
+			80-90: vrlo dobar(4); 
+			91-100: izvrstan (5).
+		S ostvarenih barem 50 bodova student ima pravo pristupiti usmenom ispitu u ispitnom roku (zimskom, ljetnom ili jesenskom) u kojem je položio pismeni ispit.
+	3. ZAVRŠNI ISPIT
+		Završni ispit je obavezan za sve studente i podrazumijeva obranu teze samostalno izrađenog seminarskog rada i odgovore na pitanja vezana uz korištene procedure. Preciznije, za seminarski rad i njegovu obranu potrebno je slijediti sljedeće korake:
+			odabrati problem i izraditi pripadnu tablicu podataka
+			analizirati tablicu podataka u skladu s promatranim problemom
+			izraditi tekst seminarskog rada i pripadnu prezentaciju (u kojima se opisuje (prezentira) problem i zaključci dobiveni na temelju analize tablice podataka uz eksplicitno navođenje naziva procedura koje su pri tome korištene te pripadnih vrijednosti test-statistika, odnosno p-vrijednosti - prezentacija i tekst moraju biti jasni laiku)
+			prezentacija seminarskog rada je dio ispita - tijekom prezentacije bit će provjereno poznavanje procedura koje su korištene te alternativnih procedura koje bi mogle biti korištene u istu svrhu, a osim toga student treba znati argumentirati opravdanosti korištenja odabrane procedure.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	Kolokviji 2012./2013. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/nsuvak/SP_kol1_2012_2013.pdf), drugi kolokvij (https://www.mathos.unios.hr/images/homepages/nsuvak/SP_kol2_2012_2013.pdf)
+	Kolokviji 2013./2014. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/nsuvak/SP_kol1_2013_2014.pdf), drugi kolokvij (https://www.mathos.unios.hr/images/homepages/nsuvak/StatP_kol2_2013_2014.pdf) (baze podataka: komarci.csv (https://www.mathos.unios.hr/images/homepages/nsuvak/komarci.csv)gradjevina.csv (https://www.mathos.unios.hr/images/homepages/nsuvak/gradjevina.csv))
+	Kolokviji 2014./2015. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/nsuvak/SP_kol1_2014_2015.pdf) drugi kolokvij (https://www.mathos.unios.hr/images/homepages/nsuvak/SP_kol2_2014_2015.pdf) (baza podataka - boston.csv (https://www.mathos.unios.hr/images/homepages/nsuvak/boston.csv))
+	Kolokviji 2015./2016. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol1_1516.pdf) (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol1_1516_rjesenja.docx)), drugi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol2_1516.pdf) (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol2_1516_rjesenja.docx))
+	Kolokviji 2016./2017. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol1_1617.pdf) (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol1_1617_rjesenja.docx)), drugi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol2_1617.pdf) (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_kol2_1617.docx))
+	Kolokviji 2017./2018. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2017-2018/StatPrak_2017-2018-kol1.pdf) (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2017-2018/StatPrak_2017-2018-kol1_rjesenja.docx)), drugi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2017-2018/StatPrak_2017-2018-kol2.pdf) (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2017-2018/StatPrak_2017-2018-kol2_rjesenja.docx))
+	Kolokviji 2018./2019. - prvi kolokvij A (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol1-A.pdf) B (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol1-B.pdf) (rješenja A (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol1-A_rjesenja.docx) B (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol1-B_rjesenja.docx) analiza (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Vjezbe/Analiza-kol1.R)), drugi kolokvij A (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol2-A.pdf) B (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol2-B.pdf) (rješenja A (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol2-A_rjesenja.docx) B (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_2018-2019-kol2-B_rjesenja.docx))
+	Pismeni ispiti 2015./2016. - 8.2.2016. (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_Pismeni_2016-02-08.pdf)  22.2.2016. (https://www.mathos.unios.hr/images/homepages/nsuvak/StatPrak_Pismeni_2016-02-22.pdf)  29.6.2016. (https://www.mathos.unios.hr/images/homepages/nsuvak/StatPrak_Pismeni_2016-06-29.pdf)  13.7.2016. (https://www.mathos.unios.hr/images/homepages/nsuvak/StatPrak_Pismeni_2016-07-13.pdf)   13.9.2016. (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_Pismeni_2016-09-13.pdf)  24.2.2017. (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_Pismeni_2017-02-24.pdf)   (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/StatPrak_Pismeni_2017-02-24.pdf)19.6.2019. (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_Pismeni_2019-06-19.pdf) (rjesenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_Pismeni_2019-06-19.docx)) 3.7.2019. (https://www.mathos.unios.hr/images/homepages/dgrahova/Statisticki_praktikum/Kolokviji_i_ispiti/2018-2019/StatPrak_Pismeni_2019-07-03.pdf)

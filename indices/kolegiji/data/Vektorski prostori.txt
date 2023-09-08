@@ -1,0 +1,38 @@
+OSNOVNE INFORMACIJE
+	U kolegiju se daje općenitiji pogled na pojmove i rezultate s kojima su se studenti susretali u kolegijima iz linearne algebre u prve dvije godine studija. Kroz apstraktniji pristup želi se dublje i jasnije proniknuti u materiju koja je osnova za razumijevanje mnogih modernih matematičkih disciplina.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m099.pdf)).
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Ivan Matić  (http://www.mathos.hr/~imatic)	
+			KONZULTACIJE: Po dogovoru.	
+	ASISTENT	
+		dr.sc. Darija Brajković Zorić (http://www.mathos.hr/~dbrajkovic)	
+			KONZULTACIJE: Nakon vježbi i po dogovoru putem maila.	
+	OSNOVNA LITERATURA
+		H. Kraljević: Vektorski prostori, skripta (https://www.mathos.unios.hr/images/homepages/imatic/skripta.pdf)
+		S. Kurepa: Konačnodimenzionalni vektorski prostori
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Vektorski prostori realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: četvrtkom, 13-15h	PREDAVAONICA: D-2	
+	VJEŽBE	TERMIN: utorkom, 8-10h	PREDAVAONICA: D-3	
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod 9edfzii.
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se sastoji od pismenog i usmenog dijela, a polaže se nakon odslušanih predavanja i obavljenih vježbi. Prihvatljivi rezultati postignuti na kolokvijima, koje studenti pišu tijekom semestra, zamjenjuju pismeni dio ispita.
+	Studenti tijekom izvođenja nastave pišu dva kolokvija pomoću kojih se kontinuirano provjerava njihov rad i znanje. Studentima koji su postigli ukupno barem 80 bodova iz kolokvija priznaje se pismeni dio ispita i direktno se pozivaju na usmeni dio ispita.
+	O konačnoj ocjeni odlučit će se na usmenom ispitu.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. Da bi položio pismeni ispit student treba ostvariti barem 40 bodova od 100 mogućih.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti o ocjeni pismenog ispita, formira konačna ocjena. Za pristupanje usmenom ispitu ispit mora biti prijavljen.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI KOLOKVIJA
+		1. kolokvij 2021./2022. pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/vp_1_kol_15122021.pdf)
+		2. kolokvij 2021./2022. pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/vp_2_kol_03022022.pdf)
+	PRIMJERI ISPITNIH ROKOVA
+		16.9.2020. pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/VP_ispit_16_09_2020.pdf)
+		8.2.2023. pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/VP_ispit_8_2_2023.pdf)

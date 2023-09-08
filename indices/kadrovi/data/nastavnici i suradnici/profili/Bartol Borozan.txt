@@ -1,0 +1,27 @@
+General information
+    PhD student
+    Department of Mathematics (http://www.mathos.hr)
+    Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/)
+    email: bborozan@mathos.hr
+    office: 8 (ground floor)
+    Research Interests
+        Computational molecular biology
+        Discrete and convex optimizationLinear programming
+        3D computer graphics
+    Degrees
+        MSc in mathematics, Mathematics and Computer Science, Department of Mathematics, University of Osijek, Croatia, 2021.
+        BSc in Mathematics, Department of Mathematics, University of Osijek, Croatia, 2018.
+
+
+Publications
+    Refereed Proceedings
+        B. Borozan, L. Borozan, D. Ševerdija, D. Matijević, S. Canzar,  Fortuna Detects Novel Splicing in Drosophila scRNASeq Data (https://ieeexplore.ieee.org/document/10159716), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023, 410-415
+
+
+Teaching
+    Office Hours: 
+        Po dogovoru.
+
+
+Personal
+    Birthplace: Osijek

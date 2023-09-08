@@ -1,0 +1,187 @@
+Prva godina (First year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Nenad Šuvak
+        ukupno obaveznih kolegija: 7, satnica ~ /ECTS: 19 ~ 25 (zima), 13 ~ 18 (ljeto)
+        Razliku do obaveznih 60 ECTS bodova u akademskoj godini student ostvaruje upisom niže navedenih izbornih predmeta. Broj ECTS bodova koji se ostvaruju upisom svih kolegija u jednom semestru ne smije biti manji od 25.
+        Uvjeti za upis u II. godinu: barem 40 ECTS bodova što obavezno uključuje bodove sljedećih predmeta: Vjerojatnost, Slučajni procesi I, Financijska i aktuarska matematika, Makroekonomija I.
+    
+    Kolegiji koji se izvode na prvoj godini (first year)
+        Obavezni predmeti:
+            Vjerojatnost (M118)
+                izvođenje: zimski  semestar
+                ECTS: 9
+                nastavnik: izv. prof. dr. sc. Danijel Grahovac
+            Slučajni procesi I (M119)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: doc. dr. sc. Ivan Papić
+            Financijska i aktuarska matematika (M008)
+                izvođenje: zimski  semestar
+                ECTS: 5
+                nastavnik: izv. prof. dr. sc. Mirela Jukić Bokun
+            Makroekonomija I (E012)
+                izvođenje: zimski  semestar
+                ECTS: 5
+                nastavnik: prof. dr. sc. Đula Borozan
+            Statistika (M120)
+                izvođenje: ljetni  semestar
+                ECTS: 7
+                nastavnik: prof. dr. sc. Mirta Benšić
+            Slučajni procesi II (M121)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Nenad Šuvak
+            Makroekonomija II (E013)
+                izvođenje: ljetni  semestar
+                ECTS: 5
+                nastavnik: prof. dr. sc. Đula Borozan
+            
+        Izborni predmeti:
+            Suvremene teme iz računalne znanosti (I064)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+                suradnik: Tomislav Prusina
+            Mjera i integral (M127)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević
+                suradnik: Dominik Mihalčić
+            Kriptografija (MI006)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Ivan Soldo
+            Grafovi i primjene (MI001)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Snježana Majstorović
+            Stručna praksa (Z013)
+                izvođenje: zimski  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević, izv. prof. dr. sc. Nenad Šuvak
+                suradnik: Jurica Maltar
+            Normirani prostori (M111)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Krešimir Burazin
+                suradnik: dr. sc. Ivana Crnjac
+            Konveksne funkcije (M109)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: prof. dr. sc. Mihaela Ribičić Penava
+            Teorija odlučivanja (M048)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević
+            Odabrane primjene vjerojatnosti (M125)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Danijel Grahovac, izv. prof. dr. sc. Nenad Šuvak
+            Moderni sustavi baza podataka (I046)
+                izvođenje: ljetni  semestar
+                ECTS: 9
+                nastavnik: doc. dr. sc. Domagoj Ševerdija, dr. sc. Mateja Đumić
+                suradnik: dr. sc. Mateja Đumić
+
+
+Druga godina (Second year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Nenad Šuvak
+        ukupno obaveznih kolegija: 6, satnica ~ /ECTS: 12 ~ 17 (zima), 8 ~ 18 (ljeto)
+        Razliku do obaveznih 60 ECTS bodova u akademskoj godini student ostvaruje upisom niže navedenih izbornih predmeta. Broj ECTS bodova koji se ostvaruju upisom svih kolegija u jednom semestru ne smije biti manji od 25.
+        Teme diplomskih radova prihvaćaju se na sjednici Stručnog vijeća Odjela za matematiku.
+    
+    Kolegiji koji se izvode na drugoj godini (second year)
+        Obavezni predmeti:
+            Multivarijatna analiza (M122)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: prof. dr. sc. Mirta Benšić
+            Matematičke financije (M123)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Nenad Šuvak
+            Analiza poslovanja poduzeća (E001)
+                izvođenje: zimski  semestar
+                ECTS: 4
+                nastavnik: prof. dr. sc. Nataša Šarlija
+            Upravljanje kreditnim rizicima (E009)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: prof. dr. sc. Nataša Šarlija
+            Analiza vremenskih nizova (M003)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Danijel Grahovac
+            Diplomski rad (MIP001)
+                izvođenje: ljetni  semestar
+                ECTS: 8
+                nastavnik: suradnik:
+            
+        Izborni predmeti:
+            Kriptografija (MI006)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Ivan Soldo
+            Suvremene teme iz računalne znanosti (I064)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+            Mjera i integral (M127)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević, prof. dr. sc. Dragan Jukić
+                suradnik: Dominik Mihalčić
+            Linearna optimizacija (M128)
+                izvođenje: zimski  semestar
+                ECTS: 8
+                nastavnik: doc. dr. sc. Ivana Kuzmanović Ivičić
+                suradnik: Bartol Borozan
+            Grafovi i primjene (MI001)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Snježana Majstorović
+            Osnove vođenja projekata (I040)
+                izvođenje: zimski  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović,  Krešimir Mlinarić
+            Stručna praksa (Z013)
+                izvođenje: zimski  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević, izv. prof. dr. sc. Nenad Šuvak
+                suradnik: Jurica Maltar
+            Moderni sustavi baza podataka (I046)
+                izvođenje: ljetni  semestar
+                ECTS: 9
+                nastavnik: doc. dr. sc. Domagoj Ševerdija, dr. sc. Mateja Đumić
+                suradnik: dr. sc. Mateja Đumić
+            Odabrane primjene vjerojatnosti (M125)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Danijel Grahovac, izv. prof. dr. sc. Nenad Šuvak
+            Financijska tržišta (E004)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Dražen Koški
+            Normirani prostori (M111)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Krešimir Burazin
+                suradnik: dr. sc. Ivana Crnjac
+            Nelinearna optimizacija (M129)
+                izvođenje: ljetni  semestar
+                ECTS: 7
+                nastavnik: prof. dr. sc. Kristian Sabo
+                suradnik: Antonio Jovanović, Tomislav Prusina
+            Matematički aspekti izbornih sustava (MI005)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Tomislav Marošević
+            Teorija odlučivanja (M048)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević
+            Konveksne funkcije (M109)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: prof. dr. sc. Mihaela Ribičić Penava

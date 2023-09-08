@@ -1,0 +1,186 @@
+Prva godina (First year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Ljerka Jukić Matić
+        ukupno obaveznih kolegija: 13, satnica ~ /ECTS: 24 ~ 28 (zima), 26 ~ 32 (ljeto)
+        Uvjeti za upis u II. godinu: barem 40 ECTS bodova što obavezno uključuje bodove sljedećih predmeta: Metodika nastave matematike I, Računalno razmišljanje i programiranje I, Odabrane teme iz nastave matematike, Digitalna pismenost.
+
+    Kolegiji koji se izvode na prvoj godini (first year)
+        Obavezni predmeti:
+            Metodika nastave matematike I (MP002)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Ljerka Jukić Matić
+            Računalno razmišljanje i programiranje I (I061)
+                izvođenje: zimski  semestar
+                ECTS: 5
+                nastavnik: doc. dr. sc. Ivana Kuzmanović Ivičić
+            Odabrane teme iz nastave matematike (M115)
+                izvođenje: zimski  semestar
+                ECTS: 5
+                nastavnik: prof. dr. sc. Mihaela Ribičić Penava
+                suradnik: doc. dr. sc. Ljiljana Primorac Gajčić
+            Pedagogija I (P009)
+                izvođenje: zimski  semestar
+                ECTS: 3
+                nastavnik: doc. dr. sc. Maja Brust Nemet
+            Psihologija odgoja i obrazovanja I (P005)
+                izvođenje: zimski  semestar
+                ECTS: 3
+                nastavnik: doc. dr. sc. Marija Milić
+            Digitalna pismenost (I062)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Darija Marković
+            Metodika nastave informatike I (IP001)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Darija Marković
+            Metodika nastave matematike II (MP003)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Ljerka Jukić Matić
+            Konstruktivna i analitička geometrija (M116)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Zdenka Kolar - Begović
+                suradnik: doc. dr. sc. Ljiljana Primorac Gajčić
+            Računalno razmišljanje i programiranje II (I063)
+                izvođenje: ljetni  semestar
+                ECTS: 5
+                nastavnik: doc. dr. sc. Ivana Kuzmanović Ivičić
+            Pedagogija II (P010)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: doc. dr. sc. Maja Brust Nemet
+            Psihologija odgoja i obrazovanja II (P006)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: doc. dr. sc. Marija Milić
+            Didaktitka I (P007)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Rahaela Varga
+                suradnik: dr. sc. Ružica Tokić Zec
+        
+        Izborni predmeti:
+            Nema
+
+
+Druga godina (Second year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Ljerka Jukić Matić
+        ukupno obaveznih kolegija: 11, satnica ~ /ECTS: 19 ~ 22 (zima), 10 ~ 20 (ljeto)
+        Razliku do obaveznih 60 ECTS bodova u akademskoj godini student ostvaruje upisom niže navedenih izbornih predmeta. Broj ECTS bodova koji se ostvaruju upisom svih kolegija u jednom semestru ne smije biti manji od 25.
+    
+    Kolegiji koji se izvode na drugoj godini (second year)
+        Obavezni predmeti:
+            Didaktika II (P008)
+                izvođenje: zimski  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Rahaela Varga
+                suradnik: dr. sc. Ružica Tokić Zec
+            Metodika nastave informatike II (IP002)
+                izvođenje: zimski  semestar
+                ECTS: 5
+                nastavnik: izv. prof. dr. sc. Darija Marković
+            Metodička informatička praksa I (IP003)
+                izvođenje: zimski  semestar
+                ECTS: 2
+                nastavnik: izv. prof. dr. sc. Darija Marković
+            Metodika nastave matematike III (MP004)
+                izvođenje: zimski  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Ljerka Jukić Matić
+            Metodička matematička praksa I (MP005)
+                izvođenje: zimski  semestar
+                ECTS: 2
+                nastavnik: doc. dr. sc. Ljiljana Primorac Gajčić
+            Metode optimizacije i primjene (MI004)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Ninoslav Truhar
+            Metodička informatička praksa II (IP004)
+                izvođenje: ljetni  semestar
+                ECTS: 2
+                nastavnik: izv. prof. dr. sc. Darija Marković
+            Metodika nastave matematike IV (MP006)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Ljerka Jukić Matić
+            Metodička matematička praksa II (MP007)
+                izvođenje: ljetni  semestar
+                ECTS: 2
+                nastavnik: izv. prof. dr. sc. Mirela Jukić Bokun
+            Povijest matematike (M117)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Tomislav Marošević
+            Diplomski rad (MIP001)
+                izvođenje: ljetni  semestar
+                ECTS: 8
+                nastavnik: suradnik:
+            
+        Izborni predmeti:
+            Funkcijsko programiranje (I044)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević, dr. sc. Luka Borozan
+                suradnik: Tomislav Prusina
+            Realna analiza (M094)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević
+                suradnik: Maja Andrijević
+            Uvod u vjerojatnost i statistiku (M098)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: doc. dr. sc. Ivan Papić
+            Vektorski prostori (M099)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Ivan Matić
+                suradnik: dr. sc. Darija Brajković Zorić
+            Web programiranje i primjene  (I060)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović
+                suradnik: Jurica Maltar
+            Grafovi i primjene (MI001)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Snježana Majstorović
+            Učenička matematička natjecanja (MP001)
+                izvođenje: zimski  semestar
+                ECTS: 3
+                nastavnik: prof. dr. sc. Ivan Matić
+            Algebra (M083)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Ivan Matić
+                suradnik: dr. sc. Darija Brajković Zorić
+            Objektno orijentirano programiranje (I048)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević
+                suradnik: dr. sc. Mateja Đumić
+            Računalno jezikoslovlje (I051)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+            Statistički praktikum (M095)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Mirta Benšić, doc. dr. sc. Ivan Papić
+            Konveksne funkcije (M109)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: prof. dr. sc. Mihaela Ribičić Penava
+            Matematički aspekti izbornih sustava (MI005)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Tomislav Marošević
+            Normirani prostori (M111)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Krešimir Burazin
+                suradnik: dr. sc. Ivana Crnjac

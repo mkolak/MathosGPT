@@ -1,0 +1,9 @@
+Office 365		
+
+Svi studenti i djelatnici Odjela za matematiku mogu besplatno koristiti Office 365 za akademske ustanove. Konkretno, svatko ima pravo koristiti:
+
+Microsoft Office na do 5 uređaja u osobnom vlasništvu (stolna računala, laptopi)
+Word Online, Excel Online, PowerPoint Online, Outlook Online, OneNote Online
+OneDrive uslugu za skladištenje datoteka u oblaku s dostupnim prostorom 1 TB
+
+Potpuni popis dostupnih usluga možete vidjeti na Microsoftovim stranicama (https://products.office.com/en-us/academic/compare-office-365-education-plans)(stupac Office365 A3), a na uslugu se možete prijaviti na ovom linku(http://login.microsoftonline.com/) koristeći svoj AAI@EduHr korisnički račun.

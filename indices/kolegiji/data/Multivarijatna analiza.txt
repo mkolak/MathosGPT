@@ -1,0 +1,27 @@
+OSNOVNE INFORMACIJE
+	Cilj predmeta je upoznati studente s osnovnim modelima za statističko zaključivanje o slučajnom vektoru, osposobiti ih  da  razumiju  i primjenjuju metoda multivarijatne analize na analizu  podataka.
+	Okvirni sadržaj predmeta.
+		Višestruka linearna regresija i primjene (procjena i teorija distribucije, testiranje hipoteza, odstupanje od klasičnih pretpostavki, razvoj modela, izbor varijabli, transformacije varijabli, kategorijalne nezavisne varijable, matrica dizajna, ANOVA).
+		Generalizirani linearni modeli (Poissonova zavisna varijabla, binarna (ili binomna) zavisna varijabla).
+		Faktorska analiza.
+		Klaster analiza.
+		Modeliranje strukturnim jednadžbama.
+	VODITELJ KOLEGIJA	
+		Prof.dr.sc. Mirta Benšić	
+		KONZULTACIJE: https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/103#teaching
+	OSNOVNA LITERATURA
+		F.E. Harrell, Ir. Regression Modeling Strategies with Applications to Linear Models, Logistic Regression and Survival Analysis, Springer, New York, 2001.
+		A. Basilevsky, Statistical Factor Analysisi and Related Models: Theory and Applications, Wiley-Interscience, New York, 1994.
+		B. Hansen, Econometrics, Princeton University Press, 2022.  http://www.ssc.wisc.edu/~bhansen/econometrics/ (http://www.ssc.wisc.edu/~bhansen/econometrics/)
+		J.M. Wooldridge, Introductory Econometrics, South-Western, Cengage Learning, Mason, 2013.
+
+
+PRAVILA POLAGANJA ISPITA
+	teorija se polaže unutar dva kolokvija ili na usmenom ispitu
+	kolokvijima mogu pristupiti samo studenti koji su položili statistiku 
+	Formiranje ocjene: Ukupna ocjena se formira počevši od ocjene teorijskog dijela  korekcijom u odnosu na kvalitetu izrade i prezentacije seminara (+1,-1 ili 0)
+	Upute za izradu seminara kao i ispitne teme možete naći na Teams platformi kolegija. 
+
+
+NASTAVNI MATERIJALI
+	Baze podataka (https://www.mathos.unios.hr/images/homepages/mirta/mva/baze.zip)

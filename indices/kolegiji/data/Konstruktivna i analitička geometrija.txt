@@ -1,0 +1,28 @@
+OSNOVNE INFORMACIJE
+	Kolegij Konstruktivna i analitička geometrija se izvodi u ljetnom semestru prve godine diplomskog sveučilišnog nastavničkog studija matematike i informatike. U ovom kolegiju proučava se dio geometrije u kojem se geometrijski problemi rješavaju konstruktivnom metodom. U kolegiju su usustavljene najvažnije metode rješavanja konstruktivnih zadataka uz neophodno teorijsko zasnivanje. Studenti će proširiti znanja o osnovama i primjeni analitičke geometrije u trodimenzionalnom prostoru. Pojmovi vezani uz plohe i preslikavanja bit će uvedeni i s analitičkog stanovišta. Na predavanjima i vježbama je zastupljena upotreba programa dinamične geometrije.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m116.pdf)).
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Zdenka Kolar-Begović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/110)	
+	ASISTENT
+		doc.dr.sc. Ljiljana Primorac Gajčić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/135)
+		KONZULTACIJE: Nakon vježbi i po dogovoru	
+	OSNOVNA LITERATURA
+		D. Palman, Geometrijske konstrukcije, Element, Zagreb, 1996.
+		B. Pavković, D. Veljan, Elementarna matematika 2, Školska knjiga, Zagreb, 1995..
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Uvod u programiranje realizira se s fondom od 75 sati (tjedno 2 sata predavanja i 3 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	Za pristup Teams kanalu koristiti AAIEDU pristupne podatke i kod nkepzo1.
+	PREDAVANJA	TERMIN: petkom 10-12h	PREDAVAONICA: D8	
+	VJEŽBE	TERMIN: četvrtkom 12-15h	PREDAVAONICA: D6	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti pišu 2 kolokvija od kojih svaki nosi 100 bodova. Student je pismeni dio ispita položio preko kolokvija ako zadovolji sljedeća dva uvjeta:
+		na svakom kolokviju ostvari minimalno 30 bodova,
+		ukupno ostvari minimalno 90 bodova.
+	PISMENI ISPIT
+		Pismeni ispit nosi 100 bodova. Student je položio pismeni dio ispita ako ostvari minimalno 50 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti o ocjeni s pismenog ispita, odnosno kolokvija, formira konačna ocjena.

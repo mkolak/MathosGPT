@@ -1,0 +1,26 @@
+OSNOVNE INFORMACIJE
+	Izvedbeni program kolegija Metodika nastave informatike 1 realizira se u drugom semestru diplomskog sveučilišnog nastavničkog studij matematike i informatike s fondom od 60 sati (tjedno 2 sata predavanja, 1 sat seminara i 1 sata vježbi). Predavanja, seminari i vježbe su obavezni. Predavanja imaju zadaću ukazati na metodička i didaktička načela primjenjiva u nastavi informatike, te ih povezati s raspoloživim pomagalima i programskim rješenjima. Laboratorijske vježbe i seminarski radovi usmjereni su na navedenim osnovama rješavanju stvarnih problema u računalnom laboratoriju i učionici. Ispit se sastoji od pismenog i usmenog dijela. Tijekom semestra studenti mogu izabrati neku od predloženih tema seminarskog rada vezanih za sadržaj predmeta. Uspješno pripremljen i prezentiran seminarski rad ravnopravan je dio ukupne konačne ocjene predmeta.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/ip001.pdf).
+	PREDAVANJA I VJEŽBE
+		izv.prof.dr.sc. Darija Marković	
+		KONZULTACIJE: po dogovoru	
+	OSNOVNA LITERATURA
+		V. Galešev i dr., Informatika i računarstvo: metodički priručnik za nastavnike, SysPrint, Zagreb, 2006.
+		O. Hazzan, T. Lapidot, N. Ragonis, Guide to teaching computer science: an activity based approach, Springer, 2011.
+	DOPUNSKA LITERATURA
+		Stručno-metodički časopisi
+		Udžbenici za osnovnu i srednju školu 
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: utorak 10:00-11:30	PREDAVAONICA: MS Teams	
+	VJEŽBE	TERMIN: utorak 12:00-12:45	PREDAVAONICA: MS Teams	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju ocjena s vježbi i ocjena s predavanja pri čemu se konačna ocjena formira na temelju sljedećih ocjena:
+		ocjena izlaganja održanog u okviru predavanja [15%]
+		ocjena iz programskih zadaća [35%]
+		završni ispit [50%]
+	Konačna ocjena je ponderirana srednja vrijednost prethodnih ocjena 1.-3.

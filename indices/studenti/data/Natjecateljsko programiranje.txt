@@ -1,0 +1,10 @@
+Natjecateljsko programiranje
+
+Radna grupa za Natjecateljsko programiranje pokrenuta je od strane Katedre za računarstvo Odjela za matematiku s ciljem aktivnog uključenja studenata u različita nacionalna i međunarodna natjecanja iz programiranja. Pripreme su primarno usmjerene na sljedeća natjecanja:
+    ACM International Collegiate Programming Contest (CERC)
+    Natjecanje timova studenata informatičara hrvatskih sveučilišta
+    IEEEXtreme.
+Cilj radne grupe je upoznati studente sa zadacima koji se pojavljuju na prethodno navedenim natjecanjima, pravilima natjecanja, omogućiti im rješavanje zadataka i evaluaciju istih u natjecateljskom ambijentu.
+
+Voditelji
+    Tomislav Prusina, Odjel za matematiku (koordinator)

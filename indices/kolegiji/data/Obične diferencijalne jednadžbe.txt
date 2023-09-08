@@ -1,0 +1,59 @@
+OSNOVNE INFORMACIJE
+	Kolegij Obične diferencijalne jednadžbe izvodi se u zimskom semestru treće godine sveučilišnog preddiplomskog studija matematike i sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je studente upoznati s pojmom i geometrijskim smislom obične diferencijalne jednadžbe, općim teoremima o egzistenciji i jedinstvenosti rješenja te pokazati osnovne tipove i metode za rješavanje, s posebnim naglaskom na teoriju linearnih jednadžbi.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m090.pdf)).
+	VODITELJ KOLEGIJA
+		prof. dr. sc. Krešimir Burazin
+			KONZULTACIJE: https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/104#teaching
+	ASISTENT	
+		dr. sc. Ivana Crnjac	
+			KONZULTACIJE: https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/140#teaching	
+	OSNOVNA LITERATURA
+		1. W. E. Boyce, R. C. DiPrima, Elementary Differential Equations and Boundary Value Problems, 7th edition, John Wiley & Sons, 2000.
+	DOPUNSKA LITERATURA
+		M. Alić, Obične diferencijalne jednadžbe, PMF - Matematički odjel, Zagreb, 2001.
+		I. Ivanšić, Fourierovi redovi. Diferencijalne jednadžbe, Odjel za matematiku, Osijek, 2000.
+		G. F. Simmons, J.S.Robertson, Differential Equations with Applications and Historical Notes, 2nd Ed., McGraw-Hill, Inc., New York, 1991.
+		M. Braun, Differential equations and their applications, Springer-Verlag, New York, 1993.
+		J. D. Logan, A first course in differential equations, Springer Science+Business Media, Inc., 2006.
+		B. P. Demidovič, Zadaci i riješeni primjeri iz više matematike s primjenom na tehničke nauke, Tehnička knjiga, Zagreb, 1986.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Diferencijalne jednadžbe  realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	-Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod g1n8cuk.
+	PREDAVANJA	Četvrtak, 11:00-13:00h	PREDAVAONICA: D-2	
+	VJEŽBE	Utorak, 08:00-10:00h	PREDAVAONICA: D-3	
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom studija mogu pristupiti polaganju 2 kolokvija koji pokrivaju cijelo gradivo. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita.
+	Da bi uspješno položio kolegij preko kolokvija/pismenog  ispita, student mora skupiti barem  55  bodova, pri čemu na kolokviju/pismenom ispitu može ostvariti maksimalno 100 bodova (1 postotak od ukupnog broja bodova na kolokviju/pismenom ispitu = 1 bod), a na zadaćama maksimalno 20 bodova (od toga maksimalno 10 bodova na zadaćama s predavanja i maksimalno 10 bodova na zadaćama s vježbi). Na svakom pojedinom kolokviju student mora ostvariti barem 20% od ukupnog broja bodova s tog kolokvija. Sukladno tome određuju se sljedeći pragovi:
+		ocjena dovoljan (2): 55-65 bodova
+		ocjena dobar(3): 66-78 bodova
+		ocjena vrlo dobar(4): 79-90 bodova
+		ocjena izvrstan(5): 91 bodova i više.
+	ZADAĆE
+		Svaki tjedan student će dobiti zadaće na vježbama i predavanju koje je dužan predati sljedeći tjedan u pismenom obliku. Zadaće se provjeravaju kontinuirano na predavanju i vježbama.
+		Na pojedinoj zadaći koju je usmeno prezentirao student može ostvariti 0-5 bodova.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. 
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente i pristupa mu se nakon položenog pismenog dijela ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA I ISPITA
+	PRIMJERI KOLOKVIJA
+		ODJ 1. kolokvij - primjer iz 2020. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1ODJ1920A.pdf))
+		ODJ 2. kolokvij - primjer iz 2020. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2ODJ1920A.pdf))
+		ODJ 1. kolokvij - primjer iz 2019. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1ODJ1819B.pdf))
+		ODJ 2. kolokvij - primjer iz 2019. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2ODJ1819A.pdf))
+		ODJ 1. kolokvij - primjer iz 2018. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1ODJ1718A.pdf))
+		ODJ 2. kolokvij - primjer iz 2018. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2ODJ1718A.pdf))
+	PRIMJERI ISPITNIH ROKOVA
+		ODJ pismeni - primjer iz 2021 (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/ODJ_4_2_2021.pdf))
+		ODJ pismeni - primjer iz 2020 (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/ODJ_29_6_2020.pdf))
+		ODJ pismeni - primjer iz 2018 (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/ODJ_9_2_2018.pdf.pdf))
+		ODJ pismeni - primjer iz 2017 (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/ODJ_11_7_2017.pdf))
+		ODJ pismeni - primjer iz 2017 (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/ODJ_9_2_2017.pdf))
+		ODJ pismeni - primjer iz 2016 (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/ODJ_7_9_2016.pdf))
+		ODJ pismeni - primjer iz 2016 (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/ODJ_8_2_2016.pdf))

@@ -1,0 +1,14 @@
+OSNOVNE INFORMACIJE
+	Analiza poslovanja poduzeća izvodi se u zimskom semestru druge godine Sveučilišnog diplomskog studija matematike na smjerovima: Financijska matematika i statistika i Matematika i računarstvo. Cilj kolegija je studente naučiti temeljne financijske izvještaje. Naučiti financijsku analizu poduzeća. Naučiti što znači rizičnost poslovanja poduzeća i kako se ona može mjeriti. Naučiti dugoročno i kratkoročno planiranje. Također, studenti se kroz ovaj kolegij upoznaju s različitim izvorima financiranja poduzeća. Sve navedene analize se rade na financijskim izvještajima stvarnih poduzeća. Naglasak je na primjeni navedenih analiza u praktičnim situacijama.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/e001.pdf)).
+	VODITELJ KOLEGIJA	
+		prof. dr. sc. Nataša Šarlija	 
+		KONZULTACIJE: ponedjeljak 11:00 - 13:00
+	OSNOVNA LITERATURA
+		Ross, Westerfield, Jordan; Fundamentals of Corporate Finance, McGraw Hill, Boston, 2003.
+		N. Šarlija, Recenzirani nastavni materijali dostupni na web stranici predmeta.
+
+
+IZVOĐENJE NASTAVE I VREDNOVANJE ZNANJA
+	Nastava se izvodi u informatičkoj učionici gdje studenti sve navedene analize rade na praktičnim primjerima uz upotrebu softverskih alata (Statistica, Excel). Predavanja, vježbe i seminari su obavezni. Ispit se sastoji od pismenog i usmenog dijela, a polaže se nakon odslušanih predavanja. Prihvatljivi rezultati postignuti na 3 kolokvija, koje studenti pišu tijekom semestra, zamjenjuju ispit. Osim položenog ispita ili kolokvija, studenti su obvezni izraditi projektni zadatak. 
+	Izvedbeni program kolegija Analiza poslovanja poduzeća realizira se s fondom od 60 sati (tjedno 2 sata predavanja, 1 sat vježbi i 1 sat seminara). 

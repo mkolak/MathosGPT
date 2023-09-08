@@ -1,0 +1,89 @@
+OSNOVNE INFORMACIJE
+	Kolegij Diferencijalni račun izvodi se u zimskom semestru prve godine sveučilišnog preddiplomskog studija matematike i sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je na uvodnom nivou upoznati studente s osnovnim idejama i metodama matematičke analize koji su osnova za mnoge druge kolegije. Kroz predavanja obrađivat će se osnovni pojmovi te ilustrirati njihova korisnost i primjena. Na vježbama studenti trebaju savladati odgovarajuću tehniku i osposobiti se za rješavanje konkretnih problema.
+	Sadržaj kolegija možete pogledati na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/m084.pdf)).
+	VODITELJ KOLEGIJA	
+		izv. prof. dr. sc. Ivan Soldo	KONZULTACIJE: nakon održane nastave i po dogovoru	
+	ASISTENT
+		dr. sc. Jelena Jankov	KONZULTACIJE: vrijeme konzultacija	
+	DEMONSTRATOR	
+		Ivan Vuković	KONZULTACIJE: tijekom demonstratura	
+	OSNOVNA LITERATURA
+		D. Jukić, R. Scitovski, Matematika I, Odjel za matematiku, Osijek, 2017. (pdf (http://www.mathos.unios.hr/images/uploads/707.pdf))
+		J. Stewart, Calculus 7th Edition, McMaster University and University of Toronto, Brooks/Cole, Cengage Learning, Belmont, 2008.
+	DOPUNSKA LITERATURA
+		B. P. Demidovič Zadaci i riješeni primjeri iz više matematike s primjenom na tehniče nauke,Tehnička knjiga, Zagreb, 1986.
+		W.Rudin, Principles of Mathematical Analysis, Mc Graw-Hill, Book Company, 1964.
+		S. Kurepa, Matematiča analiza 1 (diferenciranje i integriranje), Tehnička knjiga, Zagreb, 1989.
+		S. Kurepa, Matematiča analiza 2 (funkcije jedne varijable), Tehnička knjiga, Zagreb, 1990.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Diferencijalni račun realizira se s fondom od 105 sati (tjedno 4 sata predavanja i 3 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	 
+		Utorkom od 8:00 do 12:00; Predavaonica: Dvorana 1
+	VJEŽBE
+		Srijedom od 10:00 do 13:00 (studij matematike); Predavaonica: Dvorana 3
+		Srijedom od 14:00 do 17:00 (studij matematike i računarstva); Predavaonica: Dvorana 2
+
+
+PRAVILA POLAGANJA ISPITA
+	KOLOKVIJI
+		Tijekom semestra studenti mogu polagati 2 kolokvija. Na svakom kolokviju moguće je ostvariti 100 bodova. Za prolazak pismenog ispita putem kolokvija potrebno je na svakom kolokviju ostvariti barem 20 bodova i ukupno barem 80 bodova. Nakon drugog kolokvija po potrebi će biti organiziran popravni kolokvij. Dozvoljen je ispravak samo jednoga kolokvija. Popravnom kolokviju smiju pristupiti: 
+		studenti koji unutar redovnih termina kolokvija na samo jednom od njih nisu ostvarili barem 20 bodova; 
+		studenti koji su  unutar redovnih termina kolokvija na oba kolokvija ostvarili barem 20, a u sumi manje od 80 bodova; u tom slučaju ispravlja se kolokvij s manjim brojem bodova. 
+	Popravnom kolokviju ne smije se  pristupiti u svrhu poboljšanja pozitivne ocjene dobivene nakon redovnih kolokvija. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita. 
+	Ocjene kolokvija prema ostvarenim bodovima:
+		80-130 bodova: dovoljan (2); 
+		131-160 bodova: dobar (3); 
+		161-180 bodova: vrlo dobar (4); 
+		181 i više bodova: izvrstan (5).  
+	DOMAĆE ZADAĆE 
+		Tijekom semestra studentima će biti ponuđeno rješavanje domaćih zadaća na kojima se može ostvariti najviše 15% dodatnih bodova koji mogu utjecati na konačnu ocjenu.
+	PISMENI ISPIT
+		Pismeni dio ispita obavezan je za studente koji nisu uspješno položili kolokvije i nosi ukupno 100 bodova. Bodovni prag za polaganje pismenog dijela ispita je 50 bodova.
+		Ocjena pismenog ispita formira se prema sljedećem kriteriju: 
+			50-65: dovoljan(2)
+			66-80: dobar(3)
+			81-90: vrlo dobar(4)
+			91-100: izvrstan (5).
+		Usmeni ispit obavezan je za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, kolokvija i domaćih zadaća formira konačna ocjena.
+
+
+KOLOKVIJI I PISMENI ISPITI
+	Podsjetnik pitanja za usmeni ispit (pdf (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/DR-pitanja.pdf))
+ 	Termini kolokvija u ak. god. 2022./2023.
+		Prvi kolokvij: 29.11.2022.
+		Drugi kolokvij: 30.1.2023.
+		Popravni kolokviji: 3.2.2023.
+	Primjeri kolokvija iz nekih prošlih ak. god.:
+		Kolokviji iz akademske 2022./2023. godine:
+			Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/jjankov/K1_2022_2023_2.pdf)
+		Kolokviji iz akademske 2021./2022. godine:
+			Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/K1_2021_2022.pdf)
+			Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/K2_2021_2022.pdf)
+		Kolokviji iz akademske 2020./2021. godine:
+			Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/K1_2020_2021.pdf)
+			Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/K2_2020_2021.pdf)
+		Kolokviji iz akademske 2018./2019. godine:
+			Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/K1_2018_2019.pdf)
+			Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/K2_2018_2019.pdf)
+		Kolokviji iz akademske 2017./2018. godine:
+			Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/Radojicic/K1_2017_2018.pdf)
+			Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/K2_2017_2018.pdf)
+			Popravni kolokvij (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/Popravni_1718.pdf)
+		Kolokviji iz akademske 2016./2017. godine:
+			Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/K1_2016_2017.pdf)
+			Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/K2_2016_2017.pdf)
+	PRIMJERI NEKIH PISMENIH ISPITA
+		5. veljače 2014. (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/dif5-2-2014.pdf)
+		19. veljače 2014. (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/dif19-2-2014.pdf)
+		10. lipnja 2014 (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/dif10-6-2014.pdf)
+		29. rujna 2014 (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/dif29-9-2014.pdf). 
+		16. veljače 2015. (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/dif16-2-2015.pdf)
+		7. srpnja 2015. (https://www.mathos.unios.hr/images/homepages/isoldo/Diferencijalni_racun_web/dif7-7-2015.pdf)
+		30. siječnja 2017. (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/dif30-1-2017.pdf)
+		13. veljače 2017. (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/DIF_pi_13_02_2017.pdf)
+		9.veljače 2018. (https://www.mathos.unios.hr/images/homepages/Radojicic/DR_9_2_2017.pdf)
+		23.veljače 2018. (https://www.mathos.unios.hr/images/homepages/Radojicic/DR_23_2_2017.pdf)
+		7.rujna 2020. (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/DR_7_9_2020.pdf)
+		17. lipnja 2020. (https://www.mathos.unios.hr/images/homepages/mmiloloz/Diferencijalni_račun/dif2020_17_6.pdf)

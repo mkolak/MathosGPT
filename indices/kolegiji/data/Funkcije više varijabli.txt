@@ -1,0 +1,79 @@
+OSNOVNE INFORMACIJE
+	Kolegij Funkcije više varijabli izvodi se u zimskom semestru druge godine sveučilišnog preddiplomskog studija matematike i sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je upoznati studente s diferencijalnim i integralnim računom realnih i vektorskih funkcija više realnih varijabli. Na predavanjima će se uvoditi osnovni pojmovi i obrađivati njihova svojstva, te ilustrirati primjerima, dok će na vježbama studenti usvajati odgovarajuće tehnike rješavanja konkretnih problema
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m009.pdf)).
+	VODITELJ KOLEGIJA	
+		prof. dr. sc. Krešimir Burazin (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/104)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/104#teaching)	
+	ASISTENT	
+		dr. sc. Jelena Jankov (https://www.mathos.unios.hr/index.php/271)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/271#teaching)	
+	DEMONSTRATOR	
+		Lorena Lončarević	
+	OSNOVNA LITERATURA
+		J. Stewart, Calculus 7th Edition, McMaster University and University of Toronto, Brooks/Cole, Cengage Learning, Belmont, 2008.
+	DOPUNSKA LITERATURA
+		S. Kurepa, Matematička analiza 3: Funkcije više varijabli, Tehnička knjiga, Zagreb, 1984.
+		Š. Ungar, Matematička analiza u Rn, Golden marketing-Tehnička knjiga, Zagreb, 2005.
+		B.P. Demidovič, Zadaci i riješeni primjeri iz više matematike s primjenom na tehničke nauke, Tehnička knjiga, Zagreb, 1986.
+		P. Javor, Matematička analiza 2, Element, Zagreb, 2000.
+		S. Lang, Calculus of Several Variables, Springer, New York, 1987.
+		M. Lovrić, Vector Calculus, Addison-Wesley Publ.\ Ltd., Don Mills, Ontario, 1997.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Funkcije više varijabli realizira se s fondom od 75 sati (tjedno 3 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno. Za točno vrijeme i raspored predavanja molimo vas da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod mkp22lb.
+	PREDAVANJA	TERMIN: Četvrtak, 8-11h	PREDAVAONICA: D2	
+	VJEŽBE	TERMIN: Četvrtak, 11-13h	PREDAVAONICA: D9	
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom studija mogu pristupiti polaganju 2 kolokvija koji pokrivaju cijelo gradivo. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita. 
+	Da bi uspješno položio kolegij preko kolokvija/pismenog  ispita, student mora skupiti barem  55  bodova, pri čemu na kolokviju/pismenom ispitu može ostvariti maksimalno 100 bodova (1 postotak od ukupnog broja bodova na kolokviju/pismenom ispitu = 1 bod), a na zadaćama maksimalno 20 bodova (od toga maksimalno 10 bodova na zadaćama s predavanja i maksimalno 10 bodova na zadaćama s vježbi). Na svakom pojedinom kolokviju student mora ostvariti barem 20% od ukupnog broja bodova s tog kolokvija. Sukladno tome određuju se sljedeći pragovi:
+		ocjena dovoljan (2): 55-65 bodova
+		ocjena dobar(3): 65-78 bodova
+		ocjena vrlo dobar(4): 78-90 bodova
+		ocjena izvrstan(5): 90 bodova i više.
+	ZADAĆE
+		Svaki tjedan student će dobiti zadaće na vježbama i predavanju koje je dužan predati sljedeći tjedan u pismenom obliku. Zadaće se provjeravaju kontinuirano na predavanju i vježbama.
+		Na pojedinoj zadaći koju je usmeno prezentirao student može ostvariti 0-5 bodova.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. 
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente i pristupa mu se nakon položenog pismenog dijela ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+NASTAVNI MATERIJALI
+	plohe (https://www.mathos.unios.hr/images/homepages/ivuksano/plohe.pdf)
+	ekstremi (https://www.mathos.unios.hr/images/homepages/jjankov/materijali_ekstremi.pdf)
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	Prvi kolokvij (2022./2023.) (https://www.mathos.unios.hr/images/homepages/jjankov/fvv_prvikol12122022.pdf)
+	Prvi kolokvij (2020./2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/FVV_prvikol_202021.pdf)
+	Drugi kolokvij (2020./2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/FVV_drugi_kol202021.pdf)
+	Prvi kolokvij (2019./2020.) (https://www.mathos.unios.hr/images/homepages/jjankov/FVV_prvikol_201920_A.pdf)
+	Drugi kolokvij (2019./2020.) (https://www.mathos.unios.hr/images/homepages/jjankov/FVV_drugikol_201920.pdf)
+	Prvi kolokvij (2018./2019.) (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1FVV1819A.pdf)
+	Drugi kolokvij (2018./2019.) (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2FVV1819B.pdf)
+	Prvi kolokvij (2017./2018.)  (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1FVV1718B.pdf)
+	Drugi kolokvij (2017./2018.) (https://www.mathos.unios.hr/images/homepages/ivuksano/FVV_drugikol_201718_A.pdf)
+	Prvi kolokvij (2016./2017.) (https://www.mathos.unios.hr/images/homepages/ivuksano/kol1fvv1617.pdf)
+	Drugi kolokvij (2016./2017.)  (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2FVV1617A.pdf)
+	Prvi kolokvij (2015./2016.) (https://www.mathos.unios.hr/images/homepages/ivuksano/1_kol_FVV1516B.pdf)
+	Drugi kolokvij(2015./2016.) (https://www.mathos.unios.hr/images/homepages/djankov/FVV_2kol_A.pdf)
+	Prvi kolokvij (2014./2015.) (https://www.mathos.unios.hr/images/homepages/djankov/Prvi_kolokvij_funkcije.pdf)
+	Drugi kolokvij(2014./2015.) (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2FVV1415A.pdf)
+	Pismeni ispit (2022.) (https://www.mathos.unios.hr/images/homepages/jjankov/fvv_01072022.pdf)
+	Pismeni ispit (2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/FVV_15022021.pdf)
+	Pismeni ispit (2020.) (https://www.mathos.unios.hr/images/homepages/jjankov/FVV_03021920.pdf)
+	Pismeni ispit (2019.) (https://www.mathos.unios.hr/images/homepages/ivuksano/pismeni_Fvv_5_2_2019.pdf)
+	Pismeni ispit (2018.) (https://www.mathos.unios.hr/images/homepages/djankov/FVV_0407.pdf)
+	Pismeni ispit (2018.) (https://www.mathos.unios.hr/images/homepages/ivuksano/pismeni_Fvv_8_2_2018.pdf)
+	Pismeni ispit (2017.) (https://www.mathos.unios.hr/images/homepages/ivuksano/pismeni_Fvv_7_9_2017.pdf)
+	Pismeni ispit (2017.) (https://www.mathos.unios.hr/images/homepages/ivuksano/pismeni_Fvv_23_6_2017.pdf)
+	Pismeni ispit (2016.) (https://www.mathos.unios.hr/images/homepages/djankov/fvv_0809.pdf)
+	Pismeni ispit (2016.) (https://www.mathos.unios.hr/images/homepages/ivuksano/pismeni_Fvv_21_09_1516.pdf)
+	Pismeni ispit (2016.) (https://www.mathos.unios.hr/images/homepages/ivuksano/pismeni_Fvv_22_2_2016.pdf)
+	Pismeni ispit (2015.) (https://www.mathos.unios.hr/images/homepages/djankov/pismeni2_veljaca_1415.pdf)
+	Pismeni ispit (2015.) (https://www.mathos.unios.hr/images/homepages/ivuksano/pismenifvv_zima_1415.pdf)
+	Pismeni ispit (2013.) (https://www.mathos.unios.hr/images/homepages/ivuksano/FVV_1009.pdf)

@@ -1,0 +1,22 @@
+OSNOVNE INFORMACIJE
+	Cilj ovog predmeta je upoznati studente s temeljnim svojstvima skupova. Na predavanjima će se uvesti i obraditi osnovni pojmovi te dokazati njihove međusobne poveznice, te na primjerima pokazati aksiomatski zasnovana teorija. Na vježbama će studenti svladavati tehnike ispitivanja svojstava apstraktnih skupova i rješavanja problemskih zadataka.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/mihaela/m106.pdf)).
+	VODITELJ KOLEGIJA	
+		prof. dr. sc. Mihaela Ribičić Penava (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/115)
+		KONZULTACIJE: Nakon predavanja i vježbi.	
+	OSNOVNA LITERATURA
+		P. Papić. Uvod u teoriju skupova, HMD, Zagreb, 2000.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Teorija skupova realizira se s fondom od 30 sati (tjedno 1 sata predavanja i 1 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	 srijedom, 8:00-9:00h	PREDAVAONICA: D-1	
+	VJEŽBE	 srijedom, 9:00-10:00h	PREDAVAONICA: D-1
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti mogu polagati dva kolokvija koji zamjenjuju pismeni dio ispita. Uvjet za polaganje kolokvija je ostvarenih minimalno 30 bodova po svakom kolokviju i minimalno 80 ukupno. 
+	PISMENI ISPIT
+		Pismeni  ispit je obavezan za studente koji nisu položili pismeni dio ispita preko kolokvija. Pismeni ispit nosi ukupno 100 bodova. Bodovni prag za polaganje pismenog ispita je 50 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Konačna ocjena formira se na temelju ocjene pismenog ispita, odnosno kolokvija, i usmenog ispita.

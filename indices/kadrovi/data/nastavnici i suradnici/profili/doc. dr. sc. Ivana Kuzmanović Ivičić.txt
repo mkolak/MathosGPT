@@ -1,0 +1,123 @@
+General Information
+    Assistant Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek 
+    phone: +385-31-224-816
+    fax: +385-31-224-801
+    email: ikuzmano@mathos.hr
+    office: 3 (first floor)
+    Research Interests
+        Applied mathematics
+        Numerical linear algebra
+        Matrix equations
+        Parameter dependent problems
+    Degrees
+        PhD in Mathematics, Department of Mathematics, University of Zagreb, 2012.
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr/), University of Osijek, Croatia, 2005.
+
+
+Publications
+    Journal Publications
+        I. Kuzmanović Ivičić, S. Miodragović, Perturbation bounds for stable gyroscopic systems (https://rdcu.be/c4blW), BIT Numerical Mathematics 63/1 (2023), 1-16
+        I. Kuzmanović Ivičić, S. Miodragović, M. Ugrica, The tan Θ theorem for definite matrix pairs, Linear and multilinear algebra 70 (2022), 1-17
+        M. Essert, I. Kuzmanović Ivičić, I. Vazler, T. Žilić, Theory of M-system, Logic Journal of the IGPL 25/5 (2017), 836-858
+        I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar, Damping optimization over the arbitrary time of the excited mechanical system, Journal of Computational and Applied Mathematics, 304 (2016), 120-129
+        I. Kuzmanović Ivičić, N. Truhar, Optimization of the solution of the parameter-dependent Sylvester equation and applications (http://www.sciencedirect.com/science/article/pii/S0377042712003123), Journal of Computational and Applied Mathematics, 237/1 (2013), 136-144
+        I. Kuzmanović Ivičić, N. Truhar, Sherman-Morrison-Woodbury formula for Sylvester and $T$-Sylvester equation with applications (http://www.tandfonline.com/doi/abs/10.1080/00207160.2012.716154#.UYpK_kr3SH0), International Journal of Computer Mathematics 90/2 (2013), 306-324
+        I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar, Optimization of material with modal damping, Applied mathematics and computation  218 (2012), 7326-7338
+    Refereed Proceedings
+        I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar,  Applications of Lyapunov and T-Lyapunov equations in mechanics, Fourth Mathematical Conference of the   Republic of Srpska,, Trebinje, 2014, 83-92
+        I. Kuzmanović Ivičić, G. Kušec, K. Sabo, R. Scitovski,  A new method for searching an L_1 solution of an overdetermined system of linear equations and applications, 12th International Conference on Operational Research, Pula, Croatia, 2008, 309-319
+        I. Kuzmanović Ivičić, R. Scitovski, K. Sabo, I. Vazler,  The least absolute deviation linear regression: properties and two efficient methods, Aplimat 2008, Bratislava, 2008, 227-240
+        R. Scitovski, I. Kuzmanović Ivičić,  Jedna metoda procjene parametara u smislu minimizacije sume L_p ortogonalnih udaljenosti, Programski sustav Mathematica u znanosti, tehnologiji i obrazovanju. PrimMath[2003]. , Zagreb, Hrvatska, 2003, 147-157
+    Others
+        M. Andrijević, I. Kuzmanović Ivičić, Matematički model problema školskog rasporeda (https://hrcak.srce.hr/292248), Osječki matematički list 22 (2022), 119-129
+        D. Brajković Zorić, I. Kuzmanović Ivičić, M. Ribičić Penava, Matematičko natjecanje MathOS cup, Osječki matematički list 22/1 (2022), 81-89
+        I. Kuzmanović Ivičić, P. Corn,  Razni načini zadavanja ravnine u prostoru  (http://hrcak.srce.hr/file/129928), Osječki matematički list 12/1 (2012), 21-28
+        I. Kuzmanović Ivičić, Najbolja $l_infty$ aproksimacija rješenja sustava linearnih jednadžbi s jednom nepoznanicom (http://hrcak.srce.hr/file/111243), Osječki matematički list 11/1 (2011), 19-28
+        I. Kuzmanović Ivičić, Neke primjene funkcija pod i strop (http://hrcak.srce.hr/file/53869), Osječki matematički list 8/2 (2008), 77-82
+        I. Kuzmanović Ivičić, Udaljenost točke do krivulje (http://hrcak.srce.hr/file/6630), Osječki matematički list 5/2 (2005), 85-90
+    Books
+        I. Kuzmanović Ivičić, D. Ševerdija, Znanstveno-stručni skup Računalno jezikoslovlje i Zlatna formula hrvatskoga jezika - Knjiga sažetaka (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/935.pdf ), Sveučilište J. J. Strossmayera u Osijeku – Odjel za matematiku, Osijek, 2021.
+        K. Burazin, J. Jankov, I. Kuzmanović Ivičić, I. Soldo, Primjene diferencijalnog i integralnog računa funkcija jedne varijable (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/697.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2017.
+        I. Kuzmanović Ivičić, K. Sabo, Linearno programiranje (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/628.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2016.
+
+
+Projects
+    01.01.2020.--31.12.2023.  investigator on scientific project   Vibration Reduction in Mechanical Systems (http://vims.mathos.unios.hr/)  (IP-2019-04-6774, VIMS). This project is fully supported by Croatian Science Foundation.
+    01.07.2015. - 30.06.2019  investigator on scientific project "Optimization of parameter dependent mechanical systems  (https://www.mathos.unios.hr/index.php/2-uncategorised/399-optimization-of-parameter-dependent-mechanical-systems)(IP-2014-09-9540; OptPDMechSys) (https://www.mathos.unios.hr/index.php/2-uncategorised/399-optimization-of-parameter-dependent-mechanical-systems). This project has been fully supported by Croatian Science Foundation (http://www.hrzz.hr/default.aspx?id=47)
+    2007- 2013 investigator on  scientific project  (235-2352818-1034 (http://zprojekti.mzos.hr/public/c-prikaz_det.asp?psid=1-05&offset=20&ID=367))  "Nonlinear parameter estimation problems in mathematical models“ (Ministry of Science, Education and Sports)
+
+
+Professional Activities
+    Workshop and Conference Talks
+        Ivana Kuzmanović Ivičić, Optimization of parameter dependent structured Sylvester and T-Sylvester equations, 8th European Congress of Mathematics, 20 - 26 June 2021, Portorož, Slovenia
+        Ivana Kuzmanović Ivičić, Structured Sylvester and T-Sylvester equations, 28th Biennial Numerical Analysis Conference, Glasgow, 25-28 June 2019
+        I.Kuzmanović, Parameter Dependent Generalized Sylvester and T-Sylvester Equations,  6th International Eurasian Conference on Mathematical Sciences and Applications (IECMSA-2017), August 15-18, 2017, Budapest, Hungary.
+        I.Kuzmanović, Parameter dependent generalized Sylvester and T-Sylvester equations, METT VII — 7th Workshop on Matrix Equations and Tensor Techniques, 13-14 February 2017, Pisa, Italy
+        Ivana Kuzmanović, Optimization of the solution of Sylvester and $T$-Sylvester equations with applications, 16th GAMM ANLA Workshop, September 15-16, 2016, Hamburg, Germany
+        Ivana Kuzmanović, Damping optimization over the arbitrary time of the excited mechanical systems, 6th Croatian MathematicalCongress, June 14-17, 2016, Zagreb, Croatia
+        Ivana Kuzmanović, Structured Sylvester and T-Sylvester equations, 10th International Workshop on Accurate Solution of Eigenvalue Problems (IWASEP 10), Dubrovnik, June 2-5, 2014
+        I. Kuzmanović, Applications of Lyapunov and $T$-Lyapunov equations in mechanics, Fourth Mathematical Conference of the Republic of Srpska, Trebinje, 2014
+        I. Kuzmanović, N.Truhar. Sherman-Morrison-Woodbury formula for Sylvester and T-Sylvester equation, 5th Croatian Mathematical Congress, June 18 - 21, 2012, Rijeka, Croatia
+        Scitovski, Rudolf; Sabo, Kristian; Kuzmanović, Ivana; Vazler, Ivan; Cupec, Robert; Grbić, Ratko. The best least absolute deviation hyperplane - properties and efficient methods , 4th Croatian Mathematical Congress, Osijek, June 17-20, 2008
+        I. Kuzmanović, The least absolute deviation linear regression: properties and two efficient methods, Aplimat, Bratislava, 2008
+        I. Kuzmanović, R. Scitovski, Jedna metoda procjene parametara u smislu minimizacije sume $L_p$ ortogonalnih udaljenosti, PrimMath[2003], Zagreb
+    Seminars and talks
+        I. Kuzmanović, Structured Sylvester and $T$-Sylvester equations, Mathematical Colloquium, Osijek, 16.1.2014
+        I. Kuzmanović, Optimization of the solution of the parameter-dependent Sylvester equation, Optimization and Applications Seminar, Osijek, 29.6.2011.
+        I. Kuzmanović, Parameter-dependent Sylvester equation and applications, Optimization and Applications Seminar, Osijek, 8.6.2011.
+        I. Kuzmanović, Subgradient methods for minimization of nondifferentiable convex functions, Optimization and Applications Seminar, Osijek, 17.03.2010.
+        I. Kuzmanović, \textit{Functions floor and ceiling}, Winter math school, Osijek 2008.
+        I. Kuzmanović, Normal block matrices, Seminar for numerical mathematics, Zagreb, 13.3.2008.
+        I. Kuzmanović, Locations of lines in normed spaces, Optimization and Applications Seminar, Osijek, 07.3.2008.
+        I. Kuzmanović, Linear $l_\infty$ approximation, Optimization and Applications Seminar, Osijek, 09.1.2008.
+        I. Kuzmanović, Cantor normal form, Seminar for Logic and Foundations of Mathematics , Zagreb, 22.5.2007.
+    Participation in summer schools and workshops:
+        Workshop on Model Reduction Methods and Optimization, 20-21 September 2016, Opatija, Croatia
+        The third International School on Model Reduction for Dynamical Control Systems, 5 - 10 October 2015, Dubrovnik, Croatia
+        DAAD International School on Linear Optimal Control of Dynamic Systems, 23 - 28 September 2013, Osijek, Croatia
+        Summer School on Numerical Linear Algebra for Dynamical and High-Dimensional Problems, October 10-15, 2011, Trogir, Croatia
+        DAAD Summer School on Sparse Eigenvalue Problems, August 22-27, 2011, Sarajevo, Bosnia and Herzegovina
+    Study Visits Abroad
+        27.11.-3.12.2016. Max-Planck-Institut fur Dynamik komplexer technischer Systeme, Magdeburg
+    Organization of National and International Meetings:
+        2008. 4th Croatian Mathematical Congress - Organizing Committee Member
+        2020.  Computational Linguistics and Golden Formula of Croatian Language - Organizing Committee Chair
+    Refereeing/Reviewing
+        International Journal of Systems Science
+        International Journal of Computer Mathematics
+    Professional Societiey Membership
+        EMS (European Mathematical Society)
+        MAA (Mathematical Association of America)
+
+
+Teaching
+    Current
+        Matematički alati, MathOS (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/195)
+        Linearna optimizacija,  MathOS (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/izvedbeni-plan-racunarstvo/754)
+        Matematika 1, Odjel za kemiju (https://www.mathos.unios.hr/index.php/675)
+        Računalno razmišljanje i programiranje 2 (https://www.mathos.unios.hr/index.php/nastava/diplomski-studij-nastavnicki-studij-matematike-i-informatike/712)
+        Linearna algebra 1, Odjel za fiziku (http://www.fizika.unios.hr/la1/)
+    Teme diplomskih i završnih radova u akademskoj godini 2022./23.:
+        SLOBODNE TEME ZAVRŠNIH RADOVA
+            Vizualizacija u geometriji uz pomoć programskog paketa Mathematica
+            Animacije u programskom paketu Mathematica
+            Primjena GeoGebre u nastavi matematike
+            Krylovljevi potprostori i primjene
+            Linearna algebra u genetici
+            Kanonski oblik krivulje drugoga reda (Marko Jedlička)
+            Kriterij konvergencije redova realnih brojeva (Marija Šeremet)
+        SLOBODNE TEME DIPLOMSKIH RADOVI
+            "Matrične jednadžbe" (pregled osnovnih oblika jednadžbi kod kojih je nepoznanica matrica, pregled standardnih metoda za njihovo rješavanje, implementacija osnovnih metoda u Matlabu)
+            "Generalizirane svojstvene vrijednosti"   (osnovne definicije i svojstva generaliziranih svojstvenih vrijednosti, QZ metoda za računanje generaliziranih svojstvenih vrijednosti, implementacija u Matlabu)
+            "Tenzori"  (definicija i osnovni pojmovi vezani za tenzore (generalizirane matrice), pregled svojstava)
+            Odabrani problemi linearne optimizacije (Tena Pavlić)
+            Linearna algebra u strojnom učenju
+            Ekipna matematička natjecanja u Hrvatskoj i u svijetu
+    Office Hours:
+        ponedjeljkom u 9h
+
+
+Personal
+    Married, 4 kids

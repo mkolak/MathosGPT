@@ -1,0 +1,83 @@
+General Information
+    Associate Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-842
+    fax: +385-31-224-801
+    email: mirela@mathos.hr
+    office: 15 (ground floor)
+    Research Interests
+        Number Theory (Elliptic Curves, Diophantine Equations)
+    Degrees
+        PhD in Mathematics, Department of Mathematics (http://www.math.hr), University of Zagreb, 2011.
+        MSc in Mathematics, Department of Mathematics (http://www.math.hr), University of Zagreb, Croatia, 2008.
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2001. 
+
+
+Publications
+    Journal Publications
+        A. Filipin, M. Jukić Bokun, I. Soldo, On $D(-1)$-triples ${1,4p^2+1,1-p}$ in the ring $Z[sqrt{-p}]$ with a prime $p$ (https://link.springer.com/article/10.1007/s10998-021-00435-5), Periodica Mathematica Hungarica 85 (2022), 292-302
+        M. Jukić Bokun, I. Soldo, Pellian equations of special type (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/896.pdf ), Mathematica Slovaca 71/6 (2021), 1599-1607
+        A. Dujella, M. Jukić Bokun, I. Soldo, A Pellian equation with primes and applications to D(−1)-quadruples (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/761.pdf ), Bulletin of the Malaysian Mathematical Sciences Society 42 (2019), 2915-2926
+        M. Jukić Bokun, I. Soldo, On the extensibility of D(-1)-pairs containing Fermat primes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/804.pdf ), Acta Mathematica Hungarica 159 (2019), 89-108
+        A. Dujella, M. Jukić Bokun, I. Soldo, On the torsion group of elliptic curves induced by Diophantine triples over quadratic fields (https://bib.irb.hr/datoteka/846014.AD_MJB_IS.pdf), RACSAM 111 (2017), 1177-1185
+        J. Aguirre, A. Dujella, M. Jukić Bokun, J.C. Peral, High rank elliptic curves with prescribed torsion group over quadratic fields (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/99.pdf ), Periodica Mathematica Hungarica 68 (2014), 222-230
+        M. Jukić Bokun, Elliptic curves over quadratic fields with fixed torsion subgroup and positive rank (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/98.pdf ), Glasnik Matematički 47 (2012), 277-284
+        M. Jukić Bokun, On the rank of elliptic curves over Q(sqrt{-3}) with torsion groups Z/3Z x Z/3Z and Z/3Z x Z/6Z (http://projecteuclid.org/download/pdf_1/euclid.pja/1303825547), Proceedings of the Japan Academy. Series A Mathematical sciences 87/5 (2011), 61-64
+        A. Dujella, M. Jukić Bokun, On the rank of elliptic curves over Q(i) with torsion group Z/4Z × Z/4Z (http://projecteuclid.org/euclid.pja/1275486092), Proceedings of the Japan Academy. Series A Mathematical sciences 86/6 (2010), 93-96
+        M. Jukić Bokun, Lj. Jukić Matić, D. Marković, Projekt GAMMA (https://hrcak.srce.hr/292250), Osječki matematički list 22/2 (2022), 161-170
+        M. Jukić Bokun, A. Behin, Eulerova funkcija (https://www.mathos.unios.hr/ ), Math.e : hrvatski matematički elektronski časopis  31 (2017)
+        M. Đumić, M. Jukić Bokun, Euklidov algoritam, Osječki matematički list 13 (2013), 121-137
+        M. Duk, M. Jukić Bokun, L'Hospitalovo pravilo, Poučak 51 (2012), 19-31
+        M. Jukić, Apolonijev problem, Osječki matematički list 2/2 (2002), 81-90
+        M. Jukić, Broj e, Osječki matematički list 1/2 (2001), 79-85
+
+
+Projects
+    GAMe-based learning in MAthematics (GAMMA (http://www.project-gamma.eu/))
+    Coordinator of the project. Erasmus+ project (Key action: KA2 - Cooperation for innovation and the exchange of good practices, Action Type: KA201: Strategic Partnership for school education). 
+    Diophantine m-tuples, elliptic curves, Thue and index form equations Project leader: prof. dr. Andrej Dujella, Department of Mathematics, University of Zagreb. Project by the Croatian Science Foundation for period 2014.-2018.
+    Passive control of mechanical models Project leader: prof. dr. Ninoslav Truhar, Department of Mathematics, University of Osijek. Scientific project No.235-2352818-1042 of the Croatian Ministry of Science, Education and Sports for the period 2007.-2013. (junior researcher)
+    Statistical aspects of parameter identification problems Project leader: prof. dr. Mirta Benšić, Department of Mathematics, University of Osijek. Scientific project No. 0235002 of the Croatian Ministry of Science, Education and Sports for the period 2002.-2006. (junior researcher)
+
+
+Professional Activities
+    Editorial Boards
+        Since 2012. technical editor of the international journal Mathematical Communications
+    Refereeing/Reviewing
+        Osječki matematički list 
+    Workshops and Conferences
+        Elliptic curves over quadratic fields with fixed torsion subgroup and positive rank, 5th Croatian Mathematical Congress, Rijeka, Croatia, June 18 - 21, 2012
+        High rank elliptic curves with prescribed torsion group over quadratic fields, Workshop on Number Theory and Algebra, Department of Mathematics, University of Zagreb, Zagreb, Croatia, November 26-28, 2014
+        On the torsion group of elliptic curves induced by Diophantine triples over quadratic fields, 1st Croatian Combinatorial Days, Zagreb, Croatia, September 29-30, 2016
+        On the torsion group of elliptic curves induced by Diophantine triples over quadratic fields, XXXth Journées Arithmétiques, Caen, France, July 3-7, 2017 
+        A Pellian equation with primes and its applications, Fibonacci Conference, Sarajevo, Bosna i Hercegovina, July 21-23 2020. 
+        On the extensibility of some parametric families of D(-1)-pairs to quadruples in the ring Z[\sqrt{;-t};], t>0, 9th International Eurasian Conference on Mathematical Sciences and Applications, Skopje, North Macedonia, August 25-28, 2020. 
+        On the Extensibility of Diophanitne D(−1)-Pairs to Quadruples, 22nd International Mathematics Conference 2021, Dhaka, Bangladesh, December 10 -11, 2021.
+        Applications of Pellian equations of a special type, Conference on Diophantine m-tuples and related problems III, Faculty of Civil Engineering, University of Zagreb, Zagreb, Croatia, September 14 – 16, 2022.
+        Winter School on Explicit Methods in Number Theory, Debrecen, Hungary, January 26-30, 2009 
+    Seminar Talks 
+        Mestre's polynomial method for constructing elliptic curves of large rank, March 29, 2006, Seminar on Number Theory and Algebra (http://web.math.pmf.unizg.hr/%7Eduje/semeng.html), Department of Mathematics, University of Zagreb
+        Some methods for constructing elliptic curves of large rank, April 2, 2008, Seminar on Number Theory and Algebra (http://web.math.pmf.unizg.hr/%7Eduje/semeng.html), Department of Mathematics, University of Zagreb
+        Elliptic curves with nontrivilal torsion group and large rank, April 16, 2008, Seminar on Number Theory and Algebra (http://web.math.pmf.unizg.hr/%7Eduje/semeng.html), Department of Mathematics, University of Zagreb
+        Elliptic curves of large rank over quadratic fields I, February 2, 2011,  Seminar on Number Theory and Algebra (http://web.math.pmf.unizg.hr/%7Eduje/semeng.html), Department of Mathematics, University of Zagreb
+        Elliptic curves of large rank over quadratic fields II, May 25, 2011,  Seminar on Number Theory and Algebr (http://web.math.pmf.unizg.hr/%7Eduje/semeng.html)a, Department of Mathematics, University of Zagreb
+
+
+Teaching
+    Current
+        Financijska i aktuarska matematika  (https://www.mathos.unios.hr/index.php/249)
+        Primijenjena matematika za računalnu znanost (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/30-homepage/odjel/nastava/kolegij/586-primijenjena-matematika-za-racunalnu-znanost)
+        Teorija brojeva (https://www.mathos.unios.hr/index.php/192)
+        Metodička matematička praksa II
+        Nastavne aktivnosti u prošlosti (Past Courses)
+        Metodika nastave matematike II, Analitička geometrija, Algebra,   Integralni račun,  Obične diferencijalne jednadžbe, Geometrija prostora i ravnine, Elementarna matematika I, Elementarna matematika II, Linearna algebra I, Linearna algebra II, Linearna algebra III  (Odjel za matematiku)
+        Matematika (Ekonomski fakultet) 
+        Matematika III, Matematička analiza II, Linearna algebra (Elektrotehnički fakultet)
+        Matematika (Poljoprivredni fakultet)
+    Prijedlog tema za diplomske i završne radove.   
+        (https://www.mathos.unios.hr/images/homepages/mirela/Prijedlog_tema_diplomskih_radova_2.docx)
+    Diplomski i završni radovi  
+        (https://www.mathos.unios.hr/images/homepages/mirela/Diplomski_i_zavrsni_radovi_new.docx) 
+    Office Hours: 
+        Po dogovoru.

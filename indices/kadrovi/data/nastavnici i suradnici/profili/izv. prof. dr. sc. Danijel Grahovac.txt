@@ -1,0 +1,93 @@
+General information
+    Associate Professor
+    Department of Mathematics (http://www.mathos.hr)
+    Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/)
+    phone: +385-31-224-821
+    fax: +385-31-224-801
+    email: dgrahova @ mathos.hr
+    Google Scholar profil (https://scholar.google.hr/citations?user=Ik7qY0kAAAAJ&hl=hr)
+    office: 18 (first floor)
+    Research Interests
+        Limit theorems
+        scaling properties of stochastic processes (self-similarity, multifractal processes)
+        heavy-tailed distributions
+    Degrees
+        PhD in mathematics, Faculty of Natural Science, Department of Mathematics, University of Zagreb, 2015
+            Thesis: Scaling properties of stochastic processes with applications to parameter estimation and sample path properties (https://www.mathos.unios.hr/images/homepages/dgrahova/Thesis_DG_final.pdf), supervisors: N. N. Leonenko (http://www.cardiff.ac.uk/maths/contactsandpeople/profiles/leonenkoN.html), M. Benšić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/103)
+        MSc in Mathematics, Financial and Business Mathematics, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2010
+        MSc in Mathematics and Computer Science Education, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2016
+        BSc in Mathematics, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2008
+
+
+Publications
+    Journal Publications
+        R. Scitovski, K. Sabo, D. Grahovac, Š. Ungar, Minimal distance index — A new clustering performance metrics, Information Sciences (2023), prihvaćen za objavljivanje
+        D. Grahovac, N.N. Leonenko, M. Taqqu, Intermittency and Multiscaling in Limit Theorems (https://arxiv.org/abs/2104.06006), Fractals 30/7 (2022), 1-18
+        D. Grahovac, Intermittency in the small-time behavior of Levy processes (https://arxiv.org/pdf/1912.03977.pdf), Statistics & Probability Letters 187/109507 (2022), 1-8
+        D. Grahovac, N.N. Leonenko, M. Taqqu, Intermittency and infinite variance: the case of integrated supOU processes (https://projecteuclid.org/journals/electronic-journal-of-probability/volume-26/issue-none/Intermittency-and-infinite-variance--the-case-of-integrated-supOU/10.1214/21-EJP623.full), Electronic Journal of Probability 26 (2021), 1-31
+        K. Sabo, D. Grahovac, R. Scitovski, Incremental method for multiple line detection problem - iterative reweighted approach (https://www.sciencedirect.com/science/article/pii/S0378475420302421?via%3Dihub), Mathematics and Computers in Simulation 178 (2020), 588-602
+        D. Grahovac, Multifractal processes: Definition, properties and new examples (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/854.pdf ), Chaos, Solitons & Fractals 134/109735 (2020)
+        D. Grahovac, N.N. Leonenko, M. Taqqu, The multifaceted behavior of integrated supOU processes: The infinite variance case (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/822.pdf ), Journal of Theoretical Probability 33 (2020), 1801-1831
+        F. Avram, D. Grahovac, C. Vardar-Acar, The W,Z scale functions kit for first passage problems of spectrally negative Lévy processes, and applications to control problems (https://www.esaim-ps.org/articles/ps/pdf/2020/01/ps170105.pdf), ESAIM: Probability and Statistics 24 (2020), 454-525
+        D. Grahovac, N.N. Leonenko, M. Taqqu, Limit theorems, scaling of moments and intermittency for integrated finite variance supOU processes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/797.pdf ), Stochastic Processes and their Applications 129/12 (2019), 5113-5150
+        D. Grahovac, N.N. Leonenko, A. Sikorskii, M. Taqqu, The unusual properties of aggregated superpositions of Ornstein-Uhlenbeck type processes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/760.pdf ), Bernoulli 25/3 (2019), 2029-2050
+        F. Avram, D. Grahovac, C. Vardar-Acar, The W,Z/ν,δ Paradigm for the First Passage of Strong Markov Processes without Positive Jumps (https://www.mdpi.com/2227-9091/7/1/18/pdf), Risks 7/1-18 (2019), 1-15
+        D. Grahovac, N.N. Leonenko, Bounds on the support of the multifractal spectrum of stochastic processes, Fractals 26/04 (2018), 1-21
+        D. Grahovac, Densities of Ruin-Related Quantities in the Cramér-Lundberg Model with Pareto Claims (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/665.pdf ), Methodology and Computing in Applied Probability 20/1 (2018), 273-288
+        D. Grahovac, N.N. Leonenko, M. Taqqu, Intermittency of trawl processes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/752.pdf ), Statistics & Probability Letters 137 (2018), 235-242
+        R. Grbić, D. Grahovac, R. Scitovski, A method for solving the multiple ellipses detection problem, Pattern Recognition 60 (2016), 824-834
+        D. Grahovac, N.N. Leonenko, A. Sikorskii, I. Tešnjak, Intermittency of superpositions of Ornstein-Uhlenbeck type processes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/625.pdf ), Journal of Statistical Physics 165/2 (2016), 390-408
+        D. Grahovac, M. Jia, N.N. Leonenko, E. Taufer, Asymptotic properties of the partition function and applications in tail index inference of heavy-tailed data (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/374.pdf ), Statistics - a Journal of Theoretical and Applied Statistics 49/6 (2015), 1221-1242
+        D. Grahovac, N. Šuvak, Heavy-tailed modeling of CROBEX (http://www.fintp.hr/upload/files/ftp/2015/4/grahovac_suvak.pdf), Financial Theory and Practice 39/4 (2015), 411-430
+        D. Grahovac, N.N. Leonenko, M. Taqqu, Scaling properties of the empirical structure function of linear fractional stable motion and estimation of its parameters (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/375.pdf ), Journal of Statistical Physics 158/1 (2015), 105-119
+        D. Grahovac, N.N. Leonenko, Detecting multifractal stochastic processes under heavy-tailed effects (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/117.pdf ), Chaos, Solitons & Fractals 66 (2014), 78-89
+    Refereed Proceedings
+        D. Grahovac, M. Jia, N.N. Leonenko, E. Taufer,  On the tail index inference based on the scaling function method (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/376.pdf ), 18th European Young Statisticians Meeting, Osijek, Croatia, 2013, 39-45
+    Others
+        D. Grahovac, L. Grgić, Dugoročna zavisnost (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/843.pdf ), Osječki matematički list 19/1 (2019), 15-29
+        D. Grahovac, A. Leko, Modeliranje rizika u osiguranju (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/624.pdf ), Osječki matematički list 15/2 (2015), 113-129
+        D. Grahovac, Two-dimensional interpolation spline (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/18.pdf ), Osječki matematički list 10/1 (2010), 59-69
+    Books
+        R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/709.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2017.
+    Softwares
+        R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/694.rar ) (2017)
+
+
+Projects
+    Limiting behavior of intermittent processes and diffusions 
+        Project runs in academic year 2019/2020. Project leader: Danijel Grahovac. Project funded by University of Osijek.
+    Stochastic models with long-range dependence 
+        Project runs in academic year 2017/2018. Project leader: Nenad Šuvak. Project funded by University of Osijek.
+    Fractional Pearson Diffusions 
+        Project run in academic year 2014/2015. Project leader: Nenad Šuvak. Project funded by University of Osijek.
+    Development and Application of Growth Potential Prediction Models for Small and Medium Enterprises in Croatia (http://www.efos.unios.hr/development-and-application-of-growth-potential-prediction-models/)
+        Project runs since June 2014. Project leader: Nataša Šarlija. Project funded by Croatian Science Foundation.
+    Statistical aspects of estimation problem in nonlinear parametric models
+        Project run in 2007-2013. Project leader: Mirta Benšić. Project funded by Croatian Ministry of Science, Education and Sports.
+
+
+Professional Activities
+    Editorial Boards
+        Co-Editor of Croatian Operational Research Review (http://hdoi.hr/crorr-journal/)
+     Committee Memberships
+        Member of the Local Organizing Comitee of the 18th European Young Statisticians Meeting, 26-30 August 2013, Osijek, Croatia
+    Service Activities
+        Secretary of the Mathematical Colloquium in Osijek, 2013 - 2017
+        Moderator of Optimization and applications seminar 2017 -
+
+
+Teaching
+    Current
+        Analiza vremenskih nizova (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/253)
+        Odabrane primjene vjerojatnosti (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/izvedbeni-plan-financije/908)
+        Vjerojatnost (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/226)
+    Past
+        Statistika (PTFOS) (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/295-primijenjena-statistika-ptf)
+        Statistički praktikum (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/261)
+        Primijenjena statistika (GFOS) (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/407-primijenjena-statistika)
+        Matematički praktikum (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/236)
+        Uvod u vjerojatnost i statistiku (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/203)
+        Past courses: Databases, Statistics, Stochastic Processes, Numerical Mathematics, Mathematics (Faculty of Economics)
+    Office Hours: 
+        srijeda 11:45, u vrijeme ispitnih rokova po dogovoru
+    Teme diplomskih radova 2022/2023 (pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Teme_diplomskih_radova_2022-2023_DG_web.pdf))

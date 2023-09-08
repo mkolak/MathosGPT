@@ -1,0 +1,41 @@
+OSNOVNE INFORMACIJE
+	Makroekonomija I izvodi se u zimskom semestru prve godine sveučilišnog diplomskog studija smjera Financijska matematika i statistika. Cilj kolegija je omogućiti studentima stjecanje kompetencija potrebnih za samostalno provođenje analize ponašanja gospodarstva, istraživanje uzroka nastanaja temeljnih makroekonomskih problema i vrednovanja učinaka makroekonomske politike, primarno monetarne i fiskalne, na ponašanje i performansu gospodarstva, a u okviru izučavanih modela.
+	Sadržaj kolegija možete peuzeti s ove poveznice (http://www.efos.unios.hr/makroekonomija-odjel-za-matematiku/nastavni-materijali/). Više informacija o kolegiju dostupno je na ovoj poveznici (http://www.efos.unios.hr/makroekonomija-odjel-za-matematiku/?lang=hr). Online platforma za e-učenje Merlin (https://moodle.srce.hr/2020-2021/) (kolegij Makroekonomija I i II (MATHOS)) bit će korišten kao pomoćna nastavna platforma.
+	VODITELJ KOLEGIJA
+		Prof. dr. sc. Đula Borozan (http://www.efos.unios.hr/dborozan/)	
+		KONZULTACIJE: ponedjeljak, nakon nastave iz Makroekonomje I	
+	OSNOVNA LITERATURA
+		Đ. Borozan: Makroekonomija, Ekonomski fakultet u Osijeku, Osijek, 2019.
+		N.G. Mankiw: Macroeconomics, The Dryden Press, Fort Worth, 10. izdanje, 2019.
+	DOPUNSKA LITERATURA
+		O. Blanchard: Makroekonomija, treće izdanje u prijevodu Mate d.o.o., Zagreb, 2005. (ili na engleskom jeziku: Macroeconomics, 7. izdanje, MIT, 2017.)
+		J. Tica: Makroekonomija II, Ekonomski fakultet Sveučilišta u Zagrebu, 2020.
+		I. Bičanić, M. Deskar-Škrbić: Makroekonomika I -za ekonomiste i neekonomiste s hrvatskim prijevodima, Arhivanalitika, Zagreb, 2018.
+		D. Romer: Advanced Macroeconomics, McGraw-Hill Educ., 5. izdanje, 2018.
+		O. Blanchard, F. Giavazzi, A. Amighini: Macroeconomics: A European Perspective, Pearson, 2. izdanje, 2017.
+		Đ. Borozan: Priručnik za vježbe iz makroekonomije, Ekonomski fakultetu u Osijeku, 2019.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Makroekonomija I realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obvezno.
+	PREDAVANJA	TERMIN: ponedjeljak (8:00 - 10:00)	
+	VJEŽBE	TERMIN: ponedjeljak (10:00 - 12:00)	
+	Napomena: nastava se izvodi kao kontaktna nastava.	TERMIN: Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod.	
+
+
+PRAVILA POLAGANJA ISPITA
+	Dvije su alternative vrednovanja znanja iz Makroekonomije I i dobivanja konačne ocjene: aktivno sudjelovanje u nastavi (tj. kolokviranje) i polaganje ispita na nekom od ispitnih rokova.
+		1. Kolokviranje. 
+			U sustav kolokviranja mogu se uključiti svi studenti Odjela upisani na kolegij u tekućoj akademskoj godini. Kolokviranje podrazumijeva izlazak na testove (dva kolokvija) i ostvarenje odgovarajućeg broja bodova na njima. Tijekom trajanja nastave moguće je prikupiti kroz različite aktivnosti određeni dio bodova koji se pripisuju bodovima ostvarenim na kolokvijima. Uspješno kolokviranje podrazumijeva prikupljanje najmanje 51% od ukupno mogućih bodova. Uz to, jedna ocjena iz kolokvija mora obvezno biti pozitivna.
+		2. Polaganje ispita na nekom od ispitnih rokova.
+			Ispit iz Makroekonomije je pismeni i usmeni. Pismeni test sadrži različite tipove ispitnih pitanja (npr. pitanja kod kojih je potrebno zaokružiti točan odgovor, upisati riječ koja nedostaje, definirati ključne pojmove, vrednovati istinitost zadanih tvrdnji, algebarskim putem riješiti neke probleme i sl.). Priručnik za vježbe iz makroekonomije sadrži mnoštvo primjera takvih ispitnih pitanja, kao i primjerak pismenog testa. Na usmenom ispitu studenti odgovaraju na pitanja napisana na kartici koju izvuku. Konačna ocjena iz Makroekonomije ovisi o znanju pokazanom na pismenom i usmenom dijelu ispita.
+			Smjernice za pismeni ispit, kao i više informacija o vrednovanju znanja, možete preuzeti ovdje (https://www.mathos.unios.hr/images/homepages/dborozan/Smjernice_test_Merlin_2022_2023.pdf).
+
+NASTAVNI MATERIJALI
+	Udžbenik iz Makroekonomije te Priručnik za vježbe su osnovni nastavni materijali.
+	Prezentacije s predavanja dostupne su na platformi za e-učenje Merlin u okvru kolegija Makroekonomija I i II (MATHOS).
+	Domaće zadaće i njihova rješenja dostupni su također na na istoj platformi.
+
+
+OBAVIJESTI
+	Obavijesti pratite na platformi Merlin ili ovoj poveznici (http://www.efos.unios.hr/makroekonomija-odjel-za-matematiku/?lang=hr).

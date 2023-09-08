@@ -1,0 +1,36 @@
+OSNOVNE INFORMACIJE
+	Izvedbeni program kolegija Metodika nastave informatike realizira se u desetom semestru sveučilišnog nastavničkog studija matematike i informatike s fondom od 45 sati (tjedno 2 sata predavanja i 1 sata vježbi).Predavanja i vježbe su obavezni. Predavanja imaju zadaću ukazati na metodička i didaktička načela primjenjiva u nastavi informatike, te ih povezati s raspoloživim pomagalima i programskim rješenjima. Laboratorijske vježbe i seminarski radovi usmjereni su na navedenim osnovama rješavanju stvarnih problema u računalnom laboratoriju i učionici. Ispit se sastoji od pismenog i usmenog dijela. Tijekom semestra studenti mogu izabrati neku od predloženih tema seminarskog rada vezanih za sadržaj predmeta. Uspješno pripremljen i prezentiran seminarski rad ravnopravan je dio ukupne konačne ocjene predmeta.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i005.pdf).
+	PREDAVANJE I VJEŽBE: 
+		izv.prof.dr.sc. Darija Marković	
+		KONZULTACIJE: po dogovoru	
+	OSNOVNA LITERATURA
+		O. Hazzan, T. Lapidot, N. Ragonis: Guide to Teaching Computer Science: An Activity-Based Approach, Springer 2011.
+		L.Cassel, R.Reis, Informatics Curricula and Teaching Methods, Kluwer Academic Publishers, 2003. 
+		L.Budin, Informatika za 1. razred gimnazije, Element, Zagreb, 1996.
+		Nacionalna cjelovita kurikularna reforma: prijedlog dokumenta iz nastavnog predmeta Informatika 
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: utorak 10:00-11:30	PREDAVAONICA: MS Teams	
+	VJEŽBE	TERMIN: utorak 12:00-12:45	PREDAVAONICA: MS Teams	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju ocjena s vježbi i ocjena s predavanja pri čemu se konačna ocjena formira na temelju sljedećih ocjena:
+		ocjena izlaganja održanog u okviru predavanja [10%]
+		ocjena iz programskih zadaća [30%]
+		završni ispit [40%]
+		ocjene mentora [20%] 
+	Konačna ocjena je ponderirana srednja vrijednost prethodnih ocjena 1.-4.
+	U ljetnom semestru studenti kod svakog dodijeljenog mentora trebaju slušati dva pokazna sata te zatim trebaju održati jedan probni sat te jedan sat za ocjenu. 
+
+
+NASTAVNI MATERIJALI
+	Obrazac za praćenje rada studenta (doc (http://www.mathos.hr/metodika_inf/pracenje-mni.doc))
+	Upute mentoru (doc (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-met-inf/upute_mentoruM-mni15.doc))
+	Izvješće studenta (doc (http://www.mathos.hr/metodika_inf/Izvjesce%20studenta2.doc))
+	Uvodni dio iz Predavanja predavanja 2015./2016. (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-met-inf/MNI_pred_14_15.pdf)
+	Za praksu koja se izvodi u ljetnom semestru student je dužan popuniti izvješće studenta i po završetku prakse dostaviti ga asistentu (putem maila). Ukoliko je s nekih sati student izostao iz opravdanih razloga, student te sate također mora unijeti u izviješće pri čemu treba objasniti razlog svog izostanka.
+	Prijavu sata za ocjenu (po mogućnosti uz pripremu) potrebno je poslati mailom asistentu najkasnije 24h prije održavanja sata.

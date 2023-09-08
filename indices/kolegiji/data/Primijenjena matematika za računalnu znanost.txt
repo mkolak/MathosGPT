@@ -1,0 +1,35 @@
+OSNOVNE INFORMACIJE
+	Osnovni cilj predmeta je upoznati studente s područjima matematike koja imaju široku primjenu u računalnim znanostima. Na predavanjima se obrađuju odabrana poglavlja iz četiri područja: kombinatorike, vjerojatnosti, teorije brojeva i funkcija više varijabli. Na vježbama studenti pristupaju konkretnim problemima koji zahtijevaju primjenu prethodno stečenih znanja.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m091.pdf)).
+	NASTAVNIK: 
+		doc. dr. sc. Mirela Jukić Bokun (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/108)	
+		izv. prof. dr. sc. Snježana Majstorović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/111)	
+		izv. prof. dr. sc. Dragana Jankov Maširević (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/106)	
+		KONZULTACIJE: Po dogovoru	
+	OSNOVNA LITERATURA
+		D. Veljan, Kombinatorna i diskretna matematika, Algoritam, Zagreb, 2001.
+		I. Matić, Uvod u teoriju brojeva, Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2015.
+		M. Benšić, N. Šuvak, Uvod u vjerojatnost i statistiku, Odjel za matematiku, Osijek, 2013.
+		J. Stewart, Calculus 7th Edition, McMaster University and University of Toronto, Brooks/Cole, Cengage Learning, Belmont, 2008.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Gradivo predmeta podijeljno je na 3 dijela:
+		1. dio:
+			1-TB: Uvod. Teorija brojeva. (nastavnik: doc. dr. sc. M. Jukić Bokun)
+			1-K: Kombinatorika (nastavnik: izv. prof. dr. sc. S. Majstorović)
+		2. dio: Vjerojatnost (nastavnik: izv. prof. dr. sc. D. Jankov Maširević)
+		3. dio: Funkcije više varijabli (nastavnik: doc. dr. sc. M. Jukić Bokun)
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti pišu 3 kolokvija (iz svakog dijela gradiva po jedan kolokvij) od kojih svaki nosi 100 bodova. Student je kolokvirao ukoliko je na kolokvijima skupio barem 40% od ukupnog broja bodova, točnije 120 bodova od ukupno 300, pri čemu je na svakom pojedinom kolokviju ostvario barem 30 bodova. Ukoliko student nije kolokvirao na pismenom ispitu će mu se, u svrhu stjecanja uvjeta za kolokviranje, dati mogućnost pisanja popravnog kolokvija iz odgovarajućeg dijela gradiva.
+	Ispit je položen ukoliko je student kolokvirao. Na osnovi ukupnog broja bodova s kolokvija studentu će biti ponuđena ocjena prema sljedećim kriterijima:
+		40-55%: dovoljan (2);
+		56-70%: dobar (3);
+		71-85%: vrlo dobar (4);
+		86-100%: izvrstan (5).
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko redovnih kolokvija. Na pismenom ispitu pišu se popravni kolokviji iz odgovarajućeg dijela gradiva. Pismeni ispit je položen kad student ostvari uvjete za kolokviranje. 
+	USMENI ISPIT
+		Nema usmenog ispita.

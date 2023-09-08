@@ -1,0 +1,33 @@
+Osnovne informacije
+	Kolegij Strukture podataka i algoritmi II izvodi se u ljetnom semestru druge godine preddiplomskog studija matematike i preddiplomskog studija matematike i računarstva. Osnovni cilj ovog predmeta je upoznati studente s naprednim strukturama podataka i algoritmima na grafovima kao i njihovoj primjeni u širokom spektru računalnih problema. Pored algoritamskog pristupa, izlažu se odabranim poglavljima iz teorije grafova. Na kraju predmeta studenti se upoznaju s odabranim algoritmima iz teorije brojeva i računalne geometrije. Pored teorijskog pristupa, od studenata će se očekivati uspješno korištenje stečenih znanja u izradi efikasnih implementacija struktura podataka i algoritama koji se obrađuju u okviru predmeta.
+	Sadržaj kolegija: [pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/i054.pdf)] 
+	PREDAVAČ	
+		doc.dr.sc. Domagoj Ševerdija	
+		KONZULTACIJE: utorak, 12-13h	
+	ASISTENT	
+		Branimir Brekalo	
+	Osnovna literatura
+		T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein, Introduction to Algorithms, 3Ed, MIT Press, 2009. 
+	Dopunska literatura
+		M. T. Goodrich, R. Tamassia, D. M. Mount, Data Structures and Algorithms in C++, Wiley, 2010.
+		A. Drozdek, Data Structures and Algorithms in C++, Cengage Learning, 2012.
+		R. Sedgewick, K. Wayne, Algorithms, Addison-Wesley Professional, 2011.
+
+
+Raspored predavanja i vježbi
+	Izvedbeni program kolegija Strukture podataka i algoritmi II realizira se s fondom od 75 sati (tjedno 3 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno. 
+
+
+Pravila polaganja ispita
+	Tijekom semestra studenti mogu polagati tri kolokvija. Prva dva kolokvija su teorijskog tipa i zamjenjuju usmeni ispit, a treći je programerskog tipa i zamjenjuje pismeni ispit.
+	Kolokviji se smatraju položenima ako je ostvareno barem 50% bodova na prva dva kolokvija (teorijskog tipa) i 50% bodova na trećem kolokviju (programerskog tipa).
+	Studenti koji su položili sve kolokvije imaju pravo upisa ocjene.
+	Studenti koji nisu položili treći kolokvij izlaze na pismeni ispit u nekom od redovnih ispitnih termina. Pismeni ispit sastoji se od programerskih zadataka. Uvjet za prolaz na pismenom ispitu je 50% od ukupnog broja bodova.
+	Studenti koji nisu ostvarili barem 50% od ukupnog broja bodova na prva dva kolokvija, a položili su treći kolokvij, izlaze samo na usmeni ispit.
+	Studenti koji nisu položili treći kolokvij, te nisu ostvarili barem 50% od ukupnog broja bodova na prva dva kolokvija, izlaze na pismeni i usmeni ispit.
+	Ukupni uspjeh bodova ostvaren na sva 3 kolokvija ostvaruje do 75% bodova za ocjenu. Ostale bodove studenti mogu skupiti iz dobrovoljnih zadaća koje će biti objavljene u pravilu na tjednoj bazi.
+	Konačna ocjena se računa prema sljedećem kriteriju (ukoliko su ispunjeni svi dosad navedeni uvjeti):
+		ocjena dovoljan (2): 50%-62.5%
+		ocjena dobar(3): 62.5%-75%
+		ocjena vrlo dobar(4): 75%-87.5%
+		ocjena izvrstan(5): >87.5%

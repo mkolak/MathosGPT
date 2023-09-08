@@ -1,0 +1,101 @@
+General information
+    Associate Professor 
+    Department of Mathematics (http://www.mathos.hr)
+    Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/)
+    phone: +385-31-224-825
+    fax: +385-31-224-801
+    email: domagoj@mathos.hr
+    office: 9 (ground floor, entrance through lobby 4)
+    Research Interests
+        Optimization
+        Computational Geometry
+        Approximation Algorithms
+    Degrees
+        PhD in CS, Max-Planck-Institute for Computer Science (http://www.mpi-inf.mpg.de/) (Algorithms and Complexity (https://www.mpi-inf.mpg.de/departments/algorithms-complexity)), Saarbrücken, 2007.
+            Geometric Optimization and Querying -- Exact and Approximate (https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/26055) (1.3MB) Thesis for obtaining the degree of a Doctor of the Engineering Sciences (Dr.-Ing.) of the natural-technical faculties of Saarland University
+        MS in CS, Saarland University (http://www.uni-saarland.de/en/), Germany, 2002.
+        BS in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2001.
+
+
+Publications
+    Preprints
+        Anti Tai Mapping for Unordered Labeled Trees: Blažević M, Canzar S, Elbassioni K, Matijević D. arXiv. 2021. arXiv:2107.08292 Link (https://arxiv.org/abs/2107.08292)
+        Metric Multidimensional Scaling for Large Single-Cell Data Sets using Neural Networks: Canzar S, Van Do H, Jelić S, Laue S, Matijević D, Prusina T. bioRxiv. 2021. doi: 10.1101/2021.06.24.449725 Link (https://www.biorxiv.org/content/10.1101/2021.06.24.449725v1)
+        Dynamic pseudo-time warping of complex single-cell trajectories: Van Do H, Blažević M, Monteagudo P, Borozan L, Elbassioni K, Laue S, Rojas Ringeling F, Matijević D, Canzar S  bioRxiv. 2019. doi: 10.1101/2020.01.31.926345 Link (https://www.biorxiv.org/content/10.1101/522672v1)
+    Journal Publications
+        L. Borozan, F. Rojas Ringeling, S. Kao, E. Nikonova, P. Monteagudo, D. Matijević, M.L. Spletter, S. Canzar, Counting pseudoalignments to novel splicing events  (https://academic.oup.com/bioinformatics/article/39/7/btad419/7222626), Bioinformatics 39/7 (2023)
+        R. Čorić, D. Matijević, D. Marković, PollenNet - a deep learning approach to predicting airborne pollen concentrations (https://hrcak.srce.hr/ojs/index.php/crorr/article/view/25644/14050), Croatian Operational Research Review  14/1 (2023), 1-13
+        D. Matijević, D. Vukičević, The Connection of the Generalized Robinson–Foulds Metric with Partial Wiener Indices,  Acta Biotheoretica  71/5 (2023)
+        D. Matijević, Well-Separated Pair Decompositions for High-Dimensional Datasets (https://www.mdpi.com/1999-4893/16/5/254), Algorithms 16/5 (2023)
+        S. Jelić, S. Laue, D. Matijević, P. Wijerama, A Fast Parallel Implementation of a PTAS for Fractional Packing and Covering Linear Programs (http://link.springer.com/article/10.1007/s10766-015-0352-y), International Journal of Parallel Programming 43/5 (2015), 840-875
+        S. Funke, T. Malamatos, D. Matijević, N. Wolpert, Conic nearest neighbor queries and approximate Voronoi diagrams (http://www.sciencedirect.com/science/article/pii/S0925772114000765), Computational Geometry - Theory and Applications 48/2 (2015), 76-86
+        D. Matijević, D. Ševerdija, G. Martinović, Efficient Implementations of Guarding 1.5D Terrains, Croatian Operational Research Review  6/1 (2015), 79-89
+        N. Čerkez, R. Čorić, M. Đumić, D. Matijević, Finding an optimal seating arrangement for employees traveling to an event (http://hrcak.srce.hr/ojs/index.php/crorr/article/view/2794/2116), Croatian Operational Research Review  6/2 (2015), 419-427
+        K. Elbassioni, D. Matijević, D. Ševerdija,      Guarding 1.5D Terrains with Demands (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/1.pdf ), International Journal of Computer Mathematics 89/16 (2012), 2143-2151
+        K. Elbassioni, S. Jelić, D. Matijević, The relation of Connected Set Cover and Group Steiner Tree (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/2.pdf ), Theoretical Computer Science 438 (2012), 96-101
+        R. Beier, S. Funke, D. Matijević, P. Sanders, Energy-Efficient Paths In Radio Networks (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/3.pdf ), Algorithmica 61/2 (2011), 289-319
+        K. Elbassioni, E. Krohn, D. Matijević, J. Mestre, D. Ševerdija, Improved Approximations for Guarding 1.5-Dimensional Terrains (http://link.springer.com/article/10.1007%2Fs00453-009-9358-4), Algorithmica 60/2 (2011), 451-463
+        D. Matijević, R. Osbild, Finding the Theta-Guarded Region (http://www.sciencedirect.com/science/article/pii/S0925772109001011), Computational Geometry - Theory and Applications 43/2 (2010), 207-218
+        J. Maue, P. Sanders, D. Matijević, Goal Directed Shortest Path Queries Using Precomputed Cluster Distances (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/460.pdf ), ACM Journal of Experimental Algorithmics 14/3 (2009)
+        S. Laue, D. Matijević, Approximating k-hop Minimum Spanning Trees in Euclidean metrics (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/461.pdf ), Information Processing Letters 107/3-4 (2008), 96-101
+        S. Funke, D. Matijević, P. Sanders, Constant Time Queries for Energy Efficient Paths in Multi-Hop Wireless Networks (http://cit.srce.unizg.hr/index.php/CIT/article/view/1665), CIT. Journal of Computing and Information Technology 16/2 (2008), 119-130
+        F. Eisenbrand, S. Funke, A. Karrenbauer, D. Matijević, Energy-Aware Stage Illumination (http://www.worldscientific.com/doi/abs/10.1142/S0218195908002556), International Journal of Computational Geometry & Applications 18/1-2 (2008), 107-129
+    Refereed Proceedings
+        D. Ševerdija, T. Prusina, A. Jovanović, L. Borozan, J. Maltar, D. Matijević,  Compressing Sentence Representation with Maximum Coding Rate Reduction (Best paper award in AIS - Artificial Intelligence Systems track) (https://ieeexplore.ieee.org/document/10159709), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023
+        B. Borozan, L. Borozan, D. Ševerdija, D. Matijević, S. Canzar,  Fortuna Detects Novel Splicing in Drosophila scRNASeq Data (https://ieeexplore.ieee.org/document/10159716), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023, 410-415
+        J. Maltar, D. Matijević,  Optimization techniques for image representation in visual place recognition (https://ieeexplore.ieee.org/document/9803589), 2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO), Opatija, 2022, 877-882
+        A. Jovanović, I. Alqassem, N. Chappell, S. Canzar, D. Matijević,  Predicting RNA splicing branchpoints (https://ieeexplore.ieee.org/document/9803685), 2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO), Opatija, 2022, 383-388
+        V. Hoan Do, M. Blažević, P. Monteagudo, L. Borozan, K. Elbassioni, S. Laue, F. Rojas Ringeling, D. Matijević, S. Canzar,  Dynamic pseudo-time warping of complex single-cell trajectories (https://www.biorxiv.org/content/10.1101/522672v1), 23nd Annual International Conference on Research in Computational Molecular Biology, The George Washington University, 2019, 294-297
+        L. Borozan, D. Matijević, S. Canzar,  Properties of the generalized Robinson-Foulds metric, 42nd International Convention - MIPRO 2019, Opatija, 2019, 330-335
+        S. Jelić, D. Matijević,  The relation of Connected Set Cover and Group Steiner Tree, Conference on Applied Mathematics and Scientific Computing 2011, Trogir, 2011
+        D. Matijević, G. Martinović, P. Taler,  DISTRIBUTER - The Distributed System for Efficient Execution of Parallel Programs (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/7.pdf ), 33rd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), Opatija, 2010
+    Others
+        L. Borozan, D. Matijević, S. Canzar, Combinatorial optimization algorithms for (pseudo)alignment in bioinformatics (2021)
+        D. Matijević, D. Ševerdija, S. Jelić, L. Borozan, Uparena optimizacijska metoda (http://e.math.hr/Vol30/Borozan), Math.e : hrvatski matematički elektronski časopis  30 (2016)
+        D. Matijević, D. Ševerdija, Problem vidljivosti (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/8.pdf ), Osječki matematički list (2010), prihvaćen za objavljivanje
+        S. Jelić, D. Matijević, Stage Illumination Problem (http://demonstrations.wolfram.com/StageIlluminationProblem/) (2009)
+        D. Matijević, N. Truhar, Uvod u računarstvo (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/10.pdf ), Odjel za matematiku, Sveučilište Josipa Jurja Strossmayera u Osijeku, Osijek, 2012.
+    Technical Reports
+        T. Prusina, D. Matijević, L. Borozan, J. Maltar, A. Jovanović, Compressing Sentence Representation with maximum Coding Rate Reduction (2023)
+
+
+Refereed Proceedings
+    Guarding 1.5D Terrains with Demands (https://www.mathos.unios.hr/papers/EUROCG10.pdf) K. Elbassioni, D. Matijevic, D. Severdija. 26th European Workshop on Computational Geometry (EuroCG'10  (http://2010.eurocg.org/)), pp. 133-136, Dortmund, 2010
+    TRANSIT: Ultrafast Shortest-Path Queries with Linear-Time Preprocessing (https://www.mathos.unios.hr/papers/DIMACS06.pdf) H. Bast, S. Funke, D. Matijevic. The Shortest Path Problem: Ninth DIMACS Implementation Challenge (http://www.ams.org/bookstore?fn=20&arg1=dimacsseries&item=DIMACS-74), pp. 175???192, AMS, 2009
+    Improved approximations for guarding 1.5-dimensional terrains. K. Elbassioni, D. Matijevic, J. Mestre, and D. Severdija. CoRR, abs/0809.0159v1 (http://arxiv.org/abs/0809.0159), 2008. and STACS 2009.
+    Approximating k-hop Minimum Spanning Trees in Euclidean metrics (https://www.mathos.unios.hr/papers/kHopMST.pdf). S. Laue, D. Matijevic. preliminary version in Proc. 19th Canadian Conference on Computational Geometry (CCCG (http://2007.cccg.ca/)), 2007, Ottawa
+    In Transit to Constant Time Shortest-Path Queries in Road Networks (https://www.mathos.unios.hr/papers/ALENEX07.pdf). H. Bast, S. Funke, D. Matijevic, P. Sanders, D. Schultes 9th Workshop on Algorithm Engineering and Experimentation (ALENEX), 2007, New Orleans
+    (Approximate) Conic Nearest Neighbors and the induced Voronoi Diagram (https://www.mathos.unios.hr/papers/ConeQueries.pdf). S. Funke, T. Malamatos, D. Matijevic, N. Wolpert 18th Canadian Conference on Computational Geometry (CCCG (http://www.cs.queensu.ca/cccg/index.htm)), 2006, Kingston, Ontario
+    Goal Directed Shortest Path Queries Using Precomputed Cluster Distances (https://www.mathos.unios.hr/papers/MaueSandersMatijevic2006.pdf). J. Maue, P. Sanders, D. Matijevic 5th International Workshop on Experimetal Algorithms ( WEA 2006  (http://www.lsi.upc.edu/~wea/)), Menorca Island, Volume 4007 in LNCS, pages 316 - 327, Springer, 2006.
+    Energy-Aware Stage Illumination (https://www.mathos.unios.hr/papers/Light.pdf) F. Eisenbrand, S. Funke, A. Karrenbauer, D. Matijevic preliminary version in Proc. 21st ACM Symposium on Computational Geometry (SoCG (http://www.socg05.org/)) 2005, Pisa
+    Constant Time Queries for Energy Efficient Paths in Multi-Hop Wireless Networks (https://www.mathos.unios.hr/papers/aswan04.pdf) S. Funke, D. Matijevic, P. Sanders preliminary version in Proc. AlgorithmS for Wireless And mobile Networks (A_SWAN (http://www.a-swan.org/)) 2004, Boston
+    Approximating Energy Efficient Paths in Wireless Multi-Hop Networks (https://www.mathos.unios.hr/papers/Radio.pdf) S. Funke, D. Matijevic, P. Sanders 11th Annual European Symposium on Algorithms (ESA 2003 (http://www.conferences.hu/ALGO2003/ESA.htm)), Budapest, Volume 2832 in LNCS, pages 230-241. Springer, 2003.
+
+
+Projects
+    GPU based implementation for computing the solution to the Quasitriangular Matrix Equation
+        Project run in 2010/11 in collaboration with  Prof. Ninoslav Truhar (http://www.mathos.hr/~ntruhar), Petar Taler (http://www.mathos.hr/~petar) and Zoran Tomljanović  (http://www.mathos.hr/~ztomljan), Dept. of Mathematics, University of Osijek 
+        Project was supported by NVIDIA Corporation through the Academic Partnership Program (http://research.nvidia.com/content/academic-partnership-program).
+    Fast and Efficient Kinetic Spanners
+        Project leader (on Croatian side): Domagoj Matijevic (http://www.mathos.hr/~domagoj), Dept. of Mathematics, University of Osijek 
+        Project leader (on German side) : Soeren Laue (http://theinf2.informatik.uni-jena.de/People/Soeren+Laue.html), Lehrstuhl fuer Theoretische Informatik II, University of Jena 
+        Project was funded in 2010 by the German Academic Exchange Service (http://www.daad.de/) and Croatian Ministry of Science, Education and Sports (http://public.mzos.hr/Default.aspx?sec=2428)
+
+
+Teaching
+    Current
+        Složenost algoritama (Algorithms Complexity) (http://www.mathos.hr/slozenost/)
+        Uvod u računarstvo (Introduction to Computer Science) (http://www.mathos.hr/racunarstvo/)
+        Uvod u programiranje (Introduction to programming) (https://www.mathos.unios.hr/prg/)
+        Programiranje i programsko inženjerstvo (Programming and software engineering) (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/210)
+        Ugrađeni sustavi (Embedded Systems) (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/30-homepage/odjel/nastava/kolegij/466-ugradeni-sustavi)
+        Klijentsko web programiranje (Client-side web programming) (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/30-homepage/odjel/nastava/kolegij/265-klijentsko-web-programiranje)
+    Past
+        Linearna optimizacija (Linear Optimization)
+        Izračunljiva geometrija (Computational Geometry)
+        Algoritmi i strukture podataka (Algorithms and Data Structures)
+        Operacijska istraživanja (Operational Research)
+        Računalne mreže i usluge (Data networks and services)
+        Modeliranje i dizajniranje baza podata (Modelling and designing of data-bases)
+    Office Hours: 
+        Utorak (Tue) 10:00-11:00. Konzultacije su moguće i po dogovoru.

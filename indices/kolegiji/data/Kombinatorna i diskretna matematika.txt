@@ -1,0 +1,40 @@
+OSNOVNE INFORMACIJE
+	Kombinatorna i diskretna matematika izvodi se u ljetnom semestru prve godine sveučilišnog preddiplomskog studija matematike. Cilj kolegija je upoznati studente sa osnovnim strukturama i metodama kombinatorne i diskretne matematike. Na predavanjima će se obrađivati osnovne metode prebrojavanja skupova i multiskupova, metode modeliranja i rješavanja rekurzivnih relacija. Studenti će usvojiti pojam funkcije izvodnice te osnovne pojmove iz teorije grafova.  Na vježbama studenti trebaju savladati tehnike i metode rješavanja zadataka i osposobiti se za rješavanje konkretnih problema. 
+	Poveznica na sadržaj kolegija: pdf (https://www.mathos.unios.hr/images/homepages/smajstor/M102.pdf)
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Snježana Majstorović	
+		KONZULTACIJE: utorkom u 11:40h	
+	OSNOVNA LITERATURA
+		1. D. Veljan, Kombinatorna i diskretna matematika, Algoritam, Zagreb 2001.
+		2. J. Anderson, J. Bell, Discrete Mathematics with Combinatorics, Prentice hall, New York, 2000.
+		3. J. Matoušek, J. Nešetril, Invitation to Discrete Mathematics, Oxford University Press, 1998.
+		4. M. Cvitković, Kombinatorika : zbirka zadataka, Element, Zagreb, 1998.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod  7spp5pp
+	Izvedbeni program kolegija Kombinatorna i diskretna matematika realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+
+
+PRAVILA POLAGANJA ISPITA
+	PISMENI ISPIT
+		Polaganje pismenog ispita studenti mogu zamijeniti prihvatljivim rezultatima postignutim na kolokvijima koji se pišu tijekom semestra. Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+		Pismeni ispit se smatra položenim ako je student ostvario minimalno 40 od ukupno 100 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+	DOMAĆE ZADAĆE
+		Tijekom semestra studentima će biti ponuđeno rješavanje domaćih zadaća na kojima se može ostvariti najviše 15% dodatnih bodova koji mogu utjecati na konačnu ocjenu.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI KOLOKVIJA:   
+		1.kolokvij:   2017/2018 A  (https://www.mathos.unios.hr/images/homepages/smajstor/KIDM_kol11718_rjA.pdf)  2017/2018 B (https://www.mathos.unios.hr/images/homepages/smajstor/KIDMkol1_1718_rjB.pdf)
+		2.kolokvij:   2017/2018 A (https://www.mathos.unios.hr/images/homepages/smajstor/kidm2_kol1718A.pdf)     2017/2018 B (https://www.mathos.unios.hr/images/homepages/smajstor/kidm2_kol1718B.pdf)
+		1.kolokvij:   2018/2019 A  (https://www.mathos.unios.hr/images/homepages/Radojicic/KIDM_vj_Una_9.pdf)  2018/2019 B (https://www.mathos.unios.hr/images/homepages/Radojicic/KIDM_vj_Una_10.pdf)
+		2.kolokvij:   2018/2019 A  (https://www.mathos.unios.hr/images/homepages/Radojicic/KIDM_vj_Una_14.pdf)  2018/2019 B (https://www.mathos.unios.hr/images/homepages/Radojicic/KIDM_vj_Una_13.pdf)
+	PRIMJERI ISPITNIH ROKOVA
+		27.06.2018.  (https://www.mathos.unios.hr/images/homepages/smajstor/kidm27062018.pdf)
+		11.07.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/kidm11072018.pdf)
+		11.09.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/kidm11092018.pdf)
+		25.09.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/kidm25092018.pdf)
+		4.02.2019. (https://www.mathos.unios.hr/images/homepages/smajstor/kidm4022019.pdf)

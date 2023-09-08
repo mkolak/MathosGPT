@@ -1,0 +1,67 @@
+General Information
+    Teaching Assistant
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek 
+    phone: +385-31-224-xxx
+    fax: +385-31-224-801
+    email: lborozan@mathos.hr
+    office: 8 (ground floor)
+    Google Scholar: (https://scholar.google.hr/citations?hl=hr&user=11vaWA8AAAAJ&view_op=list_works)
+    Research Interests
+        Computational molecular biology
+        Discrete and convex optimization
+        Linear programming
+    Degrees
+        PhD in Mathematics, Faculty of Science - Department of Mathematics, University of Zagreb, Croatia, 2021.
+        MSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2015.
+        BSc in Mathematics, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2013.
+
+
+Publications
+    Preprints
+        Compressing Sentence Representation with Maximum Coding Rate Reduction: Ševerdija D, Prusina T, Jovanović A, Borozan L, Maltar J, Matijević D. arXiv. 2023 (accepted for publication to MIPRO2023).
+    Journal Publications
+        L. Borozan, F. Rojas Ringeling, S. Kao, E. Nikonova, P. Monteagudo, D. Matijević, M.L. Spletter, S. Canzar, Counting pseudoalignments to novel splicing events  (https://academic.oup.com/bioinformatics/article/39/7/btad419/7222626), Bioinformatics 39/7 (2023)
+        Đ. Borozan, L. Borozan, Analyzing total-factor energy efficiency in Croatian counties: evidence from a non-parametric approach, Central European Journal of Operations Research  26/3 (2018), 673-694
+        D. Marković, L. Borozan, On Parameter Estimation by Nonlinear Least Squares in Some Special Two-Parameter Exponential Type Models (http://www.naturalspublishing.com/files/published/558na4i2rpp1r1.pdf), Applied Mathematics & Information Sciences 9/6 (2015), 2925-2931
+    Refereed Proceedings
+        D. Ševerdija, T. Prusina, A. Jovanović, L. Borozan, J. Maltar, D. Matijević,  Compressing Sentence Representation with Maximum Coding Rate Reduction (Best paper award in AIS - Artificial Intelligence Systems track) (https://ieeexplore.ieee.org/document/10159709), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023
+        B. Borozan, L. Borozan, D. Ševerdija, D. Matijević, S. Canzar,  Fortuna Detects Novel Splicing in Drosophila scRNASeq Data (https://ieeexplore.ieee.org/document/10159716), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023, 410-415
+        V. Hoan Do, M. Blažević, P. Monteagudo, L. Borozan, K. Elbassioni, S. Laue, F. Rojas Ringeling, D. Matijević, S. Canzar,  Dynamic pseudo-time warping of complex single-cell trajectories (https://www.biorxiv.org/content/10.1101/522672v1), 23nd Annual International Conference on Research in Computational Molecular Biology, The George Washington University, 2019, 294-297
+        L. Borozan, D. Matijević, S. Canzar,  Properties of the generalized Robinson-Foulds metric, 42nd International Convention - MIPRO 2019, Opatija, 2019, 330-335
+        Đ. Borozan, L. Borozan,  The stationarity of per capita electricity consumption in Croatia allowing for structural break(s), 13th International Symposium on Operational Research, Bled, Slovenia, 2015, 337-342
+    Others
+        L. Borozan, D. Matijević, S. Canzar, Combinatorial optimization algorithms for (pseudo)alignment in bioinformatics (2021)
+        D. Matijević, D. Ševerdija, S. Jelić, L. Borozan, Uparena optimizacijska metoda (http://e.math.hr/Vol30/Borozan), Math.e : hrvatski matematički elektronski časopis  30 (2016)
+    Technical Reports
+        T. Prusina, D. Matijević, L. Borozan, J. Maltar, A. Jovanović, Compressing Sentence Representation with maximum Coding Rate Reduction (2023)
+
+
+Projects
+    Razvoj interaktivnog virtualnog okruženja (https://www.mathos.unios.hr/index.php/916) Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku), voditelj projekta: Luka Borozan 1.5.2021. - 1.5.2025. 
+    Primjena metoda optimizacije u biomedicini, (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i obrazovanja, Program znanstveno-tehnološke suradnje između Republike Hrvatske i Republike Srbije), voditelji projekta: Slobodan Jelić, Dušan Jakovetić, 01.01.2019. - 01.07. 2022.
+    Problem procjene parametara u nekim dvoparametarskim monotonim matematičkim modelima (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku), voditelj projekta: Darija Marković, 25.9.2013. - 24.9.2014.
+
+
+Teaching
+    Current
+        Funkcijsko programiranje
+        Moderni računalni sustavi
+        Operativni sustavi
+        Semantika programskih jezika
+        Matematička logika u računalnoj znanosti
+    Past
+        Linearna Algebra II
+        Matematika (PFOS)
+        Integralni račun
+        Matematika I (GFOS)
+        Primjene diferencijalnog i integralnog računa II
+        Uvod u teoriju mjere
+        Uvod u teoriju integracije
+        Vektorski prostori
+        Elementarna matematika
+        Uvod u strukture podataka i algoritme
+        Funkcionalno programiranje
+        Bioinformatika
+    Office Hours
+        Po dogovoru putem e-maila.

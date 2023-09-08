@@ -1,0 +1,202 @@
+Prva godina (First year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Domagoj Matijević
+        ukupno obaveznih kolegija: 11, satnica ~ /ECTS: 23 ~ 30 (zima), 23 ~ 30 (ljeto)
+        Uvjeti za upis u II. godinu: barem 40 ECTS bodova što obavezno uključuje bodove sljedećih predmeta: Diferencijalni račun, Linearna algebra I, Uvod u računalnu znanost.
+
+    Kolegiji koji se izvode na prvoj godini (first year)
+        Obavezni predmeti:
+            Funkcijsko programiranje (I044)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević, dr. sc. Luka Borozan
+                suradnik: Tomislav Prusina
+            Diferencijalni račun (M084)
+                izvođenje: zimski  semestar
+                ECTS: 8
+                nastavnik: izv. prof. dr. sc. Ivan Soldo
+                suradnik: dr. sc. Jelena Jankov
+            Strani jezik u struci I (Z011)
+                izvođenje: zimski  semestar
+                ECTS: 3
+                nastavnik: Karmen Knežević
+            Linearna algebra I (M086)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović
+                suradnik: dr. sc. Darija Brajković Zorić
+            Uvod u računalnu znanost (I056)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević
+                suradnik: dr. sc. Rebeka Čorić, dr. sc. Mateja Đumić
+            Objektno orijentirano programiranje (I048)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević
+                suradnik: dr. sc. Mateja Đumić
+            Matematička logika u računalnoj znanosti (M088)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović, dr. sc. Luka Borozan
+                suradnik: Tomislav Prusina
+            Integralni račun (M085)
+                izvođenje: ljetni  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Ivan Soldo
+                suradnik: Maja Andrijević
+            Linearna algebra II (M087)
+                izvođenje: ljetni  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević
+            Strani jezik u struci II (Z012)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: Karmen Knežević
+            Tjelesna i zdravstvena kultura I (Z014)
+                izvođenje: zimski i ljetni  semestar
+                ECTS: 1
+                nastavnik: predavač Zoran Malečić
+                suradnik: Melisa Babić
+
+        Izborni predmeti:
+            Nema
+
+
+Druga godina (Second year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Domagoj Matijević
+        ukupno obaveznih kolegija: 7, satnica ~ /ECTS: 18 ~ 23 (zima), 18 ~ 23 (ljeto)
+        Razliku do obaveznih 60 ECTS bodova u akademskoj godini student ostvaruje upisom niže navedenih izbornih predmeta. Broj ECTS bodova koji se ostvaruju upisom svih kolegija u jednom semestru ne smije biti manji od 25.
+        Uvjeti za upis u III. godinu: položeni svi ispiti s I. godine studija i barem 40 ECTS bodova s II. godine studija, što obvezno uključuje bodove sljedećih predmeta: Primijenjena matematika za računalnu znanost, Strukture podataka i algoritmi I, Moderni računalni sustavi.
+
+    Kolegiji koji se izvode na drugoj godini (second year)
+        Obavezni predmeti:
+            Primijenjena matematika za računalnu znanost (M091)
+                izvođenje: zimski  semestar
+                ECTS: 9
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević, izv. prof. dr. sc. Mirela Jukić Bokun, izv. prof. dr. sc. Snježana Majstorović
+            Strukture podataka i algoritmi I (I053)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević
+                suradnik: Antonio Jovanović
+            Moderni računalni sustavi (I045)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević, dr. sc. Luka Borozan,  Ivan Kvolik
+                suradnik: Bartol Borozan
+            Moderni sustavi baza podataka (I046)
+                izvođenje: ljetni  semestar
+                ECTS: 9
+                nastavnik: doc. dr. sc. Domagoj Ševerdija, dr. sc. Mateja Đumić
+                suradnik: dr. sc. Mateja Đumić
+            Strukture podataka i algoritmi II (I054)
+                izvođenje: ljetni  semestar
+                ECTS: 7
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+            Teorijske osnove računalne znanosti (M097)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović
+            Tjelesna i zdravstvena kultura II (Z015)
+                izvođenje: zimski i ljetni  semestar
+                ECTS: 1, 0+2+0 ~ 1
+                nastavnik: predavač Zoran Malečić
+                suradnik: Melisa Babić
+
+        Izborni predmeti:
+            Vektorski prostori (M099)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Ivan Matić
+                suradnik: dr. sc. Darija Brajković Zorić
+            3D računalna grafika (I059)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+                suradnik: Bartol Borozan
+            Primjene diferencijalnog i integralnog računa I (M093)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: prof. dr. sc. Krešimir Burazin, dr. sc. Jelena Jankov
+            Računalno jezikoslovlje (I051)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+
+
+Treća godina (Third year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Domagoj Matijević
+        ukupno obaveznih kolegija: 7, satnica ~ /ECTS: 14 ~ 20 (zima), 13 ~ 23 (ljeto)
+        Razliku do obaveznih 60 ECTS bodova u akademskoj godini student ostvaruje upisom niže navedenih izbornih predmeta. Broj ECTS bodova koji se ostvaruju upisom svih kolegija u jednom semestru ne smije biti manji od 25.
+    
+    Kolegiji koji se izvode na trećoj godini (third year)
+        Obavezni predmeti:
+            Web programiranje (I057)
+                izvođenje: zimski  semestar
+                ECTS: 8
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović
+                suradnik: Jurica Maltar
+            Numerička matematika (M089)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Kristian Sabo
+            Obične diferencijalne jednadžbe (M090)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Krešimir Burazin
+                suradnik: Maja Andrijević
+            Završni praktični projekt (I058)
+                izvođenje: ljetni  semestar
+                ECTS: 8
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević
+            Strojno učenje (M096)
+                izvođenje: ljetni  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević, prof. dr. sc. Kristian Sabo
+                suradnik: Antonio Jovanović
+            Završni rad (Z007)
+                izvođenje: ljetni  semestar
+                ECTS: 2
+                nastavnik: suradnik:
+            Softversko inženjerstvo (I052)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Alfonzo Baumgartner
+                suradnik: doc. dr. sc. Tomislav Galba
+
+        Izborni predmeti:
+            3D računalna grafika (I059)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+                suradnik: Bartol Borozan
+            Realna analiza (M094)
+                izvođenje: zimski  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Dragana Jankov Maširević
+                suradnik: Maja Andrijević
+            Stručna praksa (Z013)
+                izvođenje: zimski  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Domagoj Matijević, izv. prof. dr. sc. Nenad Šuvak
+                suradnik: Jurica Maltar
+            Algebra (M083)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Ivan Matić
+                suradnik: dr. sc. Darija Brajković Zorić
+            Statistički praktikum (M095)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Mirta Benšić, doc. dr. sc. Ivan Papić
+            Računalno jezikoslovlje (I051)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: doc. dr. sc. Domagoj Ševerdija
+            Osnove teorije upravljanja s primjenama (M092)
+                izvođenje: ljetni  semestar
+                ECTS: 7
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović

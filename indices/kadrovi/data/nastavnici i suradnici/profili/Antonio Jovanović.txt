@@ -1,0 +1,36 @@
+General information
+    PhD student
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    email: ajovanov@mathos.hr
+    office: 8 (ground floor)
+    Google Scholar (https://scholar.google.com/citations?user=Xad9_rsAAAAJ&hl=hr)
+    Research Interests
+        Machine learning
+    Degrees
+        MSc in mathematics, Mathematics and Computer Science, Department of Mathematics, University of Osijek, Croatia, 2021.
+        BSc in Mathematics, Department of Mathematics, University of Osijek, Croatia, 2019.
+
+
+Publications
+    Refereed Proceedings
+        D. Ševerdija, T. Prusina, A. Jovanović, L. Borozan, J. Maltar, D. Matijević,  Compressing Sentence Representation with Maximum Coding Rate Reduction (Best paper award in AIS - Artificial Intelligence Systems track) (https://ieeexplore.ieee.org/document/10159709), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023
+        A. Jovanović, I. Alqassem, N. Chappell, S. Canzar, D. Matijević,  Predicting RNA splicing branchpoints (https://ieeexplore.ieee.org/document/9803685), 2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO), Opatija, 2022, 383-388
+    Technical Reports
+        T. Prusina, D. Matijević, L. Borozan, J. Maltar, A. Jovanović, Compressing Sentence Representation with maximum Coding Rate Reduction (2023)
+
+
+Teaching
+    Current
+        Strukture podataka i algoritmi I (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/589)
+        Strojno učenje (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/587)
+        Obrada prirodnog jezika tehnikama dubinskog učenja (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/izvedbeni-plan-racunarstvo/718)
+        Strojno učenje (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/587)
+        Obrada prirodnog jezika tehnikama dubinskog učenja (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/izvedbeni-plan-racunarstvo/718)
+        Nelinearna optimizacija (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/izvedbeni-plan-financije/833)
+    Office Hours:
+        Četvrtak (Thu) 12:00-14:00.  Konzultacije su moguće i po dogovoru.
+
+
+Personal
+    Birthplace: Osijek

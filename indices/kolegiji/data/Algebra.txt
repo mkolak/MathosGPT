@@ -1,0 +1,42 @@
+OSNOVNE INFORMACIJE
+	Kolegij Algebra izvodi se u ljetnom semestru treće godine sveučilišnog preddiplomskog studija matematike i sveučilišnog nastavničkog studija matematike i informatike.  Cilj predmeta je upoznati studente s temeljnim algebarskim strukturama i njihovim svojstvima. Na predavanjima će se uvesti i obraditi osnovni pojmovi te dokazati njihova svojstva i međusobne poveznice, popraćene brojnim primjerima, s posebnim naglaskom na primjerima viđenim u sklopu ranije odslušanih predmeta. Na vježbama će studenti svladavati tehnike ispitivanja svojstava apstraktnih algebarskih struktura i rješavanja problemskih zadataka.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m083.pdf).
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Ivan Matić  (http://www.mathos.hr/~imatic)	
+			KONZULTACIJE: Po dogovoru.	
+	ASISTENT	
+		dr.sc. Darija Brajković Zorić (http://www.mathos.hr/~dbrajkovic)	
+			KONZULTACIJE: Nakon vježbi i po dogovoru putem maila.	
+	OSNOVNA LITERATURA
+		T.W. Hungerford, Algebra, Springer-Verlag, New York, 1974.
+		H. Kraljević, Algebra, skripta, 2007.
+	PREPORUČENA LITERATURA
+		S. Lang, Algebra, Springer-Verlag, New York, 2002.
+		I. Stewart, Galois Theory, Chapmann and Hall, London, 2004.
+		Z. Stojaković, Đ. Paunić, Zadaci iz Algebre, Novi Sad, 1998.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Algebra realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	Četvrtak, 8-10h	PREDAVAONICA: D-2	
+	VJEŽBE	Srijeda, 14-16h	PREDAVAONICA: D-3	
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se sastoji od pismenog i usmenog dijela, a polaže se nakon odslušanih predavanja i obavljenih vježbi. Prihvatljivi rezultati postignuti na kolokvijima, koje studenti pišu tijekom semestra, zamjenjuju pismeni dio ispita.
+	Studenti tijekom izvođenja nastave pišu dva kolokvija pomoću kojih se kontinuirano provjerava njihov rad i znanje. Studentima koji su postigli ukupno barem 80 bodova iz kolokvija priznaje se pismeni dio ispita i direktno se pozivaju na usmeni dio ispita.
+	O konačnoj ocjeni odlučit će se na usmenom ispitu.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. Da bi položio pismeni ispit student treba ostvariti barem 40 bodova od 100 mogućih.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti o ocjeni pismenog ispita, formira konačna ocjena. Za pristupanje usmenom ispitu ispit mora biti prijavljen.
+
+
+PRIMJERI ISPITA I KOLOKVIJA
+	PRIMJERI ISPITNIH ROKOVA
+		Algebra pismeni - 21.06.2018. (pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/ALGEBRA/Algebra_ispit_21_06_2018.pdf))
+		Algebra pismeni - 10.06.2021. (pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/Algebra_ispit_10_06_2021.pdf))
+		Algebra pismeni - 06.09.2021. (pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/Algebra_ispit_06_09_2021.pdf))
+	PRIMJERI KOLOKVIJA
+		Algebra kolokvij - Z1 - 2021./22. (pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/alg_1_kol_22042022.pdf))
+		Algebra kolokvij - Z2 - 2021./22. (pdf (https://www.mathos.unios.hr/images/homepages/dbrajkovic/alg_2_kol_06062022.pdf))

@@ -1,0 +1,38 @@
+OSNOVNE INFORMACIJE
+	Kolegij heuristički algoritmi izvodi se kao izborni kolegij u zimskom semestru druge godine sveučilišnog diplomskog studija matematike i računarstva. Cilj kolegija je upoznati studente s heurističkim algoritmima koji, u primjeni, omogućuju pronalazak dovoljno dobrih rješenja za probleme koje zbog njihove kompleksnosti ne možemo egzaktno riješiti. Također, cilj je naučiti razlikovati pojmove heuristika, metaheuristika i hiperheuristika te analizirati prednosti i nedostatke najpoznatijih metaheuristika kao što su simulirano kaljenje, tabu pretraživanje, genetski i evolucijski algoritmi te kolonija mravi.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i072.pdf).
+	VODITELJ KOLEGIJA
+		doc.dr.sc. Domagoj Ševerdija (http://www.mathos.hr/~dseverdi)	
+	NASTAVNIK
+		dr.sc. Rebeka Čorić (http://www.mathos.hr/~rcordas)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/122#teaching)	
+	NASTAVNIK
+		dr. sc. Mateja Đumić (http://www.mathos.hr/~mdjumic)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/123#teaching)	
+	OSNOVNA LITERATURA
+		J. Dréo, A. Pétrowski, P. Siarry, E. Taillard, Metaheuristics for Hard Optimization: Methods and Case Studies, Springer, 2005.
+		E. G. Talbi, Metaheuristics: From Design to Implementation, WIley, 2009.
+	DOPUNSKA LITERATURA
+		X. S.Yang, Nature-Inspired Metaheuristic Algorithms, Luniver Press, 2008.
+		Z. Michalewicz, D. B. Fogel, How to Solve it: Modern Heuristics, 2nd Edition, Springer-Verlag, 2004.
+		M. Čupić, B. Dalbelo Bašić, M. Golub, Neizrazito, evolucijsko i neuroračunarstvo, Sveučilište u Zagrebu, Fakultet elektrotehnike i računarstva, 2012.
+		J. Hromkovič, Algorithmics for Hard Problems, 2nd edition, Springer, 2003.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Heuristički algoritmi realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi).
+	PREDAVANJA	TERMIN: Srijeda, 10-12h	PREDAVAONICA: RP1	
+	VJEŽBE	TERMIN: Četvrtak, 10-12h	PREDAVAONICA: RP1	
+
+
+PRAVILA POLAGANJA ISPITA
+	Na kolegiju će se pisati 2 kolokvija (prag 20% na svakom kolokviju, 50% ukupno) koji nose 60% ukupne ocjene. Ostalih 40% ocjene nose 4 zadaće koje će biti definirane tijekom izvođenja kolegija. 
+	Obzirom na ostvarene bodove, student može ostvariti sljedeće ocjene:
+		40% - 55%  -  dovoljan (2) 
+		55% - 70%  -  dobar (3)
+		70% - 85%  -  vrlo dobar (4) 
+		85% - 100%  -  izvrstan (5).
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

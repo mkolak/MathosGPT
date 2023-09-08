@@ -1,0 +1,29 @@
+OSNOVNE INFORMACIJE
+	Osnovni cilj ovog kolegija jest naučiti studente osnove struktura podataka i algoritama te primjene istih u različitim situacijama. Svi algoritmi bit će implementirani u C++ programskom jeziku. Osim toga, studenti će moći pisati algoritme u objektno orijentiranoj paradigmi.
+	Sadržaj predmeta. 
+		Uvod. Osnovni pojmovi i definicije. Tipovi podataka i naredbe: od elementarnih do složenih struktura podataka - od naredbi do funkcija i programa. Apstraktne strukture. Algoritmi. Asimptotska analiza.
+		Rješavanje rekurzija. 
+		Slijedno i binarno pretraživanje. Postupci sortiranja: bubble sort, insertion sort, heap sort, selection-sort, quicksort i dr.
+		Podijeli-pa-vladaj algoritmi: N-ta potencija broja. N-ti Fibonaccijev broj. MergeSort.
+		Linearne strukture podataka: Polja. Liste (jednostruko i dvostruko povezane, prsteni). Redovi. Stogovi.
+		Nelinearne strukture podataka: Stabla. Reprezentacija stabla pomoću polja. Šetnja stablom. Redovi s prvenstvima. Hrpe. Binarna stabla za pretraživanje (Binary Search Trees). Grafovi. Obilazak grafa po širini i dubini.
+	VODITELJ KOLEGIJA	 doc. dr. sc. Ivana Kuzmanović Ivičić
+	OSNOVNA LITERATURA
+		T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein, Introduction to Algorithms, 3Ed, MIT Press, 2009.
+		S. Grabusin, Lj. Miletić, Zbirka riješenih zadataka iz C programskog jezika, Pentium, 1996.
+	DOPUNSKA LITERATURA
+		R. Sedgewick, Algorithms in C++, Parts 1-4 Fundamentals, Data Structure, Sorting, Searching, Third Edition, 1998. 
+		J. Šribar, B. Motik: Demistificirani C++, 4. dopunjeno izdanje usklađeno sa standardom C++11/C++14, Element, Zagreb, 2014. 
+		M. T. Goodrich, R. Tamassia, D. M. Mount, Data Structures and Algorithms in C++, Wiley, 2010.
+		M. J. Atallah, Algorithms and Theory of Computation Handbook, CRC Press, 1998.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Računalno razmišljanje i programiranje 2 realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+
+
+PRAVILA POLAGANJA ISPITA
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

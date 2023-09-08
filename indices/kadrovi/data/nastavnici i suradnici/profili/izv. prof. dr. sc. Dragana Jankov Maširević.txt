@@ -1,0 +1,127 @@
+General information
+    Associate Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-824
+    fax: +385-31-224-801
+    email: djankov@mathos.hr
+    office: 30 (ground floor)
+    Google Scholar (https://scholar.google.hr/citations?user=6wzEvgsAAAAJ&hl=hr)
+    Research Interests
+        Special functions;
+        Neumann, Kapteyn and Schlomilch series;
+        Integral representations; Summation formulas.
+    Degrees
+        PhD in Mathematical Analysis, Department of Mathematics, University of Zagreb, 2011.
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2007.
+
+
+Publications
+    Journal Publications
+        D. Jankov Maširević, T. K. Poganj, Functional bounds for Exton’s double hypergeometric X function, Journal of Mathematical Inequalities, 17(1), (2023), 259–267
+        Y. A. Brychkov, D. Jankov Maširević, T. Poganj, New expression for CDF of χν'2(λ) distribution and Marcum Q1 function (https://www.bib.irb.hr/1182141), Results in mathematics, 77, 102 (2022),  doi:10.1007/s00025-022-01634-3 
+        K. Górska, A. Horzela, D. Jankov Maširević, T. Poganj, Observations on the McKay I_nu Bessel distribution (https://www.bib.irb.hr/1202763), Journal of mathematical analysis and applications, 516 (2022), 1; 126481, 14
+        D. Jankov Maširević, T. Poganj, CDF of non-central χ2 distribution revisited. Incomplete hypergeometric type functions approach, Indagationes Mathematicae, 32 (4), 2021, 901-915.
+        A. Baricz, D. Jankov Maširević, T. Poganj, Approximation of CDF of non-central chi-square distribution by mean-value theorems for integrals, Mathematics (2227-7390) 9; 129, 12 (2021)
+        D. Jankov Maširević, T. Poganj, On a second type Neumann series of modified Bessel functions of the first kind (https://www.bib.irb.hr/1074639), Integral transforms and special functions (2020) doi:10.1080/10652469.2020.1807538
+        D. Jankov Maširević, T. Poganj, Second type Neumann series of generalized Nicholson function (https://www.bib.irb.hr/1035143), Results in mathematics, 75 (2020), 1; 12, 14 doi:10.1007/s00025-019-1138-0
+        D. Jankov Maširević, T. Poganj, Integral Representations for Products of Two Bessel or Modified Bessel Functions, Mathematics, 7, 978 (2019)
+        D. Jankov Maširević, T. Poganj, On new formulae for cumulative distribution function for McKay Bessel distribution, Communications in statistics -theory and methods, doi: 10.1080/03610926.2019.1632898 (https://doi.org/10.1080/03610926.2019.1632898)
+        D. Jankov Maširević, T. Poganj, On series representations for modified Bessel function of second kind of integer order, Integral transforms and special functions (https://www.tandfonline.com/toc/gitr20/current), 30/3 (2019), 181-189
+        D. Jankov Maširević, Summations of Schlomilsh series containing Anger function terms, Mathematica Slovaca 68/1 (2018), 103-114 
+        D. Jankov Maširević, On New Formulas for the Cumulative Distribution Function of the Noncentral Chi-Square Distribution, Mediterranean Journal of Mathematics (https://link.springer.com/journal/9) (2017) 14:66. DOI: 10.1007/s00009-017-0874-1
+        D. Jankov Maširević, T. Poganj, p-Extended Mathieu Series from the Schlomilch series Point of View, Vietnam Journal of Mathematics (https://link.springer.com/journal/10013) 45/4 (2017),  713-719
+        D. Jankov Maširević, Rakesh K. Parmar, T. Poganj, (p,q)-extended Bessel and modified Bessel functions of the first kind, Results in Mathematics 72 (2017), 617-632
+        D. Jankov Maširević, T. Poganj, Infinite summations of hypergeometric type terms by a probabilistic method, The Journal of Analysis 25/1 (2017), 83-92
+        A. Baricz, S. Ponnusamy, S. Singh, D. Jankov Maširević, Bounds for the product of modified Bessel functions, Aequationes mathematicae 90/4 (2016), 859-870     
+        D. Jankov Maširević, Summations of Schlomilch series containing some Lommel functions of the first kind terms, Integral Transforms and Special Functions 27/2 (2016), 153-162
+        D. Jankov Maširević, Summations of Schlömilch series containing Struve function terms, Georgian Mathematical Journal 23/3 (2016), 363-366
+        D. Jankov Maširević, S. Miodragović, Geometric median in the plane, Elemente der Mathematik 70 (2015), 21-32
+        D. Jankov Maširević, T. Poganj, New summations of Neumann series of modified Bessel functions, The Journal of Analysis 23 (2015), 47-57
+        A. Baricz, D. Jankov Maširević, T. Poganj, R. Szasz, On an identity for zeros of Bessel functions (http://www.sciencedirect.com/science/article/pii/S0022247X14007537), Journal of Mathematical Analysis and Applications 422/1 (2015), 27-36
+        D. Jankov Maširević, Sturm-Liouville problem and I-Bessel sampling, Acta Polytechnica Hungarica 12/2 (2015), 231-246
+        D. Jankov Maširević, Summations of Schlömilch series containing modified Bessel function of the second kind terms, Integral Transforms and Special Functions 26/4 (2015), 273-281
+        D. Jankov Maširević, T. Poganj, Bounds on Čebyšev functional for C_φ[0,1] function class, The Journal of Analysis 22 (2014), 107-117
+        D. Jankov Maširević, T. Poganj, On coefficients of Kapteyn-type series (http://link.springer.com/article/10.2478%2Fs12175-014-0213-y), Mathematica Slovaca 65/2 (2014), 403-410
+        D. Jankov Maširević, T. Poganj, Bounds on weighted discrete Čebyšev functional, ProbStat Forum 6 (2013), 1-9
+        A. Baricz, D. Jankov Maširević, T. Poganj, Integral representations of Dini series of Bessel functions, Integral Transforms and Special Functions 24/8 (2013), 628-635
+        D. Jankov Maširević, T. Poganj, Andreev-Korkin identity, Saigo fractional integration operator and $Lip_L(α)$ functions, Journal of Mathematical Physics, Analysis and Geometry 8/2 (2012), 144-157
+        D. Jankov Maširević, T. Poganj, Integral representation of functional series with members containing Jacobi polynomials, Mathematica Balkanica 26/1-2 (2012), 103-112
+        D. Jankov Maširević, T. Poganj, Integral representation of Schlömilch series, Journal of Classical Analysis1/1 (2012), 75-84
+        D. Jankov Maširević, A. Baricz, T. Poganj, Integral representations for Neumann-type series of Bessel functions $I_nu, $ $Y_nu$ and $K_nu$ (http://www.ams.org/journals/proc/2012-140-03/S0002-9939-2011-11402-3/), Proceedings of the American Mathematical Society 140/3 (2012), 951-960
+        A. Baricz, D. Jankov Maširević, T. Poganj, Neumann series of Bessel functions (http://www.tandfonline.com/doi/abs/10.1080/10652469.2011.609483#.U98vSUDm7Mk), Integral Transforms and Special Functions 23/7 (2012), 529-538
+        A. Baricz, D. Jankov Maširević, T. Poganj, Turán type inequalities for Krätzel functions, Journal of Mathematical Analysis and Applications 388/2 (2012), 716-724
+        D. Jankov Maširević, T. Poganj, R.K. Saxena, Extended general Hurwitz-Lerch Zeta function as Mathieu (a, lambda) - series, Applied mathematics letters 24/8 (2011), 1473-1476
+        A. Baricz, D. Jankov Maširević, T. Poganj, Integral representation of first kind Kapteyn series (http://scitation.aip.org/content/aip/journal/jmp/52/4/10.1063/1.3579989), Journal of mathematical physics 52/4 (2011)
+        R.K. Saxena, T. Poganj, R. Saxena, D. Jankov Maširević, On generalized Hurwitz-Lerch Zeta distributions occuring in statistical inference, Acta Universitatis Sapientiae Mathematica 3/1 (2011), 43-59
+        D. Jankov Maširević, T. Poganj, E. Suli, On the coefficients of Neumann series of Bessel functions (http://www.sciencedirect.com/science/article/pii/S0022247X11001909), Journal of Mathematical Analysis and Applications 380/2 (2011), 628-631
+        H.M. Srivastava, D. Jankov Maširević, T. Poganj, R.K. Saxena, Two-Sided Inequalities for the Extended Hurwitz-Lerch Zeta Function, Computers & Mathematics with Applications 62/1 (2011), 516-522
+ 
+
+Publications - Refereed Proceedings, Others, Books
+    Refereed Proceedings    
+        D. Jankov Maširević, T. Poganj, A. Baricz, A. Galántai, Sampling Bessel functions and Bessel sampling (http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6589050#TitleHist), 8th International Symposium on Applied Computational Intelligence and Informatics, Timisoara, Romania, 2013, 79-84
+        M. Benšić, D. Jankov Maširević, Parameter estimation for a three-parameter Weibull distribution - a comparative study, 12th International Conference on Operational Research, Pula, Croatia, 2008, 159-164
+    Others
+        D. Jankov Maširević, T. Vuković, Ekvipotentnost skupova: kako smjestiti beskonačno mnogo osoba u već pun Hilbertov hotel, Osječki matematički list, 21(2) (2021), 123-136 
+        D. Jankov Maširević, T. Marković, Mjera s predznakom: može li rezultat mjerenja biti negativan broj?, Math.e, 38(1) (2020), 10-20 
+        D. Jankov Maširević, M. Mikić, Kombinatorika i vjerojatnost -zajedno kroz ples, Osječki matematički list, 19(2) (2019), 123-136 
+        D. Jankov Maširević, N. Keglević, Čebiševljeva i Markovljeva nejednakost u teoriji vjerojatnosti, Osječki matematički list 17 (2017), 125-137
+        D. Jankov Maširević, M. Klarić, Primjena Bayesove formule i algoritamskog pristupa Bayesovoj formuli na situacijama iz svakodnevnog života,Math.e, 31 (2017)
+        D. Jankov Maširević, A. Kozić, Geometrijska vjerojatnost u svakodnevnom životu, Osječki matematički list 15/1 (2015), 19-31
+        D. Jankov Maširević, J. Jankov, Zanimljive rekurzije (https://www.halapa.com/odmor/pravipdf/zanim_rekurz.pdf), Matematičko fizički list 3/259 (2015)
+        D. Jankov Maširević, I. Papić, Tri klasična problema, Osječki matematički list 12 (2012), 11-19
+        D. Jankov, Egipatski razlomci, Osječki matematički list, 11 (2011), 11-18
+    Books
+        D. Jankov Maširević, Teorija odlučivanja (https://www.mathos.unios.hr/images/homepages/djankov/Teorija_odlucivanja_DJM_udzbenik_2022_korekcija.pdf), Sveučilište J. J. Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2022. 
+        A. Baricz, D. Jankov Maširević, T. K. Poganj, Series of Bessel and Kummer Type Functions, Lecture Notes in Mathematics 2207, Springer, Cham, Switzerland, 2018.
+        D. Jankov Maširević, Zbirka riješenih zadataka iz teorije mjere i integracije, Sveučilište J. J. Strossmayera, Odjel za matematiku, Osijek, 2014.
+
+
+Projects
+    Inequalities and Applications 
+        Project leader: prof. dr. sc. Josip Pečarić, University of Zagreb. Project was funded in 2014 by the Croatian Science Foundation. 
+    Problem procjene parametara u nekim dvoparametarskim monotonim matematičkim modelima
+        Project leader: doc. dr. sc. Darija Marković, Deptartment of Mathematics, University of Osijek. Project was funded by J. J. Strossmayer University of Osijek, since July 2013.
+    Statistical Aspects of Parameter Estimation in Nonlinear Parametric Models
+         Project leader: prof. dr. sc. Mirta Benšić, Deptartment of Mathematics, University of Osijek. Scientific project of the Croatian Ministry of Science, Education and Sports (235-2352818-1039). 
+
+
+Professional Activities
+    Conferences and Workshops
+        12th International Conference on Operational Research (http://oliver.efpu.hr/koi08/), September 24 – 26, 2008, Pula, Croatia (short communication)
+        2nd Conference of the Central European Network (http://www.meduniwien.ac.at/roes/cen2011zurich/), September 12 – 16, 2011, Zurich, Switzerland (short communication)
+        16th Young Statisticians Meeting (https://www.mathos.unios.hr/~djankov/16th%20Young%20Statisticians%20Meeting), October 14– 16, 2011, Rijeka, Croatia (short communication)
+        5th Croatian Mathematical Congress, June 18 - 21, 2012, Rijeka, Croatia (short communication)
+        CINTI 2013, 14th IEEE International Symposium on Computational Intelligence and Informatics (http://conf.uni-obuda.hu/cinti2013/), November 19 - 21, 2013, Budapest, Hungary (short communication)
+        5th International Conference on Mathematics and Informatics (http://mitis.ro/matinfo/2015/), September 2 - 4, 2015, Targu Mures, Romania (short communication) 
+        Workshop on Special Functions, September 8, 2015, Cluj-Napoca, Romania (short communication)
+        6th Croatian Mathematical Congress, June 14-17, 2016, Zagreb, Croatia (short communication)
+        15th International Symposium on Orthogonal Polynomials, Special Functions and Applications (OPSFA) (https://www3.risc.jku.at/conferences/opsfa2019/), July, 22-26, 2019, Hagenberg, Austria (short communication)
+    Service Activities
+        Since 2014. member of committee for teacher credentialing, appointed by Education and Teacher Training Agency. 
+        Zimska matematička škola (Winter math school):
+            2018./2019. lecture - Primjena geometrijske vjerojatnosti u situacijama iz svakodnevnog života
+            2012./2013. lecture - Zanimljive rekurzije
+            2011./2012. lecture - Tri klasična problema
+            2010./2011. lecture - Geometrijski medijan u ravnini
+        Večer matematike
+            2014./2015. lecture - Zanimljive rekurzije na djelu
+            2019./2020. lecture -Kombinatorika i vjerojatnost - zajedno kroz ples 
+
+
+Teaching
+    Current
+        Primijenjena matematika za računalnu znanost (https://www.mathos.unios.hr/index.php/en/nastava/integrirani-nastavnicki-studij/30-homepage/odjel/nastava/kolegij/586-primijenjena-matematika-za-racunalnu-znanost)
+        Realna analiza (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/200-realna-analiza)
+        Mjera i integral (https://www.mathos.unios.hr/index.php/661)
+        Teorija odlučivanja (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/251-teorija-odlucivanja)
+        Linearna algebra II (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/30-homepage/odjel/nastava/kolegij/498-linearna-algebra-ii-m087)
+    Office Hours:
+        Nakon održanih predavanja/vježbi/seminara. Konzultacije su moguće i po dogovoru.
+
+
+Personal
+    Birthdate: January 05, 1985
+    Birthplace: Vukovar, Croatia
+    Family: Married, daughter Dunja, son Luka

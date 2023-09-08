@@ -1,0 +1,41 @@
+OSNOVNE INFORMACIJE
+	Linearna algebra I izvodi se u zimskom semestru prve godine sveučilišnog preddiplomskog studija matematike i sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je usvajanje temeljnih pojmova i metoda linearne algebre, savladavanje rada s matricama i manipulacija s vektorima u ravnini i prostoru te s osnovnim primjerima vektorskih prostora.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m086.pdf).
+	VODITELJ KOLEGIJA	
+		izv. prof. dr. sc. Zoran Tomljanović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119)	KONZULTACIJE: Vidjeti ovdje (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119/#teaching)	
+	VJEŽBE	
+		dr.sc. Darija Brajković Zorić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/124)	KONZULTACIJE: Nakon vježbi ili po dogovoru putem e-maila	
+		Marinela Pilj Vidaković (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/26-homepage/odjel/kadrovi/homepages/662-marinela-pilj-vidakovic-s-home-page)	KONZULTACIJE: Nakon vježbi ili po dogovoru putem e-maila	
+	DEMONSTRATURE	
+		NASTAVNIK: Ema Benko	KONZULTACIJE: Za vrijeme demonstratura	
+	OSNOVNA LITERATURA
+		R.Scitovski, D.Marković, D.Brajković, nastavni materijali, Odjel za matematiku, Sveučilište u Osijeku, 2020.  (Kumulativni materijali (https://www.mathos.unios.hr/images/homepages/scitowsk/LA1.pdf))
+		R.Scitovski, Geometrija ravnine i prostora, recenzirani nastavni materijali dostupni na web stranici Odjela za matematiku, Sveučilište u Osijeku, 2011.
+	LITERATURA KOJA SE PREPORUČUJE
+		S.Kurepa, Uvod u linearnu algebru, Školska knjiga, Zagreb, 1985.
+		D. Bakić - Linearna algebra, Školska knjiga, Zagreb, 2008.
+		N. Bakić, A. Milas, Zbirka zadataka iz linearne algebre, PMF-Matematički odjel Sveučilišta u Zagrebu, 1995.
+		H. Neunzert, W. G. Eschmann, A. Blickensd\"orfer-Ehlers, Analysis 2. Mit einer Einf\"uhrung in die Vektor- und Matrizenrechnung, Springer-Verlag, Berlin, 1991.
+		N. Elezović, A. Aglić, Linearna algebra: zbirka zadataka, Element, Zagreb, 1999.
+		S.Lipschitz, Begining Linear Algebra, McGraw Hill, New York, 1997.
+		D. Jukić, R. Scitovski, Matematika I (https://www.mathos.unios.hr/images/homepages/scitowsk/MAT-I-2017.pdf), Odjel za matematiku, Sveučilište u Osijeku, Osijek, 2017.
+		R. Scitovski, M. Briš Alić, Grupiranje podataka (https://www.mathos.unios.hr/images/homepages/scitowsk/ASP-2016-3.pdf), Sveučilište u Osijeku, Odjel za matematiku, 2016.
+		Š. Ungar, Ne baš tako kratak Uvod u TeXs naglaskom na pdfLaTeX (http://www.mathos.unios.hr/index.php/odjel/nasa-izdanja?getBook=798), Sveučilište u Osijeku, Odjel za matematiku, 2019.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: Srijeda, 8-10h	PREDAVAONICA: D-1	
+	VJEŽBE grupa A	TERMIN: Ponedjeljak, 10-12h	PREDAVAONICA: D-2	
+	VJEŽBE grupa B	TERMIN: Ponedjeljak, 10-12h	PREDAVAONICA: P-1
+
+
+PRAVILA POLAGANJA ISPITA
+	KOLOKVIJI
+		Tijekom semestra studenti mogu polagati 2 kolokvija koji zamjenjuju pismeni dio ispita. Studentima koji su na svakom kolokviju postigli barem 40 bodova priznaje se pismeni dio ispita i direktno se pozivaju na usmeni dio ispita. Postoji mogućnost popravka jednog od kolokvija na kome nije postignuta prolazna razina.
+	DOMAĆE ZADAĆE 
+		Tijekom semestra studentima će biti ponuđeno rješavanje domaćih zadaća na kojima se može ostvariti do 15% dodatnih bodova koji utječu na konačnu ocjenu. Zadaće će biti objavljivane svaki drugi tjedan na MS Teams kanalu.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu uspješno položili kolokvije i nosi ukupno 100 bodova. Bodovni prag za polaganje pismenog ispita je 45 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita ili kolokvija formira konačna ocjena.

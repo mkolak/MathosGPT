@@ -1,0 +1,40 @@
+OSNOVNE INFORMACIJE
+	Statistika se izvodi u ljetnom semestru prve godine diplomskog studija financijska matematika i statistika. Cilj predmeta je omogućiti studentima upoznavanje s osnovama matematičke statistike. Od studenata se očekuje da, na temelju ovog predmeta, razumiju metode statističkog zaključivanja i da se osposobe za njihovu pravilnu primjenu. Također, predviđeno je razvijenje vještina provođenja statističkih analiza na podacima.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m120.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA
+		prof. dr. sc. Mirta Benšić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/103)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/103#teaching)	
+	OSNOVNA LITERATURA
+		L. E. Bain and M. Engelhardt - Introduction to Probability and Mathematical statistics, BROOKS/COLE Cengage Learning, 1992.
+	DOPUNSKA LITERATURA
+		R. Pruim, Foundations and Applications of Statistics. An Introduction Using R, AMS, Providence, Rhode Island, 2018.
+		J.A. Rice, Mathematical Statistics and Data Analysis, Brooks/Cole, Cengage Learning, 2007.
+		M. J. Crawley, The R Book, J. Wiley & Sons, 2007.
+		K. Knight, Mathematical Statistics, Chapman & Hall/CRC, Boca Raton-Washington, 1999.
+		R. C. Mittelhammer, Mathematical statistics for economics and business, Springer, 1996.
+		E. L. Lehman, Elements of Large-Sample Theory, Springer, 1999.
+		E. L. Lehman, G. Casella, Theory of Point Estimation, Springer, 1998.
+		J. E. Freund, Mathematical Statistics, Prentice Hall, 1992.
+
+
+PRAVILA POLAGANJA ISPITA
+	rješavanje zadataka i osnove teorije polažu se  unutar dva kolokvija
+	vrednuje se prezentacija seminara i pisani oblik seminara (moguće ocjene: izvrstan seminar, zadovoljavajući seminar, ponavljenje seminara)
+	završna provjera znanja je usmeni ispit na kojemu se formira konačna ocjena
+	Uvjet za pristupanje usmenom ispitu:
+		Najmanje 30 % na prva dva kolokvija ukupno
+		Izvrstan ili zadovoljavajući seminar
+	Formiranje ocjene: ako su postignute pozitivne ocjene oba dijela, ukupna ocjena se formira počevši od ocjene usmenog ispita korekcijom u odnosu na postignute rezultate na ostalim dijelovima (+1,-1 ili 0)
+
+
+SEMINAR
+	(https://www.mathos.unios.hr/images/homepages/ipapic/Statistika/upute_za_izradu_seminara.pdf)
+ 
+
+Baze podataka	Opis: zip (https://www.mathos.unios.hr/images/homepages/ipapic/Stat_Baze.zip)	
+Primijenjena statistika	Opis: pdf (https://www.mathos.unios.hr/images/homepages/ipapic/STAT_primijenjena.pdf)	
+Distribucije ekstrema	Opis: nb (https://www.mathos.unios.hr/images/homepages/Radojicic/Distribucije_ekstrema.nb)	
+
+
+PRIMJER KOLOKVIJA
+Baze za kolokvij (https://www.mathos.unios.hr/images/homepages/mirta/statistika/baze_ze_kolokvij.rar)

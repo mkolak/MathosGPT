@@ -1,0 +1,31 @@
+OSNOVNE INFORMACIJE
+	Primijenjena linearna algebra i znanstveno računarstvo izvodi se u zimskom semestru prve godine sveučilišnog diplomskog studija matematike, smjer Matematika i računarstvo. Cilj kolegija je upoznati studente s osnovnim idejama i metodama numeričke linearne algebre koje se koriste pri rješavanju linearnih sustava, problema najmanjih kvadrata, problema svojstvenih i singularnih. Naučiti studente kako koristiti računala u znanosti s primjenama u numeričkoj linearnoj algebri ali i numeričkoj analizi (linearne i nelinearne jednadžbe, integracija, interpolacija, simulacije i optimizacije). Na vježbama će studenti naučiti programirati sekvencijalne i paralelne programe u Octave-i ili Matlab-u i analizirati algoritme s dobrim numeričkim svojstvima. Povezati matematička i informatička znanja.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/mugrica/PLAZR/NumerickaLinAlgebraZnanstvenoRcn.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA	
+		prof.dr.sc. Ninoslav Truhar (https://www.mathos.unios.hr/~ntruhar)	
+		KONZULTACIJE: po dogovoru
+	ASISTENT
+		doc. dr. sc. Ivana Kuzmanović Ivičić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/129)	
+		KONZULTACIJE: po dogovoru
+	OSNOVNA LITERATURA
+		Ninoslav Truhar; Numerička linearna algebra; Osijek : Odjel za matematiku, Svučilišta J. J. Strosmayera u Osijeku, 2010. (pdf) (http://www.mathos.hr/nla/NLA.pdf)
+		G.Golub, C.F.Van Loan, Matrix Computations, Johns Hopkins Univ Pr., 3rd edition, 1996. 
+		R.Scitovski, Numerička  matematika, Odjel za matematiku, Sveučilište u Osijeku, Osijek, 1999.(pdf) (http://www.mathos.hr/~scitowsk/NM/Num.PDF)
+		Dianne P. O'Leary, Scientific Computing with Case Studies, SIAM Press , 2009
+		T. F. Comena, C. van Loan, Handbook for Matrix Computations, SIAM, Press, 1988.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Primijenjena linearna algebra i znanstveno računarstvo realizira se s fondom od 105 sati (tjedno 4 sata predavanja, 2 sata vježbi i 1 sat seminara). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: Utorak, 10-14h	PREDAVAONICA: RP-3	
+	VJEŽBE	TERMIN: Srijeda, 9-12h	PREDAVAONICA: D5	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra putem kolokvija redovito se provjerava znanje studenata. Nakon odslušanih predavanja i obavljenih vježbi polaže se ispit, koji se sastoji od pismenog i usmenog dijela. Za uspješno polaganje ispita studenti su obavezni izraditi seminarski rad. 
+	KOLOKVIJI
+		Ispit se može položiti putem 3 kolokvija od kojih svaki vrijedi po 100 bodova. 
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

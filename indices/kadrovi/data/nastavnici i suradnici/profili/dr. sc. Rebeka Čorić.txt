@@ -1,0 +1,79 @@
+General Information
+    PhD
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-805
+    fax: +385-31-224-801
+    email: rcoric@mathos.hr
+    office: 7 (ground floor)
+    Research Interests
+        Fitness landscape analysis
+        Genetic algorithms
+        Genetic programming
+    Degrees
+        PhD in Computing, Faculty of Electrical Engineering and Computing, University of Zagreb, Croatia, 2021. 
+        MSc in Mathematics, Department of Mathematics, University of Osijek,Croatia, 2014.
+        BSc in Mathematics, Department of Mathematics, University of Osijek, Croatia, 2011.
+
+
+Publications
+    Journal Publications
+        R. Čorić, D. Matijević, D. Marković, PollenNet - a deep learning approach to predicting airborne pollen concentrations (https://hrcak.srce.hr/ojs/index.php/crorr/article/view/25644/14050), Croatian Operational Research Review  14/1 (2023), 1-13
+        R. Čorić, M. Đumić, D. Jakobović, Genetic programming hyperheuristic parameter configuration using fitness landscape analysis (https://link.springer.com/article/10.1007/s10489-021-02227-3), Applied Intelligence 51/10 (2021), 7402-7426
+        M. Đumić, D. Šišejković, R. Čorić, D. Jakobović, Evolving priority rules for resource constrained project scheduling problem with genetic programming (https://www.sciencedirect.com/science/article/pii/S0167739X1732441X), Future Generation Computer Systems 86 (2018), 211-221
+        N. Čerkez, R. Čorić, M. Đumić, D. Matijević, Finding an optimal seating arrangement for employees traveling to an event (http://hrcak.srce.hr/ojs/index.php/crorr/article/view/2794/2116), Croatian Operational Research Review  6/2 (2015), 419-427
+    Refereed Proceedings
+        R. Čorić, M. Đumić, S. Jelić,  A clustering model for time-series forecasting (http://docs.mipro-proceedings.com/proceedings/mipro_2019_proceedings.pdf), 42nd International Convention - MIPRO 2019, Opatija, 2019, 1295-1299
+        R. Čorić, M. Đumić, S. Jelić,  A Genetic Algorithm for Group Steiner Tree Problem (http://docs.mipro-proceedings.com/cis/cis_02_4726.pdf), 41st International Convention - MIPRO 2018, Opatija, Hrvatska, 2018, 1113-1118
+        R. Čorić, M. Đumić, D. Jakobović,  Complexity Comparison of Integer Programming and Genetic Algorithms for Resource Constrained Scheduling Problems  (http://docs.mipro-proceedings.com/cis/cis_21_4173.pdf), 40th International ICT Convention - MIPRO 2017, Opatija, 2017, 1394-1400
+        R. Čorić, S. Picek, D. Jakobović, C.A. Coello Coello,  On the mutual information as a fitness landscape measure, GECCO '17 Proceedings of the Genetic and Evolutionary Computation Conference Companion, Berlin, Germany, 2017, 165-166
+    Technical Reports
+        D. Ševerdija, R. Čorić, Detecting inflectional patterns for Croatian verb stems using class activation mappings (2022)
+
+
+Projects
+    Hyperheuristic Design of Dispatching Rules, funded by Croatian Science Foundation from 2020. Project leader: prof. Domagoj Jakobović from University of Zagreb. 
+    Application of optimization methods in biomedicine, bilateral project with Serbia, Duration: 01.01.2019. - 31.12. 2020. Project leaders: ass.prof. Slobodan Jelić from University of Osijek (croatian side) and ass.prof. Dušan Jakovetić from University of Novi Sad (serbian side).
+
+
+Professional Activities
+    Conferences
+        15th International Conference on Operational Research KOI 2014, Osijek, Croatia, September 24-26, 2014.
+        40th International ICT Convention - MIPRO 2017, Opatija, Croatia, May 22-26, 2017.
+        41st International ICT Convention - MIPRO 2018, Opatija, Croatia, May 21-25, 2018.
+        42nd International ICT Convention - MIPRO 2019, Opatija, Croatia, May 20-24, 2019.
+        19th International Conference on Operational Research KOI 2022, Šibenik, Croatia, September 28-30, 2022.
+    Schools
+        7th PhD Summer School in Discrete Mathematics, Rogla, Slovenia, July 23-29, 2017.
+        COST Training School: bridging the gap between theory and practice and making nature-inspired search and optimisation heuristics more applicable, Paris, France, October 18-24, 2017.
+        International Workshop on Optimal Control of Dynamical Systems and  Applications, Osijek, Croatia, June 20-22, 2018.
+        Second Edition of the Summer School on Optimization, Big Data and Applications (OBA), Veroli, Italy, June 29th - July 6th, 2019.
+    Service Activities
+        Festival znanosti:
+            2011. radionica - Primjena Sunčeve svjetlosti pri određenim izračunavanjima
+            2012. radionica - 10 u svijetu računala
+            2013. radionica - Zamisli jedan broj
+        Zimska škola matematike:
+            2011. predavanje - Bertrandov paradoks
+        Zimska škola informatike:
+            2017. radionica - Multi-threading i multi-processing u Pythonu
+        Geometrijska škola Stanka Bilinskog, Našice
+            2017. radionica za osnovnu i srednju školu - Geometrijska vjerojatnost
+
+
+Teaching
+    Current
+        Uvod u računalnu znanost (https://www.mathos.unios.hr/index.php/185)
+        Heuristički algoritmi (https://www.mathos.unios.hr/index.php/779) 
+        Prehrambeno tehnološki fakultet: Primijenjena matematika/Inženjerska matematika (https://www.mathos.unios.hr/index.php/304)
+        Strukture podataka i algoritmi II (http://www.mathos.unios.hr/index.php/608)
+        Moderni sustavi baza podataka (https://www.mathos.unios.hr/index.php/607)
+        Obrada prirodnog jezika tehnikama dubinskog učenja (https://www.mathos.unios.hr/index.php/718)
+    Past
+        Ekonomski fakultet: Matematika (http://www.mathos.hr/matefos)
+        Odjel za matematiku: Uvod u računarstvo, Numerička analiza, Osnove umjetne inteligencije, Programiranje i programsko inženjerstvo (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/210-programiranje-i-programsko-inzenjerstvo)
+        Poljoprivredni fakultet Osijek, stručni studij u Vinkovcima: Matematika 
+        Poljoprivredni fakultet Osijek: Matematika (izvanredni studij) (https://www.mathos.unios.hr/index.php/404)
+        Prehrambeno tehnološki fakultet: Primijenjena matematika/Inženjerska matematika (https://www.mathos.unios.hr/index.php/304)
+    Office Hours:   
+        Po dogovoru.

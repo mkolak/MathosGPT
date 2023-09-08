@@ -1,0 +1,75 @@
+General information
+    Postdoc
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-812
+    fax: +385-31-224-801
+    email: dbrajkovic @ mathos.hr
+    office: 10 (prizemlje)
+    Research Interests
+        Representation theory of p-adic groups
+    Degrees
+        PhD in Theoretical mathematics, Department of Mathematics, Faculty of Science, University of Zagreb, 2019.
+            Doctoral thesis: Unitary dual of p-adic group SO(7) with support on minimal parabolic subgroup
+        MSc in Theoretical mathematics, Department of Mathematics, Faculty of Science, University of Zagreb, Croatia, 2011
+        MSc in Mathematics and Computer Science Education, Department of Mathematics, University of Osijek, Croatia, 2020
+        BSc in Mathematics, Department of Mathematics, University of Osijek, Croatia, 2009
+
+
+Publications
+    1. Aubert involution on the unitary dual of SO(7) supported on the minimal parabolic subgroup, Journal of the Ramanujan Mathematical Society, accepted for publication
+    2. Unitary dual of p-adic group SO(7) with support on minimal parabolic subgroup, Glasnik Matematički, 56 (2021), 107 - 149
+    Others
+        K. Vincetić, D. Brajković, M. Pilj Vidaković, Matematički zadatci na šahovskoj ploči (https://hrcak.srce.hr/file/314102), Osječki matematički list 18/2 (2018), 81-103
+    Books
+        D. Brajković, Algebra kroz primjere, priručnik za vježbe (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/774.pdf ), Sveucilište Josipa Jurja Strossmayera u Osijeku – Odjel za matematiku, Osijek, 2018.
+
+
+Projects
+    Unitarne reprezentacije, automorfne i modularne forme (Project leader: prof. dr. sc. Marcela Hanzer, University of Zagreb, Faculty of Science, Department of Mathematics. Project was funded in 2018 by the Croatian Science Foundation.)                                          
+    Composition series of induced representations of classical p-adic groups (Project leader: izv.prof.dr.sc. Ivan Matić, University of Osijek, Department of Mathematics. Project run in 2015, supported by University of Osijek.)
+    Discrete series in generalized principal series (Diskretne serije u generaliziranim osnovnim serijama) (Project leader: izv.prof.dr.sc. Ivan Matić, University of Osijek, Department of Mathematics. Project run in 2013/14, supported by University of Osijek.)
+    Automorphic forms, representations and applications (Project leader: akademik prof. dr. sc. Goran Muić, University of Zagreb, Faculty of Science, Department of Mathematics. Project was funded in 2014 by the Croatian Science Foundation.)
+
+
+Professional Activities
+    Schools and Conferences
+        Building Bridges 5th EU/US Summer School and Workshop on Automorphic Forms and Related Topics (BB5), Sarajevo, BIH, August 2022
+        Summer School on the Langlands Program (online), July 2022
+        Workshop on "Arthur packets and related problems" (online), June 2022
+        7th CROATIAN MATHEMATICAL CONGRESS, Split, Croatia, June 2022 
+        8ECM (online), June 2021
+        Relative Aspects of the Langlands Program, L-Functions and Beyond Endoscopy, A virtual conference, May 2021
+        The 2020 Paul J. Sally, Jr. Midwest Representation Theory Conference, A virtual conference, October 2020
+        ONLINE Zoom Conference on Representation Theory and Algebraic Analysis in honor of Joseph Bernstein on the occasion of his 75th birthday, May 2020
+        Geometric methods in p-adic representation theory, Trinity College Dublin, Dublin, Irland, July 2019
+        Padova school on Serre conjectures and the p-adic Langlands program, Padova, Italy, May 2019
+        p-adic Langlands Correspondence, Shimura Varieties and Perfectoids, CIRM, Marseille, France, July 2018
+        Workshop: On some recent developments in local and global representation theory, Zagreb, Croatia, May 2018
+        Representation Theory of Finite and p-adic Groups of Lie Type, CIRM, Marseille, France, November 2016
+        Doctoral School: Introduction to Relative Aspects in Representation Theory, Langlands Functoriality and Automorphic Forms, CIRM, Marseille, France, May 2016
+        Atkin Memorial Lecture and Workshop - Expansion in Linear Groups, University of Illinois at Chicago, Chicago, USA, May 2015 
+        Summer School: Gan-Gross-Prasad, Institut de mathématiques de Jussieu, Paris, France, June 2014
+        Representations of p-adic groups; A conference dedicated to Marko Tadić on his 60th birthday, Zagreb, Croatia, June 2014.
+    Service Activities
+        Pripreme studenata za međunarodna matematička natjecanja, 2014, 2015, 2016, 2017, 2018
+        Festival znanosti 2018, Žene u matematici
+        Festival znanosti 2017, Euklidovi Elementi - 23 stoljeća matematičke Biblije
+        Zimska matematička škola za učenike osnovnih škola (Winter math school), 2014., radionica - Dirichletov princip
+
+
+Teaching
+    Current
+        Linearna algebra I (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/182)
+        Geometrija ravnine i prostora - Uvod u algebru, Odjel za fiziku (http://kolegij.fizika.unios.hr/grpua/)
+        Matematika I, Građevinski i arhitektonski fakultet Osijek (http://www.gfos.unios.hr/portal/index.php/nastava/studiji/sveucilisni-preddiplomski-studij/matematika-i.html)
+        Vektorski prostori (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/217)
+        Mjera i integral (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/661)
+        Algebra (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/201)
+        Matematika II, Građevinski i arhitektonski fakultet Osijek (http://www.gfos.unios.hr/portal/index.php/nastava/studiji/sveucilisni-preddiplomski-studij/matematika-ii.html)
+    Past
+        Geometrija ravnine i prostora
+        Matematika I i Matematika II - Prehrambeno-tehnološki fakultet, Matematika - Fakultet agrobiotehničkih znanosti Osijek
+        Linearna algebra 2
+    Office Hours:
+        Nakon vježbi i po dogovoru putem maila.

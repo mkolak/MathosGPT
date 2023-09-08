@@ -1,0 +1,76 @@
+Program cjeloživotnog obrazovanja Matematika u financijskim transakcijama
+
+Korištenje raznovrsnih financijskih transakcija i bankarskih usluga, kao što su tekući računi, štednja, krediti i slično,  u današnje vrijeme neizostavni su dio poslovanja svih poduzeća. Moglo bi se čak reći da su sastavni dio načina funkcioniranja suvremenog svijeta, ne samo poslovnog nego i privatnog.
+Matematika koja se koristi u pozadini tih transakcija svrstava se u danas vrlo atraktivnu i istraživački aktivnu granu Financijska i poslovna matematika. Osnovni pojmovi i metode ove grane matematike koji su potrebni za snalaženje prilikom korištenja uobičajenih financijskih transakcija nisu zahtjevni i lako se mogu razumjeti. Također, korištenjem računala lako se mogu provesti izračuni koji mogu pomoći pri odabiru prihvatljivije transakcije.
+Program cjeloživotnog učenja Matematika u financijskim transakcijama osmišljen je kako bi polaznike upoznao s osnovnim pojmovima koji se koriste prilikom financijskih transakcija te ih osposobio za provođenje osnovnih proračuna potrebnih za usporedbu transakcija. Program je stoga namijenjen svim osobama koje imaju potrebu za boljim razumijevanjem temeljnih principa financijske matematike.
+Odjel za matematiku je znanstveno-nastavna sastavnica Sveučilišta koja, osim izvođenja svojih studija, među kojima je i diplomski studij smjera Financijska matematika i statistika, sudjeluje u izvedbi nastave iz predmeta u znanstvenom polju matematike na cijelom Sveučilištu. Osim toga, znanstvenici zaposleni na Odjelu su uključeni u mnoga istraživanja iz drugih područja i polja znanosti u kojima je potrebna primjena matematike, posebno i u dijelu koji se odnosi na primjenu metoda financijske matematike.
+
+DETALJNIJE O PROGRAMU
+    Trajanje programa: 30 sati (6 ECTS)
+    Maksimalan broj polaznika programa(u jednoj grupi): 20
+    Cijena programa: 3.000,00 HRK (bez PDV-a)
+    Elaborat programa: link (https://www.mathos.unios.hr/images/homepages/mirela/Elaborat_Matematika_u_financijskim_transakcijama.pdf)
+    VODITELJ PROGRAMA
+        prof.dr.sc. Mirta Benšić
+    NASTAVNICI I SURADNICI	
+        doc.dr.sc. Mirela Jukić Bokun
+        izv.prof.dr.sc. Zoran Tomljanović
+    SADRŽAJ PROGRAMA
+        Kamatni račun
+            Jednostavni i složeni kamatni račun
+            Nominalna, konformna, relativna i efektivna kamatna stopa
+            Primjene kamatnog računa
+                Tekući račun
+                Račun mjenica
+                Zatezne kamate
+                Štednja
+    Krediti
+        Potrošački krediti
+        Modeli otplate kredita i otplatne tablice
+            Otplata kredita jednakim anuitetima
+            Otplata kredita jednakim otplatnim kvotama
+            Otplata kredita u dogovorenim anuitetima
+            Otplata kredita uz promjenjivu kamatnu stopu
+        Interkalarna kamata
+        Konverzija kredita
+    Ocjene efikasnosti investicijskih projekata
+        Neto sadašnja vrijednost
+        Interna stopa profitabilnosti
+        Metoda razdoblja povrata
+    OSNOVNA LITERATURA
+        M. Crnjac, D. Jukić, R. Scitovski, Matematika, Sveučilište J. J. Strossmayera u Osijeku, Osijek, 1994.
+        S. A. Broverman, Mathematics of Investment and Credit, ACTEX Publications, Inc., Winsted, Connecticut, 2010.
+        B. Šego, Z. Lukač, Financijska matematika, Sveučilište u Zagrebu, Zagreb, 2014.
+        D. Bakić, D. Francišković, Financijska i aktuarska matematika, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku, 2013, skripta.
+        J. J. McCutcheon, W. F. Scott, An Introduction to the Mathematics of Finance, Institute and Faculty of Actuaries, Butterworth - Heinemann, 1986.
+        B. Relić, Gospodarska matematika, Sveučilišna tiskara d.o.o., Zagreb, 2002.
+ 
+OČEKIVANI ISHODI UČENJA
+Očekuje se da će nakon položenog programa polaznici:
+    Prepoznati i razumjeti osnovne pojmove financijske matematike
+    Razlikovati metode koje se koriste za izračune kod različitih vrsta kredita
+    Primjenjivati znanja za izračun dobiti ili gubitka kod različitih vrsta transakcija (štednja, tekući račun, račun mjenica, krediti i slično)
+    Analizirati i razumjeti elemente otplatne tablice kredita
+    Primjenjivati metode financijske matematike pri procjenama efikasnosti investicija
+    Samostalno izvoditi potrebne proračune uz upotrebu računala (Microsoft Excel)
+    Povezivati znanje i vještine iz financijske matematike sa stvarnim životom.
+
+NAČIN SUDJELOVANJA POLAZNIKA U IZVEDBI PROGRAMA
+    Tijekom izvođenja programa od polaznika će se tražiti aktivno sudjelovanje u rješavanju praktičnih zadataka uz korištenje računala. 
+
+NAČIN ZAVRŠETKA PROGRAMA
+    Usvojenost stečenih znanja i vještina polaznici će dokazati završnim radom koji će se sastojati od analize otplatne tablice kredita i procjene efikasnosti neke investicije te prezentacije dobivenih rezultata. Nakon uspješno obranjenog završnog rada polaznik stječe pravo na uvjerenje o završenom programu učenja Matematika u financijskim transakcijama i ostvaruje 6 ECTS bodova.
+
+INFORMACIJE O UPISIMA
+    UVJETI ZA UPIS I POHAĐANJE PROGRAMA
+        Edukacija u primjeni matematike u financijskim transakcijama namijenjena je osobama povezanim s bankarskim sektorom te svima koji žele razumjeti temeljne metode financijske matematike i koristiti ih za odabir financijske transakcije. Za praćenje predviđenog gradiva nije nužno matematičko predznanje veće od sadržaja četverogodišnjih srednjoškolskih programa matematike u Republici Hrvatskoj. Stoga se od polaznika za upis traži završena bilo koja srednja škola ili visokoškolski program koji svojim programima matematike osiguravaju znanje matematike navedene razine.
+    PRIJAVE
+        Sve upite možete poslati na e-mail adresu financijske.transakcije@mathos.hr.
+    INFORMACIJE O PLAĆANJU
+        Podaci za uplatu troškova programa cjeloživotnog učenja:
+            Platitelj: potrebni podaci su ime, prezime i adresa pristupnika
+            Primatelj: Odjel za matematiku, Trg Ljudevita Gaja 6, HR-31000 Osijek, OIB 78808975734
+            Ime i adresa banke: Hypo Alpe-Adria-Bank d.d., Slavonska avenija 6, HR-10000 Zagreb
+            IBAN: HR3725000091402000049
+            Poziv na broj: OIB pristupnika
+            Naznaka za plaćanje: Cjeloživotno učenje: Matematika u financijskim transakcijama - ime, prezime i OIB pristupnika

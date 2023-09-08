@@ -1,0 +1,30 @@
+OSNOVNE INFORMACIJE
+	Linearna optimizacija izvodi se u zimskom semestru kao obavezan predmet na drugoj godini sveučilišnog diplomskog studija matematike, smjer matematika i računarstvo te kao izborni predmet na smjeru financijska matematika i statistika.
+	Cilj kolegija je upoznati studente s modeliranjem, rješavanjem i interpretiranjem realnih problema koji se mogu svesti na problem linearne optimizacije. Tijekom kolegija će se obraditi i analizirati poznate numeričke metode za rješavanje problema linearne optimizacije kao i prezentirati odgovarajuće geometrijske interpretacije.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m128.pdf).
+	VODITELJ KOLEGIJA	
+		doc.dr.sc. Ivana Kuzmanović Ivičić (http://www.mathos.hr/~ikuzmano)	
+		KONZULTACIJE: Po dogovoru	
+	ASISTENT
+		Bartol Borozan
+		KONZULTACIJE: Po dogovoru	
+	OSNOVNA LITERATURA
+		D. Bertsimas, J. N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific, 1997.
+		I. Kuzmanović, K. Sabo, Linearno programiranje, Sveučilište J.J.Strossmayera u Osijeku-Odjel za matematiku, 2016. (pdf (http://www.mathos.unios.hr/images/uploads/628.pdf))
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Linearna optimizacija realizira se s fondom od 90 sati (tjedno 3 sata predavanja,  2 sata vježbi i 1 sat seminara). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: petkom 8.30-12	PREDAVAONICA: D-5	
+	VJEŽBE	TERMIN: petkom 12-14	PREDAVAONICA: D-8	
+
+
+PRAVILA POLAGANJA ISPITA
+	Vrednovanje znanja vršit će se na sljedeći način:
+		Pisat će se 2 kolokvija  koji će nositi svaki po 45 bodova. Na kolokvijima će biti teorija i zadaci.
+		Studenti koji ostvare ukupno najmanje 40  bodova, pri čemu na svakom kolokviju barem 15, položili su ispit. Ocjene će se formirati na sljedeći način:
+			40 - 59 dovoljan(2)
+			60 - 74 dobar(3)
+			75-  90 vrlo dobar(4)
+		Studenti koji žele ocjenu izvrstan, dobit će dodatno seminarski rad.
+		Usmeni ispit održat će se samo za studente koji su položili ispit ali nisu zadovoljni postignutim rezultatima. 

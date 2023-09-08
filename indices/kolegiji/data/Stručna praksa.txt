@@ -1,0 +1,47 @@
+Stručna praksa
+Z010 i Z013 (0+0+2) - 4 ECTS boda
+
+OSNOVNE INFORMACIJE
+	Stručna praksa izborni je kolegij na preddiplomskom studiju Matematika i računarstvo i diplomskom studiju Matematika. Student ovaj izborni kolegij može upisati samo jednom tijekom studija, uz pismeno odobrenje nositelja kolegija prema sljedećem:
+		studenti preddiplomskog studija Matematika i računarstvo kolegij mogu upisati na trećoj godini studija.
+		studenti diplomskog studija Matematika, smjera Matematika i računarstvo kolegij mogu upisati u bilo kojem semestru diplomskog studija
+		studenti diplomskog studija Matematika, smjera Financijska matematika i statistika kolegij mogu upisati ili u trećem ili u četvrtom semestru diplomskog studija.
+	Cilj kolegija je uvođenje studenata u primjenu stečenih znanja u praksi kao i omogućavanje obavljanja stručnih poslova i učenje iz iskustva drugih. Studenti obavljaju praksu radeći na konkretnim projektnim zadacima u odgovarajućim tvrtkama. Rezultati praktičnog rada se diskutiraju i prezentiraju u okviru seminara.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (Z010 (https://www.mathos.unios.hr/images/homepages/nsuvak/Strucna_praksa/Strucna_praksa.pdf), Z013 (https://www.mathos.unios.hr/images/sadrzaji_kolegija/z013.pdf)).
+	VODITELJ KOLEGIJA(matematika i računarstvo) 
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)	
+		KONZULTACIJE: (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/76#teaching)	
+	VODITELJ KOLEGIJA(financijska matematika i statistika)
+		izv.prof.dr.sc. Nenad Šuvak (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/118)	
+		KONZULTACIJE: (https://www.mathos.unios.hr/index.php/en/staff/academic-and-teaching-staff/118#teaching)	
+	OSNOVNA LITERATURA
+		Uputnica za obavljanje stručne prakse (docx (https://www.mathos.unios.hr/images/homepages/nsuvak/Uputnica_za_obavljanje_strucne_prakse.docx))  
+		Dnevnik stručne prakse ( (https://www.mathos.unios.hr/images/homepages/nsuvak/Strucna_praksa/Dnevnik_strucne_prakse.pdf)docx (https://www.mathos.unios.hr/images/pravniSpisi/Studenti/Obrasci/Dnevnik_strucne_prakse.docx))
+
+
+HODOGRAM PRAKSE
+	Molimo studente da se striktno drže sljedećih koraka: 
+		Pronalaženje tvrtke u kojoj će se obavljati stručna praksa student/ica obavlja samostalno ili uz pomoć voditelja izbornog kolegija Stručna praksa na Odjelu za matematiku:
+			izv.prof.dr.sc. D. Matijević za smjer matematika i računarstvo (domagoj@mathos.hr)
+			izv.prof.dr.sc. N. Šuvak za smjer financijska matematika i statistika (nsuvak@mathos.hr)
+		Radi odobravanja stručne prakse, voditelju na Odjelu za matematiku poslati e-mail s imenom tvrtke, vremenom trajanja prakse i kratkim opisom radnih zadataka.
+		Nakon odobrene stručne prakse popuniti podatke u obrascu uputnica za stručnu praksu i tako popunjen obrazac, zajedno sa skeniranom prednjom i stražnjom stranom osobne i zdravstvene iskaznice, poslati gđi. Lidiji Radan (lidija@mathos.hr).
+		Nakon primitka potvrdnog maila od gđe. Lidije Radan otići po potpisanu i ovjerenu uputnicu u tajništvo Odjela za matematiku.
+		Tijekom obavljanja stručne prakse voditi dnevnik u za to predviđenom obrascu.
+		Nakon završetka stručne prakse dnevnik treba potpisati voditelj prakse u tvrtki.
+		U terminu konzultacija dostaviti dnevnik stručne prakse voditelju na Odjelu za matematiku.
+
+Kada upisati stručnu praksu u indeks?
+	Preporučljivo je da studenti upišu kolegij Stručna praksa ukoliko su ili već odradili stručnu praksu (prema gornjem hodogramu), ili imaju dogovorenu praksu koja je odobrena od strane jednog od voditelja ovog kolegija. Ukoliko to nije slučaj, student/ica i dalje može upisati kolegij Stručna praksa. Međutim, u ovom slučaju se preporuča upisivanje dodatnog izbornog kolegija od barem 4ECTS-a u slučaju da student/ica ne uspije realizirati stručnu praksu u tekućoj godini. 
+
+PRAVILA IZVOĐENJA KOLEGIJA I VREDNOVANJA REZULTATA
+	Svaki student će imati dodijeljena dva mentora, jednog od strane Odjela za matematiku iz redova nositelja kolegija Stručna praksa, a drugog iz tvrtke u kojoj se obavlja stručna praksa. Da bi stručna praksa bila prihvatljiva mora nužno obuhvatiti fizički boravak studenta u prostorima tvrtke u trajanju od najmanje 80 sati (preporuka je barem 120 sati), te se u dogovoru s mentorom dodijeljenim od strane Odjela za matematiku mora unaprijed jasno definirati projektni zadatak kojeg će student samostalno ili u timu rješavati na stručnoj praksi. Student ovaj kolegij može upisati samo jednom tijekom studija, uz pismeno odobrenje nositelja kolegija koji samostalno procjenjuje zadovoljava li ponuđena praksa kvalitetom koja se očekuje. Nakon što student ili studentica dogovore stručnu praksu, a voditelj kolegija odobri praksu u sklopu ovog kolegija, Odjel za matematiku studenta/icu upućuje na obavljanje stručne prakse Uputnicom (https://www.mathos.unios.hr/images/homepages/dseverdi/Uputnica_za_obavljanje_strucne_prakse.docx). Stoga ovaj dokument student obavezno mora dobiti i dostaviti tvrtki prije početka obavljanja prakse. Studen je obvezan voditi „Dnevnik stručne prakse (https://www.mathos.unios.hr/images/pravniSpisi/Studenti/Obrasci/Dnevnik_strucne_prakse.docx)“, kojeg potpisuju oba mentora. Rezultati projektnog zadatka kojeg je student rješavao na praksi se izlažu u obliku prezentacije.
+
+Trajno otvoreni pozivi za prijavu na praksu:
+	Hrvatska agencija za nazor financijskih usluga (HANFA) (https://www.hanfa.hr/karijere/studentska-praksa/)
+	Hrvatska narodna banka (https://www.hnb.hr/o-nama/karijera/praksa)
+	Zagrebačka banka (https://www.zaba.hr/home/o-nama/karijere/studenti)
+	Privredna banka Zagreb (https://karijera.pbz.hr/jobs/studentskaucenicka-praksa-emu)
+	Hrvatska poštanska banka (https://www.hpb.hr/en/nasa-suradnja-sa-studentima-4541/3630)
+	Erste Bank (https://www.erstebank.hr/hr/karijere/ponuda-za-studente)
+	OTP banka (https://www.otpbanka.hr/hr/o-nama/karijera-u-otp-banci) (obrazac za prijavu prakse nalazi se na linku pri dnu stranice)

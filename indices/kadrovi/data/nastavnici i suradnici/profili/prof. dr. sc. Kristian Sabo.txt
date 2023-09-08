@@ -1,0 +1,160 @@
+General Information
+    Full Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-827
+    fax: +385-31-224-801
+    email: ksabo@mathos.hr
+    office: 18 (ground floor)
+    Google Scholar Profile (https://scholar.google.hr/citations?user=s-9esDwAAAAJ&hl=hr)
+    Research Interests
+        Applied and Numerical Mathematics (Curve Fitting, Parameter Estimation, Data Cluster Analysis) with applications in Agriculture, Economy, Chemistry, Politics, Electrical Engineering, Medicine, Food Industry, Mechanical Engineering.
+    Degrees
+        PhD in Numerical Mathematics, Department of Mathematics, University of Zagreb (http://www.math.hr), 2007
+        MSc in Mathematics, Department of Mathematics, University of Zagreb (http://www.math.hr), 2003
+        BSc in Mathematics and Computer Science, Department of Mathematics, University of Osijek (http://www.mathos.unios.hr/),  Croatia, 1999
+
+
+Publications
+    Journal Publications
+        R. Scitovski, K. Sabo, P. Nikić, S. Majstorović, A new efficient method for solving the multiple ellipse detection problem, Expert systems with applications (2023), prihvaćen za objavljivanje
+        R. Scitovski, K. Sabo, D. Grahovac, Š. Ungar, Minimal distance index — A new clustering performance metrics, Information Sciences (2023), prihvaćen za objavljivanje
+        R. Scitovski, K. Sabo, Š. Ungar, A method for forecasting the number of hospitalized and deceased based on the number of newly infected during a pandemic (https://www.nature.com/articles/s41598-022-08795-9#citeas), Scientific Reports - Nature 12/4773 (2022), 1-8
+        R. Scitovski, K. Sabo, A combination of k-means and DBSCAN algorithm for solving the multiple generalized circle detection problem (https://link.springer.com/article/10.1007/s11634-020-00385-9), Advances in Data Analysis and Classification 15 (2021), 83-89
+        R. Scitovski, S. Majstorović, K. Sabo, A combination of RANSAC and DBSCAN methods for solving the multiple geometrical object detection problem (https://link.springer.com/article/10.1007/s10898-020-00950-8), Journal of Global Optimization  79/3 (2021), 669-686
+        D. Jukić, K. Sabo, An existence criterion for the nonlinear $ell_p-$norm fitting problem (https://link.springer.com/article/10.1007%2Fs10100-021-00736-7), Central European Journal of Operations Research  29 (2021), 957-966
+        R. Scitovski, K. Sabo, DBSCAN-like clustering method for various data densities,  Pattern Analysis and Applications 23 (2020), 541-554
+        S. Hamedović, M. Benšić, K. Sabo, Estimating the width of a uniform distribution under symmetric measurement errors (http://link.springer.com/article/10.1007/s42952-019-00035-7), Journal of the Korean Statistical Society 49/3 (2020), 822-840
+        K. Sabo, D. Grahovac, R. Scitovski, Incremental method for multiple line detection problem - iterative reweighted approach (https://www.sciencedirect.com/science/article/pii/S0378475420302421?via%3Dihub), Mathematics and Computers in Simulation 178 (2020), 588-602
+        R. Scitovski, U. Radojičić, K. Sabo, A fast and efficient method for solving the multiple line detection problem (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/796.pdf ), Rad HAZU, Matematičke znanosti. 23 (2019), 123-140
+        R. Scitovski, K. Sabo, Application of the DIRECT algorithm to searching for an optimal k-partition of the set $AsubsetR^n$ and its application to the multiple circle detection problem (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/786.pdf ), Journal of Global Optimization  74/1 (2019), 63-77
+        R. Scitovski, K. Sabo, The adaptation of the k-means algorithm to solving the multiple ellipses detection problem by using an initial approximation obtained by the DIRECT global optimization algorithm, Applications of Mathematics 64/6 (2019), 663-678
+        A. Barron, M. Benšić, K. Sabo, A Note on Weighted Least Square Distribution Fitting and Full Standardization of the Empirical Distribution Function (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/747.pdf ), TEST 27/4 (2018), 946-967
+        S. Hamedović, M. Benšić, K. Sabo, P. Taler, Estimating the size of an object captured with error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/712.pdf ), Central European Journal of Operations Research  26/3 (2018), 771-781
+        S. Majstorović, K. Sabo, J. Jung, M. Klarić, Spectral methods for growth curve clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/740.pdf ), Central European Journal of Operations Research  26/3 (2018), 715-737
+        R. Scitovski, M. Vinković, K. Sabo, A. Kozić, A research project ranking method based on independent reviews by using the principle of the distance to the perfectly assessed project (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/713.pdf ), Croatian Operational Research Review  8 (2017), 429-442
+        M. Benšić, P. Taler, S. Hamedović, E.K. Nyarko, K. Sabo, LeArEst: Length and Area Estimation from Data Measured with Additive Error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/700.pdf ), The R Journal 9/2 (2017), 461-473
+        K. Sabo, Least absolute deviations problem for the Michaelis--Menten function (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/519.pdf ), Mathematica Slovaca 67/1 (2017), 245-262
+        M. Benšić, K. Sabo, Uniform distribution width estimation from data observed with Laplace additive error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/603.pdf ), Journal of the Korean Statistical Society 45/4 (2016), 505-517
+        K. Sabo, R. Scitovski, An approach to cluster separability in a partition (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/517.pdf ), Information Sciences 305 (2015), 208-218
+        M. Duspara, K. Sabo, A. Stoić, Acoustic emision as tool wear monitoring, Tehnički vjesnik 21/5 (2014), 1097-1101
+        R. Scitovski, K. Sabo, Analysis of the k-means algorithm in the case of data points occurring on the border of two or more clusters (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/42.pdf ), Knowledge-Based Systems  57 (2014), 1-7
+        K. Sabo, Center-based $l_1$-clustering method (https://www.amcs.uz.zgora.pl/?action=paper&paper=745), International Journal of Applied Mathematics and Computer Science 24/1 (2014), 151-163
+        P. Taler, K. Sabo, Color image segmentation based on intensity and hue clustering - a comparison of LS and LAD approaches (http://hrcak.srce.hr/ojs/index.php/crorr/article/view/2829/1739), Croatian Operational Research Review  5/2 (2014), 378-385
+        K. Sabo, R. Scitovski, Interpretation and optimization of the k-means algorithm (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/116.pdf ), Applications of Mathematics 59/4 (2014), 391-406
+        T. Marošević, K. Sabo, P. Taler, A mathematical model for uniform distribution voters per constituencies (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=143330), Croatian Operational Research Review  4 (2013), 63-64
+        R. Grbić, K. Scitovski, K. Sabo, R. Scitovski, Approximating surfaces by the moving least absolute deviations method, Applied mathematics and computation  219/9 (2013), 4387-4399
+        K. Sabo, R. Scitovski, I. Vazler, One-dimensional center-based $l_1$-clustering method (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/44.pdf ), Optimization Letters  7/1 (2013), 5-22
+        D. Vincek, G. Kralik, G. Kušec, K. Sabo, R. Scitovski, Application of growth functions in the prediction of live weight of domestic animals (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/122.pdf ), Central European Journal of Operations Research  20/4 (2012), 719-733
+        D. Vincek, K. Sabo, G. Kušec, G. Kralik, I. Đurkin, R. Scitovski, Modeling of pig growth by S-function - least absolute deviation approach for parameter estimation (http://arch-anim-breed.fbn-dummerstorf.de/content/2012/abs12_04.html#A7), Archiv für Tierzucht  55/4 (2012), 364-374
+        K. Sabo, R. Scitovski, P. Taler, Ravnomjerna raspodjela broja birača po izbornim jedinicama na bazi matematičkog modela, Hrvatska i komparativna javna uprava  14 (2012), 229-249
+        I. Vazler, K. Sabo, R. Scitovski, Weighted median of the data in solving least absolute deviations problems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/121.pdf ), Communications is Statistics - Theory and Methods  41/8 (2012), 1455-1465
+        I. Svalina, K. Sabo, G. Šimunović, Machined Surface Quality Prediction Models Based on Moving Least Squares and Moving Least Absolute Deviations Methods (https://www.mathos.unios.hr/ http:/www.springer.com/alert/urltracking.do?id=L3f88aaM903005Sad0c394 ), ﻿﻿International Journal of Advanced Manufacturing Technology  57 (2011), 1099-1106
+        K. Sabo, R. Scitovski, I. Vazler, M. Zekić-Sušac, Mathematical models of natural gas consumption (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/124.pdf ), Energy conversion and management  52/3 (2011), 1721-1727
+        K. Sabo, I. Vazler, R. Scitovski, Searching for a best LAD-solution of an overdetermined system of linear equations motivated by searching for a best LAD-hyperplane on the basis of given data (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/123.pdf ), Journal of optimization theory and applications  149 (2011), 293-314
+        M. Benšić, K. Sabo, Estimating a uniform distribution when data are measured with a normal additive error with unknown variance (http://www.tandfonline.com/doi/abs/10.1080/02331880903076645#.U7Uh9vKVOao), Statistics - a Journal of Theoretical and Applied Statistics 44/3 (2010), 235-246
+        K. Sabo, M. Benšić, Border estimation of a disc observed with random errors solved in two steps (DOI: 10.1016/j.cam.2008.10.010), Journal of Computational and Applied Mathematics, 229/1 (2009), 16-26
+        R. Cupec, R. Grbić, K. Sabo, R. Scitovski, Three points method for searching the best least absolute deviations plane (http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TY8-4WHMMDX-3-9&_cdi=5612&_user=3875467&_orig=browse&_coverDate=10%2F01%2F2009&_sk=997849996&view=c&wchp=dGLbVlz-zSkzS&md5=0a7eef0bcf3e7e7e88fd1d54c1e6dba0&ie=/sdarticle.pdf), Applied mathematics and computation  215 (2009), 983-994
+        K. Sabo, R. Scitovski, The best least absolute deviations line-properties and two efficient methods for its derivation, ANZIAM Journal  50 (2008), 185-198
+        D. Jukić, K. Sabo, R. Scitovski, A review of existence criteria for parameter estimation of the Michaelis-Menten regression model, Annali dell'Universita' di Ferrara  53 (2007), 281-291
+        M. Benšić, K. Sabo, Border Estimation of a Two-dimensional Uniform Distribution if Data are Measured with Additive Error, Statistics - a Journal of Theoretical and Applied Statistics 41 (2007), 311-319
+        M. Benšić, K. Sabo, Estimating the width of a uniform distribution when data are measured with additive normal errors with known variance, Computational Statistics & Data Analysis  51 (2007), 4731-4741
+        K. Hadeler, D. Jukić, K. Sabo, Least squares problems for Michaelis Menten kinetics, Mathematical Methods in the Applied Sciencies  30 (2007), 1231-1241
+        D. Jukić, R. Scitovski, K. Sabo, Total least squares fitting Michaelis-Menten enzyme kinetic model function, Journal of Computational and Applied Mathematics, 201 (2007), 230-246
+        R. Scitovski, G. Kralik, K. Sabo, T. Jelen, A mathematical model of controlling the growth of tissue in pigs, Applied mathematics and computation  181 (2006), 1126-1138
+        K. Sabo, A. Baumgartner, One method for searching the best discrete TL_p approximation, Mathematical Communications - Supplement  1 (2001), 63-68
+
+
+Publications - Refereed Proceedings, Others, Books, Softwares, Technical Reports 
+    Refereed Proceedings
+        D. Jukić, K. Sabo,  An existence criterion for the sum of squares (http://fgg-web.fgg.uni-lj.si/~/sdrobne/sor/), Symposium on Operational Research in Slovenia, SOR '19, Bled, 2019, 500-505
+        G. Kralik, K. Sabo, R. Scitovski, I. Vazler,  Solving parameter identification problem by the moving least absolute deviations method, 12th International Conference on Operational Research, Pula, Croatia, 2010, 297-307
+        I. Kuzmanović Ivičić, G. Kušec, K. Sabo, R. Scitovski,  A new method for searching an L_1 solution of an overdetermined system of linear equations and applications, 12th International Conference on Operational Research, Pula, Croatia, 2008, 309-319
+        I. Kuzmanović Ivičić, R. Scitovski, K. Sabo, I. Vazler,  The least absolute deviation linear regression: properties and two efficient methods, Aplimat 2008, Bratislava, 2008, 227-240
+        D. Jukić, R. Scitovski, A. Baumgartner, K. Sabo,  Localization of the least squares estimate for two-parametric regression models, 10th International Conference on Operational Research KOI 2004, Trogir, 2005, 165-174
+        D. Jukić, R. Scitovski, K. Sabo,  Total least squares problem for the Hubbert  function, Conference on Applied Mathematics and Scientific Computing, Brijuni, 2003, 217-234
+        D. Jukić, K. Sabo, G. Bokun,  Least squares problem for the Hubbert function, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 37-46
+        R. Scitovski, R. Šalić, K. Petrić, K. Sabo,  Optimal allocation of nodes for surface generating, 19th International Conference ITI 1997, Pula, Hrvatska, 1997, 383-408
+    Others
+        T. Milas, M. Ribičić Penava, K. Sabo, Primjene gama funkcije, Osječki matematički list 21/1 (2021), 1-18
+        A. Jovičić, K. Sabo, Formule za udaljenost točke do pravca u ravnini, u smislu $l_p-$udaljenosti, $1leq  p leq infty$, Math.e : hrvatski matematički elektronski časopis  26 (2016)
+        M. Zec, K. Sabo, Kvadratne interpolacijske metode za jednodimenzionalnu bezuvjetnu lokalnu optimizaciju, Matematički kolokvijum (MAT-KOL) 22 (2016), 5-19
+        L. Grgić, K. Sabo, Nelder-Meadova metoda: lokalna metoda direktne bezuvjetne optimizacije, Osječki matematički list 15 (2015), 131-143
+        K. Sabo, S. Scitovski, Lokacija objekata u ravnini, KoG (Scientific and Professional Journal of Croatian Society for Geometry and Graphics)  15 (2011), 57-62
+        K. Sabo, R. Scitovski, I. Vazler, Grupiranje podataka: klasteri, Osječki matematički list 10 (2010), 149-176
+        M. Meštrović, K. Sabo, Grafička ilustracija pogreške u rješenju sustava linearnih jednadžbi, Osječki matematički list 4 (2004), 87-94
+        K. Sabo, R. Scitovski, Prosti brojevi, Osječki matematički list 3 (2003), 13-20
+        K. Sabo, Minimizacija realne funkcije realne varijable, Osječki matematički list 1 (2001), 109-118
+        D. Jukić, K. Sabo, Najbolja aproksimacija rezultata eksperimentalnih mjerenja, Osječki matematički list 10 (1997)
+    Books
+        R. Scitovski, K. Sabo, F. Martínez-Álvarez, Š. Ungar, Cluster Analysis and Applications, Springer, Cham, 2021.
+        R. Scitovski, K. Sabo, Klaster analiza i prepoznavanje geometrijskih objekata (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/857.pdf ), Sveucilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2020.
+        R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/709.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2017.
+        I. Kuzmanović Ivičić, K. Sabo, Linearno programiranje (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/628.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2016.
+    Softwares
+        R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/694.rar ) (2017)
+        M. Benšić, K. Sabo, P. Taler, S. Hamedović, LeArEst softverski paket za R (https://cran.r-project.org/web/packages/LeArEst/) (2017)
+    Technical Reports
+        A. Barron, M. Benšić, K. Sabo, Standardizing the Empirical Distribution Function Yields the Chi-Square Statistic (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/621.pdf ) (2016)
+
+
+Projects
+    The optimization and statistical models and methods in recognizing properties of data sets measured with errors ( (https://www.mathos.unios.hr/index.php/osmomesip)Member of the scientific project entitled above. Project started on March 1, 2017. Principal investigator is professor Rudolf Scitovski from Department of Mathematics, University of Osijek. Project was supported by Croatian Science Foundation.)
+    Scientifically branded Pork (Member of the scientific project entitled above. Project started on June 1, 2014. Principal investigator is professor Goran Kušec from Faculty of Agriculture in Osijek, University of Osijek. Project was supported by Croatian Science Foundation.)
+
+
+Professional Activities
+    Editorial Board
+        Since 2012 member of the Editorial board of the Journal Osječki matematički list (http://www.mathos.hr/oml)
+        2001-2012 Editor in Chief of the Journal Osječki matematički list (http://www.mathos.hr/oml)
+    Committee Memberships
+        Member of the Organize Committee of the 4th Croatian Congress of Mathematics, Osijek, 2008
+        Member of the Organize Committee of the 15th International Conference on Operational Research, Croatian Operational Research Society, Osijek 2014
+    Refereeing/Reviewing
+        Journal of Computational and Applied Mathematics,  (http://www.journals.elsevier.com/journal-of-computational-and-applied-mathematics/)Journal of Classification,  (http://link.springer.com/journal/357)Mathematical Communications, (http://www.mathos.hr/mc)  International Journal of Applied and Mathematics and Computer Science,  (https://www.amcs.uz.zgora.pl/)Croatian Operational Research Review, TEAM 2012 International Conference,  (http://www.hdoi.hr/crorr-journal.)Osječki matematički list (http://www.mathos.hr/oml)
+    Service Activities
+        Since 2013 president of Osijek Mathematical Society (https://www.mathos.unios.hr/umo)
+        2001-2013 secretary of Osijek Mathematical Society (https://www.mathos.unios.hr/umo)
+    Selected Other Activities (in Croatian)
+        2014., 2015.  Večer matematike – manifestacija popularizacije matematike u organizaciji Udruge matematičara Osijeku i Hrvatskog matematičkog društva -  Član Programskog i Organizacijskog odbora
+        2013.-2016. Matematičke pripreme za učenike srednjih škola • Programski i Organizacijski koordinator
+        2000.-2016. Zimska matematička škola za učenike srednjih škola  • Član Programskog i Organizacijskog odbora
+        2000.-2016. Zimska matematička škola za učenike osnovnih škola  • Član Programskog i Organizacijskog odbora
+        2006.-2016. Stručni kolokvij Udruge matematičara Osijek • Član Programskog i Organizacijskog odbora
+        travanj, 2014.  Geometrijska škola Stanko Bilinski, Našice:  Predavanje za nastavnike: „Funkcija udaljenosti i odgovarajuća geometrija“,  Radionica za učenike: “Neki optimizacijski problemi u geometriji“
+        travanj, 2014. Festival znanosti Sveučilišta Josipa Jurja Strossmayera u Osijeku  Predavanje: „Što su optimalne izborne (upravne) jedinice i kako ih odrediti“.  Član Programskog i Organizacijskog odbora
+        listopad, 2012. Stručni skup: Nastava matematike i izazovi moderne tehnologije u organizaciji Udruge Normala - Predavanje: „Zaglađivanje podataka: metode, pristupi i primjene“
+
+
+Teaching
+    Past
+        Matematika I, Prehrambeno tehnološki fakultet (https://www.mathos.unios.hr/index.php/280)
+        Primijenjena i Inženjerska matematika, Prehrambeno tehnološki fakultet (https://www.mathos.unios.hr/index.php/304)
+        Grupiranje podataka: pristupi, metode i primjene (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/262),  ponedjeljak 13:00 - 17:00, RP2
+        Linearno programiranje (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/231), petak 8:00-12:00, RP1
+        Numerička analiza (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/205), srijeda 10:00-12:00, P24
+        Diferencijalni račun,  (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/179)utorak, 8:00 - 11:00, P 1
+        Matematički praktikum, srijeda, 8:00-10:00
+        Grupiranje podataka: pristupi, metode i primjene (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/262),  ponedjeljak 13:00 - 17:00, RP2
+        Linearno programiranje (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/231), utorak 15:00-19:00, P3
+        Numerička analiza (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/205), srijeda 8:00-10:00, P24
+        Primjene diferencijalnog i integralnog računa II (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/209), srijeda 10:00-11:00, P2
+    Teme zavšnih i diplomskih radova 
+        (pdf (https://www.mathos.unios.hr/images/homepages/ksabo/Prijedlozi_2017_2018.pdf))
+    Office Hours: 
+        Srijeda  11:00 - 12:00
+
+
+Personal
+    Birthdate: November 23, 1975
+    Birthplace: Kula, Vojvodina, Serbia
+    Family: married with Marija, and have one daughter Paula
+
+
+Links
+    Udžbenik Linearno programiranje (pdf (https://www.mathos.unios.hr/images/homepages/ksabo/Kuzmanovic_Sabo_final.pdf))
+    Pelud(rar (https://www.mathos.unios.hr/images/homepages/ksabo/IPACROSRB.rar))
+    Uvodni sat (pptx (https://www.mathos.unios.hr/images/homepages/ksabo/OM_Uvodni_sat_procelnika-2018-final.pptx))
+    Izvjesce procelnika 2017/2018 (pdf (https://www.mathos.unios.hr/images/homepages/ksabo/IZVJ-2017-2018-final.pdf))
+    Diplomski sveucilisni nastavnicki studij matematike i informatike (pdf (https://www.mathos.unios.hr/images/homepages/ksabo/SDNSMI-radni-prijedlog.pdf))
+    Izvješće pročelnika 2021./2022 (pdf (https://www.mathos.unios.hr/images/homepages/ksabo/IZVJ-2021-2022-KS.pdf))

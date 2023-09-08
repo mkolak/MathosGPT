@@ -1,0 +1,103 @@
+General Information
+    PhD 
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-822
+    fax: +385-31-224-801
+    email: icrnjac@mathos.hr
+    office: 35 (1st floor)
+    Research Interests
+        Partial Differential Equations
+        Functional Analysis
+        Optimal Design
+    Degrees
+        PhD in Mathematics, Department of Mathematics, University of Zagreb, Croatia, 2019. (PhD thesis)
+        MSc in Mathematics, Department of Mathematics, University of Osijek,Croatia, 2013. (Master thesis (https://www.mathos.unios.hr/images/homepages/ivuksano/Diplomski.pdf))
+        BSc in Mathematics, Department of Mathematics, University of Osijek, Croatia, 2011.
+
+
+Publications
+    Journal Publications
+        K. Burazin, I. Crnjac, M. Vrdoljak, Optimality criteria method in 2D linearized elasticity problems, Applied Numerical Mathematics 160 (2021), 192-204
+        K. Burazin, I. Crnjac,  Convergence of the optimality criteria method for multiple state optimal design problems (https://www.sciencedirect.com/science/article/pii/S0898122119304432?dgcid=coauthor), Computers & Mathematics with Applications 79/5 (2020), 1382-1392
+        K. Burazin, I. Crnjac, M. Vrdoljak, Variant of optimality criteria method for multiple state optimal design problems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/758.pdf ), Communications in Mathematical Sciences 16/6 (2018), 1597-1614
+        N. Antonić, K. Burazin, I. Crnjac, M. Erceg, Complex Friedrichs systems and applications (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/705.pdf ), Journal of Mathematical Physics 58/10 (2017), 1-22
+    Others
+        I. Soldo, I. Vuksanović, Pitagorine trojke, Matematičko fizički list 255 (2014), 179-184
+        K. Burazin, Z. Tomljanović, I. Vuksanović, Prigušivanje mehaničkih vibracija (http://e.math.hr/br24/BurazinEtAl), Math.e : hrvatski matematički elektronski časopis  24 (2014)
+
+
+Projects
+    Homogenization, dimension reduction and structural optimization in continuum mechanics
+        The project is funded by Croatian Science Foundation since 2018. Project leader: prof. Igor Velčić from               University of Zagreb.
+    Calculus of variations, optimisation and applications
+        This is bilateral project with Serbia (cofinanced by Serbian Ministry of Science) that run from 2016 until 2017. Project leaders: ass.prof. Krešimir Burazin from University of Osijek (croatian side) and prof. Nataša Krejić from University of Novi Sad (serbian side).
+    Damping optimization in mechanics systems excited with external force
+        Project run in 2015/16, supported by University of Osijek. Project leader: Zoran Tomljanović
+    Evolution Fredrichs systems
+        Project run in 2013/14., supported by University of Osijek. Project leader: Krešimir Burazin. 
+
+
+Professional Activities
+    Schools and Conferences
+        Tenth Conference on Applied Mathematics and Scientific Computing (https://applmath.math.pmf.unizg.hr/2020/#/), Brijuni, Croatia, September, 14-18, 2020
+        VIII Partial Differential Equations, Optimal Design and Numerics (http://benasque.org/2019pde/), Benasque, Spain, August 18-24,2019
+        International Conference on Elliptic and Parabolic Problems (https://www.math.uzh.ch/index.php?id=konferenzdetails0&L=1&key1=545), Gaeta, Italy, May 20-24, 2019
+        Ninth Conference on Applied Mathematics and Scientific Computing (http://applmath.math.pmf.unizg.hr/#/), Šibenik, Croatia, September 17-20, 2018
+        International Workshop on Optimal Control of Dynamical Systems and Applications (http://workshop.mathos.unios.hr/), Osijek, Croatia, June 20-22, 2018
+        International Workshop on PDEs: analysis and modelling (http://riemann.math.hr/weconmapp/workshop2018/), Zagreb, Croatia, June 17-20, 2018
+        Applications of Generalized Functions in Harmonic Analysis, Mechanics, Stochastics and PDE (https://www.dmi.uns.ac.rs/hamsapde/index.html), Novi Sad, Serbia, October 25 - 27, 2017
+        VII (http://benasque.org/2017pde/) Partial Differential Equations, Optimal Design and Numerics (http://benasque.org/2017pde/), Benasque, Spain, August 20-29, 2017
+        Young Women in Harmonic Analysis and PDE, Bonn, Germany, December, 2-4 2016
+        International Conference on Generalized Functions, Dubrovnik, Croatia, September 4-9, 2016
+        6th Croatian Mathematical Congress, Zagreb, Croatia, June 14-17, 2016
+        International Workshop on PDEs: analysis and modelling; Celebrating 80th anniversary of professor Nedžad Limić, Zagreb, Croatia, June 19-22,2016
+        GMT, Shape Optimisation and Free Boundaries, Trieste, Italy, October 25-28, 2016
+        DAAD Intensive course on New Aspects of the Time Frequency Analysis involving Frechet Frames, Novi Sad, Serbia, September, 2016
+        Workshop on Model Reduction Methods and Optimization, Opatija, Croatia, September 2016
+        Student visit to the University of Zagreb in the frame of DAAD project "Center of Excellence of Applications of Mathematics", May 2 - June 1, 2016
+        Partial Differential Equations, Optimal Design and Numerics, Benasque, Spain, August-September 2015
+        Winter School on Calculus of Variations in Physics and Materials Science, Würzburg, Germany, February 2014
+        Nonsmooth Analysis with Applications, Cluj-Napoca, Romania, September 2014
+        Workshop New Trends in Calculus of Variations, Linz, Austria, October 2104
+        Student visit to the University of Dubrovnik in the frame of DAAD project "Center of Excellence of Applications of Mathematics", June, 2014
+        PDEs, Continuum Mechanics and Numerical Analysis, A Conference in Honor of the 80th Anniversary of professor Ibrahim Aganović, Dubrovnik, May 2014
+        Microlocal Analysis, Wave Fronts and Propagation of Singularities, Novi Sad,Serbia, September 2013
+        DAAD International School on Linear Optimal Control of Dynamic Systems, Osijek, September 2013
+    Service Activities
+        Simpozij studenata doktorskih studija PMF-a u Zagrebu, 9. veljače 2018. - postersko priopćenje
+        2017.  predavanje "Svemir i matematika" u okviru tjedna svemira u III. Gimnaziji u Osijeku 
+        Festival znanosti:
+            2011. radionica - Primjena Sunčeve svjetlosti pri određenim izračunavanjima
+            2012. radionica - 10 u svijetu računala
+            2013. radionica - Koji broj je sljedeći?
+            2014. radionica - Brojevi u valovima
+            2016. radionica - Origami
+        Zimska škola matematike:
+            2011. predavanje - Pitagorine trojke
+        Pripreme studenata za natjecanje 2014./2015. (IMC (https://www.mathos.unios.hr/index.php/studenti/imc))
+        Pripreme studenata za natjecanje 2015./2016. (IMC (https://www.mathos.unios.hr/index.php/studenti/imc))
+        Pripreme studenata za natjecanje 2016./2017. (IMC (https://www.mathos.unios.hr/index.php/studenti/imc))
+        Pripreme studenata za natjecanje 2017./2018. (IMC (https://www.mathos.unios.hr/index.php/studenti/imc))
+
+
+Teaching
+    Current
+        Kompleksna analiza (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/190)
+        Normirani prostori (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/674)
+    Past
+        Funkcije više varijabli (https://www.mathos.unios.hr/index.php/189)
+        Metrički prostori (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/230)
+        Diferencijalne jednadžbe (http://www.fizika.unios.hr/dj/) (Odjel za fiziku)
+        Matematika I (Građevinski fakultet u Osijeku)
+        Matematika II (Građevinski fakultet u Osijeku)
+        Matematika (Poljoprivredni fakultet u Osijeku, izvanredni studij)
+        Matematika (https://www.mathos.unios.hr/index.php/276) (Poljoprivredni fakultet u Osijeku, stručni studij)
+    Office Hours:
+        Konzultacije su moguće nakon nastave i po dogovoru. 
+
+
+Personal
+    Birthdate: September 29, 1989
+    Birthplace: Osijek
+    Family: married, one child

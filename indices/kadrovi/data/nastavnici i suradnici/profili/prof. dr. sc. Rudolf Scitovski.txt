@@ -1,0 +1,315 @@
+General Information
+    Full Professor                             
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-800
+    fax: +385-31-224-801
+    email: scitowsk@mathos.hr
+    office: 23 (first floor)
+    Google Scholar Profile (https://scholar.google.hr/citations?user=b79tXWoAAAAJ&hl=en&oi=ao)
+    ResearchGate Profile (https://www.researchgate.net/profile/Rudolf_Scitovski)
+    Research Interests
+        Numerical and applied mathematics – especially least squares and least absolute deviationsons problems, clustering and applications, global optimization
+        Applications: solving parameter identification problems in mathematical problems (medicine, agriculture, economy, marketing, electrical engineering, food industry), smoothing the data (electrical engineering, medicine), surface generating on the basis of experimental data (electrical engineering, selection in livestock industry, civil engineering), clustering (multiple geometrical objects detection (lines, circles, ellipses, generalized circles), earthquake zoning, medicine, short-term and long-term energy products prediction, short-term and long-term water level prediction, acceptable definition of constituencies, image and signal analysis) 
+    Degrees
+        PhD in mathematics, Department of Mathematics, University of Zagreb (http://www.math.hr), 1984.
+        MSc in mathematics, Department of Mathematics, University of Zagreb (http://www.math.hr), 1977.
+        BSc in mathematics, Department of Mathematics, University of Zagreb (http://www.math.hr), 1974.
+
+
+Publications - Journal Publications part 1
+    Journal Publications
+        R. Scitovski, K. Sabo, P. Nikić, S. Majstorović, A new efficient method for solving the multiple ellipse detection problem, Expert systems with applications (2023), prihvaćen za objavljivanje
+        R. Scitovski, K. Sabo, D. Grahovac, Š. Ungar, Minimal distance index — A new clustering performance metrics, Information Sciences (2023), prihvaćen za objavljivanje
+        R. Scitovski, K. Sabo, Š. Ungar, A method for forecasting the number of hospitalized and deceased based on the number of newly infected during a pandemic (https://www.nature.com/articles/s41598-022-08795-9#citeas), Scientific Reports - Nature 12/4773 (2022), 1-8
+        R. Scitovski, K. Sabo, A combination of k-means and DBSCAN algorithm for solving the multiple generalized circle detection problem (https://link.springer.com/article/10.1007/s11634-020-00385-9), Advances in Data Analysis and Classification 15 (2021), 83-89
+        R. Scitovski, S. Majstorović, K. Sabo, A combination of RANSAC and DBSCAN methods for solving the multiple geometrical object detection problem (https://link.springer.com/article/10.1007/s10898-020-00950-8), Journal of Global Optimization  79/3 (2021), 669-686
+        A. Morales-Esteban, F. Martínez-Álvarez, S. Scitovski, R. Scitovski, Mahalanobis clustering for the determination of incidence-magnitude seismic parameters for the Iberian Peninsula and the Republic of Croatia (https://www.sciencedirect.com/science/article/pii/S0098300421001667), Computers & Geosciences 156 (2021)
+        M. Balog, V. Ivić, R. Scitovski, I. Labak, K.F. Szűcs, R. Gaspar, S.G. Vari, M. Heffer-Lauc, A mathematical model reveals sex-specific changes in glucose and insulin tolerance during rat puberty and maturation, Croatian medical journal 61/2 (2020), 107-118
+        R. Scitovski, K. Sabo, DBSCAN-like clustering method for various data densities,  Pattern Analysis and Applications 23 (2020), 541-554
+        K. Sabo, D. Grahovac, R. Scitovski, Incremental method for multiple line detection problem - iterative reweighted approach (https://www.sciencedirect.com/science/article/pii/S0378475420302421?via%3Dihub), Mathematics and Computers in Simulation 178 (2020), 588-602
+        M. Heffer-Lauc, V. Ivić, R. Scitovski, Parameter identification in the mathematical model of glucose and insulin tolerance test – the mathematical markers of diabetes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/864.pdf ), Croatian Operational Research Review  11 (2020), 121-133
+        R. Scitovski, U. Radojičić, K. Sabo, A fast and efficient method for solving the multiple line detection problem (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/796.pdf ), Rad HAZU, Matematičke znanosti. 23 (2019), 123-140
+        R. Scitovski, K. Sabo, Application of the DIRECT algorithm to searching for an optimal k-partition of the set $AsubsetR^n$ and its application to the multiple circle detection problem (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/786.pdf ), Journal of Global Optimization  74/1 (2019), 63-77
+        M. Zekić-Sušac, M. Knežević, R. Scitovski, Modeling the cost of energy in public sector buildings by linear regression and deep learning (https://link.springer.com/article/10.1007%2Fs10100-019-00643-y), Central European Journal of Operations Research  28 (2019), 1-16
+        R. Scitovski, K. Sabo, The adaptation of the k-means algorithm to solving the multiple ellipses detection problem by using an initial approximation obtained by the DIRECT global optimization algorithm, Applications of Mathematics 64/6 (2019), 663-678
+        M. Zekić-Sušac, R. Scitovski, A. Has, Cluster analysis and artificial neural networks in predicting energy efficiency of public buildings as a cost-saving approach, Croatian Review of Economic, Business and Social Statistics (CREBSS) 4/2 (2018), 57-66
+        R. Scitovski, M. Zekić-Sušac, A. Has, Searching for an optimal partition of incomplete data with application in modeling energy efficiency of public buildings, Croatian Operational Research Review  9/2 (2018), 255-268
+        R. Scitovski, A new global optimization method for a symmetric Lipschitz continuous function and the application to searching for a globally optimal partition of a one-dimensional set (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/668.pdf ), Journal of Global Optimization  68 (2017), 713-727
+        R. Scitovski, M. Vinković, K. Sabo, A. Kozić, A research project ranking method based on independent reviews by using the principle of the distance to the perfectly assessed project (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/713.pdf ), Croatian Operational Research Review  8 (2017), 429-442
+        G. Asencio-Cortés, S. Scitovski, R. Scitovski, F. Martínez-Álvarez, Temporal analysis of Croatian seismogenic zones to improve eartquake magnitude prediction, Earth Science Informatics 10 (2017), 303-320
+        R. Grbić, D. Grahovac, R. Scitovski, A method for solving the multiple ellipses detection problem, Pattern Recognition 60 (2016), 824-834
+        R. Scitovski, I. Vidović, D. Bajer, A new fast fuzzy partitioning algorithm (https://www.mathos.unios.hr/ http:/dx.doi.org/10.1016/j.eswa.2015.12.034), Expert systems with applications 51 (2016), 143-150
+        Ž. Turkalj, D. Markulak, S. Singer, R. Scitovski, Research project grouping and ranking by using adaptive Mahalanobis clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/611.pdf ), Croatian Operational Research Review  7 (2016), 81-96
+        K. Sabo, R. Scitovski, An approach to cluster separability in a partition (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/517.pdf ), Information Sciences 305 (2015), 208-218
+        R. Scitovski, T. Marošević, Multiple circle detection based on center-based clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/303.pdf ), Pattern Recognition Letters 52 (2015), 9-16
+        T. Marošević, R. Scitovski, Multiple ellipse fitting by center-based clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/539.pdf ), Croatian Operational Research Review  6/1 (2015), 43-53
+        A. Morales-Esteban, F. Martínez-Álvarez, S. Scitovski, R. Scitovski, A fast partitioning algorithm using adaptive Mahalanobis clustering with application to seismic zoning (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/304.pdf ), Computers & Geosciences 73 (2014), 132-141
+
+
+Publications - Journal Publications part 2
+    Journal Publications
+        I. Vidović, D. Bajer, R. Scitovski, A new fusion algorithm for fuzzy clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/540.pdf ), Croatian Operational Research Review  5/2 (2014), 149-159
+        R. Scitovski, K. Sabo, Analysis of the k-means algorithm in the case of data points occurring on the border of two or more clusters (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/42.pdf ), Knowledge-Based Systems  57 (2014), 1-7
+        I. Vidović, R. Scitovski, Center-based clustering for line detection and application to crop rows detection (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/488.pdf ), Computers and Electronics in Agriculture 109 (2014), 212-220
+        K. Sabo, R. Scitovski, Interpretation and optimization of the k-means algorithm (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/116.pdf ), Applications of Mathematics 59/4 (2014), 391-406
+        R. Scitovski, S. Scitovski, A fast partitioning algorithm and its application to earthquake investigation (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/285.pdf ), Computers & Geosciences 59 (2013), 124-131
+        R. Grbić, E.K. Nyarko, R. Scitovski, A modification of the DIRECT method for Lipschitz global optimization for a symmetric function (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/284.pdf ), Journal of Global Optimization  57/4 (2013), 1193-1212
+        R. Grbić, K. Scitovski, K. Sabo, R. Scitovski, Approximating surfaces by the moving least absolute deviations method, Applied mathematics and computation  219/9 (2013), 4387-4399
+        K. Sabo, R. Scitovski, I. Vazler, One-dimensional center-based $l_1$-clustering method (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/44.pdf ), Optimization Letters  7/1 (2013), 5-22
+        D. Vincek, G. Kralik, G. Kušec, K. Sabo, R. Scitovski, Application of growth functions in the prediction of live weight of domestic animals (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/122.pdf ), Central European Journal of Operations Research  20/4 (2012), 719-733
+        D. Vincek, K. Sabo, G. Kušec, G. Kralik, I. Đurkin, R. Scitovski, Modeling of pig growth by S-function - least absolute deviation approach for parameter estimation (http://arch-anim-breed.fbn-dummerstorf.de/content/2012/abs12_04.html#A7), Archiv für Tierzucht  55/4 (2012), 364-374
+        K. Sabo, R. Scitovski, P. Taler, Ravnomjerna raspodjela broja birača po izbornim jedinicama na bazi matematičkog modela, Hrvatska i komparativna javna uprava  14 (2012), 229-249
+        R. Scitovski, S. Maričić, S. Scitovski, Short-term and long-term water level prediction at one river measurement location, Croatian Operational Research Review  3 (2012), 80-90
+        I. Vazler, K. Sabo, R. Scitovski, Weighted median of the data in solving least absolute deviations problems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/121.pdf ), Communications is Statistics - Theory and Methods  41/8 (2012), 1455-1465
+        K. Sabo, R. Scitovski, I. Vazler, M. Zekić-Sušac, Mathematical models of natural gas consumption (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/124.pdf ), Energy conversion and management  52/3 (2011), 1721-1727
+        K. Sabo, I. Vazler, R. Scitovski, Searching for a best LAD-solution of an overdetermined system of linear equations motivated by searching for a best LAD-hyperplane on the basis of given data (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/123.pdf ), Journal of optimization theory and applications  149 (2011), 293-314
+        J. Cumin, B. Grizelj, R. Scitovski, Numerical solving of ballistic flight equations for big bore air rifle, Tehnički vjesnik 16 (2009), 41-46
+        K. Scitovski, R. Scitovski, Rekonstrukcija meridijanske elipse na bazi eksperimentalnih mjerenja,  Croatian Journal of Education 63/86 (2009), 19-35
+        R. Cupec, R. Grbić, K. Sabo, R. Scitovski, Three points method for searching the best least absolute deviations plane (http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TY8-4WHMMDX-3-9&_cdi=5612&_user=3875467&_orig=browse&_coverDate=10%2F01%2F2009&_sk=997849996&view=c&wchp=dGLbVlz-zSkzS&md5=0a7eef0bcf3e7e7e88fd1d54c1e6dba0&ie=/sdarticle.pdf), Applied mathematics and computation  215 (2009), 983-994
+        G. Kušec, G. Kralik, R. Scitovski, D. Vincek, B. Ulrich, Growth characteristics of hybrid pig predicted by means of asymmetric s-curve, Poljoprivreda 14 (2008), 55-61
+        J. Sertić, D. Kozak, R. Scitovski, LU-decomposition for solving sparse band matrix systems and its application in thin plate bending, Transactions of FAMENA 32 (2008), 41-48
+        D. Jukić, M. Benšić, R. Scitovski, On the existence of the nonlinear weighted least squares estimate for a three-parameter Weibull distribution (http://www.sciencedirect.com/science/article/pii/S0167947308001588), Computational Statistics & Data Analysis  52/9 (2008), 4502-4511
+        K. Sabo, R. Scitovski, The best least absolute deviations line-properties and two efficient methods for its derivation, ANZIAM Journal  50 (2008), 185-198
+        D. Jukić, K. Sabo, R. Scitovski, A review of existence criteria for parameter estimation of the Michaelis-Menten regression model, Annali dell'Universita' di Ferrara  53 (2007), 281-291
+        T. Marošević, R. Scitovski, An application of a few inequalities among sequences in electoral systems (http://dx.doi.org/10.1016/j.amc.2007.04.050), Applied mathematics and computation  194 (2007), 480-485
+        D. Jukić, R. Scitovski, K. Sabo, Total least squares fitting Michaelis-Menten enzyme kinetic model function, Journal of Computational and Applied Mathematics, 201 (2007), 230-246
+        R. Scitovski, G. Kralik, K. Sabo, T. Jelen, A mathematical model of controlling the growth of tissue in pigs, Applied mathematics and computation  181 (2006), 1126-1138
+        D. Jukić, R. Scitovski, Least squares fitting Gaussian type  curve (http://www.sciencedirect.com/science/article/pii/S0096300304004928), Applied mathematics and computation  167/1 (2005), 286-298
+        G. Kralik, R. Scitovski, Z. Škrtić, Model procjene rasta teškog hibrida pura, Krmiva 47 (2005), 195-205
+        D. Jukić, G. Kralik, R. Scitovski, Least squares fitting Gompertz curve (http://www.sciencedirect.com/science/article/pii/S0377042704000032), Journal of Computational and Applied Mathematics, 169/2 (2004), 359-375
+        E.K. Nyarko, R. Scitovski, Solving the parameter identification problem of mathematical model using genetic algorithms, Applied mathematics and computation  153 (2004), 651-658
+        D. Jukić, R. Scitovski, Solution of the least-squares problem for logistic function (http://www.sciencedirect.com/science/article/pii/S037704270200910X), Journal of Computational and Applied Mathematics, 156/1 (2003), 159-177
+        R. Scitovski, M. Meler, Solving Parameter Estimation Problem in New Product Diffusion Models, Applied mathematics and computation  127 (2002), 45-63
+
+
+Publications - Journal Publications part 3
+    Journal Publications
+        I. Vidović, D. Bajer, R. Scitovski, A new fusion algorithm for fuzzy clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/540.pdf ), Croatian Operational Research Review  5/2 (2014), 149-159
+        R. Scitovski, K. Sabo, Analysis of the k-means algorithm in the case of data points occurring on the border of two or more clusters (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/42.pdf ), Knowledge-Based Systems  57 (2014), 1-7
+        I. Vidović, R. Scitovski, Center-based clustering for line detection and application to crop rows detection (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/488.pdf ), Computers and Electronics in Agriculture 109 (2014), 212-220
+        K. Sabo, R. Scitovski, Interpretation and optimization of the k-means algorithm (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/116.pdf ), Applications of Mathematics 59/4 (2014), 391-406
+        R. Scitovski, S. Scitovski, A fast partitioning algorithm and its application to earthquake investigation (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/285.pdf ), Computers & Geosciences 59 (2013), 124-131
+        R. Grbić, E.K. Nyarko, R. Scitovski, A modification of the DIRECT method for Lipschitz global optimization for a symmetric function (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/284.pdf ), Journal of Global Optimization  57/4 (2013), 1193-1212
+        R. Grbić, K. Scitovski, K. Sabo, R. Scitovski, Approximating surfaces by the moving least absolute deviations method, Applied mathematics and computation  219/9 (2013), 4387-4399
+        K. Sabo, R. Scitovski, I. Vazler, One-dimensional center-based $l_1$-clustering method (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/44.pdf ), Optimization Letters  7/1 (2013), 5-22
+        D. Vincek, G. Kralik, G. Kušec, K. Sabo, R. Scitovski, Application of growth functions in the prediction of live weight of domestic animals (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/122.pdf ), Central European Journal of Operations Research  20/4 (2012), 719-733
+        D. Vincek, K. Sabo, G. Kušec, G. Kralik, I. Đurkin, R. Scitovski, Modeling of pig growth by S-function - least absolute deviation approach for parameter estimation (http://arch-anim-breed.fbn-dummerstorf.de/content/2012/abs12_04.html#A7), Archiv für Tierzucht  55/4 (2012), 364-374
+        K. Sabo, R. Scitovski, P. Taler, Ravnomjerna raspodjela broja birača po izbornim jedinicama na bazi matematičkog modela, Hrvatska i komparativna javna uprava  14 (2012), 229-249
+        R. Scitovski, S. Maričić, S. Scitovski, Short-term and long-term water level prediction at one river measurement location, Croatian Operational Research Review  3 (2012), 80-90
+        I. Vazler, K. Sabo, R. Scitovski, Weighted median of the data in solving least absolute deviations problems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/121.pdf ), Communications is Statistics - Theory and Methods  41/8 (2012), 1455-1465
+        K. Sabo, R. Scitovski, I. Vazler, M. Zekić-Sušac, Mathematical models of natural gas consumption (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/124.pdf ), Energy conversion and management  52/3 (2011), 1721-1727
+        K. Sabo, I. Vazler, R. Scitovski, Searching for a best LAD-solution of an overdetermined system of linear equations motivated by searching for a best LAD-hyperplane on the basis of given data (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/123.pdf ), Journal of optimization theory and applications  149 (2011), 293-314
+        J. Cumin, B. Grizelj, R. Scitovski, Numerical solving of ballistic flight equations for big bore air rifle, Tehnički vjesnik 16 (2009), 41-46
+        K. Scitovski, R. Scitovski, Rekonstrukcija meridijanske elipse na bazi eksperimentalnih mjerenja,  Croatian Journal of Education 63/86 (2009), 19-35
+        R. Cupec, R. Grbić, K. Sabo, R. Scitovski, Three points method for searching the best least absolute deviations plane (http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TY8-4WHMMDX-3-9&_cdi=5612&_user=3875467&_orig=browse&_coverDate=10%2F01%2F2009&_sk=997849996&view=c&wchp=dGLbVlz-zSkzS&md5=0a7eef0bcf3e7e7e88fd1d54c1e6dba0&ie=/sdarticle.pdf), Applied mathematics and computation  215 (2009), 983-994
+        G. Kušec, G. Kralik, R. Scitovski, D. Vincek, B. Ulrich, Growth characteristics of hybrid pig predicted by means of asymmetric s-curve, Poljoprivreda 14 (2008), 55-61
+        J. Sertić, D. Kozak, R. Scitovski, LU-decomposition for solving sparse band matrix systems and its application in thin plate bending, Transactions of FAMENA 32 (2008), 41-48
+        D. Jukić, M. Benšić, R. Scitovski, On the existence of the nonlinear weighted least squares estimate for a three-parameter Weibull distribution (http://www.sciencedirect.com/science/article/pii/S0167947308001588), Computational Statistics & Data Analysis  52/9 (2008), 4502-4511
+        K. Sabo, R. Scitovski, The best least absolute deviations line-properties and two efficient methods for its derivation, ANZIAM Journal  50 (2008), 185-198
+        D. Jukić, K. Sabo, R. Scitovski, A review of existence criteria for parameter estimation of the Michaelis-Menten regression model, Annali dell'Universita' di Ferrara  53 (2007), 281-291
+        T. Marošević, R. Scitovski, An application of a few inequalities among sequences in electoral systems (http://dx.doi.org/10.1016/j.amc.2007.04.050), Applied mathematics and computation  194 (2007), 480-485
+        D. Jukić, R. Scitovski, K. Sabo, Total least squares fitting Michaelis-Menten enzyme kinetic model function, Journal of Computational and Applied Mathematics, 201 (2007), 230-246
+        R. Scitovski, G. Kralik, K. Sabo, T. Jelen, A mathematical model of controlling the growth of tissue in pigs, Applied mathematics and computation  181 (2006), 1126-1138
+        D. Jukić, R. Scitovski, Least squares fitting Gaussian type  curve (http://www.sciencedirect.com/science/article/pii/S0096300304004928), Applied mathematics and computation  167/1 (2005), 286-298
+        G. Kralik, R. Scitovski, Z. Škrtić, Model procjene rasta teškog hibrida pura, Krmiva 47 (2005), 195-205
+        D. Jukić, G. Kralik, R. Scitovski, Least squares fitting Gompertz curve (http://www.sciencedirect.com/science/article/pii/S0377042704000032), Journal of Computational and Applied Mathematics, 169/2 (2004), 359-375
+        E.K. Nyarko, R. Scitovski, Solving the parameter identification problem of mathematical model using genetic algorithms, Applied mathematics and computation  153 (2004), 651-658
+        D. Jukić, R. Scitovski, Solution of the least-squares problem for logistic function (http://www.sciencedirect.com/science/article/pii/S037704270200910X), Journal of Computational and Applied Mathematics, 156/1 (2003), 159-177
+        R. Scitovski, M. Meler, Solving Parameter Estimation Problem in New Product Diffusion Models, Applied mathematics and computation  127 (2002), 45-63
+        R. Scitovski, G. Kralik, G. Kušec, Modeli procjene maksimuma rasta kod provenijencije tovnih pilića, Poljoprivreda 7 (2001), 37-41
+        R. Scitovski, D. Jukić, I. U
+
+
+Publications - Journal Publications part 4
+    Journal Publications        
+        R. Scitovski, G. Kralik, G. Kušec, Modeli procjene maksimuma rasta kod provenijencije tovnih pilića, Poljoprivreda 7 (2001), 37-41
+        R. Scitovski, D. Jukić, I. Urbiha, Solving the parameter identification problem by using $TL_p$ spline, Mathematical Communications - Supplement  1/1 (2001), 81-91
+        D. Jukić, R. Scitovski, The best least squares approximation problem for a 3-parametric exponential regression model (http://journals.cambridge.org/download.php?file=%2FANZ%2FANZ42_02%2FS1446181100011901a.pdf&code=3467a1138260393bcc1b3917051f9ad5), ANZIAM Journal  42/2 (2000), 254-266
+        R. Scitovski, D. Jukić,  Analysis of solutions of the least squares problem (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=2768), Mathematical Communications 4/1 (1999), 53-61
+        G. Kralik, T. Jelen, R. Scitovski, G. Kušec, Analysis of phenotypic expression and growth of gilts using asymmetric S-function, Krmiva 41 (1999), 159-165
+        G. Kralik, G. Kušec, R. Scitovski, Z. Škrtić, A. Petričević, Growth and carcass quality of broilers, Czech J. Animal Science 44 (1999), 233-237
+        D. Jukić, R. Scitovski, H. Späth, Partial linearization of one class of the nonlinear total least squares problem by using the inverse model function (http://link.springer.com/article/10.1007/s006070050019), Computing 62/2 (1999), 163-178
+        R. Scitovski, Š. Ungar, D. Jukić,  Approximating surfaces by moving total least squares method (http://www.sciencedirect.com/science/article/pii/S0096300397100777), Applied mathematics and computation  93/2-3 (1998), 219-232
+        D. Jukić, T. Marošević, R. Scitovski, Discrete total lp-norm approximation problem for the exponential function (http://www.sciencedirect.com/science/article/pii/S0096300397100686), Applied mathematics and computation  94/2-3 (1998), 137-143
+        D. Jukić, R. Scitovski, Existence results for special nonlinear total least squares problem (http://www.sciencedirect.com/science/article/pii/S0022247X98960735), Journal of Mathematical Analysis and Applications 226/2 (1998), 348-363
+        R. Scitovski, Analysis of parameter identification problem, Applied mathematics and computation  82 (1997), 39-55
+        D. Jukić, R. Scitovski, Existence of optimal solution for exponential model by least squares (http://www.sciencedirect.com/science/article/pii/S0377042796001604), Journal of Computational and Applied Mathematics, 78/2 (1997), 317-328
+        R. Scitovski, Surface generating on the basis of experimental data, Mathematical Communications 2 (1997), 59-67
+        D. Jukić, R. Scitovski,  The existence of the optimal parameters of the generalized logistic function (http://www.sciencedirect.com/science/article/pii/S0096300395002510), Applied mathematics and computation  77/2-3 (1996), 281-294
+        R. Scitovski, D. Jukić, A method for solving the parameter identification problem  for ordinary differential equations of the second order (http://www.sciencedirect.com/science/article/pii/0096300395000984), Applied mathematics and computation  74/2-3 (1996), 273-291
+        R. Scitovski, Minima over an interval, The Mathematica Journal 6 (1996), 20-21
+        R. Scitovski, D. Jukić, Total least squares problem  for exponential function (http://iopscience.iop.org/0266-5611/12/3/012), Inverse Problems 12/3 (1996), 341-349
+        R. Scitovski, A special nonlinear least squares problem, Journal of Computational and Applied Mathematics, 53 (1994), 323-331
+        B. Dukić, D. Francišković, D. Jukić, R. Scitovski, M. Benšić, Strategije otplate zajma, Financijska teorija i praksa (1994), 15-26
+        G. Kralik, R. Scitovski, Đ. Senčić, Application of Asymetric S-Function for analysis and Valuation of the Growth of Boars, Stočarstvo 47 (1993), 425-433
+        G. Kralik, R. Scitovski, Istraživanje značajki rasta brojlera pomoću asimetrične S-funkcije, Stočarstvo 47 (1993), 207-213
+        R. Scitovski, V. Redžep, Primjena grafičkih mogućnosti PC računala prilikom rješavanja nelinearnih problema najmanjih kvadrata, Ekonomski vjesnik 2 (1989), 277-284
+        S. Kosanović, R. Scitovski, Matematičko modeliranje ekonomskih pojava koje teže zasićenju, Ekonomski vjesnik 1 (1988), 49-58
+        R. Scitovski, Some special nonlinear least squares problems, Sarajevo Journal of Mathematics 4 (1988), 279-298
+        R. Scitovski, Ispodgodišnje ukamaćivanje, Economic analysis  and worker's management 21 (1987), 243-257
+        R. Scitovski, S. Kosanović, Rate of change in economics research, Economic analysis  and worker's management 19 (1985), 65-75
+        R. Scitovski, Searching method and existence of solution of special nolinear least squares problems, Glasnik matematički 20 (1985), 451-467
+        R. Scitovski, Kvantitativna analiza vremenskih nizova s obzirom na periodične utjecaje, Privreda 27 (1983), 69-73
+        R. Scitovski, Nelinearni problemi najmanjih kvadrata gdje se varijable mogu separirati, Statistička revija 32 (1982), 221-232
+        S. Kosanović, M. Medić, M. Meler, R. Scitovski, S. Šandrk, Operacionalizacija kategorija i mjerila za raspodjelu zajedničkog prihoda u nekoj reprodukcijskoj cjelini na osnovama Zakona o udruženom radu, Privreda 10 (1981), 36-45
+        B. Schön, R. Scitovski, Prognoza broja stanovnika i prirodnog priraštaja SFRJ, Statistička revija 31 (1981), 1-4
+        R. Scitovski, Linearne aproksimacije u smislu metode najmanjih kvadrata, Statistička revija 30 (1980), 207-220
+        B. Schön, R. Scitovski, Pokušaj prilagođavanja logističke funkcije zadanom empirijskom statističkom materijalu, Statistička revija 27 (1977), 178-194
+
+
+Publications - Refereed Proceedings 
+    Refereed Proceedings
+        S. Scitovski, R. Scitovski,  Cluster analysis of the data on unit circle, 1st Virtual International Conference in Advanced Research in Scientific Areas, Slovakia, 2012, 1574-1577
+        G. Kralik, K. Sabo, R. Scitovski, I. Vazler,  Solving parameter identification problem by the moving least absolute deviations method, 12th International Conference on Operational Research, Pula, Croatia, 2010, 297-307
+        I. Kuzmanović Ivičić, G. Kušec, K. Sabo, R. Scitovski,  A new method for searching an L_1 solution of an overdetermined system of linear equations and applications, 12th International Conference on Operational Research, Pula, Croatia, 2008, 309-319
+        I. Kuzmanović Ivičić, R. Scitovski, K. Sabo, I. Vazler,  The least absolute deviation linear regression: properties and two efficient methods, Aplimat 2008, Bratislava, 2008, 227-240
+        B. Dukić, R. Scitovski,  Analiza učinaka jednostavnog i složenog ispodgodišnjeg ukamaćivanja kod obračuna zakonskih zateznih kamata u RH, 10th International Conference on Operational Research KOI 2004, Trogir, 2005, 249-259
+        D. Jukić, R. Scitovski, A. Baumgartner, K. Sabo,  Localization of the least squares estimate for two-parametric regression models, 10th International Conference on Operational Research KOI 2004, Trogir, 2005, 165-174
+        G. Kralik, S. Ivanković, R. Scitovski,  Effects of dietary PBE oil on performance of broilers, XXII World's Poultry Congress, Istambul, 2004, 1-4
+        G. Kralik, S. Ivanković, R. Scitovski,  Growth characteristics and performances of male broilers, XVIth European Symposium on the Quality of Poultry Meat, Saint-Brieuc, Francuska, 2003, 178-184
+        R. Scitovski, I. Kuzmanović Ivičić,  Jedna metoda procjene parametara u smislu minimizacije sume L_p ortogonalnih udaljenosti, Programski sustav Mathematica u znanosti, tehnologiji i obrazovanju. PrimMath[2003]. , Zagreb, Hrvatska, 2003, 147-157
+        D. Jukić, R. Scitovski, K. Sabo,  Total least squares problem for the Hubbert  function, Conference on Applied Mathematics and Scientific Computing, Brijuni, 2003, 217-234
+        R. Scitovski, G. Kralik, D. Jukić, R. Galić,  Estimation of the saturation level and asymmetry coefficient of the generalized logistic model, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 57-66
+        R. Scitovski,  LU dekompozicija trodijagonalne matrice i primjena na konstrukciju spline-a, Prvi znanstveno-stručni skup: Programski sustav Mathematica u znanosti, tehnologiji i obrazovanju, Zagreb, Hrvatska, 2002, 245-265
+        R. Scitovski,  Smoothing the data method for solving parameter identification problem, Bosnian-Croatian Analysis Meeting, Bihać, BiH, 2001
+        D. Jukić, R. Scitovski, Š. Ungar,   The best total least squares line  in R^3, 7th International Conference on Operational Research KOI 1998, Rovinj, 1998, 311-316
+        R. Scitovski, R. Šalić, K. Petrić, K. Sabo,  Optimal allocation of nodes for surface generating, 19th International Conference ITI 1997, Pula, Hrvatska, 1997, 383-408
+        D. Jukić, M. Crnjac, R. Scitovski,  Surfaces generated by the noninterpolating moving least squares method, 4th International Symposium on Operations Research in Slovenia SOR’97, Preddvor, 1997, 189-194
+        R. Scitovski, Š. Ungar, D. Jukić, M. Crnjac,  Moving total least squares for parameter identification  in mathematical model,  Symposium on Operations Research SOR '95, Passau, 1996, 196-201
+        M. Benšić, R. Scitovski,  Određivanje intervala povjerenja za neke specijalne nelinearne regresije, 6th International Conference on Operational Research KOI 1996, Rovinj, 1996, 87-92
+        R. Scitovski, M. Meler, R. Galić,  Solving parameter identification problem in new product diffusion models, 6th International Conference on Operational Research KOI 1996, Rovinj, 1996, 113-118
+        D. Jukić, R. Scitovski,  The exponential growth model, 6th International Conference on Operational Research KOI 1996, Rovinj, 1996, 107-112
+        R. Scitovski, D. Jukić, I. Bašić,   Application of the moving least squares method in surface  generating, 17th Int. Conf. Information Technology Interfaces, Cavtat, 1995, 469-474
+        R. Scitovski, T. Marošević, D. Jukić,  Estimation of the optimal initial conditions in mathematical  model, 17th Int. Conf. Information Technology Interfaces, Cavtat, 1995, 475-480
+        M. Meler, R. Scitovski,  Matematički modeli difuzije novog proizvoda, 5th Conference on Operational Research KOI 1995, Rab, 1995, 194-203
+        D. Jukić, R. Scitovski, M. Crnjac,  Primjena metode potpunih najmanjih kvadrata   za procjenu parametara u matematičkom modelu, 5th Conference on Operational Research KOI 1995, Rab, 1995, 99-110
+        R. Galić, R. Scitovski, T. Marošević, D. Jukić,  Problem optimalnih početnih uvjeta u  matematičkom modelu, 5th Conference on Operational Research KOI 1995, Rab, 1995, 62-71
+        R. Scitovski, R. Galić, I. Kolund, I. Bašić, D. Jukić,  Procjena rasprostiranja slojeva po dubini  sondažnog profila, 5th Conference on Operational Research KOI 1995, Rab, 1995, 111-120
+        M. Crnjac, D. Jukić, R. Scitovski,  Nove strategije otplate zajma, 4th Conference on Operational Research KOI 1994, Rab, 1994, 147-154
+        R. Galić, R. Scitovski, T. Marošević,  Primjena pomične metode najmanjih  kvadrata za rješavanje problema identifikacije parametara u matematičkom  modelu, 4th Conference on Operational Research KOI 1994, Rab, 1994, 181-191
+        D. Fischer, F. Jović, R. Scitovski,  Feasibility of Tools for Solving a Linear Over-determined System, 15th International Conference ITI 1993, Pula, Hrvatska, 1993, 315-319
+        R. Scitovski, R. Galić,  Jedna generalizacija zakona rasta, 3rd Conference on Operational Research KOI 1993, Rovinj, Hrvatska, 1993, 313-322
+        S. Kosanović, R. Scitovski, Ž. Turkalj,  Nelinearni problemi najmanjih kvadrata u poljoprivredi, Primjena kompjutora u poljoprivredi, Osijek, 1990, 246-250
+        Ž. Turkalj, R. Scitovski, T. Jagnjić,  Primjena kompjutora u poljoprivredi, Primjena kompjutora u poljoprivredi, Osijek, 1990, 205-209
+        Ž. Turkalj, R. Scitovski, T. Jagnjić,  Primjena PC računala u optimizaciji proizvodnje mesne industrije, Primjena kompjutora u poljoprivredi, Osijek, 1990, 210-216
+        R. Scitovski,  Problemi najmanjih kvadrata u primjenama, Transfer razvojnog znanja u regionalna središta, Osijek, Hrvatska, 1989, 141-148
+        R. Scitovski,  Condition of Preponderant Increase and Tchebycheff's Inequality, VI. Conference on Applied Mathematics, Tara, Yugoslavia, 1988, 189-194
+        R. Scitovski,  Das korrekte Verfahren bei unterjährlicher Verzinsung, X Symposium Pforzheim, Osijek, 1987, 12-19
+        R. Scitovski,  Die Magnetisierungskurve, II Internationales wissenschaftliches Kolloquium ”Wissenschaft für die Praxis”, Bremen, 1986, 47-53
+        R. Scitovski,  Nelinearna optimizacija, Zbornik radova nastavnika Studija elektrostrojarstva 1979-1984, Osijek, 1985, 105-120
+        R. Scitovski,  An Approach in Solving Nonlinear Least Squares Problems, IV.Conference on Applied Mathematics, Split, Hrvatska, 1984, 109-113
+        R. Scitovski,  Egzistencija najbolje aproksimacije u smislu metode najmanjih kvadrata pomoću klase funkcija (t; b; c) ->b exp(-ct), XIV godišnji sastanak Saveza statističkih društava Jugoslavije, Novi Sad, Srbija, 1981
+
+
+Publications - Other publications, Books, Software    
+    Others
+        P. Corn, R. Scitovski, Jedan problem globalne optimizacije (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/524.pdf ), Osječki matematički list 14/2 (2014), 93-103
+        K. Sabo, R. Scitovski, I. Vazler, Grupiranje podataka: klasteri, Osječki matematički list 10 (2010), 149-176
+        K. Sabo, R. Scitovski, Prosti brojevi, Osječki matematički list 3 (2003), 13-20
+        D. Vukojević, R. Scitovski, Matematika na šahovskoj ploči, Matka  4 (1996), 17-25
+        D. Galić, R. Scitovski, Neka geometrijska svojstva balističkih parabola u vakuumu, Matematičko fizički list 46 (1996), 129-133
+        R. Scitovski, K. Scitovski, Nemoguće figure, Matka  3 (1995)
+        R. Scitovski, Ž. Turkalj, T. Jagnjić, B. Guljaš, V. Redžep, Definiranje optimalnog proizvodnog programa mesne industrije, Ekonomski vjesnik 2 (1989), 309-316
+        R. Scitovski, M. Šilac, D. Francišković, Problemi i nesporazumi u primjeni financijske matematike, Privreda 33 (1989), 243-257
+        R. Scitovski, Krivulja magnetiziranja, Elektrotehnika 31 (1988), 31-34
+    Books
+        R. Scitovski, K. Sabo, F. Martínez-Álvarez, Š. Ungar, Cluster Analysis and Applications, Springer, Cham, 2021.
+        R. Scitovski, K. Sabo, Klaster analiza i prepoznavanje geometrijskih objekata (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/857.pdf ), Sveucilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2020.
+        R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/709.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2017.
+        D. Jukić, R. Scitovski, Matematika I (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/707.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2017.
+        R. Scitovski, M. Briš Alić, Grupiranje podataka (http://www.mathos.unios.hr/images/homepages/scitowsk/ASP-2016.pdf), Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2016.
+        R. Scitovski, Numerička matematika - izmijenjeno i dopunjeno izdanje (http://www.mathos.unios.hr/images/homepages/scitowsk/Num-2015.pdf), Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2015.
+        R. Scitovski, N. Truhar, Z. Tomljanović,  Metode optimizacije (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/301.pdf ), Svučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2014.
+        R. Scitovski, Numerička matematika (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/457.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Elektrotehnički fakultet, Osijek, 1999.
+        M. Crnjac, D. Jukić, R. Scitovski, Matematika (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/261.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Ekonomski fakultet u Osijeku, Osijek, 1994.
+        R. Scitovski, R. Galić, M. Šilac-Benšić, Numerička analiza. Vjerojatnost i statistika, Elektrotehnički fakultet Osijek, Osijek, 1993.
+    Softwares
+        R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/694.rar ) (2017)
+    Papers/Books in preparation
+        R.Scitovski, K.Sabo, Patrick Nikić, Snježana Majstorović, A new efficient method for solving the multiple ellipse detection problem, Journal of Classification
+        K.Sabo, D.Grahovac, R.Scitovski, Incremental method for multiple line detection problem - iterative reweighted approach, Mathematics and Computers in Simulation
+        R.Scitovski, Snježana Majstorović, K.Sabo, A combination of RANSAC and DBSCAN methods for solving the multiple geometrical object detection problem
+        R.Scitovski, K.Sabo, F.Martinez-Alvarez, Š.Ungar, Cluster Analysis and Applications (https://www.mathos.unios.hr/images/homepages/scitowsk/CAA-SampleChapter.pdf)
+    Software
+        A new global optimization method for a symmetric Lipschitz continuous function (nb-file (https://www.mathos.unios.hr/images/homepages/scitowsk/DIRECT-2.nb))
+        R. Scitovski, K. Sabo, Klaster analiza i prepoznavanje geometrijskih objekata (2020) (https://www.mathos.unios.hr/images/homepages/scitowsk/CLUSTERS.pdf)
+        R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (http://www.mathos.unios.hr/GOP-knjiga/GOPmoduli.rar) (2017)
+        Numerička matematika (Mathematica-Programi-Moduli (https://www.mathos.unios.hr/images/homepages/scitowsk/Num-2015.zip))
+        Searching for a globally optimal partition (GOPart (https://www.mathos.unios.hr/images/homepages/scitowsk/GOPart.rar))
+        DBRAN method for solving the multiple circle detection problem (DBRAN (https://www.mathos.unios.hr/images/homepages/scitowsk/DBRAN.rar))
+        Multiple ellipse detection problem (ELLIPSES-AM.rar (https://www.mathos.unios.hr/images/homepages/scitowsk/ELLIPSES-AM.rar))
+        Incremental method for multiple line detection problem - iterative reweighted approach (IncrementalLinesSabo-NEW (https://www.mathos.unios.hr/images/homepages/scitowsk/IncrementalLinesSabo-NEW.rar))      [set] (https://www.mathos.unios.hr/images/homepages/scitowsk/set.txt)
+
+
+Projects
+    1986 - 1990 - head of project task (2.08.01.03.02) „Operationalization of categories and relationships of value laws“ that was carried out within project (2.08.01) „Fundamental research in economy“ (Ministry of Science, Technology and Computing)
+    1991-1995 - principal investigator of scientific project (1-01-129) „Application of numerical and finite mathematics“ (Ministry of Science, Technology and Computing)
+    1996 - 2000 - principal investigator of scientific project (165021) „Parameter identification problems in mathematical models“ (Department of Mathematics, University of Osijek - Ministry of Science and Technology)
+    2002 - 2006 - principal investigator of scientific project (023501) "Parameter estimation in mathematical models“ (Department of Mathematics, University of Osijek - Ministry of Science and Technology)
+    2007 - 2013 scientific project (235-2352818-1034)  "Nonlinear parameter estimation problems in mathematical models“ (Ministry of Science, Education and Sports), investigator
+    1-1-2017 - member of research project IP-2016-06-8350  (Principal investigator: Marijana Zekić Sušac, Faculty of Economics, University of Osijek) "Methodological Framework for Efficient Energy Management by Intelligent Data Analytics" (Croatian Science Foundation)
+    1-3-2017 - principal investigator of scientific project IP-2016-06-6545 "The optimization and statistical models and methods in recognizing properties of data sets measured with errors" (Croatian Science Foundation)
+
+
+Professional Activities
+    Editorial Boards
+        Mathematical Communications  (https://www.mathos.unios.hr/mc)(since 1996)
+        Osječki matematički list  (https://www.mathos.unios.hr/oml)(since 2003)  
+        Croatian Operational Research Review  (http://www.hdoi.hr/hr/crorr-journal)(since 2013)
+    Committee Memberships
+        Chairman of the Organizing Committee of the VII Conference on Applied Mathematics, Osijek, September 13-15, 1989
+        Member of the Programming Committee and chairman or deputy chairman of the Organizing Committee of the 6th-10th International Conference on Operational Research, which were organized by the Croatian Operational Research Society (http://www.hdoi.hr/)
+        Member of the Scientific Committee of the  "International (http://www.hdoi.hr/koi2010/) Conference on Operational Research (http://www.hdoi.hr/koi2010/)", Croatian Operational Research Society (since 1996 - )
+        Since 1999 - 2011: member of the Scientific or Organizing Committee of the International Conference  on Applied Mathematics and Scientific Computing (http://applmath11.math.hr/)
+        Member of the Scientific Committee of the scientific-professional conference PrimMath, 2001
+        Member of the Scientific Committee of the 2nd (Zagreb, 2000), 3rd (Split, 2004), 4th (Osijek, 2008), 5th (Rijeka, 2012), Croatian Congress of Mathematics
+        President of the Scientific Committee of the 4th Croatian Congress of Mathematics (http://www.mathos.hr/congress2008/), Osijek, June 17-20, 2008
+    Refereeing:
+        Mathematical Communications (https://www.mathos.unios.hr/mc/) 
+        Croatian Operational Research Review (http://hrcak.srce.hr/ojs/index.php/crorr)
+        Osječki matematički list (https://www.mathos.unios.hr/oml)
+        Applied Mathematics and Computation (http://ees.elsevier.com/amc/)
+        Applied Soft Computing  (http://ees.elsevier.com/asoc/)
+        Chaos, Solitons & Fractals (http://ees.elsevier.com/chaos/default.asp)
+        Computers & Geosciences (http://ees.elsevier.com/cageo/)
+        Communications in Statistics - Theory and Methods (http://ms.mcmaster.ca/bala/comstat/)
+        Asia-Paciﬁc Journal of Operational Research (https://www.worldscientific.com/page/apjor/aims-scope)
+        European Journal of Operational Research (http://ees.elsevier.com/ejor/)
+        Central European Journal of Operations Research (http://www.springer.com/business+%26+management/operations+research/journal/10100)
+        Expert Systems With Applications (http://ees.elsevier.com/eswa/)
+        IEEE Transactions on Instrumentation & Measurement (https://www.editorialmanager.com/tim/default.aspx)
+        Journal of Computational and Applied Mathematics (http://ees.elsevier.com/cam/)
+        Journal of Global Optimization (http://www.springer.com/mathematics/journal/10898)
+        Knowledge-Based Systems (http://www.journals.elsevier.com/knowledge-based-systems/)
+        Mathematics and Computers in Simulation (http://ees.elsevier.com/matcom/)
+        Natural Hazards (http://nhaz.edmgr.com/)
+        Neurocomputing (http://ees.elsevier.com/neucom/default.asp)
+        Tectonophysics (http://www.journals.elsevier.com/tectonophysics)
+    Service Activities
+        2017 - 2019 - full profesor at the Department of Mathematics,  University of  Osijek
+        2013 - 2017 - Vice-Rector for Science, Technology, Projects and International Cooperation, University of  Osijek
+        1999 – 2003 and  2009 - 2013 Head of the Department of Mathematics,   University of  Osijek
+        since 2008 - chairman of the Seminar for optimization and applications
+        1994 – 2000 - Head of the Mathematical Colloquium in Osijek
+        2003 - 2010 - member of the Managing Board of The National Foundation for Science, Higher Education and Technological Development of Republic of Croatia
+        2001 – 2008 - member of the National Council for Higher Education of the Republic of Croatia
+        2006. – 2009 - member of the National Scientific Field Committee for Natural Sciences
+        1997 – 1998 and 2001 – 2005 - member of the   National  Commission for Mathematics  
+        2003 – 2007 -   vice-head of the Department of Mathematics, University of Osijek
+        1998 – 1999 - dean of the  Faculty of Electrical Engineering in Osijek
+        1997 - vice-dean for science at the  Faculty of Electrical Engineering in Osijek
+        since 2008 - chairman of the Osijek Students Center Council
+        2002 - 2008 - chairman of the Osijek Students Center Recovery Council
+        1998 – 2001 – member and chairman of the Managing Board of the City and University Library in Osijek
+
+
+Teaching
+    Past
+        Nastavne aktivnosti u zimskom semestru Akademske 2019./2020.
+        Linearna algebra I
+        Matematički praktikum (https://www.mathos.unios.hr/matprakt/)
+        Grupiranje podataka i primjene
+        Grupiranje podataka: pristupi, metode i primjene
+    Office Hours
+        Srijeda (Wed) 12:00am.

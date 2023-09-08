@@ -1,0 +1,124 @@
+IAESTE CROATIA LO Osijek 
+	Web: http://www.iaeste.hr 
+	Mail: osijek@iaeste.hr 
+	Tel: +385 31 220 629 
+	Faks: +385 31 220 629 
+	IAESTE CROATIA je Hrvatska udruga za međunarodnu razmjenu studenata prirodnih i tehničkih znanosti. Tijekom cijele godine udruga IAESTE obavlja svoje redovne aktivnosti čiji su osnovni ciljevi sljedeći: 
+		Omogućiti studentima prirodnih i tehničkih usmjerenja stjecanje praktičnog iskustva te tako unaprijediti njihov profesionalni razvoj 
+		Ponuditi poslodavcima dobro kvalificirane i motivirane studente-praktikante 
+		Promovirati razumijevanje i toleranciju među ljudima različitih uvjerenja i podrijetla te na taj način kulturno obogatiti studenta-praktikanta kao i njegove domaćine 
+	Studenti Odjela za matematiku Sveučilišta J. J. Strossmayera u Osijeku sudionici su lokalnih i međunarodnih aktivnosti udruge IAESTE lokalnog odbora Osijek. Niže su navedeni studenti Odjela za matematiku koji su boravili na stručnoj praksi u inozemstvu, kao i studenti iz inozemstva koji su boravili na stručnoj praksi na Odjelu za matematiku.
+
+Studenti Odjela za matematiku koji su boravili na stručnoj praksi u inozemstvu
+	Ime i prezime : Mirna Repić 
+		Godina : 2019 
+		Trajanje u mjesecima : 2 
+		Država: Poljska 
+		Institucija : Cracow University of Technology, Faculty of Mathematics, Physics and Computer Science 
+	Ime i prezime : Aleksandra Bijelić 
+		Godina : 2019 
+		Trajanje u mjesecima : 2 
+		Država: Njemačka 
+		Institucija : University of Technology Chemnitz 
+	Ime i prezime : Barbara Rački 
+		Godina : 2017 
+		Trajanje u mjesecima : 2 
+		Država: Grčka 
+		Institucija : National Technical University of Athens 
+	Ime i prezime : Patrick Nikić 
+		Godina : 2017. 
+		Trajanje u mjesecima : 2 
+		Država: Njemačka 
+		Institucija : University of Bayreuth 
+	Ime i prezime : Mislav Karaula 
+		Godina : 2014. 
+		Trajanje u mjesecima : 2 
+		Država: Velika Britanija 
+	Ime i prezime : Luka Boras 
+		Godina : 2013. 
+		Trajanje u mjesecima : 2 
+		Država: Njemačka 
+		Institucija : Universität Kassel Institut für Mathematik 
+	Ime i prezime : Željka Salinger 
+		Godina : 2011. 
+		Trajanje u mjesecima : 2 
+		Država: Češka 
+		Institucija : Tomas Bata University in Zlin, Czech Republic Faculty of Applied Informatics 
+	Ime i prezime : Maja Varga 
+		Godina : 2005. 
+		Trajanje u mjesecima : 2 
+		Država: Njemačka 
+		Institucija : Hochschule Wismar 
+	Ime i prezime : Blanka Mihaljević 
+		Godina : 2005. 
+		Trajanje u mjesecima : 2 
+		Država: Brazil 
+		Institucija : Departamento de Matematica, UNICAMP -  Universidade Estadual de Campinas 
+		Područje rada: The Lie theory of one-parameter groups with applications to the solution of differential equations
+	Ime i prezime : Ivanka Đeri 
+		Godina : 2004. 
+		Trajanje u mjesecima : 3 
+		Država: Brazil 
+		Institucija : Universidade Estadual de Campinas Sao Paulo 
+	Ime i prezime : Ljerka Jukić 
+		Godina : 2004. 
+		Trajanje u mjesecima : 2 
+		Država: Njemačka 
+		Institucija : Humboldt-Universität zu Berlin 
+	Ime i prezime : Goran Knežević 
+		Godina : 2002. 
+		Trajanje u mjesecima : 2 
+		Država: Njemačka 
+		Institucija : Universität Trier 
+
+Studenti iz inozemstva koji su boravili na stručnoj praksi na Odjelu za matematiku
+	Ime i prezime : Chortaras Agapios 
+		Godina : 2019. 
+		Trajanje u mjesecima : 2 
+		Država: Grčka 
+		Institucija : Aristotle University of Thessaloniki 
+	Ime i prezime : Ivana Raković 
+		Godina : 2018. 
+		Trajanje u mjesecima : 2 
+		Država: BiH 
+		Institucija : Univerzitet u Banjoj Luci, Prirodno – matematički fakultet 
+	Ime i prezime : Johannes Jung 
+		Godina : 2017. 
+		Trajanje u mjesecima : 2 
+		Država: Njemačka 
+		Institucija : Technische Universitaet Berlin 
+	Ime i prezime : Luis Enrique Rodriguez Luna 
+		Godina : 2016. 
+		Trajanje u mjesecima : 2 
+		Država: Mexico 
+		Institucija : Instituto Tecnologico de Durango 
+	Ime i prezime : Francisco Xavier Escobar Herrera 
+		Godina : 2015. 
+		Trajanje u mjesecima : 2 
+		Država: Mexico 
+		Institucija : Instituto Tecnologico Superior de Poza Rica 
+	Ime i prezime : Patrick Wijerama 
+		Godina : 2011. 
+		Trajanje u mjesecima : 2 
+		Država: Austrija 
+		Institucija : Johannes Kepler Universität Linz 
+	Ime i prezime : Carolina Santos Andrade 
+		Godina : 2010. 
+		Trajanje u mjesecima : 2 
+		Država: Brazil 
+		Institucija : Universidade Estadual de Campinas 
+	Ime i prezime : Darko Domazetovski 
+		Godina : 2008. 
+		Trajanje u mjesecima : 2 
+		Država: Makedonija 
+		Institucija : Univerzitet "Sv, Klement Ohridski" Bitola 
+	Ime i prezime : Georg Fuchsbauer 
+		Godina : 2006. 
+		Trajanje u mjesecima : 2 
+		Država: Austrija 
+		Institucija : Johannes Kepler Universität Linz 
+	Ime i prezime : Małgorzata Magdalena Borda 
+		Godina : 2005. 
+		Trajanje u mjesecima : 2 
+		Država: Poljska 
+		Institucija : Silesian University of Technology

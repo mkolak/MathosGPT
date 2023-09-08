@@ -1,0 +1,50 @@
+Konstruktivna geometrija
+M017 (2+1+0) - 4 ECTS bodova
+
+OSNOVNE INFORMACIJE
+	Konstruktivna geometrija izvodi se u zimskom semestru pete godine sveučilišnog nastavničkog studija matematike i informatike. U ovom predmetu obrađuju se najvažnije teme euklidske geometrije sa stajališta konstruktivnih metoda uz neophodno teorijsko zasnivanje. U predmetu su usustavljene najvažnije metode rješavanja konstruktivnih zadataka. Poseban naglasak je na primjeni konstruktivnih metoda u nastavnim sadržajima geometrijskog karaktera u osnovnoj i srednjoj školi. Na predavanjima i vježbama zastupljena je upotreba programa dinamične geometrije.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m017.pdf).
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Zdenka Kolar-Begović (http://www.mathos.hr/~zkolar)
+		KONZULTACIJE: Srijedom u 13:00 h ili prema dogovoru	
+	ASISTENT
+		dr.sc.Ljiljana Primorac Gajčić (http://www.mathos.hr/~lprimora)
+		KONZULTACIJE: Četvrtkom u 16.30h ili po dogovoru	
+	OSNOVNA LITERATURA
+		D. Palman, Geometrijske konstrukcije, Element, Zagreb, 1996.
+	DOPUNSKA LITERATURA
+		D. Palman, Trokut i kružnica, Element, Zagreb, 1994.
+		B.I. Argunov, M.B.Balk, Elementarnaja geometrija, Prosveščenie, Moskva, 1966 (poglavlje V, Geometričeskie postroenija. str. 265-354)
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Konstruktivna geometrija realizira se s fondom od 45 sati (tjedno 2 sata predavanja i 1 sat vježbi). Pohađanje predavanja i vježbi je obavezno.
+	Nastava u zimskom semestru 2020./21. izvodi se po Modelu 2. Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEDU pristupne podatke i kod frummwr.
+	PREDAVANJA	TERMIN: Utorak 14-16h	
+	VJEŽBE	TERMIN: Utorak, 12-14h, svaka dva tjedna	
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti pišu 2 kolokvija od kojih svaki nosi 100 bodova. Student je pismeni dio ispita položio preko kolokvija ako zadovolji sljedeća dva uvjeta:
+		na svakom kolokviju ostvari minimalno 30 bodova,
+		ukupno ostvari minimalno 90 bodova.
+	PISMENI ISPIT
+		Pismeni ispit nosi 100 bodova. Student je položio pismeni dio ispita ako ostvari minimalno 50 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti o ocjeni s pismenog ispita, odnosno kolokvija, formira konačna ocjena.
+
+NASTAVNI MATERIJALI
+	Inverzija (https://www.mathos.unios.hr/images/homepages/zkolar/Inverzija_pred.pdf)
+
+Zadaci za vježbu:
+	Metoda presjeka skupova točaka (pdf (http://www.mathos.hr/~lprimora/Metoda%20presjeka.pdf))
+	Metoda pomoćne figure (pdf (http://www.mathos.hr/~lprimora/KG/KG_metoda%20pomocne%20figure.pdf))
+	Algebarska metoda (pdf (http://www.mathos.hr/~lprimora/KG/Algebarska%20metoda.pdf))
+	Metoda osne simetrije (pdf (http://www.mathos.hr/~lprimora/Metoda%20osne%20simetrije.pdf))
+	Metoda centralne simetrije (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/Metoda_centralne_simetrije.pdf))
+	Metoda translacije (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/Metoda_translacije.pdf))
+	Metoda rotacije (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/Metoda_rotacije.pdf))
+	Metoda homotetije (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/Metoda_homotetije.pdf))
+
+PRIMJERI KOLOKVIJA
+	2018./2019.: 1.kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/KG_1kol_2018N.pdf))       2.kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/KG_2kol_2018_19_1.pdf))
+	2017./2018.: 1.kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/KG_kol1_2017.pdf))       2.kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/KG/KG_2kol_2017_20181.pdf))
+	2016./2017.: 1.kolokvij (pdf (http://www.mathos.hr/~lprimora/KG_1kol.pdf))       2.kolokvij (pdf (http://www.mathos.hr/~lprimora/KG_2kol.pdf))

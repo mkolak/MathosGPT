@@ -1,0 +1,398 @@
+Završeni projekti  
+
+    "Optimizacijski i statistički modeli i metode prepoznavanja svojstava skupova podataka izmjerenih s pogreškama (OSMoMeSIP)", (Odjel za matematiku, Sveučilište u Osijeku - Hrvatska zaklada za znanost - voditelj projekta: Rudolf Scitovski
+        Sažetak:U okviru projekta razmatraju se optimizacijski i statistički aspekti prepoznavanja svojstava skupova podataka izmjerenih s pogreškama kao sastavni dio atraktivnog i aktivnog područja istraživanja poznatog kao analiza velikih podataka (engl. Big data analysis). Istraživanja će biti usmjerena na probleme grupiranja podataka te dekonvolucijske modele i primjene. Polazi se od pretpostavke da promatrani skupovi podataka predstavljaju mjerene vrijednosti varijabli koje se analiziraju, ali u sebi sadrže grešku mjerenja. U velikim skupovima podataka vrlo često je prikladno podatke grupirati na temelju nekih karakteristika te modelirati svaku grupu podataka posebnim modelima kojima se opisuju svojstva varijabli kao što su njihov međusobni odnos, mogućnost separacije, rub skupa vrijednosti varijabli, oblik skupa vrijednosti varijabli, dimenzije (duljinu, površinu ili volumen) skupa vrijednosti ili općenito vektor parametara kojim su te varijable određene. Problem se u mnogim konkretnim situacijama može formulirati u obliku optimizacijskog problema u kome kriterijska funkcija cilja općenito nije niti konveksna niti diferencijabilna. U svrhu rješavanja takvih problema razvijat će se efikasne, brze i točne numeričke procedure. Također, zbog postojanja pogreške u podacima, u svrhu razumijevanja i pravilne interpretacije rezultata koristit će se statistički modeli te će se istražiti odgovarajuća statistička svojstva.
+        Program: HRZZ Istraživački projekti (IP-06-2016)
+        Suradnici na projektu: Andrew Barron (Sveučilište Yale, SAD), Mirta Benšić (Odjel za matematiku, Sveučilište u Osijeku, Hrvatska), Dragan Jukić (Odjel za matematiku, Sveučilište u Osijeku, Hrvatska), Karlo Emmanuel Nyarko (Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek, Sveučilište u Osijeku, Hrvatska), Safet Hamedović (Fakultet za metalurgiju i materijale, Univerziteta u Zenici, BiH), Kristian Sabo (Odjel za matematiku, Sveučilište u Osijeku, Hrvatska), Petar Taler (Odjel za matematiku, Sveučilište u Osijeku, Hrvatska)
+        Trajanje projekta: 1. ožujka 2017. - 28. veljače 2021.
+
+    "Primjena metoda optimizacije u biomedicini", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i obrazovanja) - voditelj projekta: Slobodan Jelić
+        Sažetak: Optimizacijski modeli u biološkim mrežama. Metodom ekstrakcije podmreže (eng. subnetwork extraction method) mogu se riješiti važni problemi u biomedicini. U prvom redu ističemo metaboličke i genske mreže. Postoje različiti pristupi u konstrukciji metaboličkih mreža, a najčešći pristup su (ne)usmjereni težinski grafovi sa skupom vrhova koji se sastoji od spojeva i reakcija među njima. Genskim mrežama opisujemo međusobnu interakciju gena u kontroliranju staničnih procesa. Mutacijama dolazi do blokiranja pojedinih signalnih putova što dovodi do poremećaja u bitnim staničnim procesima. Pronalaženje takvih signalnih putova doprinosi prijevremeno detekciji rizika od kancerogenih oboljenja. Jedan od ciljeva je proučavanje mogućih reprezentacija bioloških mreža, te razmatranje različitih optimizacijskih modela za ekstrakciju njihovih podmreža. Ovdje posebice ističemo NP-teške probleme mrežnog dizajna kao, primjerice, problem (ne)usmjerenog Steinerovog stabla na grupama (eng. Group Steiner Tree), te problem pronalaska izomorfnih podgrafova.
+        Program: Program znanstveno-tehnološke suradnje između Republike Hrvatske i Republike Srbije
+        Suradnici na projektu: Slobodan Jelić, Dušan Jakovetić, Domagoj Ševerdija, Tatjana Davidović, Snježana Majstorović, Irena Jovanović, Luka Borozan, Nataša Krejić, Mateja Đumić, Nataša Krklec Jerinković, Rebeka Čorić, Luka Matijević i Marija Mioč
+        Trajanje projekta: 01.01.2019. - 01.07. 2022.
+
+    "Primijenjeni stohastički modeli s kratkoročnom i dugoročnom strukturom zavisnosti", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i obrazovanja) - voditelj projekta: Nenad Šuvak
+        Sažetak: Standardni modeli u vjerojatnosti i statistici obično se oslanjaju na pretpostavku nezavisnosti ili slabe zavisnosti vremenskih bliskih događaja. S druge strane, brojni fenomeni u primijenjenim znanostima zahtijevaju vremenske modele kod kojih korelacija između dva događaja može vrlo sporo opadati s povećanjem vremenske udaljenosti. Svrha istraživanja u okviru ovog projekta je postizanje dubljeg razumijevanja strukture i svojstava nekoliko klasa slučajnih procesa s kratkoročnom i dugoročnom zavisnošću te proučavanje njihovih mogućih primjena. Poznato je da stohastički procesi s kratkoročnom zavisnošću imaju vrlo široku primjenu, npr. u modeliranju bioloških i ekoloških fenomena, te u modeliranju fenomena na financijskim tržištima gdje su primjerice klasični modeli za opisivanje fluktuacije kratkoročnih kamatnih stopa poznati Vasičekov i Cox-Ingersoll-Rossov proces koji pripadaju široj klasi procesa koja će biti pručavana u okviru ovog projekta - Pearsonovim difuzijama, za koje želimo naći nove primjene ili iskoristiti poznate koncepte primjena. Nadalje, primjene stohastičkih procesa s dugoročnom zavisnošću su vrlo moderno područje istraživanja koje je trenutačno u punom zamahu. Takvi se procesi koriste primjerice u modeliranju internet prometa, u hidrologiji za modeliranje vremenske komponente zapinjanja pri gibanju čestice zagađivača kroz porozni medij te u financijama gdje su takvi procesi s pozitivnim skupom vrijednosti važan model stohastičke volatilnosti. U navedenim područjima, zanimljive su i primjene forward i backward stohastičkih diferencijalnih jednadžbi kao stohastičkih modela u neprekidnom vremenu. Jedan od ciljeva ovog projekta je analizirati dostupne podatke (financijske, biološke, epidemiološke, hidrološke, itd.) i inkorporirati ih u postojeće stohastičke modele te proširiti teorijsku analizu i primjenu stohastičkih diferencijalnih jednadžbi sa sljedećih aspekata: a) proučavanje različitih tipova backward stohastičkih diferencijalnih jednadžbi (BSDEs), stohastička analiza problema optimalne kontrole (u financijama i biološkim sustavima) i doprinosa primjene teorijskih rezultata na konkretnim problemima iz gore spomenutih primijenjenih znanosti b) proučavanje utjecaja bijelog šuma, obojenog šuma, procesa sa skokovima (jump processes) i kašnjenja (delays) na ponašanje rješenja različitih populacijskih i epidemioloških modela, ispitivanje uvjeta pod kojima dolazi do opstanka ili istrebljenja stanovništva (bolesti) c) razmatranje različitih analitičkih i numeričkih metoda kako bi se osigurao uvid u ponašanje sustava koji su opisani pomoću stohastičkih diferncijalnih jednadžbi (SDEs), s ciljem da se odrede uvjeti pod kojima točno (teorijsko) i aproksimativno (numeričko) rješenje imaju zajedničke osobine, kao što su gotovo sigurna eksponencijalna ili polinomijalna stabilnost te konvergencija po vjerojatnosti d) statističko zaključivanje (procjena parametara i testiranje različitih statistčkih hipoteza od interesa u primjenama) gore spomenutih stohastičkih procesa.
+        Program: Program znanstveno-tehnološke suradnje između Republike Hrvatske i Republike Srbije
+        Suradnici na projektu: Nenad Šuvak, Jasmina Đorđević, Danijel Grahovac, Miljana Jovanović, Ivan Papić, Marija Milošević, Una Radojičić, Marija Krstić, Dušan Đorđević
+        Trajanje projekta: 01.01.2019. - 01.07.2022.
+
+    "Mrežni okvir "Ča-Kaj-Što" sastavnice hrvatskoga identiteta, (Odjel za matematiku, Sveučilište u Osijeku - Zaklada Adris) - voditelj projekta: Domagoj Ševerdija
+        Sažetak: Potporom Zaklade Adris 2018. g. realiziran je projekt: "Hrvatski jezik u mrežnom oblaku svjetskih jezika" kojim se otvara novi put modernoga proširenja identiteta hrvatskoga jezika i hrvatske kulturne baštine. S prvim projektom (dr. sc. M. Orešković) stvoren je i provjeren SSF rječnik/tezarij standardnoga jezika s oko 1 milijun pojavnica te njegova uključenost u lingvistički oblak (LLOD cloud) svjetskih jezika, a s novim projektom se te iste riječi proširuju čakavskim, kajkavskim i štokavskim inačicama. Kao i za prvi projekt, tezarij prati odgovarajući korpus (digitalizirani dokumenti iz kojih se stvaraju riječi u tezariju), pa će se u novom projektu SSF proširiti s mnogim dokumentima hrvatskoga "ča-kaj-što" trolista (D. Štambuk). S obzirom da se radi o nastavku postojećega projekta, tijek projekta je poptpuno određen i jasan: nakon što su već na domaćim i međunarodnim skupovima objavljeni rezultati projekta, objavit će se i jedna (do dvije) knjige neposrednih rezultata, koje će biti uporište za sličan nastavak rada. Nakon toga se pristupa algoritamskom i programskom dijelu stvaranja mrežnoga okvira tonskog zapisa pojedinih riječi s bilo kojeg područja RH i okolice. Uzorak dobroga rješenja (M. Essert sa suradnicima) je već realiziran kao Zvučni atlas hrvatskih govora (V. Piškorec; I. Kurtović Budja), ali za razliku od profesionalnoga, segmentiranoga pristupa, ovdje se nudi mrežni pristup s bilo koje lokacije (npr. područna škola koja ima pristup internetu) i bilo koje veličine. Tako će se u SSF tezariju uz "ča-kaj-što" zvučni zapis riječi, pojaviti i zvučni zapis višerječnica (frazema, poslovica i sl.) - pravoga blaga jednoga naroda, uz geolokaciju izvorišta. S naglašenom vremenskom osi, pak, spremat će se (i po želji pretraživati) digitalizirani dokumenti svih hrvatskih govora i narječja te bibliografski podatci o autorima tiskanih ili transkribiranih djela. Ishod i doprinos projekta ogleda se u modernoj izvedbi integracije SSF mrežnoga okvira, digitaliziranih dokumenata, zvučnih zapisa te programskih temelja za ostale multimedijske objekte (slika, video) i to sve u geografsko-vremenskim koordinatama. Povezivanjem s udrugama koje se u lokalnoj zajednici trude i rade na očuvanju materinskoga govora, projekt ostvaruje najvažniji cilj svakoga bavljenja baštinom: povezivanje znanosti i nositelja kulturnoga dobra.
+        Program: Stvaralaštvo, ekologija, baština i dobrota - Zaklada Adris
+        Suradnici na projektu: Domagoj Ševerdija, Mario Essert, Marko Orešković, Josip Užarević, Suzana Molčanov, Zrinka Jelaska, Ivana Kurtović Budja, Jasna Horvat, Marko Landeka, Krešimir Landeka, Milan Kranjčević
+        Trajanje projekta: listopad 2019. - siječanj 2021.
+
+    "Razvoj i primjena naprednih građevinskih materijala za izgradnju zdravih zgrada: zaštita od neionizirajućeg zračenja - Z2grade", (Građevinski i arhitektonski fakultet, Sveučilište u Osijeku - Europski fond za regionalni razvoj) - koordinator projekta (MATHOS): Mirta Benšić
+        Sažetak: Projekt Z2grade rezultirat će izradom naprednih građevinskih materijala čija će primjena u zgradama omogućiti veliku apsorpciju EM zračenja. Na temelju brojnih studija utjecaja EMP na ljudsko zdravlje, mnoge države u svijetu reagirale su novim propisima i zakonima kojima se ograničavaju razine EMP i uvode posebni zahtjevi u pogledu njihovih izvora. Prema klasifikaciji Svjetske zdravstvene organizacije (WHO), 2011. godine radiofrekvencijska elektromagnetska polja svrstana su u grupu mogućih uzročnika karcinoma mozga, a Vijeće Europe je svojom rezolucijom 1815 usvojenom iste godine pozvala sve europske vlade da poduzmu sve razumne mjere kako bi se smanjila izloženost EMP-u. Ono što ova rezolucija posebno naglašava jeste da je potrebno posebnu pažnju obratiti na osjetljive skupine društva (djeca i mladi). Također se naglašava u istoj rezoluciji da je potrebno smanjiti izloženost u prostorima na 0.6 V/m, s ciljem konačnog smanjenja na 0.2 V/m. Ovi napredni materijali su temelj za izgradnju stambenih, javnih i poslovnih objekata sa izuzetno niskim nivoom jakosti elektromagnetskog polja što se odražava na povećanje nivoa zaštite zdravlja stanovništva (zaštite od EMZ), posebno najosjetljivijih skupina: djeca, trudnice, bolesnici i starije osobe. I u RH ovo je područje zakonski regulirano Zakonom o zaštiti od neiionizirajućeg zračenja (NN br.91/2010) i Pravilnikom o zaštiti od elektromagnetskih polja (NN br.146/2014) kojima se propisuju granične razine EMP s frekvencijama do 300 GHz. Projekt se provodi kroz faze industrijskog i eksperimentalnog razvoja, a rezultat aktivnosti obje faze je izrada i razvoj novog proizvoda. Kako je već navedeno trenutno na tržištu ne postoji sličan proizvod i time bi se riješio tržišni nedostatak s velikim potecijalom patentiranja rezultata. U fazi industrijskog istraživanja obaviti će se ispitivanje na razini osnovnih sastojaka blok opeke (glina+TiO2, feritni spojevi, ugljikove nano cjevčice, lebdeći pepeo) i smjese betona s umiješanim meta materijalom. Sastavni dio ove faze biti će izrada prototipa na kojima će se dokazati dovoljna razina mehaničke otpornosti i stabilnosti za primjenu u gradnji. Temeljem prethodne faze i ekonomske analize troškova izrade novoga proizvoda preći će se na eksperimentalni razvoj. On će uključivati izradu novog proizvoda na stvarnim proizvodnim linijama u tvorničkom okruženju. Obje faze objediniti će konačna izrada modela prostorije u mjerilu 1:1 izrađenom od prototipa opeke i AB zidova. Na tim modelima mjerenjima će se dokazati temeljna hipoteza učinkovitosti novih materijala pri smanjenju intenziteta EM polja.
+        Program: Operativni program Konkurentnost i kohezija 2014.-2020. - Europski fond za regionalni razvoj
+        Partneri na projektu: Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek - Sveučilište J. J. Strossmayera u Osijeku, Odjel za kemiju - Sveučilište J. J. Strossmayera u Osijeku , Odjel za matematiku - Sveučilište J. J. Strossmayera u Osijeku, Fakultet građevinarstva, arhitekture i geodezije - Sveučilište u Splitu
+        Suradnici na projektu: Damir Varevac, Ivana Miličević, Ksenija Čulo, Irena Ištoka Otković, Hrvoje Krstić, Tanja Kalman Šipoš, Davorin Penava, Filip Anić, Adriana Cerovečki, Slavko Rupčić, Snježana Rimac-Drlje, Vanja Mandrić Radivojević, Berislav Marković, Igor Đerđ, Tomislav Balić, Jelena Brdarić, Nikolina Filipović, Anamarija Stanković, Mirta Benšić, Boris Trogrlić, Dujmo Žižić, Hrvoje Bartulović i Petra Šunjić
+        Trajanje projekta: prosinac 2020. - prosinac 2022.
+
+    "Primjena generičkog optimizatora na problemu klasifikacije medicinskih slika", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i obrazovanja i Njemačka služba za akademsku razmjenu (DAAD)) - voditelj projekta: Krešimir Burazin
+        Sažetak: Osnovni cilj ovog zajedničkog projekta Gene Centra Munich i Odjela za matematiku iz Osijeka je bolje razumijevanje uloge standardnih optimizacijskih pristupa, kao što su Quasi-Newtonove metode (npr. L-BFGS-B), u problemima strojnog učenja poput klasifikacije medicinskih slika dobivenih magnetnom rezonancom, koje se u posljednje vrijeme u pravilu rješavaju tehnikama dubokog učenja. U tu svrhu Gene centar će omogućiti pristup MRI skenovima sa liječničkim dijagnozama i testirati CNN pristup na problemu klasifikacije. Znanstveno istraživački tim ODjela za matematiku radit će na implementaciji L-BFGS-B metode te testirati alternative pristupe temeljene na konceptu logističke regresije na rijetkim podacima.
+        Program: Program zajedničkog poticanja razmjene sudionika u projektima između MZO-a i DAAD-a
+        Partner na projektu: Gene Center, Ludwig-Maximilians-Universität München
+        Suradnici na projektu: Krešimir Burazin, Domagoj Matijević, Luka Borozan, Danijela Jaganjac, Mislav Blažević, Nathan Chappell, Stefan Canzar, Francisca Rojas Ringeling, Hoan Van Do, Pablo Monteagudo, Israa Al-Quassem, Shounak Chakraborty
+        Trajanje projekta: siječanj 2020. - srpanj 2022.
+
+    "Inter-institutional cooperation between Department of Mathematics at UNIOS and Department of Mathematics at Virginia Tech", (Odjel za matematiku, Sveučilište u Osijeku - Agencija za mobilnost i programe Europske Unije) - voditelj projekta: Zoran Tomljanović
+        Sažetak: Both partners have working groups that have similar interests within their scientific research, this will mean that both partners will improve their knowledge and experience. Improving the quality of knowledge within scientific research will also have an impact on the quality of teaching process especially in courses within applied mathematics. Dissemination of their results will be performed through seminar and conference talks and the main results will be published in scientific papers cited in relevant scientific databases (CC, SCIE, mathscinet). Thus, from this cooperation both partners will have a strong mutual benefit.
+        Program: ERASMUS+ PROGRAMME - International Credit Mobility, KEY ACTION 1 - Learning mobility of Individuals between programme and partner country
+        Partner na projektu: Department of Mathematics, Virginia Tech, USA
+        Suradnici na projektu: Zoran Tomljanović (Odjel za matematiku Sveučilišta u Osijeku), Serkan Gugercin (Department of Mathematics, Virginia Tech)
+        Trajanje projekta: 2. studenoga 2020. - 31. srpnja 2022.
+
+    "Real-time measurements and forecasting for successful prevention and management of seasonal allergies in Croatia-Serbia cross-border region", (Odjel za matematiku, Sveučilište u Osijeku - Interreg IPA CBC Croatia - Serbia 2014-2020) - koordinator projekta: Kristian Sabo
+        Sažetak:Allergen avoidance is important for managing allergy. Knowledge about when certain pollen types are likely to be in the air helps allergy sufferers to plan activities and medication use. Since airborne pollen is transported by air masses it can easily cross the border resulting an increased risk for allergy symptoms in sensitive population. Airborne allergens are routinely monitored in cross-border area. However, applied methodology is time consuming and results are disseminated to end users with a delay which limits the impact of collected data in every day health management. The project will modernize public health service and notably enhance the quality and applicative value of the information they provide in cross-border area: by introducing real time monitoring of airborne allergens, by developing models for prediction exposure and by creating a joint platform for instantaneous dissemination of these information. In addition the project will make an effort to educate end users on the benefits from using information for prevention and management of allergy symptoms coming from the information public health services will provide following the implementation of this project. The project will focus on three major pollen allergens (i.e. Birch, Grass, Ambrosia) and thus, having in mind overall prevalence of seasonal allergies in the Croatia-Serbia cross-border region, its results will enhance public health services needed for 15-30% of the population. Particular attention will be given to introduction of developed services to vulnerable groups i.e. children and elderly people for which it can help to plan travelling, outdoor activities, start of the therapy, self assessment of the therapy effectiveness etc. Joint approach for dissemination of measurements and forecasts will improve information flow for people travelling from one side of the border to another but also for visitors coming from other regions.
+        Program: Interreg IPA Cross-border Cooperation Programme Croatia - Serbia 2014-2020
+        Partneri na projektu: Institut BioSens - Istraživačko razvojni institut za informacione tehnologije biosistema (Lead Beneficiary), Univerzitet u Novom Sadu, Prirodno-matematički fakultet u Novom Sadu and Grad Osijek
+        Suradnici na projektu: Kristian Sabo, Krešimir Burazin, Nenad Šuvak and Slobodan Jelić
+        Trajanje projekta: 15 July 2017 - 14 January 2020
+
+    "Optimizacija parametarski ovisnih mehaničkih sustava - Razvoj karijera mladih istraživača - izobrazba novih doktora znanosti", (Odjel za matematiku, Sveučilište u Osijeku - Hrvatska zaklada za znanost) - voditelj projekta: Ninoslav Truhar
+        Sažetak: Doktorski student će se baviti optimizacijom aktivnog i pasivnog prigušenja mehaničkih sustava sa i bez vanjske sile. U svrhu toga bit će potrebno razviti opći teorijski okvir koji opisuje mnoga važna svojstva sustava, te konstruirati adekvatne numeričke algoritme za izračunavanje željenih veličina. Planirano je da doktorand upiše Zajednički sveučilišni poslijediplomski doktorski studij matematike Sveučilišta u Osijeku, Rijeci, Splitu i Zagrebu te da se specijalizira u području Teorije upravljanja i optimizacije, odnosno Običnih diferencijalnih jednadžbi i dinamičkih sustava.
+        Program: Razvoj karijera mladih istraživača - izobrazba novih doktora znanosti Hrvatske zaklade za znanost
+        Ime i prezime mentora: Ninoslav Truhar
+        Ime i prezime doktoranda: Matea Puvača
+        Trajanje projekta: 20. rujna 2016. - 20. rujna 2020.
+
+    "Optimizacijski i statistički modeli i metode prepoznavanja svojstava skupova podataka izmjerenih s pogreškama" - Razvoj karijera mladih istraživača - izobrazba novih doktora znanosti", (Odjel za matematiku, Sveučilište u Osijeku - Hrvatska zaklada za znanost) - voditelj projekta: Mirta Benšić
+        Sažetak: Doktorski student će se baviti metodama nelinearne regresije i klasifikacije. Naglasak je na razumijevanju, razvoju i primjeni neparametarskih metoda uključujući neuronske mreže. Specifični cilj ovog plana izobrazbe doktorskog studenta je doprinijeti matematičkom razumijevanju statističkih i algoritamskih svojstava višeslojnih neuronskih mreža i srodnih metoda s tendencijom prema pronalaženju izraza za aproksimaciju greške, složenost, statistički rizik i vrijeme računanja. Teoretski će rezultati biti potkrijepljeni simulacijama te primijenjeni na istraživanju stvarnih problema. Planirano je da doktorand upiše Zajednički sveučilišni poslijediplomski doktorski studij matematike Sveučilišta u Osijeku, Rijeci, Splitu i Zagrebu, da se specijalizira u području vjerojatnosti i matematičke statistike te da se dodatno usavršava na University of Yale pod vodstvom prof. Andrew Barrona.
+        Program: Razvoj karijera mladih istraživača - izobrazba novih doktora znanosti Hrvatske zaklade za znanost
+        Ime i prezime mentora: Mirta Benšić
+        Ime i prezime doktoranda: Una Radojičić
+        Trajanje projekta: 1. ožujka 2017. - 28. veljače 2021.
+
+    "Granično ponašanje intermitentnih procesa i difuzija" - UNIOS - ZUP 2018 - Projekti mladih istraživača", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište Josipa Jurja Strossmayera u Osijeku) - voditelj projekta: Danijel Grahovac
+        Sažetak: Zaključivanje u statistici i teoriji vjerojatnosti uvelike se temelji na graničnim rezultatima koji opisuju stohastička svojstva različitih modela kada vrijeme teži u beskonačnost. Tako primjerice, centralni granični teorem garantira da pod nekim uvjetima aritmetička sredina ima približno normalnu Gaussovu razdiobu. Danas je posve jasno da ovakvi rezultati ne mogu opisati svu kompleksnost prirodnih pojava. Između ostalog, nije moguće objasniti činjenicu da neki fenomeni pokazuju različito ponašanje na malim i velikim vremenskim skalama (primjerice turbulentno strujanje fluida, vrijednost neke financijske imovine i dr.). U okviru projekta proučavat će se granična svojstva stohastičkih modela koji posjeduju ovakva svojstva. Poseban naglasak bit će na modelima koji imaju svojstvo intermitennosti te na implikacijama koje to svojstvo ima na stohastičku prirodu modela. Osim toga, proučavat će se klasa difuzijskih modela, granično ponašanje procjenitelja nepoznatnih parametara u tim modelima, te vezano uz to aproksimacija njihovih prijelaznih funkcija gustoća.
+        Program: UNIOS - ZUP 2018 - Projekti mladih istraživača
+        Suradnici na projektu: Nenad Šuvak (Odjel za matematiku Sveučilišta u Osijeku), Ivan Papić (Odjel za matematiku Sveučilišta u Osijeku), Nikolai N. Leonenko (School of Mathematics, Cardiff University), Murad S. Taqqu (Department of Mathematics and Statistics, Boston University), Una Radojčić (Odjel za matematiku Sveučilišta u Osijeku) i Mirta Benšić (Odjel za matematiku Sveučilišta u Osijeku).
+        Trajanje projekta: 19. 11. 2018. - 18. 5. 2020.
+
+    "Problem zaobilaženja neželjenog dijela spektra kod kvadratnog svojstvenog problema" - UNIOS - ZUP 2018 - Projekti mladih istraživača ", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište Josipa Jurja Strossmayera u Osijeku) - voditelj projekta: Suzana Miodragović
+        Sažetak: Neka važna svojstva vibracijskih mehaničkih sustava se matematički mogu opisati odgovarajućim kvadratnim svojstvenim problemom. Kada su svojstvene (prirodne) frekvencije takvih mehaničkih sustava blizu frekvencijama vanjske pobude, vibracije sustava mogu postati opasne. Takav se fenomen u fizici naziva rezonancija. Zaobilaženjem, odnosno pomicanjem, dijela opasnih svojstvenih vrijednosti promatranog kvadratnog svojstvenog problema (koji opisuje određeni mehanički sustav) nastoji se izbjeći takvo ponašanje. Odredimo li interval (rezonancijsku ogradu) u kojem ne želimo da se nalaze svojstvene vrijednosti, matricu prigušenja sustava možemo podesiti tako da novi kvadratni svojstveni problem nema svojstvene vrijednosti u tom intervalu. Problem zaobilaženja odnosno pomicanja neželjenog dijela spektra promatrat će se za hiperbolne, a potom i za žiroskopne kvadratne svojstvene probleme.
+        Program: UNIOS - ZUP 2018 - Projekti mladih istraživača
+        Suradnici na projektu: Ninoslav Truhar (Odjel za matematiku Sveučilišta u Osijeku), Zoran Tomljanović (Odjel za matematiku Sveučilišta u Osijeku), Matea Puvača (Odjel za matematiku Sveučilišta u Osijeku), Fernando de Teran (Universidad Carlos III de Madrid, Math. Department)
+        Trajanje projekta: 19. 11. 2018. - 18. 5. 2020.
+
+    "Računalom upravljano korpusno jezikoslovlje" - UNIOS - ZUP 2018 - Interdisciplinarni istraživački projekti", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište Josipa Jurja Strossmayera u Osijeku) - voditelj projekta: Domagoj Ševerdija
+        Sažetak: Korpusna lingvistika proučava jezik prema uzorcima danim u tekstovima stvarnog korištenja. Kao izvor podataka koji je digitaliziran otvara velike mogućnosti računalne obradbe korpusnih podataka kako bi se potpomoglo u donošenju korpusno-temeljenih zaključaka. Većina digitaliziranih korpusa danas podrazumijevaju okvir u kojem je moguće raditi jezikoslovno-specifične analize. Ovim projektom bi se realizirao jedinstveni mrežni okvir kao mrežna aplikacija koja će omogućiti jezikoslovcu unos vlastitog korpusa i dati mu pristup skupu alata za korpusnu analitiku. Okvir će se upotrijebiti u nekoliko studija slučaja na kojima su do sada primijenjeni uglavnom pristupi teorijske lingvistike. Naš pristup će se temeljiti na klasifikaciji podataka iz korpusa prema morfološkim i semantičkim svojstvima koristeći standardne metode za klasifikaciju podataka iz korpusa te pristup rekurzivnih/rekurentnih neuronskih mreža iz područja strojnog učenja.
+        Program: UNIOS-ZUP 2018 - Interdisciplinarni istraživački projekti
+        Suradnici na projektu: doc. dr. sc. Ana Mikić Čolić (Filozofski fakultet Sveučilišta Josipa Jurja Strossmayera u Osijeku) i prof. dr. sc. Mario Essert ( Fakultet strojarstva i brodogradnje Sveučilišta u Zagrebu)
+        Trajanje projekta: 19. 11. 2018. - 18. 5. 2020.
+
+    "Hrvatski jezik u mrežnom oblaku svjetskih jezika", (Odjel za matematiku, Sveučilište u Osijeku - Zaklada Adris) - voditelj projekta: Domagoj Ševerdija
+        Sažetak: Cilj projekta je uključivanje hrvatskoga jezika, kao temelja hrvatske kulturne baštine, u svjetski mrežni jezikoslovni oblak (LLOD - linguistics open data, http://linguistic-lod.org/llod-cloud), što znači postavljanje hrvatskoga jezika na mjesto koje mu međueuropskim i svjetskim jezicima pripada, i to na moderan i interoperabilan način. Svi koraci uključivanja u LLOD već su načinjeni u sklopu dijela doktorskog rada Marka Oreškovića (https://old.datahub.io/dataset/ssf-lexicon) tako da se u oblaku već nalazi 60-tak tisuća, nažalost neprovjerenih podataka (riječi i njihovih gramatičkih i semantičkih obilježja), koje bi se ovim projektom provjerile i nadopunile novima (oko 740.000 riječi, tj. 100.000 lema) čeka provjeru). Ovaj projekt nastavak je višegodišnjeg rada prof. dr. sc. Maria Esserta i njegovih suradnika na izgradnji integriranog tezarija hrvatskoga jezika, a koji je i bez potpore institucija i zaklada, ipak ostvaren i međunarodno priznat (u Oxfordovim Q1 časopisima: IGPL i IJL, kao i na međunarodnim konferencijama - Beč: Semantics 2015, Rim: CombiLex 2016; Tbilisi: EURALEX 2017). Štoviše, dobiven je poziv za suradnju s Oxford University Pressom (g. Sandro Cirulli, OUP), tj. uključivanje u njihove svjetske rječnike (https://www.oxforddictionaries.com/). Diseminacija projekta provedena je na svim relevantnim mjestima (IHJJ, MH, FFZG, MZOŠ/AZVO), ali nije naišla na razumijevanje i potporu. Konačno, Odjel za matematiku (http://www.mathos.hr) prepoznao je njegov značaj i uključio se u njega. Kroz kolegij "Računalno jezikoslovlje" u razvitak projekta uključeni su i studenti smjera Matematika i računarstvo. Preostaje još uključiti nastavnike hrvatskoga jezika, kako bi pomogli u provjeri postojećih i unosu novih sadržaja. Za taj njihov rad, voditelj i suradnici ovog projekta napisat ću sve potrebne programske module. Ovaj projekt kao ishod ne daje "još jedan" rječnik hrvatskog jezika, nego mrežnu bazu povezanu s drugim riječima svjetskih jezika, a s obzirom na unesena obilježja (npr. rječnik morfema i slogova, kao i MWE rječnik višerječnica) predstavlja temelj sintaktičko-semantičke analize digitalnih dokumenata hrvatskoga jezika. Neke od primjena (npr. razlikovanje vrsta zavisnih rečenica ili prepoznavanje metonimija i metafora u tekstu) već su pokazane na jezikoslovnim konferencijama (6.HSD, 3FTL).
+        Program: Stvaralaštvo, ekologija, baština i dobrota - Zaklada Adris
+        Suradnici na projektu: Domagoj Ševerdija, Ana Mikić Čolić, Mario Essert, Suzana Molčanov, Marko Orešković i Juraj Benić
+        Trajanje projekta: listopad 2018. - siječanj 2020.
+
+    "Strojno učenje u analizi rezultata pretraga magnetnom rezonancom", (Mono d.o.o. - HAMAG-BICRO)
+        Sažetak: Cilj ovog projekta je stvoriti prototip online, Software-as-a-Service (SaaS) računalnog sustava za automatizaciju segmentacije i klsifikacije MR pretraga u ortopediji, s naglaskom na pretrage koljena, primjenom tehnika strojnog učenja (Machine Learning, ML). Algoritamske metode za analizu MR-a potpadaju u dvije glavne kategorije: klasifikaciju i segmentaciju. Klasifikacija dodjeljuje oznake MR serijama (normalno/abnormalno, stupanj ozbiljnosti problema, dijagnoza). Segmentacija je proces delineacije i označavanje granica ili kontura raznih tkiva i procesa u njima. Naš će prototip sadržavati fukcionalnost obje metode, s naglaskom na segmentaciju.)
+        Program: HAMAG-BICRO Program provjere inovativnog koncepta (PoC7)
+        Suradnici na projektu: Domagoj Matijević, Domagoj Ševerdija, Slobodan Jelić
+        Trajanje projekta: 01.11.2018. - 1.5.2019.
+
+    "Inter-institutional cooperation between Department of Mathematics at UNIOS and Department of Mathematics at Virginia Tech", (Odjel za matematiku, Sveučilište u Osijeku - Agencija za mobilnost i programe Europske unije) - voditelj projekta: Zoran Tomljanović
+        Sažetak: Both partners have working groups that have similar interests within their scientific research, this will mean that both partners will improve their knowledge and experience. Improving the quality of knowledge within scientific research will also have an impact on the quality of teaching process especially in courses within applied mathematics. Dissemination of their results will be performed through seminar and conference talks and the main results will be published in scientific papers cited in relevant scientific databases (CC, SCIE, mathscinet). Thus, from this cooperation both partners will have a strong mutual benefit.
+        Program: ERASMUS+ PROGRAMME - International Credit Mobility, KEY ACTION 1 - Learning mobility of Individuals between programme and partner country
+        Partner na projektu: Department of Mathematics, Virginia Tech, USA
+        Suradnici na projektu: Zoran Tomljanović (Odjel za matematiku Sveučilišta u Osijeku), Serkan Gugercin (Department of Mathematics, Virginia Tech)
+        Trajanje projekta: 15. veljača 2017. - 31. srpnja 2018.
+
+    "Mathematics for industry network (MI-NET) (TD COST Action TD1409 ), (Odjel za matematiku, Sveučilište u Osijeku - COST - European Cooperation in Science and Technology) - koordinator projekta: Kristian Sabo
+        Sažetak: Mathematics underpins all of modern science and technology but advances in mathematical research are not always applied to maximum advantage in industry. The objective of this Action is to create a Europe-wide partnership to promote collaboration in, and the benefits of, industrial mathematics. The Actiom will run industry workshops, trainings weeks, and short-term scientific missions to both academic and industrial hosts, with the general aim of increasing the interaction between industry and academia. Exploiting the mathematical knowledge and methodologies af academics will provide European industry with a competitive advantage. Universities will benefit, as mathematicians are able to focus on practically relevant and cutting edge research problems. The training of Early-Career Investigators in particular will lead to a new generation with problem solving and communication skills and collaborative links that will be essential to maintain the goals of this Action in the future long after this funding has finished.
+        Program: TD COST Action TD1409
+        Partneri na projektu:
+            Austria
+                Dr Andreas BINDER
+                Prof Ronny RAMLAU
+            Belgium
+                Dr Patricia TOSSINGS
+            Bosnia and Herzegovina
+                Dr Haris GAVRANOVIC
+                Dr Harun ŠILJAK
+            Bulgaria
+                Mr Tihomir IVANOV
+                Prof Petar POPOV
+            Croatia
+                Prof Anet REZEK JAMBRAK
+                Prof Kristian SABO
+            Cyprus
+                Dr Katerina KAOURI
+                Dr Margarita ZACHARIOU
+            Denmark
+                Dr Poul HJORTH
+                Prof Maria Dolores ROMERO MORALES
+            Estonia
+                Prof Peep MIIDLA
+                Mr Jens HAUG
+            Finland
+                Dr Simo ALI-LÖYTTY
+                Dr Matylda JABLONSKA-SABUKA
+            France
+                Dr Joost ROMMES
+                Ms Edwige GODLEWSKI
+            fYR Macedonia
+                Dr Tatjana ATANASOVA-PACHEMSKA
+                Dr Biljana JOLEVSKA-TUNESKA
+            Germany
+                Prof Dietmar HOEMBERG
+                Prof Rene PINNAU
+            Greece
+                Prof Vasileios KOSTOGLOU
+                Dr Nikolaus PLOSKAS
+            Hungary
+                Dr András BÁTKAI
+                Prof Istvan FARAGO
+            Ireland
+                Dr Miguel BUSTAMANTE
+                Dr William LEE
+            Israel
+                Dr Yirmeyahu KAMINSKI
+                Dr Aviv GIBALI
+            Italy
+                Prof Alessandra MICHELETTI
+                Dr Rada NOVAKOVIC
+            Lithuania
+                Prof Raimondas CIEGIS
+            Netherlands
+                Dr Vivi ROTTSCHAFER
+                Prof Wilhelmus SCHILDERS
+            Norway
+                Prof Elena CELLEDONI
+                Dr Svenn Anton HALVORSEN
+            Poland
+                Prof Wojciech OKRASINSKI
+                Dr Agnieszka WYLOMANSKA
+            Portugal
+                Prof Adérito ARAÚJO
+                Ms Margarida PINA
+            Romania
+                Prof Costica MOROSANU
+                Dr Ionut PORUMBEL
+            Serbia
+                Prof Natasa KREJIC
+                Prof Ivan OBRADOVIC
+            Slovakia
+                Dr Peter FROLKOVIC
+                Prof Karol MIKULA
+            Slovenia
+                Prof Janez POVH
+            Spain
+                Prof Tim MYERS
+                Prof Peregrina QUINTELA ESTÉVEZ
+            Sweden
+                Dr Hanifeh KHAYYERI
+                Prof Johan HOFFMAN
+            Switzerland
+                Dr Joerg OSTERRIEDER
+                Prof Wolfgang BREYMANN
+            Turkey
+                Prof Enis KAYIS
+            United Kingdom
+                Dr Robert LEESE
+                Dr Hilary OCKENDON
+        Suradnici na projektu: Kristian Sabo, Krešimir Burazin
+        Trajanje projekta: 5. 5. 2015. – 4. 5. 2019.
+
+    "Optimizacija parametarski ovisnih mehaničkih sustava", (Odjel za matematiku, Sveučilište u Osijeku - Hrvatska zaklada za znanost) - voditelj projekta: Ninoslav Truhar
+        Sažetak: Ovaj projekt posvećen je proučavanju mehaničkih sustava drugog reda koji se opisuju sustavom običnih diferencijalnih jednadžbi: M x''(t) + D x'(t)+ K x(t) =B f(t)+Ew(t), x0=x(0), v0=x'(0), pri čemu su M, D, K semidefinitne hermitske matrice velike dimenzije, ovisne o jednom ili više realnih parametara, a B i E su matrice s p i q stupaca, punog ranga, pri čemu su p i q puno manji od n. Iako se o navedenim sustavima puno toga zna, još uvijek postoje mnogi zanimljivi neriješeni problemi kako s teorijskog tako i s aspekta primjena. Jedan od takvih problema je optimizacija prigušenja malog ranga, bilo koje vrste (pasivnog, viskoznog, semi-aktivnog) iz kojeg slijede otvorena pitanja poput pozicioniranja prigušivača, njihovog optimalnog broja, optimalne karakteristike prigušivača, itd. Glavnina istraživanja u okviru ovog projekta stoga će biti usmjerena na: optimizaciju aktivnog i pasivnog prigušenja, te optimalno upravljanje parametarski ovisnim mehaničkim sustavima sa i bez vanjske sile; opisivanje svojstava svojstvenih vrijednosti i svojstvenih vektora parametarski ovisnog pripadnog kvadratnog problema te njihova generalizacija na nelinearne parametarski ovisne svojstvene probleme. U okviru problema optimizacije aktivnog i pasivnog prigušenja mehaničkih sustava sa i bez vanjske sile, razvit ćemo opći teorijski okvir koji opisuje mnoga važna svojstva sustava, te ćemo konstruirati adekvatne numeričke algoritme za izračunavanje željenih veličina. Ta će teorijska razmatranja biti vezana za optimizaciju raznih parametara prigušenja s obzirom na nekoliko različitih optimizacijskih kriterija, kao npr: optimizacija spektralne apscise, optimizacija ukupne usrednjene energije sustava, optimizacija usrednjene amplitude pomaka, optimizacija usrednjene amplitude energije i optimizacija energije odgovora impulsa. Nadalje, u okviru navedenih problema rješavat ćemo mnoge numerički zahtjevne probleme, primjerice: problem mješovite cjelobrojne nelinearne optimizacije, efikasno rješavanje velikih matričnih jednadžbi (Lyapunovljeva, Sylvesterova, Riccatijeva), poboljšanje optimizacijskih algoritama redukcijom dimenzije. Takodjer ćemo razmatrati kako teorijski tako i numerički aspekt problema optimizacije semi-aktivnog prigušenja te optimalnog upravljanja obzirom na različite kriterije (minimizacija H_2, H_infinity norme i dr.). U okviru problema opisivanja ponašanja svojstvenih vrijednosti i svojstvenih vektora parametarski ovisnog kvadratnog svojstvenog problema, razvit ćemo perturbacijsku teoriju za pripadni kvadratni problem, pri čemu ćemo posebno proučavati slučaj kad su M, D, K semidefinitne hermitske matrice, a pripadni linearizirani par je dijagonalizabilan (to znači da svojstvene vrijednosti kvadratnog svojstvenog problema mogu biti kompleksne), a posebno tzv. pregušeni slučaj, tj. slučaj kada je pripadni linearizirani par definitan. Nadalje, dobivene rezultate planiramo generalizirati na parametarski ovisne nelinearne probleme svojstvenih vrijednosti. Za sve slučajeve razvit ćemo perturbacijsku teoriju, koja će sadržavati perturbacijske ocjene apsolutnog i relativnog tipa za svojstvene vrijednosti i pripadne svojstvene vektore, odnosno potprostore.Budući da su navedeni problemi usko povezani, uvid u ponašanje svojsvenih vrijednosti i pripadnih svojstvenih vektora omogućit će bolje razumijevanje djelovanja prigušenja ili drugih dijelova mehaničkih sustava, dok će bolje razumijevanje optimalnosti prigušenja ili parametara u mehaničkom sustavu pojasniti neka važna svojstva mehaničkih sustava, kao što su pregušenost, stabilnost i slično.
+        Program: Hrvatska zaklada za znanost
+        Partneri na projektu: Prof. dr. sc. Peter Benner, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany Prof. dr. sc. Ivan Slapničar, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture, University of Split Dr. sc. Nevena Jakovčević Stor, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture, University of Split Jonas Denißen, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
+        Suradnici na projektu: prof. dr. sc. Ninoslav Truhar, doc. dr. sc. Zoran Tomljanović, dr. sc. Ivana Kuzmanović, dr. sc. Suzana Miodragović
+        Trajanje projekta: 1. 7. 2015. – 30. 6. 2019.
+
+    "Robusna optimizacija prigušenih mehaničkih sustava", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i obrazovanja i Njemačka služba za akademsku razmjenu (DAAD)) - voditelj projekta: Zoran Tomljanović
+        Sažetak:Mehanički sustavi su dosta proučavani, ali još uvijek ima puno zanimljivih i važnih otvorenih problema sa teorijskog stajališta, ali također i u primjenama. U okviru ovog projekta planiramo proučavati robusnu optimizaciju prigušenja. Za optimizaciju planiramo koristiti kriterij koji odgovara H_inf normi sustava, što osigurava bolja svojstva prigušenog sustava u odnosu na druge kriterije poput H2 norme ili ukupne prosječne energije. Taj kriterij posebno osigurava bolju robusnost sustava, što je jedan od ciljeva ovog projekta. Stoga, planiramo razviti nove pristupe za efikasnu optimizaciju prigušenja te ih usporediti s postojećim pristupima.
+        Program: Program zajedničkog poticanja razmjene sudionika u projektima između MZO-a i DAAD-a
+        Partneri na projektu: Technische Universität Berlin (Matthias Voigt, Volker Mehrmann i Philipp Schulze)
+        Suradnici na projektu: Ninoslav Truhar, Matea Puvača
+        Trajanje projekta: 1. siječnja 2017. - 31. prosinca 2018.
+
+    "European Model Reduction Network (EU-MORNET) (TD COST Action TD1307)", (Odjel za matematiku, Sveučilište u Osijeku - COST - European Cooperation in Science and Technology) - koordinator projekta: Ninoslav Truhar
+        Sažetak: Ova mreža će spojiti zajedno velike grupe u Europi koje rade na strategijama za redukciju modela, a primjenu imaju u mnogim domenama znanosti i tehnologije. Rastuća složenost matematičkih modela koji se koriste za predviđanje realnih sustava, poput klimatskih problema ili kardiovaskularnih sustava čovjeka, dovode do potrebe za redukcijom modela. Zbog toga je potrebno razvijati algoritme koji zamjenjuju složene modele sa znatno jednostavnijim koji dobro aproksimiraju sustav i sadrže najvažnije fenomene koji se u danom modelu promatraju.
+        Naglasak će biti na nekoliko tema:
+            1. Dizajniranje, optimizacija i teorija upravljanja u primjenama u realnim vremenu u inženjerstvu.2. Asimilacija podataka, evidentiranje geometrije i procjena parametara s posebnim naglaskom na računanje u realnom vremenu u biomedicinskom inženjerstvu i računalnoj fizici.3. Vizualizacija u realnom vremenu fizikalno baziranih simulacija u računalnim znanostima.4. Proučavanje problema velikih dimenzija u prostoru stanja, fizikalnom prostoru i industrijskim problemima ili parametarskom prostoru.5. Interakcija između više modela redukcije pristupima koji koriste redukciju dimenzije.
+            Fokus mreže je metodologijski, međutim, velik broj znanstvenih i industrijskih problema velike složenosti je predviđen za motivaciju, simulaciju i na kraju demonstraciju značaja i efikasnosti mreže. Glavni cilj je značajno ubrzavanje računalnih programa kako bi bili realističniji za industrijske, znanstvene, ekonomske i socijalne modele, što će se postići modelima za redukciju.
+        Program: TD COST Action TD1307
+        Partneri u projektu:
+            Belgium
+                Prof Karl MEERBERGEN
+                Prof Benjamin DEWALS
+            Croatia
+                Prof Ninoslav TRUHAR
+            France
+                Prof Francisco CHINESTA
+            Germany
+                Prof Peter BENNER
+                Prof Bernard HAASDONK
+            Ireland
+                Dr Patrick BRADLEY
+            Italy
+                Dr Gianluigi ROZZA
+            Luxembourg
+                Prof Andreas ZILIAN
+                Prof Stéphane BORDAS
+            Netherlands
+                Prof Wil SCHILDERS
+                Prof Jacquelien SCHERPEN
+            Portugal
+                Prof Nuno POMBO
+                Prof Luis Miguel SILVEIRA
+            Romania
+                Prof Daniel IOAN
+                Dr Alexandra Raluca STEFANESCU
+            Spain
+                Prof Antonio FALCO
+                Mr Enrique S. QUINTANA-ORTI
+            Sweden
+                Prof Elias JARLEBRING
+            Switzerland
+                Prof Alfio QUARTERONI
+            United Kingdom
+                Dr Mark OPMEER
+            MC Substitute
+                Germany
+                    Prof Heike FASSBENDER
+                    Prof Tatjana STYKEL
+                Netherlands
+                    Prof Siep WEILAND
+                    Prof Arjan VAN DER SCHAFT
+                Switzerland
+                    Prof Jan HESTHAVEN
+        Suradnici na projektu: Ninoslav Truhar, Zoran Tomljanović
+        Trajanje projekta: 14. 11. 2013 - 14. 11. 2017.
+
+    "Varijacijski račun, optimizacija i primjene", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti, obrazovanja i sporta) - voditelj projekta: Krešimir Burazin
+        Sažetak: Kroz dosadašnju suradnju identificirani su zajednički znanstveni interesi te bi se planirana suradnja na ovom projektu realizirala kroz zajednički rad na sljedećim temama: a) Optimalno upravljanje, optimalni dizajn, poopćena rješenja i homogenizacija. U okviru ove teme planiramo proučavati linearno kvadratičnu zadaću u okružju Friedrichsovih sustava, s naglaskom na primjenama na konkretne početno-rubne zadaće. Nadalje, proučavali bismo zadaću dvo-faznog optimalnog dizajna sa više stanja za jednadžbu stacionarne difuzije, gdje je cilj minimizirati težinsku sumu energetskih funkcionala po svim mješavinama dvaju izotropnih materijala. Ovdje je cilj eksplicitno izračunati rješenje relaksirane zadaće, barem u sferno-simetričnom slučaju. Zanimljivo bi bilo vidjeti može li se linearizirana elastičnost uklopiti u okružje Friedrichsovih sustava, a planirano je i istraživanje karakterizacije H-distribucija, s posebnom pažnjom na pitanju odnosa nosača H-distribucija odnosno H-mjera i valne fronte. b) Optimizacijski problemi posebne strukture. Razmatrat će se klasa optimizacijskih problema specijalne strukture u kojima je funkcija cilja prikazana u obliku sume velikog broja tzv. funkcija gubitaka. Posebno nas zanimaju problemi u kojima direktna minimizacija funkcije cilja, koja je određena na osnovi skupa svih podataka (zbog njegove veličine), nije moguća. Da bismo smanjili troškove iterativne procedure optimizacije, razmatrat ćemo metode u kojima je broj lokalnih funkcija gubitaka promjenjiv u svakoj iteraciji. Pri tome funkciju cilja aproksimiramo na osnovi veličine uzorka, za što su posebno zanimljive metode drugog reda. S ciljem redukcije dimenzije velikog broja podataka, razvit će se inkrementalne i adaptivne metode zasnovane na spektralnoj relaksaciji koje služe za traženje približno globalno optimalne particije.
+        Program: Program znanstveno-tehnološke suradnje između Republike Hrvatske i Republike Srbije, Ministarstvo znanosti, obrazovanja i sporta
+        Partneri na projektu: Prirodno-matematički fakultet, Departman za matematiku i informatiku, Univerzitet u Novom Sadu
+        Suradnici na projektu: izv. prof. dr. sc. Kristian Sabo, Ivana Vuksanović, Jelena Jankov
+        Trajanje projekta: 1. siječnja 2016. - 31. prosinca 2017.
+
+    "Stohastički modeli s dugoročnom zavisnošću", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Nenad Šuvak
+        Sažetak:Standardni modeli u vjerojatnosti i statistici obično se oslanjaju na pretpostavku nezavisnosti ili slabe zavisnosti vremenski bliskih događaja. S druge strane, brojni fenomeni u primijenjenim znanostima zahtijevaju vremenske modele kod kojih korelacija između dva događaja može vrlo sporo opadati s povećanjem vremenske udaljenosti. Istraživanje u ovom projektu obuhvaća nekoliko tipova stohastičkih procesa koji imaju svojstvo dugoročne zavisnosti te na njihovu konstrukciju i svojstva. Proučavat će se korelirane slučajne šetnje i njihova veza s frakcionalnim Pearsonovim difuzijama, zatim tzv. trawl procesi i njihovo svojstvo intermitentnosti te procesi dobiveni kompozicijom autoregresivnih procesa u neprekidnom vremenu i slučajnog procesa koji modelira vrijeme.
+        Program: IZIP-2016
+        Gost istraživač: prof. dr. sc. Nikolai N. Leonenko (School of Mathematics, Cardiff University, UK)
+        Suradnici na projektu: Danijel Grahovac (Odjel za matematiku, Sveučilište u Osijeku, Hrvatska) i Ivan Papić (Odjel za matematiku, Sveučilište u Osijeku, Hrvatska)
+        Trajanje projekta: ožujak 2017. - ožujak 2018.
+
+    "Nelinearni parametarski ovisni svojstveni problem", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Ninoslav Truhar
+        Sažetak: Ovaj projekt posvećen je proučavanju nelinearnih parametarski ovisnih svojstvenih problema, pri čemu je poseban naglasak na ponašanju svojstvenih vrijednostii svojstvenih vektora parametarski ovisnog kvadratnog svojstvenog problema (ʎ(p)²M(p)+ʎ(p)C(p)+K(p))x(p)=0,gdje su M, C, K hermitske matrice, ʎ je svojstvena vrijednost, x je svojstveni vektor, a p dani parametar. Karakteristike parametarski ovisnih svojstvenih vrijednosti i svojstvenih vektora iskoristit ćemo za izvođenje perturbacijskih ocjena (apsolutnog i relativnog tipa) za slučaj kada su M, C, K bilo koje hermitske matrice. Dobiveni rezultati se planiraju generalizirati na parametarski ovisne nelinearne svojstvene probleme kao što su racionalni i polinomijalni problem.
+        Program: Gost istraživač (INGI-2015) Sveučilišta J. J. Strossmayera u Osijeku
+        Gost istraživač: prof. dr. sc. Rafikul Alam
+        Partneri na projektu: Department of Mathematics, Indian Institute of Technology Guwahati, India
+        Suradnici na projektu: doc. dr. sc. Ivana Kuzmanović, dr. sc. Suzana Miodragović, doc. dr. sc. Zoran Tomljanović, Matea Puvača
+        Trajanje projekta: 10. lipnja 2016. - 10. srpnja 2016.
+
+    "Istraživanje optimizacijskih i statističkih svojstava generalizirane metode momenata i metode najmanjih kvadrata u nelinearnim modelima", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Mirta Benšić
+        Sažetak: Gost istraživač i skupina istraživača s Odjela za matematiku Sveučilišta u Osijeku, proučavat će problem optimizacije koji se javlja u problemu klasteriranja podataka s naglaskom na metodu maksimalne vjerodostojnosti kada je početna aproksimacija odabrana metodom momenata temeljenoj na tenzorskom računu. Istraživat će se i efikasnost prilagodbe empirijskih distribucija metodom nelinearnih najmanjih kvadrata u određenim problemima procjene parametara.
+        Program: Gost istraživač (INGI-2015) Sveučilišta J. J. Strossmayera u Osijeku
+        Gost istraživač: izv. prof. dr. sc. Andrew R. Barron
+        Partneri na projektu: Department of Statistics, Yale University, USA
+        Suradnici na projektu: izv. prof. dr. sc. Kristian Sabo; dr. sc. Danijel Grahovac; Ivan Papić
+        Trajanje projekta: ožujak 2016. - studeni 2016.
+
+    "Razvoj modernih studijskih programa za izobrazbu nastavnika informatike, tehnike, biologije, kemije, fizike i matematike na temeljima Hrvatskoga kvalifikacijskog okvira", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti, obrazovanja i sporta) - koordinator projekta: Ljerka Jukić Matić
+        Sažetak: Opći cilj projekta je doprinos daljnjem provođenju Hrvatskog kvalifikacijskog okvira u sektoru obrazovanja profesora. Razvit će se prijedlog standarda zanimanja i prijedlog standarda kvalifikacija za nastavnike informatike, fizike, tehnike, biologije, kemije, matematike te će se, na taj način, modernizirati studijski programi za izobrazbu profesora prethodno navedenih područja, i to na temeljima Hrvatskog kvalifikacijskog okvira razradom ishoda učenja.Specifični ciljevi projekta su razvoj 6 standarda zanimanja, 6 standarda kvalifikacija te 10 studijskih programa/kurikuluma temeljenih na ishodima učenja.U prvom dijelu provođenja projektnih aktivnosti, analizirat će se strateški dokumenti, profil sektora, kao i ponuda i potražnja za ovim zanimanjima te će se provesti anketiranje o standardu zanimanja.U drugom dijelu, provedbom okruglih stolova radnih skupina svakog od područja, utvrdit će se ključni poslovi i kompetencije za ova radna mjesta, kao i skupovi ishoda učenja potrebnih za postizanje tih kompetencija.U finalnoj fazi, održat će se okrugli stolovi u svrhu usklađivanja studijskog programa za stjecanje kvalifikacije s prethodno razvijenim standardima zanimanja i standardima kvalifikacije nastavnika informatike, tehnike, biologije, kemije, fizike i matematike, te radionice o izradi nastavnih programa prema pristupu temeljenom na ishodima učenja
+        Program: Ugovor o dodjeli bespovratnih sredstava za projekte koji su financirani iz Europskog fonda u sklopu programa Razvoj ljudskih potencijala 2007.-2013.
+        Partneri na projektu: Filozofski fakultet u Zagrebu, Filozofski fakultet u Rijeci, Sveučilište u Rijeci, Sveučilište Josipa Jurja Strossmayera u Osijeku, III. gimnazija u Splitu i Agencija za odgoj i obrazovanje. Kao ciljne skupine, u projekt će biti uključeni i predstavnici ključnih sudionika u obrazovanju tog kadra.
+        Suradnici na projektu: doc. dr. sc. Ljerka Jukić Matić (matematika), doc. dr. sc. Tomislav Marošević (matematika), doc. dr. sc. Darija Marković (matematika), dr. sc. Domagoj Ševerdija (informatika), izv. prof. dr. sc. Domagoj Matijević (informatika)
+        Trajanje projekta: 18. 6. 2015. – 18. 9. 2016.
+
+    "Mixed integer nonlinear programming (MINLP) for damper optimization", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti obrazovanja i sporta i Njemačka služba za akademsku razmjenu (DAAD)) - voditelj projekta: Ninoslav Truhar
+        Sažetak: The problem we will consider is devoted to damping optimization, in particular, the problem is to determine dampers' position and viscosities for a vibrational system. A criterion in the optimization problem is to minimize the total energy for a vibrational system over all initital states of unit energy, and all dampers' position and its viscosities. In general this is a Mixed Integer Nonlinear Program (MINLP) as viscosities represent real numbers, while position are given as coordinates in the network, indexed by nonnegative integers.
+            The main drawback in damping optimization is the combinatorial explosion of the total number of damping combinations. Therefore, we would like to use recent advances in MINLP.
+            Furthemore, we would like to address the linearization of the MINLP, which in this case is possible since the product of variables can be expressed as separable functions. Hence, we end up with an Integer Program (IP).
+            In this setting, we would like to discuss and compare the result from the MINLP and IP approaches with the prevously investigated and abovely mentioned discrete to continous approaches.
+            Furthemore, we would like to consider a new damping optimization problem when a mechanical system is excited by an external force. In this case we consider a new criterion which is based on the amplitude, such as average energy amplitude and average displacement amplitude criterion.
+            With the knowledge of damping based on total energy we will derive explicit formulas for particular case studies. In the general setting we will propose approaches in which the objectives functions can be efficiently calculated. Moreover, in this optimization problem we would like to employ MINLP as well in order to determine optimal damping efficiently.
+        Program: Program zajedničkog poticanja razmjene sudionika u projektima između MZOS-a i DAAD-a
+        Partneri na projektu: Max Planck Institute for Dynamics of Complex Technical Systems (Peter Benner, Yao Yue, Xin Liang, Jonas Denissen, Manuela Hund)
+        Suradnici na projektu: Ninoslav Truhar, Zoran Tomljanović, Suzana Miodragović
+        Trajanje projekta: 1. 1. 2015. – 31. 12. 2016.
+
+    "Kompozicioni nizovi induciranih reprezentacija klasičnih p-adskih grupa", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Ivan Matić
+        Sažetak: Ovim projektom će biti istraživani ireducibilni subkvocijenti i određivani kompozicioni nizovi induciranih reprezentacija koje imaju istaknutu ulogu u unitarnom i neunitarnom dualu klasičnih grupa nad p-adskim poljima. Pri tome će posebna pažnja biti posvećena pojedinim generaliziranim osnovnim serijama, reprezentacijama induciranima iz reprezentacija segmentnog tipa te reprezentacijama induciranim iz više esencijalno kvadratno integrabilnih reprezentacija na općem linearnom dijelu i strogo pozitivne diskretne serije na klasičnom dijelu. Planira se proširiti mogućnost upotrebe metode operatora ispreplitanja i metode Jacquetovih modula, polazeći induktivno od do sada poznatih opisa Jacquetovih modula.
+        Program: Interni projekt Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: doc. dr. sc. Ivan Matić (koordinator); dr. sc. Ljerka Jukić Matić; Darija Brajković, mag. math
+        Trajanje projekta: 2. 3. 2015. – 2. 3. 2016.
+
+    "Frakcionalne Pearsonove difuzije", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Nenad Šuvak
+        Sažetak: Istraživanje će biti usmjereno na frakcionalne Pearsonove difuzije (FPD), točnije na proučavanje konstrukcije i vjerojatnosnih svojstava specijalnih tipova ove klase frakcionalnih difuzija: Ornstein-Uhlenbeckovu i Cox-Ingersol-Rossovu frakcionalnu difuziju. Fokusirat ćemo se na dva problema: 1. konstrukcija FPD 2. analiza spektra infinitezimalnog generatora FPD i korištenje poznate strukture njegovog spektra i pripadnih svojstvenih funkcija za izvođenje prijelaznih funkcija gustoća nekih specijalnih slučajeva FPD.
+        Za Ornstein-Uhlenbeckovu i Cox-Ingersol-Rossovu FPD istražit ćemo fizikalne interpretacije te eventualne primjene u drugim znanostima.
+        Program: Interni projekt Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: doc. dr. sc. Nenad Šuvak (koordinator); Danijel Grahovac; Ivan Papić; izv. prof. dr. sc. Mirta Benšić (konzultant)
+        Trajanje projekta: 2. 3. 2015. – 2. 3. 2016.
+
+    "Optimizacija prigušenja kod mehaničkih sistema uz djelovanje vanjske sile", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Zoran Tomljanović
+        Sažetak: This project is devoted to damping optimization which is a very important issuesince prevents undesirable effects in vibrations of systems.
+            We consider the case when a system is excited by an external force which has an important influence on system behavior. Optimization procedure will be based on the minimization of the average displacement and the average energy amplitude.
+            Since the optimization process is a very demanding we will develop several methods and algorithms for the efficient damping optimization. In particular, we will consider models with internal damping, different dampers viscosities and the influence of various external functions on system behavior
+        Program: Interni natječaj Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: doc. dr. sc. Zoran Tomljanović (koordinator); Ivana Vuksanović, mag. math.; Jelena Jankov, mag. math.
+        Trajanje projekta: 2. 3. 2015. – 1. 3. 2016.
+
+    "Optimalno prigušenje titrajnih sistema", (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti, obrazovanja i sporta i Njemačka služba za akademsku razmjenu (DAAD)) - voditelj projekta: Ninoslav Truhar
+        Sažetak: In real physical systems which possess elasticity and mass, dangerous vibrations are a typical phenomenon which have been widely studied in the past. But also nowadays this is an intensively investigated phenomenon. For the majority of engineering applications, resonance and sustained oscillations can cause structural damage. The way to reduce dangerous vibrations is through damping.Our goal is to develop efficient approaches for solving problems which appear in damping optimization but also in closely connected issues such as optimality of the solution of the linear systems, stability via Lyapunov and optimal control.The usage of model order reduction approaches is investigated for this task and additionally, we will derive a theory which will describe the geometry of the corresponding eigenspaces as well as the relative perturbation bounds for corresponding eigenvalues.We also consider the feedback stabilization we will also consider the case of active damping with direct velocity feedback, since one can obtain almost the same second order system as with passive damping.
+        Program: Program zajedničkog poticanja razmjene sudionika u projektima između MZOS-a i DAAD-a
+        Partneri na projektu: Max Planck Institute for Dynamics of Complex Technical Systems (Peter Benner, Jonas Denissen, Patrick Kürschner, Matthias Voigt, Andre Schneider)
+        Suradnici na projektu: Ninoslav Truhar, Zoran Tomljanović
+        Trajanje projekta: 1. 1. 2013. – 31. 12. 2014.
+
+    "Diskretne serije u generaliziranim osnovnim serijama", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Ivan Matić
+        Sažetak: Poznavanje kompozicionih nizova induciranih reprezentacija p-adskih grupa spada među najinteresantnije i najvažnije neriješene probleme u čitavoj teoriji reprezentacija. Posebno važan slučaj induciranih reprezentacija su takozvane generalizirane osnovne serije, reprezentacije inducirane s maksimalnih paraboličkih podgrupa iz diskretne serije koja se nalazi na klasičnom dijelu. Iako su točke reducibilnosti generaliziranih osnovnih serija dobivene radom G. Muića, ireducibilni subkvocijenti takvih reprezentacija su poznati samo u slučaju induciranja iz strogo pozitivne reprezentacije. Cilj ovog projekta je proširiti znanje na generalizirane osnovne serije inducirane iz općenitijih tipova diskretnih serija, pri čemu se težište stavlja na otkrivanje nužnih i dovoljnih uvjeta da bi generalizirana diskretna serija sadržavala subkvocijent u diskretnoj seriji. Također, planirano je dokazati da u tom slučaju inducirana reprezentacija mora sadržavati i podreprezentaciju u diskretnoj seriji.
+        Program: Interni projekt Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: dr.sc. Ljerka Jukić Matić, Darija Brajković mag.math.
+        Trajanje projekta: 25. 9. 2013. – 25. 9. 2014.
+
+    "Problem procjene parametara u nekim dvoparametarskim monotonim matematičkim modelima", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Darija Marković
+        Sadržaj: Teorijski dio istraživanja obuvaćat će razne aspekte problema procjene parametara u posebnoj familiji nelinearnih dvoparametarskih matematičkih modela. Naglasak će biti na problemima egzistencije optimalnih parametara u unaprijed zadanom prostoru parametara, problemu izbora numeričke metode za minimizaciju i problemu određivanja dobre početne aproksimacije. Problemi će se formulirati i rješavati u različitim l_p normama (1≤ p≤∞), a pored klasičnih metoda optimizacije, numeričke analize i teorije aproksimacija u istraživanjima će se naročito koristiti klasična metoda najmanjih kvadrata (Ordinary Least Squares Method). U sklopu istraživanja posebna pažnja će se posvetiti svim navedenim aspektima problema procjene parametara u nekim matematičkim modelima koji se često koriste u primijenjenim istraživanjima (poljoprivreda, ekonomija, elektrotehnika, biologija, biotehnologija, medicina, kao što su model dvoparametarske eksponencijalne regresije, model dvoparametarske potencijske regresije, Foxov model, Cobb-Douglasov model, Schumacherova jednadžba i drugi.
+        Program: Interni projekt Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: Darija Marković, Dragana Jankov Maširević, Dragan Jukić, Luka Borozan(student)
+        Trajanje projekta: 25. 9. 2013. - 24. 9. 2014.
+
+    "Paralelno računanje na grafičkom čipu u problemima diskretne linearne optimizacije", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Domagoj Matijević
+        Sažetak: Dizajniranjem brzih paralelnih algoritama želimo približno riješiti (miješani) problem pakiranja i pokrivanja. Modifikacijom postojećih algoritama te usporedbom njihovih performansi želimo odrediti najprikladniji algoritam za paralelni CUDA model računanja. Rezultat projekta značajno će doprinijeti približnom rješavanju mnogih NP-teških problema kombinatorne optimizacije koji imaju važne primjene u robotici i telekomunikacijama. Primjerice, SIMPLEX metoda rješava LP s 5000 varijabli i 5000 uvjeta u 2 sata koristeći računalo s jednom modernom procesorskom jedinicom. Cilj je efikasno riješiti problem s brojem varijabli i uvjeta do 50000 koristeći moderne grafičke NVIDIA čipove.
+        Program: Interni projekt Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: Domagoj Matijević (koordinator), Domagoj Ševerdija, Slobodan Jelić
+        Trajanje projekta: 1. 10. 2013. – 01. 10. 2014.
+
+    "Evolucijski Friedrichsovi sustavi", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Krešimir Burazin
+        Sažetak: Friedrichsovih sustavi su široka klasa linearnih PDJ koja obuhvaća mnoge naizgled bitno različite jednadžbe u jedinstvenom okružju. U zadnjih desetak godina napravljen je značajan napredak u njihovom razvoju, s novim rezultatima dobre postavljenosti zadaće za stacionarne Friedichsove sustave i razvojem novih numeričkih shema, što motivira njihovo daljnje proučavanje. Mi ćemo u ovome projektu proučavati nestacionarne, odnosno evolucijske Friedrichsove sustave (kod kojih se javlja i vremenska varijabla), te njihove moguće primjene, što prirodno nameće i daljnji razvoj nekih poznatih metoda koje se koriste u proučavanju PDJ.
+            Preciznije, cilj nam je proučiti uz koje pretpostavke je početno-rubna zadaća za evolucijski Friedrichsov sustav dobro postavljena u slabom smislu, istražiti mogućnost praktičnih primjena, kao i moguća poopćenja postojeće teorije kompaktnosti kompenzacijom na L^p-L^q slučaj.
+            Istraživanje će se vršiti koristeći teoriju polugrupa, Galerkinovu metodu, te metodu iščezavajuće viskoznosti, dok će se kompaktnost kompenzacijom istraživati korištenjem pseudodiferencijalnih operatora.
+        Program: Interni projekt Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: Krešimir Burazin, Marin Mišur, Ivana Vuksanović
+        Trajanje projekta: 25. 9. 2013. – 25. 9. 2014.
+
+    "Optimizacija semi-aktivnog prigušenja kod titrajnih sistema", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Zoran Tomljanović
+        Sažetak: U velikom broju fizikalnih i inženjerskih modela, opasne vibracije mogu oštetiti pa i slomiti titrajni sistem, stoga optimalno upravljanje sistemima ima vrlo velike primjene.
+            Istraživanje optimizacije prigušenja vrlo je zahtjevan problem koji često rezultira s problemima za čije je numeričko rješavanje potrebno jako puno vremena, računskih operacija i računalne memorije. Stoga, u ovom projektu želimo razviti optimizacijske pristupe koji će efikasno računati aproksimaciju rješenja promatranog optimizacijskog problema.
+            U ovom projektu poseban naglasak bit će dan problemu optimizacije semi-aktivnog prigušenja. U gornjem sistemu osnovni problem je minimizirati utjecaj ulaza na izlaz tako da optimiziramo koeficijente u matrici prigušenja. Utjecaj ulaza na izlaz može se mjeriti energijom odgovora impulsa. Taj kriterij vodi na rješavanje odgovarajuće Ljapunovljeve jednadžbe.
+            Također, cilj je teorijski opravdati aproksimacijske algoritme. U tom smislu želimo razviti i primijeniti perturbacijsku teoriju koja proučava kvadratni problem svojstvenih vrijednosti koji odgovara titrajnom problemu.
+        Program: Interni projekt Sveučilišta J. J. Strossmayera u Osijeku
+        Suradnici na projektu: Zoran Tomljanović, Suzana Miodragović
+        Trajanje projekta: 1. 1. 2014. – 31. 12. 2014.
+
+    "Neke primjene geometrijskih reprezentacija grafova", unutar kolaborativnog projekta "Geometrijske reprezentacije i simetrije grafova i druge diskretne strukture i primjene u znanosti" (Odjel za matematiku, Sveučilište u Osijeku - Hrvatska zaklada za znanost i Europska zaklada za znanost) - voditelj individualnog projekta: Antoaneta Klobučar, voditelj kolaborativnog projekta: Tomaž Pisanski
+        Sažetak: Geometric and other representations of graphs or graph-based structures have important applications in mathematics, computer science, social networks, chemistry, bioinformatics etc. Main goal of the project is development of coherent theory of graph representations, mostly of symmetric or almost symmetric structures and products. The knowledge acquired by the researches will be applied to geometrically interesting combinatorial structures like configurations, maps and polytopes, as to the large partially symmetric networks. The project will consist of the following parts:
+            1. representation and enumerating of highly symmetric graphs;2. almost symmetric graph structures;3. representation of large networks;4. representations and configurations of symmetric maps and polytopes;5. graph representations in mathematical chemistry and bioinformatics.
+            Individual goal of the project is application of graph theory in chemistry, bioinformatics, sociological researches and graph products.
+        Partneri na projektu:Faculty of Mathematics and Physics, Koper, Slovenia,Faculty of Mathematics and Physics, Ljubljana, Slovenia,Faculty of Arts and Sciences, Istanbul, Turkey,Faculty of Mathematics, Natural Sciences and Information Technologies. Koper,Faculty of Mathematics, Physics and Informatics, Bratislava, Slovakia,Faculty of mathematics and Computer Science, Leipzig, Germany,Montanuniversitaet Leoben, Leoben, AustriaJosip Juraj Strossmayer University of Osijek, Department of Mathematics, Osijek
+        Program: EUROCORES "Graphs in Geometry and Algorithms (Euro GIGA)" European Science Foundation
+        Suradnici na projektu: Snježana Majstorović (UNIOS, Department of Mathematics), Damir Vukičević, Jelena Sedlar, Tanja Vojković (UNIST, Faculty of Science)
+        Trajanje projekta: 1. 5. 2011. – 30. 4. 2014.
+
+    "Brzi i efikasni kinetički spaner" (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti, obrazovanja i športa i Njemačka služba za akademsku razmjenu (DAAD)) - voditelj projekta: Domagoj Matijević
+    2007. - 2013. "Nelinearni problemi procjene parametara u matematičkim modelima (235-2352818-1034)" (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti, obrazovanja i športa) - voditelj: Dragan Jukić
+    2007. - 2013. "Statistički aspekti problema procjene u nelinearnim parametarskim modelima (235-2352818-1039)" (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti, obrazovanja i športa) - voditelj: Mirta Benšić
+    2007. - 2013. "Pasivna kontrola mehaničkih modela (235-2352818-1042)" (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti, obrazovanja i športa) - voditelj: Ninoslav Truhar
+    2001. - 2006. "Procjena paremetara u matematičkim modelima (0235001)" (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i tehnologije) - glavni istraživač Rudolf Scitovski
+    2001. - 2006. "Statistički aspekti procjenitelja parametara u matematičkim modelima (0235002)" (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i tehnologije) - glavni istraživač Mirta Benšić
+    1996. - 2000. "Problemi identifikacije parametara u matematičkim modelima (165021)" (Odjel za matematiku, Sveučilište u Osijeku - Ministarstvo znanosti i tehnologije) - glavni istraživač Rudolf Scitovski
+    1991. - 1995. "Primjena numeričke i konačne matematike (1-01-129)" (Elektrotehnički fakultet, Sveučilište u Osijeku - Ministarstvo znanosti i tehnologije) - glavni istraživač Rudolf Scitovski

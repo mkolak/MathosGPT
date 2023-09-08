@@ -1,0 +1,63 @@
+OSNOVNE INFORMACIJE
+	Primjene diferencijalnog i integralnog računa II izvodi se u zimskom semestru treće godine sveučilišnog preddiplomskog studija matematike. Cilj kolegija je upoznati studente sa primjenama osnovnih pojmova i tehnika koje su obrađene u okviru predmeta Funkcije više varijabli, Kompleksna analiza i Obične diferencijalne jednadžbe. Razmatrati će se problemi koji se odnose na primjene u različitim područjima kao što su fizika, biologija, kemija i ekonomija.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m063.pdf)).
+	VODITELJ KOLEGIJA I ASISTENT
+		Izv.prof.dr.sc. Tomislav Marošević	
+		KONZULTACIJE: četvrtkom:  11:45-12:30	
+		email: tmarosev@mathos.hr
+	OSNOVNA LITERATURA
+		 1. J. Stewart, Calculus 7th Edition, McMaster University and University of Toronto,Brooks/Cole, Cengage Learning, Belmont, 2008.
+		 2. A. Sveshnikov, A. Tikhonov, The theory of functions of a complex variable, Mir Publishers, Moscow, 1978.
+		 3. D. N. Burghes, M.S. Borrie, Modelling with differential equations, Ellis Horwood Ltd., 1981.
+	DOPUNSKA LITERATURA
+		1. Šime Ungar, Matematička analiza 3 (https://web.math.pmf.unizg.hr/~ungar/Analiza3_internet.pdf), Zagreb, 2002.
+		2. Šime Ungar, Matematička analiza 4 (https://web.math.pmf.unizg.hr/~ungar/NASTAVA/MA/Analiza4.pdf), Zagreb.
+		3. Šime Ungar, Kompleksna analiza (https://web.math.pmf.unizg.hr/~ungar/kompleksna.pdf), Zagreb, 2009
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Nastava u zimskom semestru 2022./2023. se izvodi kontaktno uz korištenje platforme MS Teams.
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod  58593uo.
+	Izvedbeni program kolegija Primjene diferencijalnog i integralnog računa II realizira se s fondom od 45 sati (tjedno 1 sat predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+
+
+PRAVILA POLAGANJA ISPITA
+	PISMENI ISPIT
+		Polaganje pismenog ispita studenti mogu zamijeniti prihvatljivim rezultatima postignutim na kolokvijima koji se pišu tijekom semestra. Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+		Studenti tijekom studija mogu pristupiti polaganju 2 kolokvija koji pokrivaju cijelo gradivo. Da bi uspješno položio kolegij, student treba skupiti barem 40 bodova (%) (gledajući aritmetičku sredinu rezultata oba kolokvija), pri čemu na kolokviju/pismenom ispitu može ostvariti maksimalno 100 bodova (1 postotak od ukupnog broja bodova na kolokviju/pismenom ispitu = 1 bod). U skladu s tim određuju se sljedeće ocjene (gledajući aritmetičku sredinu rezultata oba kolokvija):
+			dovoljan (2): 40-54 bodova (%)
+			dobar (3): 55-69 bodova (%)
+			vrlo dobar (4): 70-84 bodova (%)
+			izvrstan (5): 85-100 bodova (%).
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+PRIMJERI PISMENIH ISPITA I KOLOKVIJA
+	PRIMJERI KOLOKVIJA:
+		Prvi kolokvij 2016/2017 (https://www.mathos.unios.hr/images/homepages/smajstor/kol120162017btidz.pdf)
+		Drugi kolokvij 2016/2017 (https://www.mathos.unios.hr/images/homepages/smajstor/pdir2kol21617_bt.pdf)
+		Prvi kolokvij s rješenjima 2015/2016 (https://www.mathos.unios.hr/images/homepages/smajstor/rjesenjakol11516.pdf)
+		Drugi kolokvij s rješenjima 2015/2016 (https://www.mathos.unios.hr/images/homepages/Luka/Primjene_II/kol2rj.pdf)
+		Prvi kolokvij s rješenjima 2014/2015  (https://www.mathos.unios.hr/images/homepages/smajstor/rjesenja_sa_slikom.pdf)  
+		Drugi kolokvij 2014/2015 (https://www.mathos.unios.hr/images/homepages/smajstor/pdint_2kol20142015.pdf)        
+	PRIMJERI PISMENIH ISPITA
+		16.06.2015. (https://www.mathos.unios.hr/images/homepages/smajstor/pdint_16062015.pdf)
+		6.07.2015. (https://www.mathos.unios.hr/images/homepages/smajstor/pdint_6072015.pdf)
+		02.02.2016. (https://www.mathos.unios.hr/images/homepages/smajstor/pdint_02022016.pdf)
+		21.06.2016. (https://www.mathos.unios.hr/images/homepages/djankov/pdir2_pismeni.pdf)
+		05.07.2016. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir2ispit0507-1.pdf)
+		06.09.2016. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir2_6092016.pdf)
+		20.09.2016. (https://www.mathos.unios.hr/images/homepages/Luka/Primjene_II/pi.pdf)
+		02.02.2017. (https://www.mathos.unios.hr/images/homepages/smajstor/pi.pdf)
+		16.02.2017. (https://www.mathos.unios.hr/images/homepages/Luka/Primjene_II/pi1602.pdf)
+		21.06.2017. (https://www.mathos.unios.hr/images/homepages/smajstor/pdirII_21062017.pdf)
+		05.07.2017. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir2_05_07_2017.pdf)
+		06.09.2017. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir_II_6092917.pdf)
+		20.09.2017. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir_II_20092017.pdf)
+		02.02.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir2022018.pdf)
+		16.02.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir16022018.pdf)
+		21.06.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir21062018.pdf)
+		05.07.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/PDIRII5072018.pdf)
+		06.09.2018. (https://www.mathos.unios.hr/images/homepages/smajstor/pdirII6092018.pdf)
+		28.01.2019. (https://www.mathos.unios.hr/images/homepages/smajstor/pdir28012019.pdf)

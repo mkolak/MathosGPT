@@ -1,0 +1,42 @@
+OSNOVNE INFORMACIJE
+	Elementarna geometrija izvodi se u ljetnom semestru prve godine sveučilišnog preddiplomskog studija matematike. Cilj kolegija je sistematizirati, učvrstiti i produbiti znanje elementarne, osnovnoškolske, sintetičke geometrije bez zadiranja u aksiomatsku izgradnju geometrija. Klasični geometrijski sadržaji što više aktualizirat će se demonstracijama uz pomoć računalnih alata dinamične geometrije na predavanjima i vježbama.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m101.pdf)).
+	VODITELJ KOLEGIJA	
+		prof.dr.sc.Zdenka Kolar-Begović (http://www.mathos.hr/~zkolar)	
+	ASISTENT	
+		doc.dr.sc. Ljiljana Primorac Gajčić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/135)
+		KONZULTACIJE: Nakon vježbi i po dogovoru.	
+	OSNOVNA LITERATURA
+		B. Pavković, D. Veljan - Elementarna matematika l, Školska knjiga, Zagreb, 2003.
+		D. Palman - Trokut i kružnica, Element, Zagreb, 1994.
+		D. Palman - Planimetrija, Element, Zagreb, 1999.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Elementarna geometrija realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno. 
+	Za pristup Teams kanalu koristiti AAIEDU pristupne podatke i kod 40m7dng.
+	PREDAVANJA	TERMIN: petak, 8-10h	PREDAVAONICA: D2	
+	VJEŽBE	TERMIN: petak, 10-12h	PREDAVAONICA: D2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti pišu 2 kolokvija od kojih svaki nosi 100 bodova. Student je pismeni dio ispita položio preko kolokvija ako zadovolji sljedeća dva uvjeta:
+		na svakom kolokviju ima minimalno 30 bodova,
+		ukupno ima minimalno 90 bodova.
+	PISMENI ISPIT
+		Pismeni ispit nosi 100 bodova. Student je položio pismeni dio ispita ako ostvari minimalno 45 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, odnosno kolokvija, formira konačna ocjena.
+
+
+PRIMJERI ISPITNIH ROKOVA:
+	19.lipnja 2018. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_19062018.pdf))
+	3.srpnja 2018. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_03072018.pdf))
+	29.kolovoza 2018. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_29082018.pdf))
+	19.lipnja 2019. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_1962019.pdf))
+	3.srpnja 2019. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_372019.pdf))
+	29.kolovoza 2019. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_2982019.pdf))
+	12.rujna 2019. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_1292019.pdf))
+	29.siječnja 2020. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_2912020.pdf))
+	19.veljače 2020. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_1922020.pdf))
+	10.srpnja 2023. (pdf (https://www.mathos.unios.hr/images/homepages/lprimora/EG/EG_10072023.pdf))

@@ -1,0 +1,39 @@
+General Information
+    PhD student
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-805
+    email: jmaltar@mathos.hr
+    office: 5 (ground floor)
+    Google Scholar (https://scholar.google.hr/citations?user=VYRMgDAAAAAJ&hl=hr)
+    Research Interests
+        Computer Vision
+        Deep Learning
+        Robotics
+    Degrees
+        MSc in mathematics, Mathematics and Computer Science, Department of Mathematics, University of Osijek, Croatia, 2017.
+        BSc in Mathematics, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2015.
+
+
+Publications
+    Journal Publications
+        J. Maltar, I. Marković, I. Petrović, Visual Place Recognition using Directed Acyclic Graph Association Measures and Mutual Information-based Feature Selection (https://www.sciencedirect.com/science/article/abs/pii/S0921889020304383),  Robotics and Autonomous Systems 132 (2020)
+    Refereed Proceedings
+        D. Ševerdija, T. Prusina, A. Jovanović, L. Borozan, J. Maltar, D. Matijević,  Compressing Sentence Representation with Maximum Coding Rate Reduction (Best paper award in AIS - Artificial Intelligence Systems track) (https://ieeexplore.ieee.org/document/10159709), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023
+        J. Maltar, D. Matijević,  Optimization techniques for image representation in visual place recognition (https://ieeexplore.ieee.org/document/9803589), 2022 45th Jubilee International Convention on Information, Communication and Electronic Technology (MIPRO), Opatija, 2022, 877-882
+        J. Maltar, I. Marković, I. Petrović,  NOSeqSLAM: Not only Sequential SLAM (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/860.pdf ), Robot 2019: Fourth Iberian Robotics Conference, Porto, Portugal, 2019, 179-190
+    Technical Reports
+        T. Prusina, D. Matijević, L. Borozan, J. Maltar, A. Jovanović, Compressing Sentence Representation with maximum Coding Rate Reduction (2023)
+
+
+Teaching
+    Current
+        Web programiranje (https://www.mathos.unios.hr/index.php/265)
+        Inteligentni robotski sustavi (https://www.mathos.unios.hr/index.php/715)
+    Office Hours  
+        Konzultacije po dogovoru.
+
+
+Personal
+    Birthdate: 01. 04. 1993.
+    Birthplace: Osijek

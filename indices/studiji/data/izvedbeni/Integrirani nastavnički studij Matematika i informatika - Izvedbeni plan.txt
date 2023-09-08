@@ -1,0 +1,80 @@
+Peta godina (Fifth year)
+    Opće informacije
+        Voditelj godišta: izv. prof. dr. sc. Ljerka Jukić Matić (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/izvedbeni-plan-nastavnicki/127)
+        ukupno obaveznih kolegija: 8, satnica ~ /ECTS: 18 ~ 24 (zima), 15 ~ 21 (ljeto)
+        Razliku do obaveznih 60 ECTS bodova u akademskoj godini student ostvaruje upisom niže navedenih izbornih predmeta. Broj ECTS bodova koji se ostvaruju upisom svih kolegija u jednom semestru ne smije biti manji od 25.
+        Teme diplomskih radova prihvaćaju se na sjednici Stručnog vijeća Odjela za matematiku.
+        ECTS bodovi za izradu diplomskog rada uključeni su u predmet Diplomski seminar.
+
+    Kolegiji koji se izvode na petoj godini (fifth year)
+        Obavezni predmeti:
+            Matematički praktikum (M027)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Rudolf Scitovski
+                suradnik: dr. sc. Matea Ugrica
+            Konstruktivna geometrija (M017)
+                izvođenje: zimski  semestar
+                ECTS: 4
+                nastavnik: prof. dr. sc. Zdenka Kolar - Begović
+                suradnik: doc. dr. sc. Ljiljana Primorac Gajčić
+            Didaktika II (P008)
+                izvođenje: zimski  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Rahaela Varga
+                suradnik: dr. sc. Ružica Tokić Zec
+            Metodika nastave informatike (I005)
+                izvođenje: ljetni  semestar
+                ECTS: 4
+                nastavnik: izv. prof. dr. sc. Darija Marković
+            Osnove umjetne inteligencije (I007)
+                izvođenje: ljetni  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Darija Marković
+            Metodika nastave matematike II (M030)
+                izvođenje: zimski i ljetni  semestar
+                ECTS: 5
+                nastavnik: izv. prof. dr. sc. Ljerka Jukić Matić
+                suradnik: izv. prof. dr. sc. Mirela Jukić Bokun, izv. prof. dr. sc. Ljerka Jukić Matić
+            Povijest matematike (M040)
+                izvođenje: zimski i ljetni  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Tomislav Marošević
+            Diplomski seminar (Z001)
+                izvođenje: zimski i ljetni  semestar
+                ECTS: 3
+                nastavnik: prof. dr. sc. Ivan Matić
+        
+        Izborni predmeti:
+            Operacijska istraživanja (M037)
+                izvođenje: zimski  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Tomislav Marošević
+            Metode optimizacije (M028)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: prof. dr. sc. Ninoslav Truhar
+                suradnik: doc. dr. sc. Suzana Miodragović
+            Kriptografija i sigurnost sustava (I004)
+                izvođenje: zimski  semestar
+                ECTS: 6
+                nastavnik: izv. prof. dr. sc. Ivan Soldo
+                suradnik: dr. sc. Ivana Crnjac
+            Matematički modeli (M025)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: prof. dr. sc. Dragan Jukić
+            Matematički aspekti izbornih sustava (M024)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Tomislav Marošević
+            Računarski praktikum (I018)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: izv. prof. dr. sc. Zoran Tomljanović
+                suradnik: dr. sc. Matea Ugrica
+            Učenička matematička natjecanja (M056)
+                izvođenje: ljetni  semestar
+                ECTS: 3
+                nastavnik: prof. dr. sc. Ivan Matić
+                suradnik: doc. dr. sc. Ljiljana Primorac Gajčić

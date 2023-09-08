@@ -1,0 +1,30 @@
+OSNOVNE INFORMACIJE
+	Uvod u diferencijalnu geometriju izvodi se u zimskom semestru treće godine sveučilišnog preddiplomskog studija matematike. Cilj kolegija je studente upoznati s osnovnim pojmovima iz diferencijalne geometrije krivulja i ploha u R3.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m105.pdf).
+	VODITELJ KOLEGIJA
+		doc.dr.sc.Ljiljana Primorac Gajčić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/135)	
+		KONZULTACIJE: Četvrtkom u 11.30h ili po dogovoru	
+	OSNOVNA LITERATURA
+		W.Kuehnel, Differential Geometry-Curves-Surfaces-Manifolds, AMS, 2002.
+		A. Gray, Modern differential geometry of curves and surfaces with Mathematica, CRC PRES, 2006.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Uvod u diferencijalnu geometriju realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	Za pristup Teams kanalu koristiti AAIEDU pristupne podatke i kod vn4a8pm.
+	PREDAVANJA	TERMIN: Ponedjeljak, 12-14h	PREDAVAONICA: D-3	
+	VJEŽBE	TERMIN: Ponedjeljak, 14-16h	PREDAVAONICA: D-3	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti pišu 2 kolokvija od kojih svaki nosi 100 bodova. Student je pismeni dio ispita položio preko kolokvija ako na svakom kolokviju ostvari minimalno 30 bodova te ako je zbroj bodova s oba kolokvija minimalno 90. Za studente koji su na samo jednom od kolokviju ostvarili minimalno 30 bodova ili su na oba kolokvija ostvarili minimalno 30 bodova, ali zbroj bodova s oba kolokvija nije 90, organizirat će se popravni kolokvij.  
+	Ocjene kolokvija se definiraju prema sljedećem kriteriju:
+		dovoljan (2): 90-114
+		dobar (3): 115-144
+		vrlo dobar (4): 145-174
+		izvrstan (5): 175 i više
+	PISMENI ISPIT
+		Pismeni ispit nosi 100 bodova. Student je položio pismeni dio ispita ako ostvari minimalno 45 bodova. Studenti koji nisu upisali kolegij ne mogu pristupiti pismenom ispitu.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, odnosno kolokvija, formira konačna ocjena. Studenti koji polože pismeni dio ispita putem kolokvija imaju pravo na tri izlaska na usmeni ispit. Izlazak na usmeni ispit se prijavljuje prijavom za pismeni ispit te prijavom putem maila najkasnije 24h prije ispita. Ukoliko student odustane od izlaska na usmeni ispit nakon što ga je prijavio, ispit treba odjaviti putem maila najkasnije 24h prije održavanja ispita. Ukoliko ga ne odjavi i ne dodje na ispit, preostali broj izlazaka na ispit mu se umanjuje za jedan. Rokovi prijave/odjave ispita se moraju strogo poštivati, prijave/odjave nakon isteka roka se neće prihvaćati.
+		Termini usmenih ispita: 20.6.2023., 29.6.2023., 10.7.2023. (https://www.mathos.unios.hr/images/homepages/lprimora/UDG/Skeniranje_20200319.pdf)

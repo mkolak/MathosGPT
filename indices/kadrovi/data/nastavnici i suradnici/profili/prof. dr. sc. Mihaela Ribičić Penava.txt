@@ -1,0 +1,109 @@
+General Information
+    Full Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-823
+    fax: +385-31-224-801
+    email: mihaela@mathos.hr
+    office: 20 (first floor)
+    Research Interests
+        Mathematical Inequalities and Applications
+    Degrees
+    PhD, 2009, Department of Mathematics, University of Zagreb
+    MSc, 2005, Department of Mathematics, University of Zagreb
+    BSc, 2001, Department of Mathematics, University of Osijek
+
+
+Publications
+    Journal Publications
+        J. Barić, Lj. Kvesić, J. Pečarić, M. Ribičić Penava, Estimates on some quadrature rules via weighted Hermite-Hadamard inequality , Applicable Analysis and Discrete Mathematics 16/1 (2022), 232-245
+        J. Barić, Lj. Kvesić, J. Pečarić, M. Ribičić Penava, Fejér type inequalities for higher order convex functions and quadrature formulae, Aequationes mathematicae 96/2 (2022), 417-430
+        M. Ribičić Penava, Hermite–Hadamard–Fejér-Type Inequalities and Weighted Three-Point Quadrature Formulae, Mathematics 9/15 (2021), 1-14
+        J. Barić, Lj. Kvesić, J. Pečarić, M. Ribičić Penava, New bounds for generalized Taylor expansions, Mathematical Inequalities and Applications 24/4 (2021), 993-999
+        M. Ribičić Penava, Weighted integral inequalities of Euler-Grüss type with applications, Transactions of A. Razmadze Mathematical Institute 175/3 (2021), 401-409
+        Lj. Kvesić, J. Pečarić, M. Ribičić Penava, Generalizations of Ostrowski type inequalities via Hermite polynomials, Journal of Inequalities and Applications 176 (2020), 1-14
+        J. Pečarić, M. Ribičić Penava, Weighted Ostrowski and Gruss type inequalities, Journal of Inequalities and Special Functions 11/1 (2020), 12-23
+        J. Pečarić, M. Ribičić Penava, Bounds for the Chebyshev functional and corrected four-point quadrature formulae of Euler type, Asian-European Journal of Mathematics 9/4 (2017), 1-12
+        J. Pečarić, M. Ribičić Penava, A. Vukelić, Bounds for the Chebyshev functional and applications to the weighted integral formulae, Applied mathematics and computation  268 (2015), 957-965
+        K.M. Awan, J. Pečarić, M. Ribičić Penava, Companion inequalities to Ostrowski-Grϋss type inequality and applications, Turkish Journal of Mathematics 39 (2015), 228-234
+        K.M. Awan, J. Pečarić, M. Ribičić Penava, New estimations of the remainder in three-point and four-point quadrature formulae via the Chebyshev functional, Proceedings of A. Razmadze Mathematical Institute 167 (2015), 3-18
+        M. Klaričić Bakula, J. Pečarić, M. Ribičić Penava, A. Vukelić, New estimations of the remainder in three-point quadrature formulae of Euler type, Journal of Mathematical Inequalities 9/4 (2015), 1143-1156
+        M. Klaričić Bakula, J. Pečarić, M. Ribičić Penava, A. Vukelić, Some Grϋss type inequalities and corrected three-point quadrature formulae of Euler type, Journal of Inequalities and Applications 76 (2015), 1-14
+        M. Klaričić Bakula, J. Pečarić, M. Ribičić Penava, A. Vukelić, Some inequalities for the Čebyšev functional and general four-point quadrature formulae of Euler type, Matematički bilten 38/2 (2014), 69-80
+        M. Klaričić Bakula, J. Pečarić, M. Ribičić Penava, General quadrature formulae based on the weighted Montgomery identity and related inequalities, Rad HAZU, Matematičke znanosti. 17 (2013), 139-150
+        J. Pečarić, M. Ribičić Penava, Sharp integral inequalities based on a general four-point quadrature formula via a generalization of the Montgomery identity, International Journal of Mathematics and Mathematical Sciences 2012 (2012)
+        J. Pečarić, M. Ribičić Penava, Sharp integral inequalities based on general three-point formula, Annals of the University of Craiova, Mathematics and Computer Science Series 39/2 (2012), 132-147
+        M. Klaričić Bakula, M. Ribičić Penava, General four-point quadrature formulae with applications for α-L-Hölder type functions                , Journal of Mathematical Inequalities 3/3 (2009), 427-436
+        A. Aglić Aljinović, J. Pečarić, M. Ribičić Penava, Sharp integral inequalities based on general two-point formula via an extension of Montgomery identity, ANZIAM Journal  51/01 (2009), 67-101
+        J. Pečarić, M. Ribičić Penava, A. Vukelić, Euler's method for weighted integral formulae, Applied mathematics and computation  206/1 (2008), 445-456
+        M. Klaričić Bakula, J. Pečarić, M. Ribičić Penava, General three-point quadrature formulae with applications for α-L-Hölder type functions        , Journal of Mathematical Inequalities 2/3 (2008), 343-361
+        M. Klaričić Bakula, J. Pečarić, M. Ribičić Penava, Companion inequalities to Jensen's inequality for m-convex and (α,m)-convex functions             , Journal of Inequalities in Pure and Applied Mathematics 7/5 (2006), 1-32
+    Refereed Proceedings
+        D. Jukić, D. Marković, M. Ribičić Penava, A. Krajina,  On the choice of initial approximation of the least squares estimate in some growth models of exponential type, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 47-55
+    Others
+        M. Ribičić Penava, N. Ujić, Jacobijevi polinomi, Osječki matematički list 22/1 (2022), 1-18
+        D. Brajković Zorić, I. Kuzmanović Ivičić, M. Ribičić Penava, Matematičko natjecanje MathOS cup, Osječki matematički list 22/1 (2022), 81-89
+        T. Milas, M. Ribičić Penava, K. Sabo, Primjene gama funkcije, Osječki matematički list 21/1 (2021), 1-18
+        M. Ribičić Penava, A. Nuić, Bernoullijevi polinomi, Osječki matematički list 18/2 (2018), 147-157
+        M. Ribičić Penava, K. Bošnjak, Jensenova nejednakost i nejednakosti izvedene iz nje, Osječki matematički list 16/1 (2016), 15-25
+        M. Ribičić Penava, D. Škrobar, Gama i beta funkcije, Osječki matematički list 15/2 (2015), 93-111
+    Books
+        A. Aglić Aljinović, A. Čivljak, S. Kovač, J. Pečarić, M. Ribičić Penava, General Integral Identities and Related Inequalities, Element, Zagreb, 2013.
+
+
+Projects
+    GAMe-based learning in MAthematics (GAMMA)
+    Erasmus+ project (Key action: KA2 - Cooperation for innovation and the exchange of good practices, Action Type: KA201: Strategic Partnership for school education)
+    Inequalites and Aplications Project leader: prof.dr.sc. Josip Pečarić, University of Zagreb. Project was founded in 2014 by Croatian Science  Foundation (5435).
+    Various aspects of parameter estimation problem in nonlinear mathematical models, Ministry of Science, Education and Sports (2007-2013).  Project leader: prof.dr.sc. Dragan Jukić
+    Statistical aspects of parameter identification problems, Ministry of Science, Education and Sports (2001-2006) Project leader: prof.dr.sc. Mirta Benšić
+
+
+Professional Activities
+    Editorial Board
+        Since 2017 member of the Editorial board of the Journal Osječki matematički list (https://www.mathos.unios.hr/oml/) (http://www.mathos.hr/oml)
+    Committee Membership 
+        Innovative Teaching of Matematics - National Meeting of Math Teachers, 25-26 August 2022, Osijek, Croatia Chair of the Organizing Committee
+        Innovative Teaching of Matematics - National Meeting of Math Teachers, 27-28 August 2020, Osijek, Croatia Member of the Programming Committee
+        Computational Linguistics and Golden Formula of Croatian Language - Scientific and professional conference, 22-23 May 2020, Osijek, Croatia Member of the Organizing Committee
+        Innovative Teaching of Matematics - National Meeting of Math Teachers, 30-31 August 2018, Osijek, Croatia Member of the Programming Committee
+        Innovative Teaching of Matematics - National Meeting of Math Teachers, 25-26 August 2016, Osijek, Croatia Member of the Organizing Committee
+    Refereeing/Reviewing
+        Journal of Mathematical Inequalities (http://jmi.ele-math.com/)
+        Asian-European Journal of Mathematics (http://www.worldscientific.com/worldscinet/aejm)
+        Osječki matematički list (https://www.mathos.unios.hr/oml/)
+    Service Activities
+        Zimska matematička škola (Winter math school) 2019-2020:
+            Koncept beskonačnosti
+        Zimska matematička škola (Winter math school) 2018-2019:
+            Osnovne sredine
+        Festival znanosti 2016. 
+            Umjetnost fraktala
+        Zimska matematička škola (Winter math school) 2013-2014:
+            Jensenova nejednakost
+
+
+Teaching
+    Current
+        Diferencijalni račun (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/179)
+        Elementarna matematika (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/496)
+        Teorija skupova
+        Elementarna matematika I (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/183)
+        Elementarna matematika II (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/184)
+        Konveksne funkcije (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/228)
+        Nejednakosti (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/213)
+        Uvod u teoriju skupova i matematičku logiku (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/206)
+    Past
+        Matematika I (Prehrambeno-tehnološki fakultet)
+        Matematika II (Prehrambeno-tehnološki fakultet)
+        Statistika (Učiteljski fakultet).
+    Office Hours: 
+        Četvrtak (Thu) 11:30am-14:00pm. Konzultacije su moguće i po dogovoru.
+    Prijedlog tema završnih i diplomskih radova. (https://www.mathos.unios.hr/images/homepages/mihaela/Prijedlog_tema_zavrsnih_i_diplomskih_radova_MRP_2.docx)
+
+
+Personal
+    Birthdate: June 10, 1978
+    Birthplace: Požega
+    Citizenship: Croatian
+    Family: Married, daughter Klarisa

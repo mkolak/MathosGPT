@@ -1,0 +1,168 @@
+General Information
+  Full Professor
+  Department of Mathematics
+  Josip Juraj Strossmayer University of Osijek
+  phone: +385-31-224-800
+  fax: +385-31-224-801
+  email: jukicd @ mathos.hr
+  office: 35/I
+  Research Interests
+    Parameter estimation
+    Nonlinear least squares problems
+    Curve fitting
+    Smoothing methods
+    Mathematical modelling
+  Degrees
+    PhD in mathematics, Department of Mathematics, University of Zagreb, (http://www.unizg.hr/homepage/about-university/) 1996.
+    MSc in mathematics, Department of Mathematics, University of Zagreb (http://www.unizg.hr/homepage/about-university/), 1990.
+    BSc in Mathematics and Physics, Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/), 1986.
+
+
+Publications - Journal Publications
+    D. Jukić, K. Sabo, An existence criterion for the nonlinear $ell_p-$norm fitting problem (https://link.springer.com/article/10.1007%2Fs10100-021-00736-7), Central European Journal of Operations Research  29 (2021), 957-966
+    D. Jukić, T. Marošević, An existence level for the residual sum of squares of the power-law regression with an unknown location parameter (https://www.degruyter.com/document/doi/10.1515/ms-2021-0036/html), Mathematica Slovaca 71/4 (2021), 1019-1026
+    D. Jukić, A necessary and sufficient criterion for the existence of the global minima of a continuous lower bounded function on a noncompact set (https://www.sciencedirect.com/science/article/abs/pii/S0377042720300820), Journal of Computational and Applied Mathematics, 375 (2020)
+    D. Jukić, An elementary proof of the  quadratic envelope characterization of zero-derivative points (http://link.springer.com/article/10.1007/s11590-017-1174-1), Optimization Letters  12/5 (2018), 1155-1156
+    D. Jukić, D. Marković, Nonlinear least squares estimation of the shifted Gompertz distribution (http://www.ejpam.com/index.php/ejpam/article/view/2563/493), European Journal of Pure and Applied Mathematics 10/2 (2017), 157-166
+    D. Jukić, A simple proof of the existence of the best estimator in a quasilinear regression model (https://link.springer.com/article/10.1007/s10957-013-0434-11), Journal of optimization theory and applications  162 (2014), 293-302
+    D. Marković, D. Jukić, Total least squares fitting the three-parameter inverse Weibull density (http://www.ejpam.com/index.php/ejpam/article/viewFile/2114/361), European Journal of Pure and Applied Mathematics 7/3 (2014), 230-245
+    D. Jukić, 	On nonlinear weighted least squares estimation of Bass diffusion model (http://www.sciencedirect.com/science/article/pii/S0096300313001392), Applied mathematics and computation  219/14 (2013), 7891-7900
+    D. Marković, D. Jukić, On parameter estimation in the bass model by nonlinear least squares fitting the adoption curve (http://www.degruyter.com/view/j/amcs.2013.23.issue-1/amcs-2013-0012/amcs-2013-0012.xml), International Journal of Applied Mathematics and Computer Science 23/1 (2013), 145-155
+    D. Jukić, On the $l_s$-norm generalization of the NLS method for the Bass  model (http://ejpam.com/index.php/ejpam/article/viewFile/1867/317), European Journal of Pure and Applied Mathematics 6/4 (2013), 435-450
+    D. Jukić, The L_p-norm estimation of the parameters for the Jelinski-Moranda model in software reliability (http://www.tandfonline.com/doi/abs/10.1080/00207160.2011.642299?journalCode=gcom20#.VDp46hYZn4I), International Journal of Computer Mathematics 89 (2012), 467-481
+    D. Jukić, Total least squares fitting Bass diffusion model (http://www.sciencedirect.com/science/article/pii/S0895717710006527), Mathematical and Computer Modelling 53/9-10 (2011), 1756-1779
+    M. Marušić, D. Marković, D. Jukić, Least squares fitting the three-parameter inverse Weibull density (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/210.pdf ), Mathematical Communications 15/2 (2010), 539-553
+    D. Jukić, D. Marković, On nonlinear weighted errors-in-variables parameter estimation problem in the three-parameter Weibull model (http://www.sciencedirect.com/science/article/pii/S0096300309009722), Applied mathematics and computation  215/10 (2010), 3599-3609
+    D. Jukić, D. Marković, On nonlinear weighted least squares fitting of the three-parameter inverse Weibull distribution (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/212.pdf ), Mathematical Communications 15/1 (2010), 13-24
+    D. Marković, D. Jukić, On nonlinear weighted total least squares parameter estimation problem for the three-parameter Weibull density (http://www.sciencedirect.com/science?_ob=ArticleListURL&_method=list&_ArticleListID=-631749557&_sort=r&_st=13&view=c&md5=cd35d05233128347340af2e7c1d0fcb4&searchtype=a), Applied Mathematical Modelling 34/7 (2010), 1839-1848
+    D. Marković, D. Jukić, M. Benšić, Nonlinear weighted least squares estimation of a three-parameter Weibull density with a  nonparametric start (http://www.sciencedirect.com/science/article/pii/S0377042708004883), Journal of Computational and Applied Mathematics, 228/1 (2009), 304-312
+    D. Jukić, On the existence of the best discrete approximation in $l_p$ norm by reciprocals of real polynomials (http://www.sciencedirect.com/science/article/pii/S0021904508001500), Journal of Approximation Theory 156/2 (2009), 212-222
+    D. Jukić, M. Benšić, R. Scitovski, On the existence of the nonlinear weighted least squares estimate for a three-parameter Weibull distribution (http://www.sciencedirect.com/science/article/pii/S0167947308001588), Computational Statistics & Data Analysis  52/9 (2008), 4502-4511
+    D. Jukić, K. Sabo, R. Scitovski, A review of existence criteria for parameter estimation of the Michaelis-Menten regression model, Annali dell'Universita' di Ferrara  53 (2007), 281-291
+    K. Hadeler, D. Jukić, K. Sabo, Least squares problems for Michaelis Menten kinetics, Mathematical Methods in the Applied Sciencies  30 (2007), 1231-1241
+    D. Jukić, R. Scitovski, K. Sabo, Total least squares fitting Michaelis-Menten enzyme kinetic model function, Journal of Computational and Applied Mathematics, 201 (2007), 230-246
+    D. Jukić, R. Scitovski, Least squares fitting Gaussian type  curve (http://www.sciencedirect.com/science/article/pii/S0096300304004928), Applied mathematics and computation  167/1 (2005), 286-298
+    D. Jukić, A necessary and sufficient criteria for the existence of the  least squares estimate for a 3-parametric exponential function (http://www.sciencedirect.com/science/article/pii/S0096300302004824), Applied mathematics and computation  147/1 (2004), 1-17
+    D. Jukić, G. Kralik, R. Scitovski, Least squares fitting Gompertz curve (http://www.sciencedirect.com/science/article/pii/S0377042704000032), Journal of Computational and Applied Mathematics, 169/2 (2004), 359-375
+    D. Jukić, R. Scitovski, Solution of the least-squares problem for logistic function (http://www.sciencedirect.com/science/article/pii/S037704270200910X), Journal of Computational and Applied Mathematics, 156/1 (2003), 159-177
+    R. Scitovski, D. Jukić, I. Urbiha, Solving the parameter identification problem by using $TL_p$ spline, Mathematical Communications - Supplement  1/1 (2001), 81-91
+    D. Jukić, R. Scitovski, The best least squares approximation problem for a 3-parametric exponential regression model (http://journals.cambridge.org/download.php?file=%2FANZ%2FANZ42_02%2FS1446181100011901a.pdf&code=3467a1138260393bcc1b3917051f9ad5), ANZIAM Journal  42/2 (2000), 254-266
+    R. Scitovski, D. Jukić,  Analysis of solutions of the least squares problem (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=2768), Mathematical Communications 4/1 (1999), 53-61
+    D. Jukić, R. Scitovski, H. Späth, Partial linearization of one class of the nonlinear total least squares problem by using the inverse model function (http://link.springer.com/article/10.1007/s006070050019), Computing 62/2 (1999), 163-178
+    R. Scitovski, Š. Ungar, D. Jukić,  Approximating surfaces by moving total least squares method (http://www.sciencedirect.com/science/article/pii/S0096300397100777), Applied mathematics and computation  93/2-3 (1998), 219-232
+    D. Jukić, T. Marošević, R. Scitovski, Discrete total lp-norm approximation problem for the exponential function (http://www.sciencedirect.com/science/article/pii/S0096300397100686), Applied mathematics and computation  94/2-3 (1998), 137-143
+    D. Jukić, R. Scitovski, Existence results for special nonlinear total least squares problem (http://www.sciencedirect.com/science/article/pii/S0022247X98960735), Journal of Mathematical Analysis and Applications 226/2 (1998), 348-363
+    T. Marošević, D. Jukić,  Least orthogonal absolute deviations problem for exponential function (http://statpostgrade.ch/bilan/student/vol2n2.pdf), Student 2/2 (1997), 131-138
+    D. Jukić, R. Scitovski, Existence of optimal solution for exponential model by least squares (http://www.sciencedirect.com/science/article/pii/S0377042796001604), Journal of Computational and Applied Mathematics, 78/2 (1997), 317-328
+    D. Jukić, R. Scitovski,  The existence of the optimal parameters of the generalized logistic function (http://www.sciencedirect.com/science/article/pii/S0096300395002510), Applied mathematics and computation  77/2-3 (1996), 281-294
+    R. Scitovski, D. Jukić, A method for solving the parameter identification problem  for ordinary differential equations of the second order (http://www.sciencedirect.com/science/article/pii/0096300395000984), Applied mathematics and computation  74/2-3 (1996), 273-291
+    R. Scitovski, D. Jukić, Total least squares problem  for exponential function (http://iopscience.iop.org/0266-5611/12/3/012), Inverse Problems 12/3 (1996), 341-349
+    B. Dukić, D. Francišković, D. Jukić, R. Scitovski, M. Benšić, Strategije otplate zajma, Financijska teorija i praksa (1994), 15-26
+
+
+Publications - Refereed Proceedings
+    D. Jukić, T. Marošević,  Least squares fitting problem for the power-law regression with a location parameter, 18th International Conference on Operational Research, KOI 2020, Šibenik, 2020
+    D. Jukić, K. Sabo,  An existence criterion for the sum of squares (http://fgg-web.fgg.uni-lj.si/~/sdrobne/sor/), Symposium on Operational Research in Slovenia, SOR '19, Bled, 2019, 500-505
+    D. Marković, D. Jukić,  A review of some existence results on parameter estimation problem in the three-parameter Weibull model, 12th International Conference on Operational Research, Pula, Croatia, 2008, 103-111
+    D. Jukić, R. Scitovski, A. Baumgartner, K. Sabo,  Localization of the least squares estimate for two-parametric regression models, 10th International Conference on Operational Research KOI 2004, Trogir, 2005, 165-174
+    D. Jukić, R. Scitovski, K. Sabo,  Total least squares problem for the Hubbert  function, Conference on Applied Mathematics and Scientific Computing, Brijuni, 2003, 217-234
+    R. Scitovski, G. Kralik, D. Jukić, R. Galić,  Estimation of the saturation level and asymmetry coefficient of the generalized logistic model, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 57-66
+    D. Jukić, K. Sabo, G. Bokun,  Least squares problem for the Hubbert function, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 37-46
+    D. Jukić, D. Marković, M. Ribičić Penava, A. Krajina,  On the choice of initial approximation of the least squares estimate in some growth models of exponential type, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 47-55
+    D. Jukić, R. Scitovski, Š. Ungar,   The best total least squares line  in R^3, 7th International Conference on Operational Research KOI 1998, Rovinj, 1998, 311-316
+    S. Tomas, D. Jukić,  Estimation of humid air properties by  moving total least squares method, 7th International Conference on Operational Research KOI 1998, Rovinj, 1998, 91-98
+    D. Jukić, M. Crnjac, R. Scitovski,  Surfaces generated by the noninterpolating moving least squares method, 4th International Symposium on Operations Research in Slovenia SOR’97, Preddvor, 1997, 189-194
+    R. Scitovski, Š. Ungar, D. Jukić, M. Crnjac,  Moving total least squares for parameter identification  in mathematical model,  Symposium on Operations Research SOR '95, Passau, 1996, 196-201
+    D. Jukić, R. Scitovski,  The exponential growth model, 6th International Conference on Operational Research KOI 1996, Rovinj, 1996, 107-112
+    R. Scitovski, D. Jukić, I. Bašić,   Application of the moving least squares method in surface  generating, 17th Int. Conf. Information Technology Interfaces, Cavtat, 1995, 469-474
+    R. Scitovski, T. Marošević, D. Jukić,  Estimation of the optimal initial conditions in mathematical  model, 17th Int. Conf. Information Technology Interfaces, Cavtat, 1995, 475-480
+    D. Jukić, R. Scitovski, M. Crnjac,  Primjena metode potpunih najmanjih kvadrata   za procjenu parametara u matematičkom modelu, 5th Conference on Operational Research KOI 1995, Rab, 1995, 99-110
+    R. Galić, R. Scitovski, T. Marošević, D. Jukić,  Problem optimalnih početnih uvjeta u  matematičkom modelu, 5th Conference on Operational Research KOI 1995, Rab, 1995, 62-71
+    R. Scitovski, R. Galić, I. Kolund, I. Bašić, D. Jukić,  Procjena rasprostiranja slojeva po dubini  sondažnog profila, 5th Conference on Operational Research KOI 1995, Rab, 1995, 111-120
+    M. Crnjac, D. Jukić, R. Scitovski,  Nove strategije otplate zajma, 4th Conference on Operational Research KOI 1994, Rab, 1994, 147-154
+
+
+Publications - Others
+    D. Jukić, K. Sabo, Najbolja aproksimacija rezultata eksperimentalnih mjerenja, Osječki matematički list 10 (1997)
+    D. Jukić, The matrix of a linear operator in a pair of ordered bases (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=2857), Mathematical Communications 2/1 (1997), 77-82 
+    D. Jukić, Djeljivost cijelih brojeva, Osječki matematički list (1996), 41-45
+    D. Jukić, The existence theorem for the solution of a nonlinear least squares problems (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=2895), Mathematical Communications 1/1 (1996), 61-66
+    D. Jukić, The problem of the initial approximation for a special nonlinear least squares problems (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=2886), Mathematical Communications 1/1 (1996), 25-32
+    D. Jukić,  Rekurzivne relacije i potencije kvadratnih matrica , Ekonomski vjesnik 6/1 (1992), 133-136
+    D. Jukić, Rekurzivne relacije i potencije kvadratnih matrica, Ekonomski vjesnik 2 (1992), 133-136
+    D. Jukić, Uvod u LaTeX, Ekonomski vjesnik 1 (1989), 169-178
+
+
+Publications - Books
+    D. Jukić, Konveksni skupovi (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/915.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku,  Odjel za matematiku, Osijek, 2021.
+    D. Jukić, Realna analiza (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/889.pdf ), Sveucilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2020.
+    D. Jukić, R. Scitovski, Matematika I (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/707.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2017.
+    D. Jukić, Mjera i integral (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/708.pdf ), Odjel za matematiku, Sveučilište J. J. Strossmayera, Osijek, 2012.
+    D. Jukić, Uvod u teoriju mjere i integracije-I dio (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/259.pdf ), Odjel za matematiku, Osijek, 2008.
+    M. Crnjac, D. Jukić, R. Scitovski, Matematika (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/261.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku, Ekonomski fakultet u Osijeku, Osijek, 1994.
+
+
+Projects
+  1-3-2017 - member of scientific project IP-2016-06-6545 "The optimization and statistical models and methods in recognizing properties of data sets measured with errors" (Croatian Science Foundation)
+  2007- 2013 head of  scientific program  (2352818 (http://zprojekti.mzos.hr/public/c-prikaz2_det.asp?psid=5&ID=304))  "Various aspects of parameter estimation problem in nonlinear mathematical models“ (Ministry of Science, Education and Sports)
+  2007- 2013 head of  scientific project  (235-2352818-1034 (http://zprojekti.mzos.hr/public/c-prikaz_det.asp?psid=1-05&offset=20&ID=367))  "Nonlinear parameter estimation problems in mathematical models“ (Ministry of Science, Education and Sports)
+  2002- 2005 -  scientific project (0235001 (http://zprojekti.mzos.hr/page.aspx?pid=6&lid=1)) "Parameter estimation in mathematical models“ (Department of Mathematics, University of Osijek - Ministry of Science, Education and Sports), investigator  
+  1996 - 2000 - scientific project  (165021 (http://www.mzos.hr/zProjekti/arh_dets.asp?sort=2&ID=1203)) "Parameter identification problems in mathematical models“ (Department of Mathematics, University of Osijek - Ministry of Science and Technology),   investigator  
+  1991-1995 -  scientific project  (1-01-129) (http://www.mzos.hr/svibor/1/01/129/proj_h.htm) "Application of numerical and finite mathematics“ (Ministry of Science, Technology and Computing),   investigator  
+  1986 - 1990 -  project task (2.08.01.03.02) "Operationalization of categories and relationships of value laws“ that was carried out within project  (2.08.01) "Fundamental research in economy“ (Ministry of Science, Technology and Computing),   investigator  
+
+
+Professional Activities
+  Editorial Boards
+    Mathematical Communications, Editor-in-Chief (http://www.mathos.hr/mc)  
+    Journal of  Classical Analysis (http://jca.ele-math.com/submission)
+    Croatian Operational Research Review (http://hdoi.hr/crorr-journal/)
+    Osječki matematički list (https://www.mathos.unios.hr/oml/)   
+    International Conference on Operational Research    (Trogir, Croatia, 2004), Editor  
+  Committee Memberships
+    Member of the Scientific Committee of the international Conference on Applied Mathematics and Scientific Computing, 2013 (ApplMath13 (http://applmath13.math.hr/))
+    Member of the  Scientific Committee of the 5th Croatian Congress of Mathematics (Rijeka, 2012)
+    Member of the Scientific Committee of the international Conference on Applied Mathematics and Scientific Computing, 2011 (ApplMath11 (http://applmath11.math.hr/))
+    Member of the Scientific Committee of the international Conference on Applied Mathematics and Scientific Computing, 2009 (ApplMath09 (http://web.math.hr/%7Erogina/ApplMath09/first.html))
+    Member of the Scientific Committee of the 4th Croaatian Congress of Mathematics  (http://www.mathos.hr/congress2008/)(Osijek, 2008)  
+    Member of the Organizing Committee of the International Conference on Operational Research, Croatian Operational Research Society (1996, 1998, 2000, 2002, 2004)
+    Member of the Program Committee of the International Conference on Operational Research, Croatian Operational Research Society (2000, 2002, 2004, 2006, 2008, 2010)
+    Member of the  National  Commission for Mathematics, 2005-2021.
+  Refereeing/Reviewing
+    Mathematical Communications (http://www.mathos.hr/mc)   
+    Journal of  Classical Analysis (http://jca.ele-math.com/submission)
+    Osječki matematički list (https://www.mathos.unios.hr/oml/)
+    AMS Mathematical Review (http://www.ams.org/mathscinet)  
+  Periodically refereeing for journals:
+    Journal of Computational and Applied Mathematics
+    Mathematical and Computer Modelling
+    European Journal of Operational Research
+    Computational Statistics and Data Analysis
+    Communications in Statistics – Theory and Methods
+    International Journal of Mathematics and Mathematical Sciences
+    Information and Software Technology
+  Service Activities
+    Assistant Head of the Department of Mathematics, University of Osijek, 2007-2013
+    Head of the  Department of Mathematics,  University of Osijek,  2003 -2007
+    Vice-Head of the Department of Mathematics, University of Osijek, 1999-2003
+    Head of Engineering Section of the Croatian Mathematical Society-Division  Osijek (since   1993)
+    Member of the  National  Commission for Mathematics, 2005-2021
+
+
+Teaching
+  Past
+    Konveksni skupov (http://www.mathos.hr/index.php/215)i
+    Matematički modeli (http://www.mathos.hr/index.php/240)
+    Mjera i integral (https://www.mathos.unios.hr/index.php/661)
+    Realna analiza (https://www.mathos.unios.hr/index.php/200)
+    Uvod u teoriju mjere (https://www.mathos.unios.hr/index.php/227)
+    Uvod u teoriju integracije (https://www.mathos.unios.hr/index.php/232)
+    Matematika 1 (https://www.mathos.unios.hr/~djankov/matematika1/) (Odjel za kemiju)
+    Matematika 2 (https://www.mathos.unios.hr/~djankov/matematika2/) (Odjel za kemiju)
+
+
+Personal
+  Birthdate: February 26, 1962
+  Birthplace: Bračević (near Split), Croatia
+  Citizenship: Croatian
+  Family: Married, two children

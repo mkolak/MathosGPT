@@ -1,0 +1,15 @@
+Natjecatelji pripremaju natjecatelje
+
+Ideja projekta: Organizirana predavanja za srednjoškolce u svrhu priprema za natjecanje iz informatike (infokup), kategorija Algoritmi.
+Plan: Svakog vikenda će se održavati predavanje u trajanju do 3 sata na kojima će se učiti neki od standardnih algoritama, struktura podataka, te tehnika rješavanja zadataka koji se pojavljuju na srednjoškolskom natjecanju iz informatike. Dodatno, uz samo učenje teorije, bit će organizirani zadaci za vježbu (koji većim dijelom dolaze sa prijašnjih natjecanja) na kojima će učenici primjenjivati novonaučeno znanje.
+
+O projektu
+    Ova predavanja su organizirana u svrhu pomaganja učenicima da savladaju potrebne algoritme i strukture podataka koje zadaci na srednjoškolskom natjecanju često zahtjevaju, a koji se ne rade na običnom satu informatike. Predavači su bivši natjecatelji koji su upoznati sa tipičnim zadacima koji se pojavljuju, te s ovim predavanjima prenose naučeno znanje na buduće natjecatelje.
+    Predavanja će se održavati live preko Discord platforme, a nakon predavanja će biti dostupne i snimke predavanja. Programski jezik u kojem će se demonstrirati implementacije algoritama je C++, koji je ujedno i najpopularniji jezik u natjecateljskom programiranju. Stoga, preporučeno je svim učenicima da savladaju barem osnovne koncepte C++ programskog jezika kao što su grananja, petlje, učitavanje unosa i ispis prije samog početka predavanja.
+    Učenici će biti podijeljeni u nekoliko grupa na temelju predznanja koje imaju, a svakoj grupi će biti dodjeljen jedan predavač. Grupe će biti formirane nakon evaluacije predznanja u prvom terminu.
+
+Predavači: 
+    Zvonimir Haramustek
+    Karlo Iletić
+Raspored
+    Subotom 15-18h (5.11.2022. prvi termin)

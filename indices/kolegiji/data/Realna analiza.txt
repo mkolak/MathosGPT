@@ -1,0 +1,65 @@
+OSNOVNE INFORMACIJE
+	Kolegij Realna analiza izvodi se u zimskom semestru treće godine sveučilišnog preddiplomskog studija matematike i sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je na matematički formalan način obraditi i produbiti materiju kolegija Diferencijalni račun i Integralni račun. 
+	Sadržaj kolegija:
+	Osnove topologije. Euklidski prostor Rn. Euklidska norma na Rn. Ekvivalentne norme. Euklidska metrika na Rn. Topologija na Rn. Osnovni pojmovi o apstraktnim metričkim i topološkim prostorima (topološka struktura, zatvarač skupa, granica skupa, gomilište skupa, gust skup, relativna topologija).
+	Nizovi. Nizovi realnih brojeva. Limes superior i limes inferior. Nizovi u Rn. Podnizovi. Konvergentni nizovi. Bolzano-Weierstrassov teorem. Nizovi u metričkom i topološkom prostoru. O (ne) jedinstvenosti limesa niza u topološkom prostoru. Karakterizacija zatvorenih skupova i gomilišta pomoću nizova. Cauchyjev niz. Potpun metrički prostor.
+	Kompaktnost. Kompaktnost u Rn. Kompaktnost u metričkom prostoru. Lebesgueov broj pokrivača. Heine-Borelov teorem.
+	Neprekidna preslikavanja. Cauchyjeva, Heineova i topološka definicija neprekidnosti vektorskih funkcija više varijabli. Svojstva neprekidnih preslikavanja. Povezani prostori i povezanost putevima. Neprekidne funkcije na kompaktu i neke primjene (Weierstrassov teorem, ekvivalentnost normi na Rn itd). Uniformna neprekidnost. Lipschitzova preslikavanja. Banachov teorem o fiksnoj točki.
+	Limes funkcije. Cauchyjeva, Heineova i topološka definicija limesa. Svojstva limesa funkcija.
+	NOSITELJ KOLEGIJA	
+		izv.prof.dr.sc. Dragana Jankov Maširević (https://www.mathos.unios.hr/index.php/106-dragana-jankov-s-home-page)	
+			KONZULTACIJE: srijedom, nakon predavanja	
+	SURADNIK	
+		Maja Andrijević(https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/876) (mandrije@mathos.hr)
+			KONZULTACIJE: srijedom, nakon vježbi	
+	OSNOVNA LITERATURA
+		D. Jukić, Realna analiza, Osijek, 2020. (https://www.mathos.unios.hr/images/homepages/jukicd/skripta.pdf)
+	DOPUNSKA LITERATURA
+		S.Mardešić, Matematička analiza u n-dimenzionalnom realnom prostoru I, Školska knjiga, Zagreb, 1977.
+		W. Rudin, Principles of Mathematical Analysis, Mc Graw-Hill, Book Company, New York, 1964.
+		S. Kurepa, Matematička analiza 1 (diferenciranje i integriranje), Tehnička knjiga, Zagreb, 1989.
+		S. Kurepa, Matematička analiza 2 (funkcije jedne varijable), Tehnička knjiga, Zagreb, 1990.
+		Š. Ungar, Matematička analiza III, Matematički odjel PMF, Zagreb, 1994.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Realna analiza realizira se s fondom od 75 sati (tjedno 3 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	
+		TERMIN: Srijeda, 10-13h	PREDAVAONICA: D-1	
+	VJEŽBE	
+		TERMIN: Srijeda, 14-16h	PREDAVAONICA: D-3
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra održat će se dva kolokvija. Gradivo prvih sedam predavanja (str. 1-57 iz udžbenika D. Jukić, Realna analiza PDF (https://www.mathos.unios.hr/images/homepages/jukicd/skripta.pdf)) je pokriveno prvim kolokvijem, a gradivo preostalih 8 predavanja (str. 59-120 iz udžbenika  D. Jukić, Realna analiza PDF (https://www.mathos.unios.hr/images/homepages/jukicd/skripta.pdf) ) je pokriveno drugim kolokvijem. Kolokviji se sastoje od zadataka i teorijskih pitanja.
+	Studenti na kolokvijima mogu imati samo pribor za pisanje.
+	Broj mogućih bodova na svakom kolokviju je 100, dakle ukupno je moguće ostvariti do 200 bodova. U gradivo pojedinog kolokvija ulazi sve što se radilo na predavanjima i vježbama.
+	Studenti koji su:
+		1. izašli na sve kolokvije,
+		2. na svakom kolokviju postigli barem 45 bodova (od 100 mogućih) i
+		3. ukupno postigli barem 110 bodova (od 200 mogućih)
+	oslobađaju se pismenog dijela ispita.
+	Uspjeh na kolokvijima računa se prema sljedećoj tablici:
+		ocjena dovoljan (2): 110-130 bodova
+		ocjena dobar(3): 131-160 bodova
+		ocjena vrlo dobar(4): 161-185 bodova
+		ocjena izvrstan(5): 186 bodova i više.
+	PISMENI ISPIT
+		Pismeni dio ispita je obvezan. Tijekom semestra studenti mogu polagati 2 kolokvija, koji zamjenjuju pismeni dio ispita. 
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI KOLOKVIJA
+		Prvi kolokvij (2020./2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/RA_KOL1_2020_2021_1.pdf)
+		Drugi kolokvij (2020./2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/RA_kol2_2020_2021.pdf)
+		Prvi kolokvij (2019./2020.) (https://www.mathos.unios.hr/images/homepages/jjankov/RA_kol1_2019_2020_1.pdf)
+		Drugi kolokvij (2019./2020.) (https://www.mathos.unios.hr/images/homepages/jjankov/RA_kol2_2019_2020_1.pdf)
+		Treći kolokvij (2019./2020.) (https://www.mathos.unios.hr/images/homepages/jjankov/RA_kol3_2019_2020.pdf)
+	PRIMJERI PISMENIH ISPITA
+		Pismeni ispit (2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/RA_pismeni_rujan1_2021.pdf)
+		Pismeni ispit (2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/RA_pismeni_veljaca2_2021.pdf)
+	KORISNI LINKOVI
+		Š. Ungar, Matematička analiza 3, PMF - Matematički odjel, Zagreb, 1994 (https://www.mathos.unios.hr/~djankov/realna/analiza3_internet.pdf).
+		Calculus reference  (http://archives.math.utk.edu/calculus/crol.html)

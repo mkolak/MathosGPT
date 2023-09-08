@@ -1,0 +1,32 @@
+OSNOVNE INFORMACIJE
+	Cilj kolegija Metodika nastave matematike I jest upoznati studente s korektnim definiranjem matematičkih pojmova, načinima definiranja, dokazivanjem i argumentiranjem u nastavi matematike. Također ovom kolegiju bit će usustavljeni osnovnoškolski i srednjoškolski koncepti iz geometrije.
+	Potrebna predznanja. 
+		Preddiplomski studij matematičkog ili računarskog smjera.
+	Sadržaj predmeta.
+		Cilj nastave matematike. Nacionalni kurikulum. Nastavni planovi i programi.
+			Izgradnja matematičkih pojmova. Matematički jezik (izgradnja, upotreba i simboli). Matematički pojam. Konstrukcija primjera i protuprimjera. Interpretacija i primjena definicija u matematičkim konceptima.
+			Dokazivanje i argumentiranje. Teorem i dokaz. Formuliranje, dokazivanje i primjena teorema u nastavi matematike. Dokazi bez riječi.
+			Metodika nastave geometrije. Izgradanja euklidske geometrije u osnovnoj i srednjoj školi. Trigonometrijski omjeri. Obrada tema iz osnovnoškolskog i srednjoškolskog gradiva uz demonstraciju različitih metoda.
+	PREDAVANJA VJEŽBE I SEMINARI
+		doc.dr.sc. Ljerka Jukić Matić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/127)
+		KONZULTACIJE: Po dogovoru	
+	Osnovna literatura:
+		Z. Kurnik, Znanstveni okviri nastave matematike, Element, 2009.
+		M.Pavleković, Metodika nastave matematike s informatikom I, Element, Zagreb, 2001. 
+		M.Pavleković, Metodika nastave matematike s informatikom II, Element, Zagreb, 1999. 
+	Dopunska literatura:
+		Stručno-metodički časopisi
+		Udžbenici za osnovnu i srednju školu 
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	PREDAVANJA	
+		Srijeda, 13h
+		PREDAVAONICA	online
+	VJEŽBE	
+		Petak 9h	
+		PREDAVAONICA online
+
+
+PRAVILA POLAGANJA ISPITA
+	Izvođenje nastave i vrednovanje znanja. Predavanja, vježbe i seminari su obvezni. Od studenta se očekuje redovito pohađanje nastave (obvezna je nazočnost na barem 85% i predavanja i vježbi i seminara). Ostale obaveze studenata uključuju:aktivno sudjelovanje na predavanjima, vježbama i seminarima, pisanje i prezentiranje seminarskih radova. Samostalno izrađeni seminar javno se izlaže i ocjenjuje. Kvalitetni seminarski radovi izlažu se na Stručnom kolokviju. Nakon odslušanih predavanja polaže se ispit, koji se sastoji od usmenog dijela. 

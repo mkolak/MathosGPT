@@ -1,0 +1,77 @@
+OSNOVNE INFORMACIJE
+	Teorija brojeva izvodi se u ljetnom semestru druge godine sveučilišnog preddiplomskog studija matematike i sveučilišnog nastavničkog studija matematike i informatike. Cilj ovog predmeta je upoznati studente s osnovnim pojmovima, idejama i metodama elementarne teorije brojeva.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/Teorija_brojeva.pdf).
+	PREDAVANJA I VJEŽBE	
+		doc.dr.sc. Mirela Jukić Bokun  (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/108)
+		KONZULTACIJE: Po dogovoru	
+	DEMONSTRATURE	
+		NASTAVNIK: Nataša Ujić
+	OSNOVNA LITERATURA
+		I. Matić, Uvod u teroju brojeva, Odjel za matematiku Sveučilišta J. J. Strossmayera u Osijeku, 2013, skripta.
+		A. Dujella, Uvod u teoriju brojeva, Matematički odsjek, Prirodoslovno-matematički fakultet, Sveučilište u Zagrebu, 2002, skripta.
+		J. Stilwell, Elements of number theory, Springer, 2003.
+	DODATNA LITERATURA
+		T. Andreescu, D. Andrica, An Introduction to Diophantine Equations, GIL Publishing House, 2002.
+		A. Dujella, Diofantske jednadžbe, Matematički odsjek, Prirodoslovno-matematički fakultet, Sveučilište u Zagrebu, 2007.
+		K. H. Rosen, Elementary Number Theory and Its Applications, Addison-Wesley, Reading, 1993.
+		N. Koblitz, A Course in Number Theory and Cryptography, Springer Verlag, 1994.
+		A. Dujella, M. Maretić, Kriptografija, Element, 2007.
+		B. Ibrahimpašić, Uvod u teoriju brojeva, Pedagoški fakultet Bihać, Bihać, 2014.
+		G. A. Jones, J. M. Jones, Elementary Number Theory, Springer, 2003.
+		L. N. Childs, A Concrete Introduction to Higher Algebra, Springer Verlag, 1995.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: Ponedjeljak, 8:15-10:00	PREDAVAONICA: D2	
+	VJEŽBE	TERMIN: Utorak, 8:15-10:00	PREDAVAONICA: D2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra putem kolokvija se provjerava znanje studenata. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita.   
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolokvij.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente.
+
+
+UDŽBENICI
+	I. Matić, Uvod u teoriju brojeva, Odjel za matematiku, Sveučilište u Osijeku, skripta. (pdf (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/uvod_u_teoriju_brojeva.pdf))
+	M. Jukić Bokun, Pellove jednadžbe. (pdf (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/Pellove_jednadzbe_2018_web.pdf))
+	A. Dujella, Uvod u teoriju brojeva, PMF-Matematički odjel, skripta. (pdf (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/utblink.pdf))
+	Formule dozvoljene na kolokvijima i pismenim ispitima. (pdf (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/formule_nove.pdf))
+
+
+ZADACI ZA VJEŽBU
+	Djeljivost (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/Djeljivost_vjezba.pdf)
+	Kongruencije (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/Kongruencija_vjezba.pdf)
+	Kvadratni ostatci (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/Kvadratni_ostatci_vjezba.pdf)
+	Gaussovi cijeli brojevi i Pitagorine trojke (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/GCB_PT_vjezba.pdf)
+	Verižni razlomci i Pellove jednadžbe (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/VR_Pellove_vjezba.pdf)
+
+
+PRIMJERI KOLOKVIJA I ISPITNIH ROKOVA
+	PRIMJERI KOLOKVIJA
+		Prvi kolokvij 2010./2011. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/prvi_2010.pdf)
+		Drugi kolokvij 2010./2011. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/drugi_2010.pdf)
+		Prvi kolokvij 2011./2012. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/prvi_2012.pdf)
+		Drugi kolokvij 2011./2012. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/drugi_2012.pdf)
+		Prvi kolokvij 2013./2014. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/prvi_2014.pdf)
+		Drugi kolokvij 2013./2014. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/drugi_2014.pdf)
+		Prvi kolokvij 2015./2016. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2015_2016_1K.pdf)
+		Drugi kolokvij 2015./2016. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2015_2016_2K.pdf)
+		Prvi kolokvij 2016./2017. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2016_2017_1K.pdf)
+		Drugi kolokvij 2016./2017. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2016_2017_2K.pdf)
+		Prvi kolokvij 2017./2018. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2017_2018_1_kolokvij.pdf)
+		Drugi kolokvij 2017./2018. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2017_2018_2_kol.pdf)
+	PRIMJERI ISPITNIH ROKOVA
+		23. lipnja 2010. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2010_23_06.pdf)
+		7. srpnja 2010. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2010_07_07.pdf)
+		20. lipnja 2014. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2014_20_06.pdf)
+		4. srpnja 2014. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2014_04_07.pdf)
+		2. rujna 2014. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2014_02_09.pdf)
+		16. rujna 2014. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2014_16_09.pdf) 
+		19. lipnja 2017. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2017_19_06.pdf)
+		30. lipnja 2017. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2017_30_06.pdf)
+		19. lipnja 2018. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2017_19_06.pdf)
+		3. srpnja 2018. (https://www.mathos.unios.hr/images/homepages/mirela/UUTB/2017_03_07.pdf)

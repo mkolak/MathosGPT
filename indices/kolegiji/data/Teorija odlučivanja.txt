@@ -1,0 +1,37 @@
+OSNOVNE INFORMACIJE
+	Predavanja i seminari su obavezni. Studenti u toku semestra mogu dobiti praktični seminarski rad.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m048.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Dragana Jankov Maširević (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/26-homepage/odjel/kadrovi/homepages/106-dragana-jankov-s-home-page)	
+		KONZULTACIJE: nakon nastave ili po dogovoru	
+	OSNOVNA LITERATURA
+		D. Jankov Maširević, Teorija odlučivanja (https://www.mathos.unios.hr/images/homepages/djankov/Teorija_odlucivanja_DJM_udzbenik_2022_korekcija.pdf), Sveučilište J. J. Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2022. (recenzirani nastavni materijal)
+		S.French, Decision Theory, Ellis Horwood, Chichester (1986)
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija realizira se s fondom od 30 sati (tjedno 1 sat predavanja i 1 sat seminara). Pohađanje predavanja i seminara je obavezno.
+	Predavanja i Seminari	TERMIN: Četvrtak, 12:00-13:30	PREDAVAONICA: D-2	
+	Kako bi se pristupilo timu ovog kolegija, u platformi MS Teams potrebno je koristiti kod za pristup: 4qu3uvb
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se može položiti putem 2 kolokvija od kojih svaki vrijedi po 100 bodova.
+	Studenti tijekom semestra mogu izraditi jedan seminarski rad koji utječe na konačnu ocjenu. 
+	Na svim kolokvijima bodovni prag je 35%, a studenti koji zadovoljavaju 45% od ukupnog broja bodova i zadovoljavaju bodovne pragove, položili su ispit.
+	Bodovni pragovi su:
+		ocjena dovoljan (2): 90-130 bodova
+		ocjena dobar(3): 131-157 bodova
+		ocjena vrlo dobar(4): 158-180 bodova
+		ocjena izvrstan(5): 181-200 bodova.
+	Studentima, koji nisu zadovoljili kriterije za polaganje ispita, ali imaju barem 40% od ukupnog broja bodova (tj. 80 bodova), priznaje se pismeni dio ispita i moraju jos pristupiti usmenom ispitu.
+	Studenti koji nisu položili pismeni dio ispita preko kolokvija moraju prije pristupanja usmenom ispitu najprije položiti pismeni dio ispita u nekom od redovnih ispitnih termina.
+
+
+Primjeri kolokvija:
+	Akademska godina 2015./2016.
+		1. kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/ztomljan/TO/TO_1kol_3_5_16.pdf))
+		2. kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/ztomljan/TO/TO_2kol_13_6_16.pdf))
+	Akademska godina 2013./2014.
+		1. kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/ztomljan/TO_1kol_22_4_14.pdf))
+		2. kolokvij (pdf (https://www.mathos.unios.hr/images/homepages/ztomljan/TO/TO_2kol_12_6_14.pdf))

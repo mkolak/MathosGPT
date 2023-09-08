@@ -1,0 +1,123 @@
+General information
+    Associate Professor
+    Department of Mathematics (http://www.mathos.hr)
+    Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/)
+    phone: +385-31-224-823
+    fax: +385-31-224-801
+    email: darija @ mathos.hr
+    office: 20 (first floor)
+    Research Interests
+        Applied Mathematics
+        Numerical Mathematics
+        Parameter Estimation
+    Degrees
+        PhD in Numerical Mathematics, Faculty of Natural Science, Department of Mathematics, University of Zagreb, 2009.
+        MSc in Mathematics, Faculty of Natural Science, Department of Mathematics (http://www.math.pmf.unizg.hr/Default.aspx), University of Zagreb, 2005.
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2000.
+
+
+Publications
+    Journal Publications
+        R. Čorić, D. Matijević, D. Marković, PollenNet - a deep learning approach to predicting airborne pollen concentrations (https://hrcak.srce.hr/ojs/index.php/crorr/article/view/25644/14050), Croatian Operational Research Review  14/1 (2023), 1-13
+        D. Jukić, D. Marković, Nonlinear least squares estimation of the shifted Gompertz distribution (http://www.ejpam.com/index.php/ejpam/article/view/2563/493), European Journal of Pure and Applied Mathematics 10/2 (2017), 157-166
+        D. Marković, Preponderantly increasing/decreasing data in regression analysis (http://hrcak.srce.hr/ojs/index.php/crorr/article/view/4573/2659), Croatian Operational Research Review  7/2 (2016), 269-276
+        D. Marković, L. Borozan, On Parameter Estimation by Nonlinear Least Squares in Some Special Two-Parameter Exponential Type Models (http://www.naturalspublishing.com/files/published/558na4i2rpp1r1.pdf), Applied Mathematics & Information Sciences 9/6 (2015), 2925-2931
+        D. Marković, D. Jukić, Total least squares fitting the three-parameter inverse Weibull density (http://www.ejpam.com/index.php/ejpam/article/viewFile/2114/361), European Journal of Pure and Applied Mathematics 7/3 (2014), 230-245
+        D. Marković, D. Jukić, On parameter estimation in the bass model by nonlinear least squares fitting the adoption curve (http://www.degruyter.com/view/j/amcs.2013.23.issue-1/amcs-2013-0012/amcs-2013-0012.xml), International Journal of Applied Mathematics and Computer Science 23/1 (2013), 145-155
+        M. Marušić, D. Marković, D. Jukić, Least squares fitting the three-parameter inverse Weibull density (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/210.pdf ), Mathematical Communications 15/2 (2010), 539-553
+        D. Jukić, D. Marković, On nonlinear weighted errors-in-variables parameter estimation problem in the three-parameter Weibull model (http://www.sciencedirect.com/science/article/pii/S0096300309009722), Applied mathematics and computation  215/10 (2010), 3599-3609
+        D. Jukić, D. Marković, On nonlinear weighted least squares fitting of the three-parameter inverse Weibull distribution (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/212.pdf ), Mathematical Communications 15/1 (2010), 13-24
+        D. Marković, D. Jukić, On nonlinear weighted total least squares parameter estimation problem for the three-parameter Weibull density (http://www.sciencedirect.com/science?_ob=ArticleListURL&_method=list&_ArticleListID=-631749557&_sort=r&_st=13&view=c&md5=cd35d05233128347340af2e7c1d0fcb4&searchtype=a), Applied Mathematical Modelling 34/7 (2010), 1839-1848
+        D. Marković, D. Jukić, M. Benšić, Nonlinear weighted least squares estimation of a three-parameter Weibull density with a  nonparametric start (http://www.sciencedirect.com/science/article/pii/S0377042708004883), Journal of Computational and Applied Mathematics, 228/1 (2009), 304-312
+    Refereed Proceedings
+        D. Marković, D. Jukić,  A review of some existence results on parameter estimation problem in the three-parameter Weibull model, 12th International Conference on Operational Research, Pula, Croatia, 2008, 103-111
+        D. Marković, D. Dudaš,  Bezierove krivulje i de Casteljauov algoritam, Programski sustav Mathematica u znanosti, tehnologiji i obrazovanju. PrimMath[2003]. , Zagreb, Hrvatska, 2003, 51-67
+        D. Jukić, D. Marković, M. Ribičić Penava, A. Krajina,  On the choice of initial approximation of the least squares estimate in some growth models of exponential type, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 47-55
+        D. Marković,  QR dekompozicija velikih vrpčastih matrica i primjena na konstrukciju aproksimirajućeg spline-a, Programski sustav Mathematica u znanosti, tehnologiji i obrazovanju. PrimMath[2001], Zagreb, 2001, 215-227
+    Others
+        M. Jukić Bokun, Lj. Jukić Matić, D. Marković, Projekt GAMMA (https://hrcak.srce.hr/292250), Osječki matematički list 22/2 (2022), 161-170
+
+
+Projects
+        Problem procjene parametara u nekim dvoparametarskim monotonim matematičkim modelima (Parameter estimation problem in some two-parameter monotonic mathematical models). Scientific project run in  2013/14; supported by the J. J. Strossmayer University of Osijek (principal investigator)
+    Participation (as researcher) in work of following projects funded by Croatian Ministry of Science:
+        Scientific project "Passive control of mechanical models" (235-2352818-1042) within scientific program "Various aspects of parameter estimation problem in nonlinear mathematical models“ (2352818), since 2007;
+        Scientific project "Parameter estimation in mathematical models“ (0235001), 2002 - 2006;
+
+
+Professional Activities
+    Refereeing/Reviewing
+        Osječki matematički list (https://www.mathos.unios.hr/oml/)
+        International Journal of Applied Mathematics and Computer Science (AMCS) (http://www.amcs.uz.zgora.pl)
+        Croatian Operational Research Review (CRORR) (http://hrcak.srce.hr/ojs/index.php/crorr)
+        Journal of Risk and Reliability  (http://www.sagepub.com/journals/Journal202028)
+    Conferences and Workshops
+        On the existence of the nonlinear weighted least squares estimate for some special exponential type models, 15th International Conference on Operational Research, Osijek, September 2014
+        On parameter estimation by nonlinear least squares in some special two-parameter exponential type models, International Conference on Advances in Applied Mathematics and Mathematical Physics, Istanbul, Turkey, August 2014
+        Parameter estimation problem for Weibull model, 14th Young Statisticians Meeting, Basovizza, October 2009
+        Least squares fitting the three-parameter inverse Weibull density, Applied Mathematics and Scientific Computing, Zadar, September 2009
+        On nonlinear weighted least squares fitting of the three-parameter inverse Weibull distribution, Applied Mathematics and Scientific Computing, Zadar, September 2009
+        A review of some existence results on parameter estimation problem in the three-parameter Weibull model, 12th International Conference on Operational Research, Pula, October 2008
+        On nonlinear weighted errors-in-variables parameter estimation problem in the three-parameter Weibull model, 4th Croatian Mathematical Congress, Osijek, June 2008
+        Bézierove krivulje i de Casteljauov algoritam, Prim-Math[2003], Zagreb, September 2003
+        On the choice of initial approximation of the least squares estimate in some growth models of exponential type, 9th International Conference on Operational Research, Trogir, October 2002
+        QR dekompozicija velikih vrpčastih matrica i primjena na konstrukciju aproksimirajućeg spline-a, PrimMath[2001], Mathematica u znanosti, tehnologiji i obrazovanju, Zagreb, September 2001
+        5th Croatian Mathematical Congress, Rijeka, June 2012
+        4th Conference on Applied Mathematics and Scientic Computing, Brijuni, June 2005
+        3rd Conference on Applied Mathematics and Scientic Computing, Brijuni, June 2003
+        8th International Conference on Operational Research, Rovinj, September 2000
+        2nd Croatian Mathematical Congress, Zagreb, June 2000
+    Invited Lectures
+        Problem procjene parametara u 3-parametarskom Weibullovu modelu, Stručno-znanstveni kolokvij AMACIZ-a,Zagreb, March 2009
+        Težinski spline-ovi, Matematički kolokvij, Osijek, January 2004
+        Least squares spline, Matematički kolokvij, Osijek, March 2002
+    Study Visits Abroad and Professional Improvements
+        Eidgenössische Technische Hochschule Zürich, Switzerland, February, 2008
+        Technische Universität Berlin, Germany, June 2007
+        Max Planck Institut für Informatik, Saarbrücken, Germany, August-September 2005
+    Professional Society Membership
+        HMD - Croatian Mathematical Society, Department Osijek
+        HDOI - Croatian Operational Research Society
+
+
+Teaching
+    Current
+        Geometrija ravnine i prostora - Uvod u algebru, Odjel za fiziku (http://www.fizika.unios.hr/grpua/)
+        Osnove umjetne inteligencije, Odjel za fiziku (http://www.fizika.unios.hr/oui/)
+        Primijenjena i inženjerska matematika, Prehrambeno-tehnološki fakultet (https://www.mathos.unios.hr/index.php/304)
+        Metodika nastave informatike 1, Odjel za matematiku (https://www.mathos.unios.hr/index.php/720)
+        Metodika nastave informatike, Odjel za matematiku (https://www.mathos.unios.hr/index.php/235)
+        Osnove umjetne inteligencije, Odjel za matematiku (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/238)
+    Past 
+        Linear Algebra 1 
+        Linear Algebra 2
+        Differential calculus
+        Integral calculus
+        Numerical mathematics
+        Ordinary Differential Equations
+        Vector Spaces
+        Algebra
+        Elementary Mathematics 2
+        Analytic Geometry
+        Didactics of Mathematics 2
+        Mathematics (Faculty of Economics)
+        Applied Mathematics (Faculty of Food Technology)
+        Engineering Mathematics (Faculty of Food Technology)
+        Mathematics 1 (Department of Physics)
+        Mathematics 2 (Department of Physics)
+        Mathematics 3 (Faculty of Electrical Engineering)
+    Office Hours: 
+        konzultacije se održavaju po dogovoru.
+    Prijedlog tema diplomskih radova na Odjelu za matematiku:
+        Polinomijalne matrice;
+        Parovi polinomijalnih matrica;
+        Osnovna svojstva racionalnih matrica;
+        Matrične grupe;
+        Egzistencija i konstrukcija generaliziranog inverza
+        Moguće su i druge teme u dogovoru sa zainteresiranim studentom
+
+
+Personal
+    Birthdate: July 7, 1976
+    Birthplace: Osijek, Croatia
+    Citizenship: Croatian

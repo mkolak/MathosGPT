@@ -1,0 +1,39 @@
+OSNOVNE INFORMACIJE
+	Cilj predmeta je upoznati studente s osnovama teorije normiranih te posebno Banachovih i Hilbertovih prostora.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m111.pdf))
+	VODITELJ KOLEGIJA	
+		prof. dr. sc. Krešimir Burazin	
+		KONZULTACIJE: https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/140#teaching
+	ASISTENT	 
+		dr. sc. Ivana Crnjac
+		KONZULTACIJE: https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/140#teaching
+	OSNOVNA LITERATURA
+		S. Kurepa, Funkcionalna analiza, Školska knjiga, Zagreb, 1981
+		G. Bachman, L. Narici, Functional analysis, Dover Publications, Mineola, New York, 2000.
+	DOPUNSKA LITERATURA
+		H. Brezis, Functional Analysis, Sobolev Spaces and Partial Differential Equations, Springer, New York, 2011.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Normirani prostori realizira se fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi).Pohađanje predavanja i vježbi je obavezno.
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod cnftv1m.
+	PREDAVANJA	 
+		četvrtak, 8:00-10:00	 PREDAVAONICA D-9
+ 	VJEŽBE	 
+		srijeda, 15:00-17:00	 PREDAVAONICA D-7
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom studija mogu pristupiti polaganju 2 kolokvija koji pokrivaju cijelo gradivo. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita.
+	Da bi uspješno položio kolegij preko kolokvija/pismenog  ispita, student mora skupiti barem  55  bodova, pri čemu na kolokviju/pismenom ispitu može ostvariti maksimalno 100 bodova (1 postotak od ukupnog broja bodova na kolokviju/pismenom ispitu = 1 bod), a na zadaćama maksimalno 20 bodova (od toga maksimalno 10 bodova na zadaćama s predavanja i maksimalno 10 bodova na zadaćama s vježbi). Na svakom pojedinom kolokviju student mora ostvariti barem 20% od ukupnog broja bodova s tog kolokvija. Sukladno tome određuju se sljedeći pragovi:
+		ocjena dovoljan (2): 55-65 bodova
+		ocjena dobar(3): 66-78 bodova
+		ocjena vrlo dobar(4): 79-90 bodova
+		ocjena izvrstan(5): 91 bodova i više.
+	Na pojedinoj zadaći koju je usmeno prezentirao student može ostvariti 0-5 bodova.
+	ZADAĆE
+		Svaki tjedan student će dobiti zadaće na vježbama i predavanju koje je dužan predati sljedeći tjedan u pismenom obliku. Zadaće se provjeravaju kontinuirano na predavanju i vježbama.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. 
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente i pristupa mu se nakon položenog pismenog dijela ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

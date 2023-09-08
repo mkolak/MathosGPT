@@ -1,0 +1,36 @@
+OSNOVNE INFORMACIJE
+	Kolegij Kriptografija izborni je kolegij na prvoj i drugoj godini sveučilišnog diplomskog studija matematike - smjer Financijska matematika i statistika te Matematika i računarstvo.   
+	Cilj ovog predmeta je upoznati studente s temeljnim pojmovima i metodama kriptografije i kriptoanalize različitih tipova kriptosustava. Predstavit će se osnovne ideje šifriranja i dešifriranja podataka kroz moderne simetrične i asimetrične kriptosustave. Kako su moderni kriptosustavi zasnovani na funkcijama iz teorije brojeva, svi nužni osnovni pojmovi uvest će se na mjestima gdje se za njima prvi put ukazuje potreba. Na taj nači omogućit će se jednostavnije proučavanje prednosti i nedostataka različitih tipova kriptosustava.
+	Sadržaj kolegija možete pogledati na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/isoldo/Kriptografija/mi006.pdf)).
+	VODITELJ KOLEGIJA
+		izv. prof. dr. sc. Ivan Soldo (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/136)	
+		KONZULTACIJE: utorkom u 11:30, kabinet 14 u prizemlju zgrade	
+	OSNOVNA LITERATURA
+		N. Koblitz: A Course in Number Theory and Cryptography, Springer-Verlag, New York, 1994.
+		R. Mollin, An introduction to Cryptography, 2nd edition, Chapman and Hall, Boca Raton, 2007.
+		M. J. Hinek, Cryptanalysis of RSA and its variants, Chapman and Hall/CRCPress, Boca Raton, 2010.
+	DOPUNSKA LITERATURA 
+		A. Dujella, M. Maretić, Kriptografija, Element, Zagreb, 2007. (Web stranica kolegija Kriptografija i sigurnost mreža, PMF-MO, Zagreb (http://web.math.pmf.unizg.hr/~duje/kriptsig.html)) 
+		S. C. Coutinho, The mathematics of ciphers; number theory and RSA cryptography, A. K. Peters, Natick,  Massachusetts, 1999.
+		A. J. Menezes, P. C. Oorschot, S. A. Vanstone: Handbook of Applied Cryptography (http://www.cacr.math.uwaterloo.ca/hac/), CRC Press, Boca Raton, 1996.
+		B. Schneier: Applied Cryptography (http://www.schneier.com/book-applied.html), John Wiley, New York, 1995.          
+		D.R. Stinson, Cryptography. Theory and Practice, CRC Press, Boca Raton, 2002.
+		B. Schneier, Applied Cryptography: Protocols, Algorithms and Source Codes in C, John Wiley & Sons Inc. 1995.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Kriptografija realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obvezno. 
+	Nastava iz kolegija Kriptografija izvodit će se klasičnim modelom. Drugim riječima, nastava se u potpunosti izvodi u učionici. Komunikacija koja obuhvaća obavijesti, pitanja i slično odvijat će se  korištenjem platforme MS Teams.  Konzultacije se održavaju klasično kontaktno. 
+	Za točno vrijeme i raspored predavanja molimo vas pratite stranicu rasporeda i MS Teams kanal.
+	PREDAVANJA i VJEŽBE	TERMIN: Srijedom od 14:00	PREDAVAONICA: D2	
+	KONZULTACIJE	TERMIN: Utorkom u 11:30	PREDAVAONICA: Kabinet 14 u prizemlju	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti mogu polagati 3 kolokvija i ostvariti najviše 105 bodova.  Redovitim rješavanjem domaćih zadaća može se postići najviše 20 bodova. Prihvatljivi rezultati postignuti na kolokvijima i domaćim zadaćama (najviše 125 bodova) zamjenjuju pismeni dio ispita i ocjena se pridružuje prema sljedećem kriteriju izraženom u postotcima od ukupno  125 bodova =100%: 
+		50% - 65%  -  dovoljan (2) 
+		65.1% - 79%  -  dobar (3)
+		79.1% - 90%  -  vrlo dobar (4) 
+		90.1% - 100%  -  izvrstan (5).
+	Pismeni dio ispita obavezan je za studente koji na prethodno opisani način nisu ostvarili barem 50% bodova i na njemu se može ostvariti najviše 100 bodova. 
+	Usmeni ispit obavezan je za sve studente te se u ovisnosti od ocjene s pismenog ispita, kolokvija i domaćih zadaća formira konačna ocjena.

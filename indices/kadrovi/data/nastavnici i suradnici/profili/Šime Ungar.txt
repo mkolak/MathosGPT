@@ -1,0 +1,59 @@
+General Information
+    Professor
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek 
+    phone: +385-31-224-809
+    fax: +385-31-224-801
+    email: sime@mathos.hr
+    office: 23/I
+    Research Interests
+        Geometric and Algebraic Topology
+        Shape theory
+    Degrees
+        PhD in mathematics, Department of Mathematics, University of Zagreb , 1977.
+        MSc in mathematics, Department of Mathematics, University of Zagreb , 1972.
+        BSc in mathematics, Department of Mathematics, University of Zagreb, 1969.
+
+
+Publications
+    Journal Publications
+        R. Scitovski, K. Sabo, D. Grahovac, Š. Ungar, Minimal distance index — A new clustering performance metrics, Information Sciences (2023), prihvaćen za objavljivanje
+        R. Scitovski, K. Sabo, Š. Ungar, A method for forecasting the number of hospitalized and deceased based on the number of newly infected during a pandemic (https://www.nature.com/articles/s41598-022-08795-9#citeas), Scientific Reports - Nature 12/4773 (2022), 1-8
+        J. Pečarić, Š. Ungar, On the two-point Ostrowski inequality, Mathematical Inequalities and Applications 13/2 (2010), 339-347
+        M. Matić, Š. Ungar, More on the two-point Ostrowski inequality, Journal of Mathematical Inequalities 3/3 (2009), 417-426
+        Š. Ungar, The Koch Curve: A Geometric Proof, The American Mathematical Monthly 114/1 (2007), 60-65
+        J. Pečarić, Š. Ungar, On an inequality of Grüss type, Mathematical Communications 11/2 (2006), 137-141
+        J. Pečarić, Š. Ungar, On an inequality of Ostrowski type, Journal of Inequalities in Pure and Applied Mathematics 7/151 (2006), 1-5
+        Š. Ungar, Partitions of sets and the Riemann integral, Mathematical Communications 11 (2006), 55-61
+        I. Herburt, Š. Ungar, Rigid sets of dimension n-1 in Rn, Geometriae Dedicata 76 (1999), 331-339
+        R. Scitovski, Š. Ungar, D. Jukić,  Approximating surfaces by moving total least squares method (http://www.sciencedirect.com/science/article/pii/S0096300397100777), Applied mathematics and computation  93/2-3 (1998), 219-232
+        Š. Ungar, A remark on the composition of cell-like maps, Glasnik Matematički 22 (1987), 459-461
+        Š. Ungar, On a homotopy lifting property for inverse sequences, Berichte der mathematisch-statistischen Sektion in der Forschungsgesellschaft Joanneum Graz (1987), 1-11
+        Š. Ungar, Shape bundles, Topology and its Applications 12 (1981), 89-99
+        Š. Ungar, On local homotopy and homology pro-groups, Glasnik Matematički 14 (1979), 151-158
+        Š. Ungar, Van Kampen theorem for fundamental pro-groups, Bulletin de l'Académie Polonaise des Sciences. Série des Sciences Mathématiques, Astronomiques et Physiques 27 (1979), 171-181
+        Š. Ungar, n-Connectedness of inverse systems and applications to shape theory, Glasnik Matematički 13 (1978), 371-396
+        Š. Ungar, The Freudenthal suspension theorem in shape theory, Bulletin de l'Académie Polonaise des Sciences. Série des Sciences Mathématiques, Astronomiques et Physiques 24 (1976), 275-280
+        S. Mardešić, Š. Ungar, The relative Hurewicz theorem in shape theory, Glasnik Matematički 9 (1974), 317-327
+    Refereed Proceedings
+        D. Jukić, R. Scitovski, Š. Ungar,   The best total least squares line  in R^3, 7th International Conference on Operational Research KOI 1998, Rovinj, 1998, 311-316
+        R. Scitovski, Š. Ungar, D. Jukić, M. Crnjac,  Moving total least squares for parameter identification  in mathematical model,  Symposium on Operations Research SOR '95, Passau, 1996, 196-201
+        Š. Ungar,  A remark on shape paths and homotopy pro-groups, General Topology and its relations to Modern Analysis and Algebra V, Prag, 1981, 642-647
+    Others
+        Š. Ungar, Slutnja koja je postala teorem, Matematičko fizički list 61/1 (2010), 20-23
+    Books
+        R. Scitovski, K. Sabo, F. Martínez-Álvarez, Š. Ungar, Cluster Analysis and Applications, Springer, Cham, 2021.
+        Š. Ungar, Ne baš tako kratak Uvod u TEX s naglaskom na pdfLATEX i osvrtom na XƎLATEX (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/798.pdf ), Sveučilište J. J. Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2019.
+        Š. Ungar, Matematička analiza u Rn, Golden marketing - Tehnička knjiga, Zagreb, 2005.
+        Š. Ungar, Ne baš tako kratak uvod u LaTeX (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/503.pdf ), Odjel za matematiku Sveučilišta J.J. Strossmayera u Osijeku, Osijek, 2002.
+        Š. Ungar, Matematička analiza 3, PMF-Matematički odjel, Zagreb, 1994.
+
+
+Teaching 
+    Past
+        Uvod u algebarsku topologiju (https://www.mathos.unios.hr/~sime/HR/topologija/topologija.html) — zimski semestar
+        Integralni račun (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/180) — utorak 8:15 – 9:45    (D-1)
+        Uvod u teoriju skupova i matematičku logiku (https://www.mathos.unios.hr/~sime/HR/skupovi/skupovi.html) — utorak 12:15 – 13:45    (D-2)
+        Metrički prostori (https://www.mathos.unios.hr/~sime/HR/metricki/metricki.html) — utorak 10:15 – 11:45 i srijeda 8:15 – 9:45    (D-22)
+    Office Hours: 
+        Prema dogovoru (by appointment)

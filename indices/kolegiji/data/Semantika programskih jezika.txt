@@ -1,0 +1,17 @@
+OSNOVNE INFORMACIJE
+	Upoznati studente s apstraktnim modelom programskih jezika lambda-calculus. Objasniti generalna svojstva programa koji može mijenjati druge programe u apstraktnom okruženju neopterećenog detaljima. Ovladati pojmovima varijabla, apstrakcija (funkcijska definicija), primjena funkcije na argument (Application). Povezati ove koncepte s konceptima funkcijskog programiranja i jezika Haskell ili Coq.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/mi008.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)
+		KONZULTACIJE: Ponedjeljkom od 11-13h ili prema dogovoru	
+	ASISTENT
+		Luka Borozan (https://www.mathos.unios.hr/index.php/26-homepage/odjel/kadrovi/homepages/409-luka-borozan-s-home-page)
+		KONZULTACIJE: Četvrtkom od 10-12h	
+	OSNOVNA LITERATURA
+		Benjamin C. Pierce, Types and Programming Languages, MIT Press, 2002
+		J. C. Mitchell, Foundations for Programming Languages, MIT Press, 1996
+
+
+PRAVILA POLAGANJA ISPITA
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.

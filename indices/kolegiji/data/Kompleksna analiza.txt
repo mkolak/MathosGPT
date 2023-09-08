@@ -1,0 +1,91 @@
+OSNOVNE INFORMACIJE
+	Kompleksna analiza  izvodi se u ljetnom semestru druge godine sveučilišnog preddiplomskog studija matematike i sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je predstaviti studentima klasičnu teoriju kompleksnih funkcija kompleksne varijable, te ih upoznati sa specifičnim svojstvima tih funkcija, uz naglašavanje bitnih razlika u odnosu na funkcije realnih varijabli.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m015.pdf)).
+	VODITELJ KOLEGIJA	
+		prof.dr.sc. Krešimir Burazin	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/104)	
+	ASISTENT	
+		dr.sc. Ivana Crnjac	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/140)	
+	OSNOVNA LITERATURA
+		H. Kraljević, S. Kurepa, Matematička analiza 4/I, Funkcije kompleksne varijable, Tehnička knjiga Zagreb,1986.
+	DODATNA LITERATURA
+		I. Ivanšić, Funkcije kompleksne varijable. Laplaceova transformacija. Liber, Zagreb, 1978.
+		A. Sveshnikov, A. Tikhonov, The theory of functions of a complex variable, Mir Publishers, Moscow, 1978.
+		B. Stanković, Teorija funkcija kompleksne promenjive, Naučna knjiga, Beograd, 1972.
+		Ž. Marković, Uvod u višu analizu II. Školska knjiga Zagreb, 1952.
+		Lj. Jarnjak, A. Rašidagić-Finci, M. Vuković, Zbirka zadataka iz teorije funkcija kompleksne promjenjive, IP Svjetlost, Sarajevo, 1975.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Kompleksna analiza realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno. Za točno vrijeme i raspored predavanja molimo vas da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod b4804r4.
+	PREDAVANJA	TERMIN: Srijedom 8:30-10:00	PREDAVAONICA: D-2	
+	VJEŽBE	TERMIN: Srijedom 10:30-12:00	PREDAVAONICA: D-2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom studija mogu pristupiti polaganju 2 kolokvija koji pokrivaju cijelo gradivo. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita. 
+	Da bi uspješno položio kolegij preko kolokvija/pismenog  ispita, student mora skupiti barem  45  bodova, pri čemu na kolokviju/pismenom ispitu može ostvariti maksimalno 100 bodova (1 postotak od ukupnog broja bodova na kolokviju/pismenom ispitu = 1 bod), a na zadaćama maksimalno 10 bodova. Na svakom pojedinom kolokviju student mora ostvariti barem 20% od ukupnog broja bodova s tog kolokvija. Sukladno tome određuju se sljedeći pragovi:
+		ocjena dovoljan (2): 45-60 bodova
+		ocjena dobar(3): 61-75 bodova 
+		ocjena vrlo dobar(4): 76-89 bodova 
+		ocjena izvrstan(5): 90 bodova i više.
+	Na pojedinoj zadaći koju je usmeno prezentirao student može ostvariti 0-5 bodova.
+	ZADAĆE
+		Svaki tjedan student će dobiti zadaće na vježbama i predavanju koje je dužan predati sljedeći tjedan u pismenom obliku. Zadaće se provjeravaju kontinuirano na predavanju i vježbama.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. 
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente i pristupa mu se nakon položenog pismenog dijela ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+NASTAVNI MATERIJALI
+	Tablica derivacija elementarnih funkcija (https://www.mathos.unios.hr/images/homepages/ivuksano/formule1.pdf)
+	Tablica Mobiusove transformacije i Taylorovi redovi (https://www.mathos.unios.hr/images/homepages/ivuksano/formule2.pdf)
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI KOLOKVIJA S PRETHODNIH GODINA
+		1. kolokvij - primjer iz 2022./2023. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1A_KA_2023.pdf))
+		2. kolokvij - primjer iz 2022./2023. (pdf)
+		1. kolokvij - primjer iz 2020./2021. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1_KA_2021.pdf))
+		2. kolokvij - primjer iz 2020./2021. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2KA_2021.pdf))
+		1. kolokvij - primjer iz 2016./2017. (pdf (https://www.mathos.unios.hr/images/homepages/kvincetic/KA_1kol_20162017_A.pdf))
+		2.kolokvij - primjer iz 2016./2017. (pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol2KA_1617.pdf))
+		1. kolokvij - primjer iz 2015./2016.(pdf (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1KA1516AB.pdf))
+		2. kolokvij  - primjer iz 2015./2016.(A (https://www.mathos.unios.hr/images/homepages/ssusic/KA_kol2_2016.pdf))
+		Kolokviji iz akademske 2014./2015.
+			1. kolokvij (grupa A (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1KA1415A.pdf), grupa B (https://www.mathos.unios.hr/images/homepages/ivuksano/Kol1KA1415B.pdf))
+			2. kolokvij (grupe A i B (https://www.mathos.unios.hr/images/homepages/ssusic/kol2_2015.pdf))
+		Kolokviji iz akademske 2013./2014.
+			1. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/ka_kol_12014.pdf)
+			2. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/kol2_2014.pdf)
+		Kolokviji iz akademske 2012./2013.
+			1. kolokvij (grupa A (https://www.mathos.unios.hr/kompleksna/Kolokviji/Kol1Kompleksna1213A.pdf), grupa B (https://www.mathos.unios.hr/kompleksna/Kolokviji/Kol1Kompleksna1213B.pdf), grupa C (https://www.mathos.unios.hr/kompleksna/Kolokviji/Kol1Kompleksna1213C.pdf))
+			2. kolokvij (grupa A (https://www.mathos.unios.hr/kompleksna/Kolokviji/Kol2Kompleksna1213A.pdf), grupa B (https://www.mathos.unios.hr/kompleksna/Kolokviji/Kol2Kompleksna1213B.pdf), grupa C (https://www.mathos.unios.hr/kompleksna/Kolokviji/Kol2Kompleksna1213C.pdf))
+		Kolokviji iz akademske 2011./2012.
+			1. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/KA_kol1_2011.pdf)
+			2. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/KA_kol2_2011.pdf)
+			3. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/KA_kol3_2011.pdf)
+		Kolokviji iz akademske 2009./2010.
+			1. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/KA_k1_26042010_A.pdf)
+			2. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/KA_k2_01062010.pdf)
+			3. kolokvij (https://www.mathos.unios.hr/kompleksna/Kolokviji/KA_k3_14062010.pdf)
+	PRIMJERI PISMENIH ISPITA
+		23. lipnja 2021. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA__23_6_2021.pdf)
+		4. veljače 2020. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA_4_2_20.pdf)
+		10. rujna 2018. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA__10_9_18.pdf)
+		11. srpnja 2017. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA_11_7_17.pdf)
+		27. lipnja 2017. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA_27_6_17.pdf)
+		9.veljače 2017. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA_9_2_17.pdf)
+		9. rujna 2016. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA_9_9_2016.pdf)
+		02. rujna 2015. (https://www.mathos.unios.hr/images/homepages/ssusic/KA02092015.pdf)
+		10. srpnja 2015. (https://www.mathos.unios.hr/images/homepages/ssusic/KA10702015.pdf)
+		26. lipnja 2015. (https://www.mathos.unios.hr/images/homepages/ivuksano/KA_26_6_15.pdf)
+		21. lipnja 2013. (https://www.mathos.unios.hr/kompleksna/Ispiti/KA21062013.pdf)
+		05. srpnja 2013. (https://www.mathos.unios.hr/kompleksna/Ispiti/KA05072013.pdf)
+		13. rujna 2011. (https://www.mathos.unios.hr/kompleksna/Ispiti/KA_13_09_2011.pdf)
+		08. srpnja 2011. (https://www.mathos.unios.hr/kompleksna/Ispiti/KA_08_07_2011.pdf)
+		30. rujna 2010. (https://www.mathos.unios.hr/kompleksna/Ispiti/KA_30092010.pdf)
+		21. rujna 2010. (https://www.mathos.unios.hr/kompleksna/Ispiti/KA_21092010.pdf)
+		07. rujna 2010. (https://www.mathos.unios.hr/kompleksna/Ispiti/KA_07092010.pdf)

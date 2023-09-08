@@ -1,0 +1,31 @@
+OSNOVNE INFORMACIJE
+	Kolegij Kriptografija i sigurnost sustava izborni je kolegij na drugoj godini sveučilišnog diplomskog studija matematike - smjer Financijska matematika i statistika i drugoj godini sveučilišnog diplomskog studija matematike - smjer Matematika i računarstvo.  
+	Cilj ovog predmeta je upoznati studente s temeljnim pojmovima i metodama kriptografije i zaštite računalnih sustava. Studentima će biti predstavljene osnovne ideje enkripcije i dekripcije podataka te će biti upoznati s višekorisničkim i višezadaćnim operacijskim sustavima. Na predavanjima će se uvoditi i obrađivati pojmovi iz kriptografije i zaštite operacijskih sustava, pri čemu će se proučavati njihova svojstva, prednosti i nedostatci. Na vježbama će studenti upoznavati i programirati različite enkripcijske i dekripcijske postupke te svladavati tehnike analiziranja sigurnosti operacijskih sustava i baza podataka.
+	Sadržaj kolegija možete pogledati na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/isoldo/Kriptografija/Kripto_program.pdf)).
+	VODITELJ KOLEGIJA
+		doc.dr.sc. Ivan Soldo (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/136)
+		KONZULTACIJE: utorkom u 11:30, kabinet 14 u prizemlju zgrade	
+	OSNOVNA LITERATURA
+		N. Koblitz: A Course in Number Theory and Cryptography, Springer-Verlag, New York, 1994.
+		R. Mollin, An introduction to Cryptography, 2nd edition, Chapman and Hall, Boca Raton, 2007.
+		M. J. Hinek, Cryptanalysis of RSA and its variants, Chapman and Hall/CRCPress, Boca Raton, 2010.
+	DOPUNSKA LITERATURA
+		A. Dujella, M. Maretić, Kriptografija, Element, Zagreb, 2007. (Web stranica kolegija Kriptografija i sigurnost mreža, PMF-MO, Zagreb (http://web.math.pmf.unizg.hr/~duje/kriptsig.html)) 
+		S. C. Coutinho, The mathematics of ciphers; number theory and RSA cryptography, A. K. Peters, Natick,  Massachusetts, 1999.
+		A. J. Menezes, P. C. Oorschot, S. A. Vanstone: Handbook of Applied Cryptography (http://www.cacr.math.uwaterloo.ca/hac/), CRC Press, Boca Raton, 1996.
+		B. Schneier: Applied Cryptography (http://www.schneier.com/book-applied.html), John Wiley, New York, 1995.          
+		D.R. Stinson, Cryptography. Theory and Practice, CRC Press, Boca Raton, 2002.
+		B. Schneier, Applied Cryptography: Protocols, Algorithms and Source Codes in C, John Wiley & Sons Inc. 1995.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Kriptografija i sigurnost sustava realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno. 
+	PREDAVANJA i VJEŽBE
+		TERMIN: Srijedom od 16:00	PREDAVAONICA: MS Teams	
+	KONZULTACIJE	
+		TERMIN: Utorkom u 12:30	PREDAVAONICA: Kabinet 14 u prizemlju 	
+		TERMIN: Online po dogovoru	PREDAVAONICA: MS Teams	
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se sastoji od pismenog i usmenog dijela, a polaže se nakon odslušanih predavanja. Prihvatljivi rezultati postignuti na kolokvijima, koje studenti pišu tijekom semestra, zamjenjuju pismeni dio ispita. Studenti mogu utjecati na ocjenu tako da tijekom semestra pišu domaće zadaće ili izrade seminarski rad.

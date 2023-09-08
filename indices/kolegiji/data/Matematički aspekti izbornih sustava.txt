@@ -1,0 +1,34 @@
+OSNOVNE INFORMACIJE
+	Izborni predmet Matematički aspekti izbornih sustava izvodi se u ljetnom semestru druge godine sveučilišnog studija diplomskog studija matematike - smjerovi: Nastavnički studij matematike i informatike, Financijska matematika i statistika, te Matematika i računarstvo. Cilj kolegija je studente upoznati s nekim osnovnim matematičkim aspektima izbornih sustava, kao što su vrednovanje i oblikovanje izbornih sustava, modeli izbornih sustava, temeljne metode raspodjele, osnovna svojstva razmjernih i većinskih izbornih sustava, i slično. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m024.pdf).
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Tomislav Marošević (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/113)	
+		KONZULTACIJE: Četvrtkom u 11:45h i po dogovoru.	
+		email:  tmarosev@mathos.hr
+	OSNOVNA LITERATURA
+		P.G.Cortona et al.: Evaluation and Optimization of Electoral Systems, SIAM, Philadelphia, 1999.
+		J.K. Hodge and R.E. Klima: The mathematics of voting and elections : a hands-on approach, AMS, Providence, 2005.
+		A.D.Taylor, A.M.Pacelli: Mathematics and Politics – Strategy, Voting, Power and Proof, Springer-Verlag, New York, 2008.
+		Autorizirani nastavni materijali s predavanja.
+
+
+Kolegij se izvodi kao izborni predmet u ljetnom semestru ak.god. 2022./2023.
+	Nastava u ljetnom semestru 2022./23. izvodi se uživo na kontaktan način. 
+	Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod 231nw54 .
+	Izvedbeni program izbornog kolegija Matematički aspekti izbornih sustava realizira se fondom od 30 sati (tjedno 1 sat predavanja i 1 sat seminari). Na predavanjima se predstavljaju osnovni pojmovi, značajke i matematički aspekti kod izbornih sustava. Drugi dio nastave koristi se za iznošenje studentskih seminarskih radova u vezi problematike izbornih sustava. Pohađanje predavanja i seminara je obvezno.
+NASTAVA	TERMIN: četvrtak, 10:00-12:00	PREDAVAONICA: D-5	
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se sastoji od pismenog dijela (koji donosi do najviše 80 bodova, tj., 80%), te uz uspješno izrađen seminarski rad (koji donosi do najviše 20 bodova, tj., 20%), donosi se konačna ocjena.           
+		Ocjene su sljedeće:  40-54% dovoljan;  55-69% dobar; 70-84% vrlo dobar;  85-100% izvrstan. 
+	PISMENI ISPIT I ISPITNA  PITANJA
+		Pismeni ispit obuhvaća gradivo s predavanja.
+		Ispitna pitanja:    (https://www.mathos.unios.hr/images/homepages/tmarosev/pitanja_za_ispit_MAIS_2021.pdf)
+	USMENI ISPIT  
+		Ne provodi se usmeni ispit.   
+
+
+PRIMJERI  starijih  ISPITNIH ROKOVA   
+	mais_30_I_2014_pdf (https://www.mathos.unios.hr/images/homepages/tmarosev/mais_30_I_2014.pdf)        
+	14_lipnja_2017 (https://www.mathos.unios.hr/images/homepages/tmarosev/mais_14_VI_2017.pdf)

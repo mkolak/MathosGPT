@@ -1,0 +1,209 @@
+General Information
+    Full Professor 
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek 
+    Google Scholar (https://scholar.google.hr/citations?hl=hr&user=jEVhlVEAAAAJ&view_op=list_works)
+    phone: +385-31-224-822
+    fax: +385-31-224-801
+    email: kburazin@mathos.hr
+    office: 19 (1st floor)
+    Research Interests
+        Partial Differential Equations
+        Continuum Physics
+        Functional Analysis
+    Degrees
+        PhD, 2008,  Faculty of Natural Science, Department of Mathematics, University of Zagreb (thesis: Contributions to the theory of Friedrichs' and hyperbolic systems (https://www.mathos.unios.hr/images/homepages/kburazin/teza.pdf), in Croatian, adviser: N. Antonić)
+        MSc, 2004,  Faculty of Natural Science, Department of Mathematics, University of Zagreb
+        BSc, 1999,  Faculty of Natural Science, Department of Mathematics, University of Zagreb
+        1995, Gymnasium, Vinkovci
+        1991 Primary school, Komletinci
+
+
+Publications
+    Journal Publications
+        N. Antonić, K. Burazin, J. Jankov, Small-amplitude homogenization of elastic plates via H-measures (https://onlinelibrary.wiley.com/doi/full/10.1002/zamm.202000348), Journal of Applied Mathematics and Mechanics 102/5 (2022), 1-9
+        K. Burazin, J. Jankov, On the effective properties of composite elastic plate (https://www.sciencedirect.com/science/article/abs/pii/S0022247X20308593), Journal of Mathematical Analysis and Applications 495/1 (2021)
+        K. Burazin, I. Crnjac, M. Vrdoljak, Optimality criteria method in 2D linearized elasticity problems, Applied Numerical Mathematics 160 (2021), 192-204
+        K. Burazin, J. Jankov, Small-amplitude homogenization of elastic plate equation (https://www.tandfonline.com/doi/abs/10.1080/00036811.2019.1634255?journalCode=gapa20), Applicable Analysis 100/5 (2021), 1039-1050
+        K. Burazin, I. Crnjac,  Convergence of the optimality criteria method for multiple state optimal design problems (https://www.sciencedirect.com/science/article/pii/S0898122119304432?dgcid=coauthor), Computers & Mathematics with Applications 79/5 (2020), 1382-1392
+        K. Burazin, D. Mitrović, Apriori estimates for fractional diffusion equation (https://rdcu.be/7XB8), Optimization Letters  13/8 (2019), 1793-1801
+        K. Burazin, M. Vrdoljak, Exact Solutions in Optimal Design Problems for Stationary Diffusion Equation (http://link.springer.com/article/10.1007/s10440-018-0204-z), Acta Applicandae Mathematicae 161/1 (2019), 71-88
+        K. Burazin, J. Jankov, M. Vrdoljak, Homogenization of elastic plate equation (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/735.pdf ), Mathematical Modelling and Analysis 23/2 (2018), 190-204
+        K. Burazin, On Unique Solutions of Multiple-State Optimal Design Problems on an Annulus (https://link.springer.com/article/10.1007%2Fs10957-018-1284-7), Journal of optimization theory and applications  177 (2018), 329-344
+        K. Burazin, I. Crnjac, M. Vrdoljak, Variant of optimality criteria method for multiple state optimal design problems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/758.pdf ), Communications in Mathematical Sciences 16/6 (2018), 1597-1614
+        N. Antonić, K. Burazin, I. Crnjac, M. Erceg, Complex Friedrichs systems and applications (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/705.pdf ), Journal of Mathematical Physics 58/10 (2017), 1-22
+        K. Burazin, M. Erceg, Non-stationary abstract Friedrichs systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/630.pdf ), Mediterranean Journal of Mathematics 13/6 (2016), 3777-3796
+        K. Burazin, M. Erceg, Estimates for mild solutions to semilinear Cauchy problems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/396.pdf ), Electronic Journal of Differential Equations 2014/194 (2014), 1-10
+        K. Burazin, M. Vrdoljak, Homogenisation theory for Friedrichs systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/189.pdf ), Communications on Pure and Applied Analysis 13/3 (2014), 1017-1044
+        N. Antonić, K. Burazin, M. Vrdoljak, Second-order equations as Friedrichs systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/188.pdf ), Nonlinear analysis: real world applications 14/1 (2014), 290-305
+        N. Antonić, K. Burazin, M. Vrdoljak, Heat equation as a Friedrichs system  (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/187.pdf ), Journal of Mathematical Analysis and Applications 404 (2013), 537-553
+        N. Antonić, K. Burazin, Boundary operator from matrix field formulation of boundary conditions for Friedrichs systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/185.pdf ), Journal of Differential Equations 250 (2011), 3630-3651
+        N. Antonić, K. Burazin, M. Vrdoljak, Connecting classical and abstract theory of Friedrichs systems via trace operator  (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/186.pdf ), ISRN Mathematical Analysis 2011 (2011), 1-14
+        N. Antonić, K. Burazin, Intrinsic boundary conditions for Friedrichs systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/184.pdf ), Communications in Partial Differential Equations 35/9 (2010), 1690-1715
+        N. Antonić, K. Burazin, Graph spaces of first-order linear partial differential operators (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/180.pdf ), Mathematical Communications 14/1 (2009), 135-156
+        N. Antonić, K. Burazin, On equivalent descriptions of boundary conditions for Friedrichs systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/183.pdf ), Mathematica Montisnigri 22 (2009), 5-13
+        K. Burazin, Estimates on the weak solution of semilinear hyperbolic systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/182.pdf ), Annali dell'Universita' di Ferrara  54 (2008), 229-243
+        N. Antonić, K. Burazin, Graph representation for asymptotic expansion in homogenisation of nonlinear first-order equations (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/181.pdf ), Annali dell'Universita' di Ferrara  53 (2007), 149-176
+    Refereed Proceedings
+        N. Antonić, K. Burazin,  On certain properties of spaces of locally Sobolev functions, Conference on Applied Mathematics and Scientific Computing, Brijuni, 2005, 109-120
+    Others
+        K. Burazin, U. Radojičić, Uvod u varijacijski račun i njegova povijest (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/706.pdf ), Osječki matematički list 16/2 (2016), 111-133
+        K. Burazin, J. Jankov, Glazba titrajuće žice (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/398.pdf ), Osječki matematički list 14/1 (2014)
+        K. Burazin, Z. Tomljanović, I. Vuksanović, Prigušivanje mehaničkih vibracija (http://e.math.hr/br24/BurazinEtAl), Math.e : hrvatski matematički elektronski časopis  24 (2014)
+        K. Burazin, Nelinearne diofantske jednadžbe (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/191.pdf ), Osječki matematički list 7 (2007)
+    Books
+        K. Burazin, J. Jankov, I. Kuzmanović Ivičić, I. Soldo, Primjene diferencijalnog i integralnog računa funkcija jedne varijable (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/697.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2017.
+
+
+Projects
+    Homogenization, dimension reduction and structural optimization in continuum mechanics
+        The project is funded by Croatian Science Foundation since 2018. Project leader: prof. Igor Velčić from University of Zagreb.
+    Real-time measurements and forecasting for successful prevention and management of seasonal allergies in Croatia-Serbia cross-border region (https://www.realforall.com/language/hr/dobrodosli-2/)
+        The project is funded within Interreg IPA CBC Croatia - Serbia 2014-2020. Partners: Institut BioSens Novi Sad (Lead Beneficiary), University of Novi Sadu - Faculty of Natural Sciences, City of Osijek, University of Osijek - Department of Mathematics. Coordinator for University of Osijek - Department of Mathematics: prof. Kristian Sabo
+    Weak convergence methods and applications (http://riemann.math.hr/WeConMApp/)
+        The project was funded by Croatian Science Foundation (July 2014 - June 2018). Project leader: prof. Nenad Antonić from University of Zagreb.
+    Calculus of variation, optimization and applications
+        This was bilateral project with Serbia (funded by Croatian Ministry of Science and Serbian Ministry of Science 2016 - 2017). Project leaders: N. Krejić (serbian side) and K. Burazin (croatian side)
+    Cost Action Mathematics for Industry Network, MI-NET, TD1409 (http://www.cost.eu/COST_Actions/tdp/TD1409)
+        The project is funded within programme TD COST Action TD1409. Member since 2015 as Management Committee substitut
+    Center of Excellence for Applications of Mathematics (http://www2.math.uni-wuppertal.de/~heilmann/SEE/index.html)
+        The project was part of DAAD (German Academic Exchange Service) Programme Academic Reconstruction of South Eastern Europe which was established in late 1999, and it is funded by the German Federal Foreign Office until 2016. Eighteen universities from Germany and south-east Europe were participating in this project. Coordinators from German side were prof. Margareta Heilmann from University of Wuppertal, prof Heiner Gonska from University of Duisburg-Essen and Dozent Dr. Daniela Kacsó from University of Bochum. Coordinator for University of Osijek: K. Burazin.
+    Evolution Friedrichs systems
+        This project run in academin year 2013/14 and was funded by J.J. Strossmayer University of Osijek. Project leader: K. Burazin
+    Participation (as researcher) in work of following projects founded by Croatian Ministry of Science:
+        Oscilatorna rješenja parcijalnih diferencijalnih jednadžbi (MZT 037 015) 
+            Project run from July 1997 until June 2002 under leadership of prof. Nenad Antonić from University of Zagreb.
+        Titrajuća rješenja parcijalnih diferencijalnih jednadžbi (MZT 037 101) 
+            Project run from July 2002 until June 2006 under leadership of prof. Nenad Antonić from University of Zagreb. 
+        Titrajuća rješenja parcijalnih diferencijalnih jednadžbi (MZOS 037-0372787-2795) 
+            Project run from 2007 until June 2013 under leadership of prof. Nenad Antonić from University of Zagreb.
+        Functional analysis methods in mathematical modelling
+            This is bilateral project with serbia (cofinanced by Serbian Ministry of Science) that run from 2011 until 2012. Project leaders: prof. Marko Vrdoljak from University of Zagreb (croatian side) and prof. Jelena Aleksić from University of Novi Sad (serbian side).
+
+
+Professional Activities
+    Professional Society Membership
+        HMD - Croatian Mathematical Society, Department Osijek
+        GAMM - Gesellschaft für Angewandte Mathematik und Mechanik
+    Refereeing/Reviewing
+        Mathematical Communications (http://www.mathos.hr/mc/)
+        Osječki matematički list (https://www.mathos.unios.hr/oml/)
+    Editorial Boards
+        Mathematical Communications (http://www.mathos.hr/mc/)
+    Invited Lectures
+        Primjena kompaktnosti kompenzacijom na zakone sačuvanja, Matematički kolokvij, Osijek, March 2003
+        On equivalence of two descriptions of boundary conditions for Friedrichs systems, The fifth international conference of applied mathematics and computing, Plovdiv, August 2008  (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/bugarska-abstract.pdf)
+        Friedrichsovi sustavi, Matematički kolokvij, Osijek, April 2009 
+        Friedrichsovi sustavi, Znanstveni kolokvij HMDa, Zagreb, February 2012 (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/zagreb_saz_fri2012.pdf)
+        Non-stationary Friedrichs systems, ERC-NUMERIWAVES Seminar, Basque Center for Applied Mathematics, Bilbao, November 2013
+        Non-stationary Friedrichs systems, Karlsruhe Institute of Technology, Karlsruhe, July, 2014
+        Explicit solutions of multiple state optimal design problems, Departman za matematiku i informatiku, Novi Sad, May 2016
+        Homogenization of Kirchhoff-Love plate equation and composite plates, International Workshop on PDEs: analysis and modelling, Zagreb, Croatia, June 17-20, 2018
+    Workshops and Conferences
+        Nonlocal effects in homogenisation: nonlinear first-order equation, Bosnian-Croatian Analysis Meeting, Bihać, May 2001   (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/nonloc-abs.pdf)
+        Graphs and asymptotic expansion in homogenisation of nonlinear equations, Applied Mathematics in Changing World, Berlin, September 2001
+        On certain properties of spaces of locally Sobolev functions, Applied Mathematics and Scientific computing, Brijuni, June 2003   (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/locsobab.pdf)
+        Graph representation for asymptotic expansion in homogenisation of nonlinear first-order equations, Applied Mathematics and Scientific Computing, Brijuni, June 2005  (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/antbur05.pdf)
+        Estimates on weak solutions of semilinear hyperbolic systems, Applied Mathematics and Scientific Computing, Brijuni, July 2007   (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/semilinabs.pdf)
+        On equivalence of two descriptions of boundary conditions for Friedrichs systems, The fifth international conference of applied mathematics and computing, Plovdiv, August 2008  (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/bugarska-abstract.pdf)
+        Krein spaces applied to Friedrichs' systems, The Second Najman Conference on Spectral Problems for Operators and Matrices, Dubrovnik, May 2009   (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/kn-dub09-abs.pdf)
+        How to pose boundary conditions for Friedrichs systems?, Applied Mathematics and Scientific Computing, Zadar, September 2009   (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/kn09.pdf)
+        Boundary conditions for Friedrichs' systems, Multiscale Problems in Science and Technology. Challenges to Mathematical Analysis and Perspectives 3, Dubrovnik, June 2010  (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/kn10.pdf)
+        Heat equation as a Friedrichs system,Topics in PDE, Microlocal and Time-frequency Analysis, Novi Sad,  September 2012  (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/frid_parab_abs.pdf)
+        Homogenisation theory for Friedrichs systems, 8th Conference on Applied Mathematics and Scientific Computing (Dedicated to the memory of Professor Mladen Rogina), Šibenik, June 2013  (file:///C:/Users/Kreso/Documents/Web%20stranice/abstracts-talks/fried_hom.pdf) 
+        Non-stationary Friedrichs systems,  PDEs, Continuum Mechanics and Numerical Analysis - A Conference in Honor of the 80th Anniversary of professor Ibrahim Aganovic, Dubrovnik, May 2014
+        Non-stationary Friedrichs systems, Chemnitz-Zagreb Workshop on Harmonic Analysis for PDE, Applications, and related topics, Chemnitz, July 2014
+        Explicit solutions in optimal design problems for stationary diffusion equation, Partial differential equations, optimal design and numerics, Benasque, August-September 2015
+        Exact solutions in optimal design problems for stationary diffusion equation, The Fourth Najman Conference on Spectral Problems for Operators and Matrices, Opatija, September 2015
+        Exact solutions in multiple state optimal design problems, Calculus of variations and its applications (on the occasion of Luisa Mascarenhas' 65th birthday), Lisbon, December 2015
+        Exact solutions of multiple state optimal design problems, 6th  Croatian Mathematical Congress, Zagreb, June 2016
+        Exact solutions of multiple state optimal design problems,  International Workshop on PDEs: analysis and  modelling (Celebrating 80th anniversary of professor Nedžad Limić), Zagreb, June 2016
+        Exact solutions of multiple state optimal design problems,  Mini-workshop on PDEs: analysis and modelling, Zagreb, January 2017
+        Homogenization of Kirchhoff-Love plate equation and composite plates, 89th Annual Meeting of the International Association of Applied Mathematics and Mechanics, Munich, March 19 - 23, 2018
+        On composite elastic plate and Hashin-Shtrikman bounds, VIII Partial differential equations, optimal design and numerics, Benasque, August 18 - 30, 2019
+        Phase transitions in crystalline solids, MPI–MIS Leipzig, April 2000
+        Second Croatian Mathematical Congress, Zagreb, June 2000
+        Multiscale problems in science and technology. Challenges to mathematical analysis and perspectives, Dubrovnik, September 2000
+        Selected issues in the mechanics of crystalline solids, Padova, October 2000
+        Multiscale problems in science and technology. Challenges to mathematical analysis and perspectives 2, Dubrovnik, October 2007
+        Forth Croatian Mathematical Congress, Osijek, June 2008
+        International Conference on Generalised  Functions – GF2016, Dubrovnik, September 2016
+        Applications of Generalized Functions in Harmonic Analysis, Mechanics, Stochastics and PDE, Novi Sad, Serbia, October 25 - 27, 2017
+        International Workshop on Optimal Control of Dynamical Systems and Applications, Osijek, Croatia, June 20-22, 2018
+        Ninth Conference on Applied Mathematics and Scientific Computing, Šibenik, Croatia, September 17-20, 2018
+    Study Visits Abroad and Professional Improvements
+        Scuola Matematica Interuniversitaria, Perugia, Italy, July-August 1999
+        Max Planck Institut für Mathematik in den Naturwissenschaften, Leipzig, Germany, April 2000
+        Carnegie Mellon University, Pittsburgh, USA, June 2001
+        University of Novi Sad, Novi Sad, Serbia, September 2010, August-September 2011
+        Bulgarian Academy of Science , Sofia, Bulgaria, October 2011, June 2012
+        Basque Center for Applied Mathematics, Bilbao, November 2013
+        Babes-Bolyai University, Cluj-Napoca, September 2014
+        Johann Radon Institute for Computational and Applied Mathematics, Linz, October 2014
+    Service Activities
+        Chairman of the Working seminar (https://www.mathos.unios.hr/index.php/znanost/kolokviji-i-seminari/radni-seminar) 2014 -
+        Chairman of Seminar for Optimization and Applications (https://www.mathos.unios.hr/index.php/znanost/kolokviji-i-seminari/seminar-za-optimizaciju-i-primjene) 2017 -
+        Vice chair for education and students at Department of Mathematics, J. J. Strossmayer University of Osijek, October 2013 - September 2017
+        Secretary of the Mathematical Colloquium (http://www.mathos.hr/kolokvij/),  2003 - 2013
+        Member of the organising  committee  of International Workshop on PDEs: analysis and  modelling (Celebrating 80th anniversary of professor Nedžad Limić), Zagreb, June 19-22 2016
+        Member of the organising  committee of International Conference on Generalised  Functions – GF2016, Dubrovnik, September 4-9 2016
+        Member of the organising committee of Mini-workshop on PDEs: analysis and modelling, Zagreb, January 4-6 2017
+
+
+Teaching
+    Current
+        Funkcije više varijabli (Multidimensional Calculus) (https://www.mathos.unios.hr/index.php/189)
+        Obične diferencijalne jednadžbe (Ordinary differential equations) (https://www.mathos.unios.hr/index.php/207)
+        Metrički prostori (Metric spaces) (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/230-metricki-prostori)
+        Primijenjena matematika za računalnu znanost (Applied mathematics for computer science) (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/586)
+        Kompleksna analiza (Complex analysis) (https://www.mathos.unios.hr/index.php/190)
+        Primjene diferencijalnog i integralnog računa I (Applications of Calculus I) (https://www.mathos.unios.hr/index.php/194)
+        Metrički prostori (Metric spaces) (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/230-metricki-prostori)
+    Past
+        Metric Spaces
+        Ordinary Differential Equations
+        Multivariable Calculus
+        Complex Analysis
+        Calculus 3
+        Calculus 4
+        Vector Spaces
+        Algebra
+        Elementary Mathematics 2
+        Differential Equations (Department of Physics)
+        Mathematics 3
+        Mathematics 4 (Faculty of Civil Engineering)
+        University of Zagreb, Faculty of Electrical Engineering and Computing: 
+            Calculus 1
+            Calculus 2
+            Calculus 3
+            Calculus 4
+            Linear Algebra
+        University of Bihać: 
+            Differential Geometry
+        College Lavoslav Ružička, Vukovar: 
+            Statistics
+        Postgraduate programmes: 
+            Hyperbolic and Friedrichs systems
+            Real and Functional Analysis
+            Optimal Control of Linear Dynamical Systems
+            Homogenization and Applications in Optimal Design
+    Office Hours: 
+        Srijeda (Wed) 11:00. Konzultacije su moguće i po dogovoru.
+    Teme diplomskih i završnih radova
+        Sustavi običnih diferencijalnih jednadžbi
+        Fourierovi redovi
+        Varijacijski račun
+        Banachovi i Hilbertovi prostori
+        Lp prostori (samo diplomski)
+        Soboljevljevi prostori (samo diplomski)
+        Jednadžba provođenja topline
+        Jednadžba stacionarnog provođenja topline
+        Valna jednadžba
+        Linearizirana elastičnost (samo diplomski)
+        Distribucije (samo diplomski)
+
+
+Personal
+    Married, two children
+    Member od Croatian Mountain Rescue Service
+    Sport interests: martial arts (Karate, Jiu-jitsu, Brasilian Jiu-Jitsu), climbing, mountaineering, running, cycling, swimming.

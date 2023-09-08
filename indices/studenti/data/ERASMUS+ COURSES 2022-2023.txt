@@ -1,0 +1,82 @@
+ERASMUS+ COURSES 2022./2023.
+Here you can find the list of available courses offered in foreign language for Erasmus+ individual incoming students at the Department of Mathematics.  We encourage you to consider it and for all details just contact the corresponding lecturer. Personal data you can find on this website.
+    Undergraduate (Bachelor) level
+        3D Computer Graphics
+        Algebra
+        Application of Differential and Integral Calculus I
+        Applications of Calculus II
+        Applied Math for Computer Science
+        Complex Analysis
+        Computational Linguistics
+        Data Structures and Algorithms I
+        Data Structures and Algorithms II
+        Full Stack Web Development
+        Introductions to Control Theory with Applications
+        Introduction to Differential Geometry
+        Introduction to Probability and Statistics
+        Machine Learning
+        Mathematical Logic in Computer Science
+        Mathematical Tools
+        Methods of Mathematical Physics
+        Modern Computer Systems
+        Modern Database Systems
+        Multivariable Calculus
+        Number Theory
+        Numerical Mathematics
+        Object-Oriented Programming
+        Ordinary Diferential Equation
+        Real Analysis
+        Set Theory
+        Software Engineering
+        Statistical Practice
+        Theoretical Foundation of Computer Science
+        Vector Spaces
+    Graduate (Master) level
+        Algebra
+        Advanced programming techniques
+        Applied Linear Algebra and Scientific Computing
+        Analysis of Company Business
+        Complex Networks
+        Computational Linguistics
+        Computational Thinking and Programming I
+        Computational Thinking and Programming II
+        Constructive and Analytical Geometry
+        Convex Functions
+        Credit Risk Management
+        Cryptography
+        Digital Literacy
+        Dynamic Systems
+        Decision Theory
+        Financial and Actuarial Mathematics
+        Financial Markets
+        Functional Programming
+        Graphs and Applications
+        Heuristic algorithms
+        History of Mathematics
+        Intelligent Robotic Systems
+        Introduction to Probability and Statistics
+        Linear Optimization
+        Macroeconmics I
+        Macroeconmics II
+        Mathematical Aspects of Electoral Systems
+        Mathematical Finance
+        Measure and Integral
+        Modern Database Systems
+        Multivariate Analysis
+        Natural Language Processing with Deep Learning
+        Nonlinear Optimization
+        Normed Spaces
+        Object-Oriented Programming
+        Operating Systems
+        Optimization Methods and Applications
+        Probability
+        Real Analysis
+        Selected Applications of Probability
+        Selected Topics on School Mathematics
+        Semantics of Programming Languages
+        Statistical Practice
+        Statistics
+        Stochastic Processes I
+        Stochastic Processes II
+        Time Series Analysis
+        Vector Spaces

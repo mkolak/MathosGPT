@@ -1,0 +1,33 @@
+OSNOVNE INFORMACIJE
+	Moderni računalni sustavi se izvode u zimskom semestru druge godine sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je studente upoznati s temeljnim logičkim sklopovima te koristeći iste izgraditi funkcionalno računalo. Studeni će se upoznati s konceptima dizajniranja i testiranja sklopova pomoću Hardware description language-a (HDL), dizajniranja asemblerskih jezika, apstrakcije hardvera pomoću virtualnog stroja kao i kompajliranja jednostavnog objektno orijentiranog programskog jezika.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i045.pdf).
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)	KONZULTACIJE: prema dogovoru putem e-maila	
+	ASISTENT
+		Luka Borozan (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/409)	KONZULTACIJE: prema dogovoru putem e-maila	
+	VANJSKI SURADNIK	
+		Ivan Kvolik, Rimac Automobili	KONZULTACIJE: prema dogovoru putem e-maila	
+	OSNOVNA LITERATURA
+		N. Nisan, S. Shocken, The elements of computing systems: building a modern computer from first principles, MIT press, 2008.
+		Nastavne materijale i popratni software moguće je preuzeti s linka (https://www.nand2tetris.org/).
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno. Predavanja se u zimskom semestru 2020./21. akademske godine izvode po modelu 1, a vježbe po modelu 2. 
+	PREDAVANJA	TERMIN: Utorak, 14:00-16:00	PREDAVAONICA: RP2	
+	VJEŽBE	TERMIN: Utorak, 16:00-18:00	PREDAVAONICA: RP2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih na domaćim zadaćama i završnog projekta. Domaće zadaće nose ukupno 100 bodova i zamjenjuju pismeni dio ispita. 
+	Ocjene iz domaćih zadaća se dodjeljuju u sljedećem rasponu.
+		[0-50) nedovoljan
+		[50, 65) dovoljan
+		[65, 80) dobar
+		[80, 90) vrlo dobar
+		[90, 100] izvrstan
+	Ocjenu iz domaćih zadaća potrebno je potvrditi pisanjem završnog projekta pomoću kojega je istu moguće i povisiti.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij putem domaćih zadaća.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

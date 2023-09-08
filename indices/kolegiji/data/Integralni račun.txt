@@ -1,0 +1,91 @@
+OSNOVNE INFORMACIJE
+	Kolegij Integralni račun izvodi se u ljetnom semestru prve godine sveučilišnog preddiplomskog studija matematike i sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je na uvodnom nivou upoznati studente s osnovnim idejama i metodama matematičke analize koji su osnova za mnoge druge kolegije. Kroz predavanja obrađivat će se osnovni pojmovi te ilustrirati njihova korisnost i primjena. Na vježbama (https://www.mathos.unios.hr/images/homepages/ssusic/IR_kol2_grupaB.pdf) studenti trebaju savladati odgovarajuću tehniku i osposobit (https://www.mathos.unios.hr/images/homepages/ssusic/IR_kol1_grupaA.pdf)i se za rješavanje konkretnih proble (https://www.mathos.unios.hr/images/homepages/ssusic/IR_kol1_grupaB.pdf)ma.  
+	Sadržaj kolegija možete pogledati na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/isoldo/Integralni_racun/m085.pdf)).
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Ivan Soldo (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/136)	
+		KONZULTACIJE: nakon održane nastave	
+	ASISTENT 
+		Maja Andrijević (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/876)	
+		KONZULTACIJE: po dogovoru	
+	DEMONSTRATOR	
+		Ivan Vuković	
+		KONZULTACIJE: po dogovoru	
+	OSNOVNA LITERATURA
+		J. Stewart, Calculus 7th Edition, McMaster University and University of Toronto, Brooks/Cole, Cengage Learning, Belmont, 2008.
+		D. Jukić, R. Scitovski, Matematika I, Odjel za matematiku, Osijek, 2000. pdf  (http://www.mathos.unios.hr/index.php/odjel/nasa-izdanja?getBook=707)
+	DODATNA LITERATURA
+		B. P. Demidovič, Zadaci i riješeni primjeri iz više matematike s primjenom na tehničke nauke, Tehnička knjiga, Zagreb, 1986.
+		S. Kurepa, Matematička analiza 1 (diferenciranje i integriranje), Tehnička knjiga, Zagreb, 1989.
+		S. Kurepa, Matematička analiza 2 (funkcije jedne varijable), Tehnička knjiga, Zagreb, 1990.
+		W.Rudin, Principles of Mathematical Analysis, Mc Gr aw-Hill, Book Company, 1964.
+		B. Guljaš, Matematička analiza 1 i 2, PMF-MO, Zagreb.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Integralni račun realizira se s fondom od 75 sati (tjedno 2 sata predavanja i 3 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	 
+		utorkom od 8:00 do 10:00; Predavaonica: Dvorana 1
+	VJEŽBE
+		utorkom od 13:00h (studij matematike i računarstva); Predavaonica: Dvorana 1
+		srijedom od 14:00h (studij matematike); Predavaonica: Dvorana 1
+
+
+PRAVILA POLAGANJA ISPITA
+	KOLOKVIJI
+		Tijekom semestra studenti mogu polagati 2 kolokvija. Na svakom kolokviju moguće je ostvariti 100 bodova. Za prolazak pismenog ispita putem kolokvija potrebno je na svakom kolokviju ostvariti barem 20 bodova i ukupno barem 80 bodova. Nakon drugog kolokvija po potrebi će biti organiziran popravni kolokvij. Dozvoljen je ispravak samo jednoga kolokvija. Popravnom kolokviju smiju pristupiti: 
+			studenti koji unutar redovnih termina kolokvija na samo jednom od njih nisu ostvarili barem 20 bodova; 
+			studenti koji su  unutar redovnih termina kolokvija na oba kolokvija ostvarili barem 20, a u sumi manje od 80 bodova; u tom slučaju ispravlja se kolokvij s manjim brojem bodova. 
+		Popravnom kolokviju ne smije se  pristupiti u svrhu poboljšanja pozitivne ocjene dobivene nakon redovnih kolokvija. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita. 
+		Ocjene kolokvija prema ostvarenim bodovima:
+			80-130 bodova: dovoljan (2); 
+			131-160 bodova: dobar (3); 
+			161-180 bodova: vrlo dobar (4); 
+			181 i više bodova: izvrstan (5).  
+	DOMAĆE ZADAĆE 
+		Tijekom semestra studentima će biti ponuđeno rješavanje domaćih zadaća na kojima se može ostvariti najviše 15% dodatnih bodova koji mogu utjecati na konačnu ocjenu.
+	PISMENI ISPIT
+		Pismeni dio ispita obavezan je za studente koji nisu uspješno položili kolokvije i nosi ukupno 100 bodova. Bodovni prag za polaganje pismenog dijela ispita je 50 bodova. Ocjena pismenog ispita formira se prema sljedećem kriteriju: 50-65: dovoljan(2); 66-80: dobar(3); 81-90: vrlo dobar(4); 91-100: izvrstan (5).
+	Usmeni ispit obavezan je za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, kolokvija i domaćih zadaća formira konačna ocjena.
+		Podsjetnik pitanja za usmeni ispit (pdf (https://www.mathos.unios.hr/images/homepages/isoldo/Integralni_racun/Ispitna_pitanja.pdf))
+
+
+PRIMJERI KOLOKVIJA I ISPITA
+	PRIMJERI KOLOKVIJA 
+		Kolokviji iz ak.god. 2021./2022.
+			1.kolokvij (https://www.mathos.unios.hr/images/homepages/ssusic/IR_kol1_2022.pdf)
+			2.kolokvij (https://www.mathos.unios.hr/images/homepages/ssusic/KOL2_ir_2022.pdf)
+		Kolokviji iz ak. god. 2020./2021.
+			1. kolokvij (https://www.mathos.unios.hr/images/homepages/ssusic/kol1_IR_2021.pdf)
+			2. kolokvij (https://www.mathos.unios.hr/images/homepages/ssusic/kol2_IR_2021.pdf)
+		ONLINE 2. kolokvij iz ak. god. 2019./2020.
+			PDS Matematika:
+				KOLOKVIJ 2 A-K,  PDF_GrupaA (https://www.mathos.unios.hr/images/homepages/ssusic/Kol2_A.pdf)
+				KOLOKVIJ 2 L-Ž,  PDF_GrupaB (https://www.mathos.unios.hr/images/homepages/ssusic/Kol2_B.pdf)
+			PDS Matematika i računarstvo: 
+				KOLOKVIJ 2 A-K,  PDF_GrupaC (https://www.mathos.unios.hr/images/homepages/ssusic/Kol2_C.pdf)
+				KOLOKVIJ 2 L-Ž, PDF_GrupaD (https://www.mathos.unios.hr/images/homepages/ssusic/Kol2_D.pdf)
+			Studenti odjela za fiziku: 
+				KOLOKVIJ 2 PDF-GrupaE (https://www.mathos.unios.hr/images/homepages/ssusic/Kol2_Fizika.pdf)
+		ONLINE 1. kolokvij iz ak. god. 2019./2020.
+			PDS Matematika:
+				KOLOKVIJ 1 A-K,  PDF_GrupaA (https://www.mathos.unios.hr/images/homepages/ssusic/KOL1_grupaA.pdf)
+				KOLOKVIJ 1 L-Ž,   PDF_GrupaB (https://www.mathos.unios.hr/images/homepages/ssusic/KOL1_grupaB.pdf)
+			PDS Matematika i računarstvo: 
+				KOLOKVIJ 1 A-K,  PDF_GrupaC (https://www.mathos.unios.hr/images/homepages/ssusic/KOL1_grupaC.pdf)
+				KOLOKVIJ 1 L-Ž,  PDF_GrupaD (https://www.mathos.unios.hr/images/homepages/ssusic/KOL1_grupaD.pdf)
+			Studenti odjela za fiziku: 
+				KOLOKVIJ 1.  PDF (https://www.mathos.unios.hr/images/homepages/ssusic/KOL1_grupaA.pdf)
+	PRIMJERI NEKIH PISMENIH ISPITA
+		24.lipnja 2021. (https://www.mathos.unios.hr/images/homepages/ssusic/IR_pismeni_2462021.pdf)
+		22. rujna 2020. (https://www.mathos.unios.hr/images/homepages/ssusic/IR_2292020.pdf)
+		1.srpnja 2019. (https://www.mathos.unios.hr/images/homepages/ssusic/IR_pismeni_172019.pdf)
+		5. veljače 2019. (https://www.mathos.unios.hr/images/homepages/ssusic/IR_pismeni_522019.pdf)
+		19. rujna 2018. (https://www.mathos.unios.hr/images/homepages/ssusic/IR_pismeni_1992018.pdf)
+		23. veljače 2017. (https://www.mathos.unios.hr/images/homepages/mmiloloz/Integralni_racun/IR_2rok.pdf)
+		4. srpnja 2016. (https://www.mathos.unios.hr/images/homepages/mmiloloz/Integralni_racun/IR_pismeni_04072016.pdf)
+		20.lipnja 2016. (https://www.mathos.unios.hr/images/homepages/mmiloloz/Integralni_racun/IR_pismeni_2015_2016.pdf)
+		13. lipnja 2014. (https://www.mathos.unios.hr/images/homepages/isoldo/Integralni_racun/Int_2014_13_06_A.pdf)
+		27. lipnja 2014. (https://www.mathos.unios.hr/images/homepages/isoldo/Integralni_racun/Int_2014_27_06.pdf)
+		17. lipnja 2015. (https://www.mathos.unios.hr/images/homepages/isoldo/Integralni_racun/int_17_6_2015.pdf)
+		1. srpnja 2015. (https://www.mathos.unios.hr/images/homepages/isoldo/Integralni_racun/int_1_7_2015.pdf)
+		11.veljače 2016. (https://www.mathos.unios.hr/images/homepages/isoldo/Integralni_racun/int_11_2_2016.pdf)

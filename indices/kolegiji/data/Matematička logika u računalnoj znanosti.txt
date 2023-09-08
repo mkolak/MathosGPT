@@ -1,0 +1,30 @@
+OSNOVNE INFORMACIJE
+	Matematička logika u računalnoj znanosti izvodi se u ljetnom semestru prve godine sveučilišnog preddiplomskog studija Matematika i računarstvo. Cilj kolegija je studente upoznati s osnovnim pojmovima matematičke logike i stjecanje znanja potrebnog za automatizirano dokazivanje teorema i verifikaciju programa te ovladati tehnikama potrebnim za korištenje proof asistanta COQ.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m088.pdf).
+	NOSITELJ	
+		izv.prof.dr.sc. Zoran Tomljanović	
+	PREDAVAČ	
+		dr.sc. Luka Borozan	
+		KONZULTACIJE: Po dogovoru putem e-maila ili nakon održanih vježbi	
+	ASISTENT	
+		NASTAVNIK: Tomislav Prusina	
+		KONZULTACIJE: Po dogovoru putem e-maila ili nakon održanih vježbi	
+	OSNOVNA LITERATURA
+		Skripta (http://www.ps.uni-saarland.de/courses/cl-ss14/script/icl.pdf) i popratni kodovi (https://www.ps.uni-saarland.de/courses/cl-ss16/LectureNotes/html/toc.html).
+		Introduction to computational logic (https://courses.ps.uni-saarland.de/icl_17/2/Resources).
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Matematička logika u računalnoj znanosti realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: Utorak, 10:00-12:00	PREDAVAONICA: D2	
+	VJEŽBE	TERMIN: Četvrtak, 12:00-16:00	PREDAVAONICA: RP2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti pišu dva kolokvija koji zamjenjuju pismeni dio ispita. Ocjena se računa prema sljedećem kriteriju.
+		Dovoljan (2): [50, 65)
+		Dobar (3): [65, 80]
+		Vrlo dobar (4): (80, 90)
+		Izvrstan (5): [90,100]
+	Nakon položenog pismenog ispita, studenti pristupaju polaganju usmenog dijela ispita na kojem se formira konačna ocjena.
+	Molimo sve studente da redovito provjeravaju obavijesti koje će biti objavljivane putem MS Teams kanala (7kwjc6i).

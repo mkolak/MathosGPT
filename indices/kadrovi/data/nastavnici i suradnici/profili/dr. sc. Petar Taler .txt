@@ -1,0 +1,44 @@
+General Information
+    Lecturer
+    Head of IT department
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-808
+    fax: +385-31-224-801
+    email: petar@mathos.hr
+    office: 31 (first floor)
+    Google Scholar (https://scholar.google.hr/citations?hl=en&user=xvA1ihwAAAAJ)
+    Research Interests
+        Parallel Computing on GPUs
+        Clustering of large Data Sets
+        Distributed Computing
+    Degrees
+        PhD (dr.sc.) in Electrical Engineering (Computer Science and Telecommunications), Faculty of Electrical Engineering, University of Osijek, Croatia, 2019.(thesis: Statistical area estimation of an object captured with additive error (https://www.mathos.unios.hr/images/homepages/petar/disertacija-final.pdf), in Croatian)
+        MSc (mr.sc.) in Electrical Engineering (Computer Science and Telecommunications), Faculty of Electrical Engineering, University of Osijek, Croatia, 2010.
+        BSc (dipl.ing.) in Electrical Engineering (Electronics), Faculty of Electrical Engineering, University of Osijek, Croatia, 2002.
+
+
+Publications
+    Journal Publications
+        S. Hamedović, M. Benšić, K. Sabo, P. Taler, Estimating the size of an object captured with error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/712.pdf ), Central European Journal of Operations Research  26/3 (2018), 771-781
+        M. Benšić, P. Taler, S. Hamedović, E.K. Nyarko, K. Sabo, LeArEst: Length and Area Estimation from Data Measured with Additive Error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/700.pdf ), The R Journal 9/2 (2017), 461-473
+        P. Taler, K. Sabo, Color image segmentation based on intensity and hue clustering - a comparison of LS and LAD approaches (http://hrcak.srce.hr/ojs/index.php/crorr/article/view/2829/1739), Croatian Operational Research Review  5/2 (2014), 378-385
+        T. Marošević, K. Sabo, P. Taler, A mathematical model for uniform distribution voters per constituencies (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=143330), Croatian Operational Research Review  4 (2013), 63-64
+        K. Sabo, R. Scitovski, P. Taler, Ravnomjerna raspodjela broja birača po izbornim jedinicama na bazi matematičkog modela, Hrvatska i komparativna javna uprava  14 (2012), 229-249
+    Refereed Proceedings
+        M. Benšić, P. Taler, E.K. Nyarko,  Statistical estimation of the object’s area from the image contaminated with additive noise (https://ieeexplore.ieee.org/document/9140918), 15th Iberian Conference on Information Systems and Technologies (CISTI), Seville, Spain, 2020, 1-6
+        P. Taler, S. Hamedović, M. Benšić, E.K. Nyarko,  LeArEst - The Software for Border and Area Estimation of Data Measured with Additive Error, 59th International Symposium ELMAR-2017, Zadar, 2017, 259-263
+        D. Matijević, G. Martinović, P. Taler,  DISTRIBUTER - The Distributed System for Efficient Execution of Parallel Programs (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/7.pdf ), 33rd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), Opatija, 2010
+    Others
+        P. Taler, Computer error in calculating function value (http://hrcak.srce.hr/file/14680), Osječki matematički list 6 (2007), 107-114
+    Softwares
+        M. Benšić, K. Sabo, P. Taler, S. Hamedović, LeArEst softverski paket za R (https://cran.r-project.org/web/packages/LeArEst/) (2017)
+
+
+Teaching
+    Past
+        Uvod u računalnu znanost (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/185-uvod-u-racunarstvo)
+        Web programiranje i primjene (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/222-web-programiranje-i-primjene)
+        Uvod u programiranje (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/186-uvod-u-programiranje)
+    Office Hours: 
+        Po dogovoru.

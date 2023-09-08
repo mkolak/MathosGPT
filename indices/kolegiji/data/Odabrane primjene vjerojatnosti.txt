@@ -1,0 +1,36 @@
+OSNOVNE INFORMACIJE
+	Kolegij Odabrane primjene vjerojatnosti izvodi se u ljetnom semestru prve ili druge godine sveučilišnog diplomskog studija matematike, smjer Financijska matematika i statistika. Cilj kolegija je upoznati studente s različitim primjenama vjerojatnosti i stohastičkim modelima te ilustrirati praktične primjene teorijskih koncepata iz teorije vjerojatnosti i slučajnih procesa. Poseban naglasak bit će na primjenama u drugim znanostima, primjerice biologiji, ekonomiji, financijama, aktuarstvu i drugim. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m125.pdf).
+	VODITELJ KOLEGIJA	
+		izv. prof. dr. sc. Danijel Grahovac (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/125)	
+		KONZULTACIJE: vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/125#teaching)	
+		izv. prof. dr. sc. Nenad Šuvak (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/118)	
+		KONZULTACIJE: vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/118#teaching)	
+	OSNOVNA LITERATURA
+		P. Embrechts, C. Klüppelberg, T. Mikosch, Modelling extremal events: for insurance and finance, Springer-Verlag, Berlin, 1997.
+	DODATNA LITERATURA
+		J. Albert, J. Bennett, J. J. Cochran (editors), Anthology of statistics in sports. Society for Industrial and Applied Mathematics, 2005.
+		H. Albrecher, S. Asmussen, Ruin probabilities, World Scientific, Singapore, 2010.
+		T. R. Bielecki, M. Rutkowski, Credit risk: modeling, valuation and hedging. Springer Science & Business Media, 2013.
+		W. M. Bolstad, J. M. Curran, Introduction to Bayesian statistics. John Wiley & Sons, 2016.
+		D. Brigo, M. Morini, A. Pallavicini, Counterparty credit risk, collateral and funding: with pricing cases for all asset classes, John Wiley & Sons, 2013.
+		R. Durrett, Probability models for DNA sequence evolution, Springer Science & Business Media, 2008.
+		J. E. Gentle, Random number generation and Monte Carlo methods, Springer Science & Business Media, 2006.
+		H. U. Gerber, E. S. W. Shiu, Optimal dividends: analysis with Brownian motion, North American Actuarial Journal 8(2004), 1-20
+		T. Hastie, R. Tibshirani, J. Friedman, The Elements of Statistical Learning: Data Mining, Inference and Prediction, Springer, 2017.
+		G. James, D. Witten, T. Hastie, R. Tibshirani, An Introduction to Statistical Learning with Applications in R, Springer, 2021.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Odbrane primje vjerojatnosti realizira se s fondom od 45 sati (tjedno 2 sata predavanja i 1 sat seminara). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA I SEMINARI	TERMIN: petak, 11-14h	PREDAVAONICA: D7	
+
+
+PRAVILA POLAGANJA ISPITA
+	Vrednovanje znanja i polaganje kolegija uključuje sljedeće komponente:
+		samostalni rad na izabranoj temi seminara
+		uključuje redovito prisustvovanje nastavi uz kontinuirano praćenje napretka, konzultacije s nastavnicima, pisani izvještaj s popratnim R kodom, prezentaciju i u konačnici izlaganje kompletnih rezultata pred drugim studentima
+		završni pismeni ispit, koji se vrednuje na sljedeći način:
+			50%-64%: dovoljan(2); 65%-79%: dobar(3); 80%-90%: vrlo dobar(4); 91%-100%: izvrstan (5)
+			studenti koji ne ostvare barem 50% na završnom pismenom ispitu polažu ga u terminima ispitnim rokova
+		konačna ocjena izvodi se iz ocjene završnog pismenog ispita i seminara.

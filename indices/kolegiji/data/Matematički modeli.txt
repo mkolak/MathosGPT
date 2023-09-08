@@ -1,0 +1,31 @@
+OSNOVNE INFORMACIJE
+	Kolegij Matematički modeli izvodi se u zimskom  semestru prve godine sveučilišnih diplomskih studija financijska matematika i statistika i matematika i računarstvo, kao i u zimskom  semestru pete godine integriranog sveučilišnog nastavničkog studija matematike i informatike . Cilj kolegija je kroz predavanja i seminarske radove studente s nekim klasičnim matematičkim modelima opisanim običnim diferencijalnim jednadžbama koji se koriste u raznim područjima ljudske djelatnosti (fizika, tehnika, ekonomija, medicina, biologija, poljoprivreda).
+	Sadržaj kolegija: 
+		Modeli opisani diferencijalnom jednadžbom 1. reda:  Eksponencijalni model rasta. Logistički model rasta. Gompertzov model rasta. Primjene (rast populacije, absorpcija lijekova, zagrijavanje tekućine, let rakete, Toricellijev zakon, model reklamiranja novog proizvoda, neoklasični ekonomski model rasta, model izlova ribe, modeliranje širenja tehnoloških inovacija, modeliranje rasta tumora).
+		Modeli opisani linearnom diferencijalnom jednadžbom 2. reda: Mehaničke oscilacije. Električne mreže. Model detekcije dijabetesa. Model nacionalne ekonomije.
+		Modeli opisani nelinearnom diferencijalnom jednadžbom 2. reda: Planetarna gibanja. Neki modeli kemijske kinetike.
+		Modeli opisani sustavom diferencijalnih jednadžbi: Modeliranje širenja epidemije. Model dva  oscilatora. Matematička teorija rata (Richardsonov i Lanchesterov model).
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Dragan Jukić (http://www.mathos.hr/~jukicd)
+		KONZULTACIJE: Četvrtkom od 12-13h	
+	OSNOVNA LITERATURA
+		M. Braun, Differential Equations and Their Applications, Springer, New York, 1993.
+		D. Mooney, R. Swift, A Course in Mathematical Modelling, Mathematical Association of America, 1999.
+		D. Burghes, M. Borrie, Modelling With Differential Equations, Ellis Horwood Ltd, Chichester, 1982.
+		M.S. Klamkin (Editor), Mathematical Modelling: Classroom Notes in Applied Mathematics, SIAM, Philadelphia, 1987.
+		I. Ivanšić, Fourierovi redovi. Diferencijalne jednadžbe, Odjel za matematiku, Osijek, 2000.
+		M. Alić, Obične diferencijalne jednadžbe, PMF-Matematièki Odjel, Zagreb, 1994.
+
+
+RASPORED PREDAVANJA I SEMINARA
+	Izvedbeni program kolegija Matematički modeli realizira se s fondom od 30 sati (tjedno 1 sat predavanja i 1 sat seminara). Pohađanje predavanja i seminara je obaveno.
+	PREDAVANJA  i SEMINARI	TERMIN: Četvrtak, 14-16h	PREDAVAONICA: D2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Na predavanjima će se na primjerima nekih matematičkih modela studente uvesti u znanstvenoistraživački i stručni rad. Tijekom nastave  svaki student dobiva  seminarski rad. Najprije treba na osnovnoj literaturi proučiti temu, zatim pretražiti dodatnu literaturu (knjige, članci iz časopisa i  s interneta). Seminarski rad treba biti napisan u LaTeX -u, treba imati sažetak na hrvatskom i engleskom jeziku, ključne riječi na hrvatskom i engleskom jeziku, te AMS Mathematical Classification. Tekst treba biti razdijeljen na poglavlja i podpoglavlja, a formule koje se citiraju uobičajeno označene. Literatura koja se navodi na kraju rada također treba biti  citirana barem jednom u tekstu.  Uspješno izrađen seminarski rad zamjenjuje pismeni dio ispita, a prilikom izlaganja seminarskog rada pred svim studentima obavlja se usmeni dio ispita.
+
+
+NASTAVNI MATERIJALI S PREDAVANJA
+	Dinamika populacije (jednadžba konzervacije, Malthusov model, Verhusltov model)	Naslov predavanja: PDF (https://www.mathos.unios.hr/modeli/dinamika.pdf)	
+	Lotka-Volterrin model predacije	Naslov predavanja: PDF (https://www.mathos.unios.hr/modeli/Lotka.pdf)

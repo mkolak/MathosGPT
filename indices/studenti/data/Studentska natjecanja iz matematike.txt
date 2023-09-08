@@ -1,0 +1,13 @@
+Studentska natjecanja iz matematike
+    Tim od nekoliko nastavnika i suradnika Odjela za matematiku redovito organizira i izvodi pripreme studenata za sudjelovanje na raznim međunarodnim natjecanjima iz matematike. Studente se uglavnom priprema za sljedeća natjecanja:
+        International Mathematics Competition http://www.imc-math.org.uk/
+        Vojtech Jarnik International Mathematical Competition. http://vjimc.osu.cz/
+    Sudjelovanjem na pripremama zainteresirani studenti imaju priliku upoznati se sa raznim tehnikama, idejama i trikovima za rješavanje raznih matematičkih problema, a glavni cilj priprema je osposobljavanje studenata za uspješno analiziranje i rješavanje složenih zadataka natjecateljskog tipa. Studenti će tako steći nova znanja i iskustva: naučiti će primjenjivati i povezivati osnovna znanja iz matematičke analize, linearne algebre, kombinatorne i diskretne matematike, teorije brojeva, geometrije i algebre, ali će i razvijati natjecateljski duh te širiti opću matematičku kulturu.
+    VODITELJI:
+        doc.dr.sc.Snježana Majstorović (koordinatorica)
+        Darija Brajković
+        Ivana Crnjac
+        Jelena Jankov
+        doc.dr.sc. Mirela Jukić-Bokun
+        doc.dr.sc. Darija Marković
+        dr.sc. Ljiljana Primorac Gajčić

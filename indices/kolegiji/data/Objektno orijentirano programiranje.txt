@@ -1,0 +1,35 @@
+OSNOVNE INFORMACIJE
+	Objektno orijentirano programiranje izvodi se u ljetnom semestru prve godine sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je studente upoznati s temeljima objektno orijentiranog programiranja koristeći programski jezik C++ te steći predznanje koje će im koristit kako u timskom tako i u samostalnom rješavanju programskih zadataka.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i048.pdf).
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)
+		KONZULTACIJE: Ponedjeljkom od 11-13h	
+	ASISTENT
+		dr.sc. Mateja Đumić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/123)
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/123#konzultacije)	
+	OSNOVNA LITERATURA
+		Recenzirani nastavni materijali na web stranici predmeta.
+		B. Strostrup: The C++ Programming Language (4th Ed.). Pearson Education, 2013.
+	DOPUNSKA LITERATURA
+		E. Balagurusamy: Object Oriented Programming with C++ (6th Ed.), McGraw Hill Education, 2013.
+		R. Lafore: Object-Oriented Programming in C++ (4th Ed.), Sams Publishing, 2002.
+		J. Šribar, B. Motik: Demistificirani C++, Element, 2010. (3. prošireno izdanje).
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Nastava se održava prema redovitom rasporedu.. 
+	Teams kanal: Kod za pristup timu (2022./23.): 32nm6f9
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra održati će se dva kolokvija. Konačna ocjena formirat će se prema sljedećem principu:
+		Kolokvij 1.: 45 % ocjene
+		Kolokvij 2. : 45 % ocjene
+		Domaće zadaće : 10 % ocjene
+	Studenti koji su skupili najmanje 50% bodova, položili su ovaj kolegij. Ocjene će se formirati prema sljedećoj tablici:
+		ocjena dovoljan (2): 50%-65%
+		ocjena dobar(3): 65.1%-80%
+		ocjena vrlo dobar(4): 80.1%-90%
+		ocjena izvrstan(5): >90%
+	USMENI I PISMENI ISPIT
+		Studenti koji ne skupe minalni bodovni prag na kolokvijima dužni su pristupiti pismenom i usmenom ispitu.

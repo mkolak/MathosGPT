@@ -1,0 +1,40 @@
+OSNOVNE INFORMACIJE
+	Kolegij Matematičke financije izvodi se u zimskom semestru druge godine Sveučilišnog diplomskog studija matematike, smjer financijska matematika i statistika. Cilj kolegija je upoznati studente s osnovnom metodologijom i pojmovima moderne financijske matematike. U svom matematičkom dijelu predmet se temelji na teoriji martingala i stohastičkih diferencijalnih jednadžbi. Kroz predavanja se osnovni pojmovi uvode na neformalan i intuitivan način. Posebna pažnja pridaje se primjerima i primjenama. Na vježbama te kroz seminare studenti trebaju savladati odgovarajuću tehniku i osposobiti se za rješavanje konkretnih problema uz korištenje računala.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m123.pdf)). (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf)
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Nenad Šuvak
+		KONZULTACIJE: https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/118#teaching
+	OSNOVNA LITERATURA
+		A. O. Petters, X. Dong, An Introduction to Mathematical Finance with Applications, Springer, 2016.
+		A.N. Shiryaev, Essential of Stochastic Finance. World Scientific. 1999.
+	DODATNA LITERATURA
+		J. Baz, G. Chacko, Financial Derivatives – Pricing, Applications and Mathematics, Cambridge University Press, 2004.
+		J. Cvitanić, F. Zapatero, Economics and Mathematics of Financial Markets, The MIT Press, 2004. 
+		M. Capinski, T. Zastawniak, Mathematics for Finance: An Introduction to Financial Engineering, Springer, 2005.
+		P. Kloeden, E. Platen, Numerical Solution of Stochastic Differential Equations, Springer, 1999.
+		T. Mikosch, Elementary Stochastic Calculus With Finance in View, World Scientific, 2000.
+		Z. Vondraček, Financijsko modeliranje (web materijali: prvi dio (https://web.math.pmf.unizg.hr/~vondra/1fm10.html), drugi dio (https://web.math.pmf.unizg.hr/~vondra/2fm18.html)), PMF-Matematički odsjek, Sveučilište u Zagrebu, 2018.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Matematičke financije realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata seminara). Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod dsbz0qx.
+	MS Teams kod za 2022./2023. - blknnfa
+	PREDAVANJA I SEMINARI	 
+		Četvrtak: 8:15-9:45 & 12:00-13:30	 PREDAVAONICA RP-1
+
+
+PRAVILA POLAGANJA ISPITA
+	1. KOLOKVIJI I PROJEKTNI ZADATAK
+		Tijekom semestra bit će organizirana dva kolokvija i zadan jedan projektni zadatak kojeg studenti tijekom kolegija kontinuirano rješavaju:
+			kolokvij 1 - 50% bodova
+			kolokvij 2 - 50% bodova
+		na temelju bodova ostvarenih na kvizovima i kolokvijima formira se ocjena s kojom student pristupa izlaganju rezultata svog projektnog zadatka: 
+			50%-65%: dovoljan(2); 66%-80%: dobar(3); 81%-90%: vrlo dobar(4); 91%-100%: izvrstan (5).
+		projektni zadatak - zadaje se na početku kolegija, kontinuirano rješava tijekom kolegija te se dobiveni rezultati izlažu u sklopu usmenog ispita.
+	2. PISMENI ISPIT
+		Ukoliko student ne ostvari barem 50 bodova putem kvizova i kolokvija, pristupa pismenom ispitu. Na pismenom ispitu moguće je ostvariti najviše 100 bodova. Ocjena pismenog ispita formira se prema sljedećem kriteriju:
+			50-64: dovoljan(2); 65-79: dobar(3); 80-90: vrlo dobar(4); 91-100: izvrstan (5).
+		S ostvarenih barem 50 bodova student ima pravo pristupiti usmenom ispitu u ispitnom roku (zimskom, ljetnom ili jesenskom) u kojem je položio pismeni ispit.
+	2. USMENI ISPIT I IZLAGANJE REZULTATA PROJEKTNOG ZADATKA
+		sastoji se od odgovaranja na postavljena pitanja iz gradiva kolegija te javne prezentacije i obrane rješenja projektnog zadatka
+		pisani izvještaj s rješenjem projektnog zadatka treba barem tri dana prije izlaganja poslati na e-mail Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.

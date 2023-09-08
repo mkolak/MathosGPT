@@ -1,0 +1,64 @@
+Program cjeloživotnog obrazovanja Primijenjena statistika
+
+Odjel za matematiku je znanstveno-nastavna sastavnica Sveučilišta koja, osim izvođenja svojih studija, sudjeluje u izvedbi nastave iz predmeta u znanstvenom polju matematike na cijelom Sveučilištu. Osim toga, znanstvenici zaposleni na Odjelu uključeni su u mnoga istraživanja iz drugih područja i polja znanosti u kojima je potrebna primjena matematike. Od svih grana matematike, u posljednjem periodu se na osječkom sveučilišu primjećuje najveća potreba za primjenom statistike. Osim toga, ulaskom u Europsku uniju u mnogim sektorima se nameće potreba za analizama podataka i pripremom izvještaja u skladu s europskim standardima koji su nerijetko temeljeni na primjeni naprednijih statističkih analiza prikupljenih podataka. Jedan od razloga sve većeg korištenja statističkih alata svakako je mogućnost jednostavnog rada s bazama podataka pomoću računala. Do prije desetak godina, za statističke analize je često bilo vrlo teško raditi izračune, pa su se izvještaji temeljili uglavnom samo na najjednostavnijim mjerama. Danas računala mogu vrlo brzo izračunati sve što je potrebno, ali je nužno temeljito razumijevanje metoda koje se primjenjuju da bi se dobila valjana interpretacija rezultata. Zbog jednostavnosti primjene statističkih računalnih alata i nedovoljnog razumijevanja statistike danas uočavamo poplavu pogrešnih primjena modela i krivih interpretacija u mnogim istraživanjima. Program Primijenjena statistika osmišljen je kako bi polaznicima omogućio razumijevanje osnovnih i nekih naprednih statističkih metoda, prepoznavanje konkretnih slučajeva u kojima ih mogu primijeniti te primjenu uz pomoć statističkog softvera. Za izračune će se koristiti dostupan licencirani statistički softver kao i svima besplatno dostupan (na žalost, ne tako jednostavan za korištenje) statistički programski jezik R.
+DETALJNIJE O PROGRAMU
+    Trajanje programa: 45 sati (8 ECTS)
+    Maksimalan broj polaznika programa(u jednoj grupi): 20
+    Cijena programa: 4.000,00 HRK
+    Elaborat programa: link (https://www.mathos.unios.hr/images/homepages/dgrahova/Elaborat_Primijenjena_statistika.pdf)
+    VODITELJ PROGRAMA	
+        prof.dr.sc. Mirta Benšić
+    NASTAVNICI I SURADNICI	
+        izv.prof.dr.sc. Nenad Šuvak
+        doc.dr.sc. Danijel Grahovac
+        doc.dr.sc. Ivan Papić
+    SADRŽAJ PROGRAMA
+        Statističko zaključivanje o jednoj varijabli
+            procjena i interpetacija distribucije, očekivanja, varijance i ostalih numeričkih karakteristika distribucije
+            procjena pouzdanim intervalom
+            testiranje statističkih hipoteza o proporciji, kvantilima, očekivanju i općenito o distribuciji (binomni test, z-testovi, test predznaka, t-test)
+        Statističko zaključivanje o dvije varijable
+            metode za zaključivanje o razlikama između dvije neprekidne distribucije – vezano i nevezano uzorkovanje (t-testovi, z-testovi, F-test, KS-test, MWW-test)
+            analiza kontingencijskih tablica (uvjetne distribucije, χ2-test o nezavisnoti, Fisherov egzaktni test, McNemar test, binomni test predznaka, „odds ratio“)
+            mjere asocijacije/korelacije neprekidnih varijabli (koeficijent korelacije i testovi o iznosu korelacije, korelacija ranga, Kendallov τ, jednostavna linearna regresija)
+        Statističko zaključivanje o više varijabli za nezavisno uzorkovanje (ANOVA, KW-ANOVA)
+    OSNOVNA LITERATURA
+        M. Benšić, N. Šuvak, Primijenjena statistika, Sveučilište u Osijeku – Odjel za matematiku, 2013. (https://www.mathos.unios.hr/ptfstatistika/00_statistika.pdf)
+        J. T. McClave, P. G. Benson, T. Sincich, Statistics for Business and Economics, Prentice Hall, New York, 2001.
+        G. McPherson, Applying and Interpreting Statistics: A Comprehensive Guide, Springer, 2001.
+        G. K. Bhattacharyya, R.A. Johnson, Statistical Concepts and Methods, J. Wiley, 1977.
+        D. J. Sheskin, Handbook of Parametric and Nonparametric Statistical Procedures, CRC Press, 2003.
+
+PODACI
+    R: baze (https://www.mathos.unios.hr/images/homepages/mirta/bazeCjelozivotnoR.rar) (https://www.mathos.unios.hr/images/homepages/ipapic/Cjelozivotno/baze1.zip)
+    Statistica: baze (https://www.mathos.unios.hr/images/homepages/ipapic/Cjelozivotno/Baze_cjelozivotno.rar)
+
+OČEKIVANI ISHODI UČENJA
+Očekuje se da nakon položenog programa polaznici
+    razumiju statistički model koji koriste u statističkom zaključivanju;
+    razumiju statističku metodu i svojstva statistika koje koriste u statističkom zaključivanju;
+    demonstriraju sposobnost analize realnih podataka korištenjem modela i metoda iz sadržaja programa;
+    koriste računala i prikladne programske pakete prilikom analize podataka;
+    kritički proučavaju i primjenjuju novu literaturu za statističko zaključivanje;
+    razumiju koristi, ali i ograničenja statističke analize podataka u primjeni;
+    prezentiraju rezultate statističkih analiza i mogućnost njihove primjene laicima i stručnjacima.
+
+NAČIN SUDJELOVANJA POLAZNIKA U IZVEDBI PROGRAMA
+    Tijekom izvođenja programa od polaznika će se tražiti aktivno sudjelovanje u analizama ponuđenih baza podataka te prikupljanje i organiziranje podataka za samostalnu analizu. Svaki polaznik bit će obavezan prikupiti ili pronaći bazu podataka koju želi analizirati.
+
+NAČIN ZAVRŠETKA PROGRAMA
+    Usvojenost stečenih znanja i vještina polaznici će pokazati analizom odabrane baze podataka, prezentacijom i interpretacijom rezultata te argumentiranjem prikladnosti provedenih metoda analize. Nakon uspješno obranjenog završnog rada polaznik stječe pravo na Uvjerenje o završenom programu cjeloživotnog učenja „Primijenjena statistika“ i ostvaruje 8 ECTS bodova.
+
+INFORMACIJE O UPISIMA
+    UVJETI ZA UPIS I POHAĐANJE PROGRAMA
+        Edukacija u primjeni statistike namijenjena je svim osobama koji imaju potrebu za provođenjem statističkih analiza podataka. Za razumijevanje predviđenog gradiva nije nužno matematičko predznanje veće od sadržaja matematike klasičnih/jezičnih gimnazijskih programa u Republici Hrvatskoj. Stoga se od polaznika za upis traži završena bilo koja gimnazija odnosno srednjoškolski ili visokoškolski progam koji svojim programom matematike osigurava znanje matematike navedene razine.
+    PRIJAVE
+        Prijave za nove grupe polaznika trajno su otvorene, a prijaviti se možete ispunjavanjem formulara za prijavu (https://www.mathos.unios.hr/index.php/17-homepage/odjel/nastava/389-prijava-na-program-cjelozivotnog-obrazovanja). Sve dodatne upite možete usmjeriti na e-mail adresu statistika@mathos.hr.
+    INFORMACIJE O PLAĆANJU
+        Podaci za uplatu troškova programa cjeloživotnog učenja:
+            Platitelj: potrebni podaci su ime, prezime i adresa pristupnika
+            Primatelj: Odjel za matematiku, Trg Ljudevita Gaja 6, HR-31000 Osijek, OIB 78808975734
+            Ime i adresa banke: Hypo Alpe-Adria-Bank d.d., Slavonska avenija 6 , HR-10000 Zagreb
+            IBAN: HR3725000091402000049
+            Poziv na broj: OIB pristupnika
+            Naznaka za plaćanje: Cjeloživotno učenje: Primijenjena statistika - ime, prezime i OIB pristupnika

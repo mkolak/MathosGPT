@@ -1,0 +1,41 @@
+OSNOVNE INFORMACIJE
+	Numerička matematika izvodi se u zimskom semestru druge godine sveučilišnog preddiplomskog studija matematike i treće godine sveučilišnog preddiplomskog studija matematike i računarstva. Studente će se upoznati s glavnim idejama i metodama numeričke matematike. Metode će biti popraćene brojnim ilustrativnim primjerima. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m089.pdf)).
+	VODITELJ KOLEGIJA	
+		prof.dr.sc. Kristian Sabo (https://www.mathos.unios.hr/~ksabo)	
+		KONZULTACIJE: Ponedjeljak, 10:00-11:00	
+	OSNOVNA LITERATURA
+		1. R.Scitovski, Numerička matematika (https://www.mathos.unios.hr/images/homepages/scitowsk/Num.pdf), 3. izmijenjeno i dopunjeno izdanje, Odjel za matematiku, Sveučilište u Osijeku, 2012
+		2. R.Scitovski, Numerička matematika, prateći Mathematica-programi (Pogreske (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_interpol.nb), Interpolacija (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_interpol.nb), Sustavi linearnih jednadzbi (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_slj.nb), Nelinearne jednadzbe (https://www.mathos.unios.hr/images/homepages/scitowsk/Priv.nb), Aproksimacija (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_interpol.nb), PNK (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_interpol.nb), GN (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_interpol.nb), Integracija (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_integral.nb), ODE (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_interpol.nb), Moduli (https://www.mathos.unios.hr/images/homepages/scitowsk/Num_interpol.nb))
+	LITERATURA KOJA SE PREPORUČUJE
+		A. S.Ackleh, E. J. Allen, R. B.Kearfott, P.Seshaiyer, Classical and Modern Numerical Analysis, Theory, Methods and Practice, Chapman and Hall/CRC, 2010
+		A.Bjorck, G.Dahlquist, Numerical Methods in Scientific Computing, SIAM, 2008.
+		P.E.Gill, W.Murray and M.H.Wright, Practical Optimization, Academic Press, 1981.
+		E.M.T.Hendrix, B.G.Toth, Introduction to Nonlinear and Global Optimization, Springer, Berlin, 2010.
+		D.Kincaid, W.Cheney, Numerical Analysis, Brooks/Cole Publishing Company, New York, 1996.
+		R.Plato, Numerische Mathematik, Vieweg+Teubner, 2010.
+		W.H.Press, B.P.Flannery, S.A.Teukolsky, W.T.Vetterling, Numerical Recipes, Cambridge University Press, Cambridge, 1989.
+		H.R.Schwarz, N.Koeckler, Numerische Mathematik, Springer, Berlin, 2011.
+		R.Scitovski, N.Truhar, Z.Tomljanović, Metode optimizacije, Odjel za matematiku, Sveučilište u Osijeku, 2014
+		G.W.Stewart, Afternotes goes to Graduate School, SIAM, Philadelphia, 1998.
+		J.Stoer, R.Bulirsch, Introduction to Numerical Analysis, Springer-Verlag, New York, 1993.
+		L.N.Trefethen, D.Bau, Numerical Linear Algebra, SIAM, Philadelphia, 1997.
+		N.Truhar, Numerička linearna algebra, Odjel za matematiku, Sveučilište u Osijeku, 2010
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Numerička matematika realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	Teams kanal: 4t27waq
+	PREDAVANJA	 
+		Ponedjeljak, 8-10h Predavaonica: Dvorana 1
+	VJEŽBE
+		Utorak, 8-10h Predavaonica: Dvorana 2
+
+
+PRAVILA POLAGANJA ISPITA
+	KOLOKVIJI I DOMAĆE ZADAĆE
+		Studenti tijekom studija mogu polagati 2 kolokvija, koji pokrivaju cijelo gradivo. Na svakom kolokviju moguće je ostvariti 100 bodova. Ako student na svakom kolokviju ostvari barem 50 bodova, smatra se da je kolokvij uspješno položio. Ako  student na najviše jednom kolokviju ima manje od 50 bodova, omogućit će mu se polaganje popravnog kolokvija. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita. Studenti tijekom studija mogu rješavati domaće zadaće ili izraditi seminarski rad. Tijekom semestra studenti će dobiti domaće zadaće. Predviđeno vrijeme za rješavanje domaće zadaće je 2 tjedna od objave. Svaka domaća zadaća nosi 20 bodova. Studenti se potiču da rješavaju domaće zadaće, no one nisu obavezne za sve studente. Ako student ne rješava domaću zadaću, neće moći dobiti ocjenu izvstan (5).
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za sve studente koji predmet nisu položili putem kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s kolokvija, domaćih zadaća, pismenog ispita i seminara, formira konačna ocjena

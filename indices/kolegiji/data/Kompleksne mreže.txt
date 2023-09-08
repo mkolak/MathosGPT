@@ -1,0 +1,31 @@
+OSNOVNE INFORMACIJE
+	Izborni kolegij Kompleksne mreže izvodi se u ljetnom semestru druge godine sveučilišnog diplomskog studija matematike, smjer:  Matematika i računarstvo. Glavni cilj kolegija je upoznati studente s teorijom kompleksnih mreža i njihovim primjenama u raznim područjima znanosti te u svakodnevnom životu. Analizirat će se strukturna svojstva različitih tipova kompleksnih mreža rabeći pojmove i tvrdnje iz područja teorije grafova. Mjerama centralnosti bit će identificirani najvažniji vrhovi u mreži. Predstavit će se najznačajniji modeli mreža te algoritmi za njihovo particioniranje uz korištenje raznih primjera iz stvarnog svijeta.  
+	Sadržaj kolegija (https://www.mathos.unios.hr/images/homepages/smajstor/Izborni_CN.pdf)
+	VODITELJ KOLEGIJA I ASISTENT
+		izv.prof.dr.sc. Snježana Majstorović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/111)	
+		KONZULTACIJE: četvrtkom u 12:30h	
+	OSNOVNA LITERATURA
+		M.E.J. Newman, Networks - An Introduction,Oxford University Press, 2010
+		M.E.J. Newman, L.A.Barabási, D.J. Watts, The Structure and Dynamics of Networks, Princeton University Press, 2011
+		L.A. Barabási, Network Science, Network Robustness (https://barabasi.com/f/619.pdf)
+	DOPUNSKA LITERATURA
+		E. Estrada, The Structure of Complex Networks – Theory and Applications, Oxford University Press, 2012
+		P. Van Mieghem, Graph Spectra for Complex Networks, Cambridge University Press, 2011
+		R. Diestel, Graph Theory, Electronic Edition, 2000 (dostupno online)
+		D. Veljan, Kombinatorika s teorijom grafova, Školska knjiga, Zagreb, 1989
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Nastava u ljetnom semestru 2021./2022.  se izvodi kontaktno uz korištenje platforme MSTeams.
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod:    tso7z2t
+	Izvedbeni program kolegija Kompleksne mreže realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: četvrtkom 9-11	PREDAVAONICA: RP-3	
+	VJEŽBE	TERMIN: četvrtkom 11-13	PREDAVAONICA: RP-3	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti će pisati dva kolokvija. Za prolaznu ocjenu, moraju točno riješiti barem 50%  zadataka na oba kolokvija.  Studenti će imati priliku riješiti projektni zadatak (samostalno ili u timu)  i tako povećati broj bodova ostvarenih na kolokvijima. 
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji uspješno polože pismeni ispit. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

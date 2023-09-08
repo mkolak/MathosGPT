@@ -1,0 +1,93 @@
+General Information
+    Postdoc
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-816
+    fax: +385-31-224-801
+    email: mugrica@mathos.hr
+    office: 3 (first floor)
+    Google Scholar:  (https://scholar.google.hr/citations?user=CPJOLCUAAAAJ&hl=hr)
+    Research Interests
+        Numerical linear algebra
+        Control Theory
+        Numerical mathematics
+        Damping optimization in mechanical systems
+        Eigenvalue problems
+    Degrees
+        PhD in Mathematics, Department of Mathematics, University of Zagreb, Croatia,2020.
+        MSc in Mathematics, Mathematics and Computer Science,Department of Mathematics (http://www.mathos.hr/), University of Osijek, Croatia, 2015.
+        BSc in Mathematics, Department of Mathematics (http://www.mathos.hr/), University of Osijek, Croatia, 2013.
+
+
+Publications
+    Journal Publications
+        N. Jakovčević Stor, T. Mitchell, Z. Tomljanović, M. Ugrica, Fast optimization of viscosities for frequency-weighted damping of second-order systems, Journal of Applied Mathematics and Mechanics (2022), prihvaćen za objavljivanje
+        I. Kuzmanović Ivičić, S. Miodragović, M. Ugrica, The tan Θ theorem for definite matrix pairs, Linear and multilinear algebra 70 (2022), 1-17
+        N. Truhar, Z. Tomljanović, M. Puvača, Approximation of damped quadratic eigenvalue problem by dimension reduction, Applied mathematics and computation  347 (2019), 40-53
+        Y. Kanno, M. Puvača, Z. Tomljanović, N. Truhar, Optimization Of Damping Positions In A Mechanical System, Rad HAZU, Matematičke znanosti. 23 (2019), 141-157
+        N. Truhar, Z. Tomljanović, M. Puvača, An Efficient Approximation For Optimal Damping In Mechanical Systems, International journal of numerical analysis and modeling 14/2 (2017), 201-217
+    Others
+        Z. Tomljanović, M. Ugrica, QR decomposition using Givens rotations and applications, Osječki matematički list 14/2 (2015), 117-141
+    Technical Reports
+        N. Truhar, Z. Tomljanović, M. Puvača, An efficient approximation for the optimal damping in mechanical systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/614.pdf ) (2016)
+
+
+Projects
+    Vibration Reduction in Mechanical Systems (http://vims.mathos.unios.hr/) -- scientific project (IP-2019-04-6774, VIMS). This project has been fully supported by Croatian Science Foundation for the period 01.01.2020.--31.12.2023. (postdoc) 
+    Isolation of the unwanted part of the spectrum in the quadratic eigenvalue problem. Project was funded by J. J. Strossmayer University of Osijek, for period November, 2018.- May, 2020.
+    Robustness optimization of damped mechanical systems, -- scientific project; supported by the DAAD for period 2017--2018; cooperation with TU Berlin, Germany
+    Optimization of parameter dependent mechanical systems (https://www.mathos.unios.hr/index.php/2-uncategorised/399-optimization-of-parameter-dependent-mechanical-systems) (IP-2014-09-9540; OptPDMechSys). This project has been fully supported by Croatian Science Foundation for the period 01.07.2015.--30.06.2019.
+    Accelerated solution of optimal damping problems, -- scientific project; supported by the DAAD for period 2021--2022; cooperation with Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
+
+
+Professional Activities
+    Committee Memberships and organization
+        Co-organizer of the Workshop on Optimal Control of Dynamical Systems and applications, 5-6 November 2020 at Department of Mathematics, J. J. Strossmayer University of Osijek http://vims.mathos.unios.hr/home/workshop2020 (http://vims.mathos.unios.hr/home/workshop2020/)  
+        Co-organizer of the International Workshop on Optimal Control of Dynamical Systems and applications, 20-22 June 2018 at Department of Mathematics, J. J. Strossmayer University of Osijek, web page (http://workshop.mathos.unios.hr/)
+    Schools and Conferences
+        The third International School on Model Reduction for Dynamical Control Systems (https://www.mathos.unios.hr/index.php/351), Dubrovnik, Croatia, October, 5 - 10, 2015.
+        DAAD - Krylov Subspaces and Applications, Golem, Kavaja, Albania, September, 11-17 2016.
+        Workshop on Model Reduction Methods and Optimization (https://www.mathos.unios.hr/index.php/2-uncategorised/443-workshop-on-model-reduction-methods-and-optimization), 20-21 September 2016, in Opatija, Croatia.
+        Reduced Basis Summer School 2016 (http://www.mpi-magdeburg.mpg.de/csc/events/RBSS2016), (Kloster Hedersleben, Germany, October 3-7 ,2016), gave a talk on "An efficient approximation for the optimal damping in mechanical systems".
+        Model reduction course HYDRA (http://www.eu-mor.net/event/model-reduction-course-hydra-march-6-9-2017/), March 6-9, 2017, Eindhoven, The Netherlands.
+        Gene Golub Summer School (http://www3.math.tu-berlin.de/numerik/G2S3/index.html), May 29-June 9, 2017, Berlin, Germany.
+        17th GAMM Workshop ANLA, (http://gamm-workshop.uni-koeln.de/) September 7-8, 2017, Cologne, Germany.
+        Simpozij studenata doktorskih studija PMF-a u Zagrebu, 9. veljače 2018.- usmeno priopćenje “Optimizacija prigušenja vibracijskih sustava”.
+        GAMM Annual Meeting, (http://jahrestagung.gamm-ev.de/) March 19-23, Munich, Germany, gave talk on "Perturbation Bounds for Parameter Dependent Quadratic Eigenvalue Problem"
+        GAMM-Fachausschusses „Dynamik und Regelungstheorie“ (http://www3.math.tu-berlin.de/numerik/NumMat/Meetings/1804_GAMM_DynContr/),  19-20 April, Berlin, Germany, gave talk on "Perturbation Bounds for Parameter Dependent Quadratic Eigenvalue Problem"
+        International Workshop on Optimal Control of Dynamical Systems and applications (http://workshop.mathos.unios.hr/), 20-22 June 2018, Osijek, Croatia, gave talk on "Approximations of Eigenpairs for Parameter Dependent Quadratic Eigenvalue Problem and Applications"
+        ApplMath18 (http://applmath.math.pmf.unizg.hr/), 17.-20.9.2018., Solaris, Šibenik, Croatia, gave talk on "Approximations of Eigenpairs for Parameter Dependent Quadratic Eigenvalue Problem and Applications"
+        GAMM ANLA Workshop (http://ctr.maths.lu.se/na/GAMM_ANLA/), 10.-12.10.2018. Lund, Švedska
+        ICIAM 2019 (https://iciam2019.org/), July, 15-19, Valencia, Spain, gave talk on "Approximation of damped quadratic eigenvalue problem by dimension reduction"
+        ApplMath2020 (https://applmath.math.pmf.unizg.hr/2020/#/), 14.-18.9.2020., Brijuni, Croatia, gave talk on "Frequency-weighted damping via nonsmooth optimization and fast computation of QEPs with low-rank updates"
+        Workshop on Control of Dynamical Systems (http://condys.unidu.hr/workshop-2021/), 14.-16.6.2021., Dubrovnik, Croatia, gave talk on "Frequency-weighted damping via nonsmooth optimization and fast computation of QEPs with low-rank updates"
+        GAMM ANLA Workshop (https://sites.google.com/view/gammanla2021/), 16.-17.9.2021. Potsdam, Njemačka, gave talk on "Fast optimization of viscosities for frequency-weighted damping of second-order systems"
+        3rd Workshop on Optimal Control of Dynamical Systems and applications (http://vims.mathos.unios.hr/page-builder/workshop-daad-2022/), 28-31 March 2022 at Department of Mathematics, J. J. Strossmayer University of Osijek, Osijek, Croatia, gave talk on "Fast optimization of viscosities for frequency-weighted damping of second-order systems"
+        ALAMA 2022 (https://congresosalcala.fgua.es/alama2022/?idioma=en), 1-3 June 2022 at University of Alcalá, Alcalá de Henares (Madrid), Spain,  gave talk on "Fast optimization of viscosities for frequency-weighted damping of second-order systems"
+    Study Visits Abroad and Professional Improvement
+        visiting researcher at TU Berlin, Germany September, 18-29, 2017.
+        visiting researcher at TU Berlin, Germany April, 16-20, 2018.
+        visiting researcher at Max Planck Institut, Magdeburg, Germany April, 21-27, 2018.
+        visiting researcher at Max Planck Institut, Magdeburg, Germany September, 12-15, 2021.
+
+
+Teaching
+    Current
+        Nelinearna optimizacija (https://www.mathos.unios.hr/index.php/833)
+        Redukcija modela i aproksimacijski pristupi (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/izvedbeni-plan-racunarstvo/832)
+        Teorijske osnove računalne znanosti (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/593-teorijske-osnove-racunalne-znanosti)
+    Past
+        Elementarna matematika 1 (https://www.mathos.unios.hr/index.php/183)
+        Numerička linearna algebra (https://www.mathos.unios.hr/index.php/204)
+        Elementarna matematika 2 (https://www.mathos.unios.hr/index.php/184)
+        Primjena diferencijalnog i integralnog računa 1 (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/194)
+        Matematički praktikum (https://www.mathos.unios.hr/index.php/236)
+        Metode numeričke matematike (https://www.mathos.unios.hr/index.php/204)
+        Matematičke logika u računalnoj znanosti (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/499)
+        Osnove teorije upravljanja s primjenama (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/649)
+        Primijenjena linearna algebra i znanstveno računarstvo (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/700-primijenjena-linearna-algebra-i-znanstveno-racunarstvo) (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/700-primijenjena-linearna-algebra-i-znanstveno-racunarstvo)
+        Računarski praktikum (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/243-racunarski-praktikum)
+        Funkcijsko programiranje (https://www.mathos.unios.hr/index.php/508)
+        Matematika III (GFOS) (https://www.mathos.unios.hr/index.php/281)
+    Office Hours: 
+        Dogovor putem maila ili poslije vježbi.

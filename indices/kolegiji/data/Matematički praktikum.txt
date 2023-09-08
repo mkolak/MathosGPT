@@ -1,0 +1,59 @@
+OSNOVNE INFORMACIJE
+	Matematički praktikum izvodi se u zimskom semestru druge godine sveučilišnog diplomskog studija matematike na smjerovima financijska matematika i statistika i računarstvo, te na petoj godini sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je studente uvesti u metodologiju znanstvenoistraživačkog rada s posebnim naglaskom na primijenjenu i numeričku matematiku. Nakon odslušanog i položenog kolegija, student bi trebao znati samostalno pristupiti rješavanju konkretnog problema, istražiti literaturu, napisati i znati na interesantan način prezentirati svoj vlastiti rad.
+	VODITELJ KOLEGIJA	
+		prof.dr.sc. Rudolf Scitovski (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/117)	
+		KONZULTACIJE: Nakon predavanja ili po dogovoru putem e-maila (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/117#teaching)	
+	ASISTENT
+		dr.sc. Matea Ugrica (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/410)	
+		KONZULTACIJE: mpuvaca@mathos.hr
+	OSNOVNA LITERATURA
+		R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija (https://www.mathos.unios.hr/images/homepages/scitowsk/GOP-2017.pdf), Sveučilište u Osijeku, Odjel za matematiku, 2017 (kumulativni materijal do zadnjeg predavanja (https://www.mathos.unios.hr/images/homepages/scitowsk/MP-2020-1-2.pdf)).
+		R. Scitovski, K. Sabo, Matematički praktikum, recenzirani nastavni materijali, Odjel za matematiku, 2008-2011
+		R. Scitovski, Numerička matematika (https://www.mathos.unios.hr/images/homepages/scitowsk/Num-2015.pdf), Sveučilište u Osijeku, Odjel za matematiku, 2015.
+		R.Paulavičius, J.Žilinskas, Simplicial Global Optimization, Springer-Verlag, Berlin, 2014
+		R.Plato, Concise Numerical Mathematics American Mathematical Society, Providence, 2003
+		Y.D.Sergeyev, D.E.Kvasov, J.Cochran (Ed.) Lipschitz Global Optimization, Wiley Encyclopedia of Operations Research and Management Science, Wiley, New York, 2011, 4, 2812-2828
+		R.Grbić, E.K.Nyarko, R.Scitovski,A modification of the DIRECT method for Lipschitz global optimization for a symmetric function, Journal of Global Optimization, 57(2013), 1193-1212
+	SADRŽAJ KOLEGIJA
+		Svake godine bira se nekoliko tema, koje se razmatraju sa stanovišta primjena u drugim znanostima. Teme se biraju između niže navedenih ili se definiraju nove.
+			Analiza i grupiranje podataka. Generiranje i prikazivanje podataka. Reprezentanti podataka. L_p (p \geq 1) udaljenost točke do pravca i do krivulje u ravnini i prostoru . Udaljenost dviju krivulja u ravnini i prostoru. Grupiranje podataka. Kvazimetričke funkcije. Indeksi.
+			Interpolacija i aproksimacija. Interpolacija i interpolacijski spline. Linearni i kubični LS spline. Najbolja L_p (p \geq 1) aproksimacija. Najbolji pravac u smislu najmanjih kvadrata i najmanjih potpunih kvadrata. Brze Fourierove transformacije.
+			Sustavi linearnih i nelinearnih jednadžbi. Rješavanje specijalnih sustava linearnih jednadžbi. Iterativne metode. Svojstveni problem. Metode za rješavanje sustava nelinearnih jednadžbi.
+			Optimizacija. Gauss-Newtonova metoda. Jednodimenzionalna minimizacija. Višedimenzionalna minimizacija.
+			Globalna optimizacija.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Matematički praktikum realizira se u trećem semestru diplomskog studija i u devetom semestru sveučilišnog nastavničkog studija matematike i informatike s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata seminara). Predavanja i vježbe su obavezne.
+	PREDAVANJA	TERMIN: Četvrtak, 10-12h	PREDAVAONICA: D-3	
+	VJEŽBE	TERMIN: Četvrtakk, 13-15h	PREDAVAONICA: D-2	
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod xmuywda.
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom izvođenja nastave pišu dva kolokvija pomoću kojih se kontinuirano provjerava njihov rad i znanje. Studentima koji su na svakom kolokviju postigli barem 40 bodova, a ukupno barem 80 bodova priznaje se pismeni dio ispita i direktno se pozivaju na usmeni dio ispita, koji se po njihovom izboru može održati tijekom tekuće akademske godine. Pri tome ocjene na kolokviju definirane su na sljedeći način:
+		dovoljan: 80 - 150
+		dobar: 151 -
+		Studenti mogu postići višu ocjenu rješavanjem domaćih zadaća ili pisanjem seminarskog rada.
+	PISMENI ISPIT
+		Pismeni ispit obavezan je za sve studente koji predmet nisu položili putem kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s kolokvija, zadaća, pismenog ispita i seminara, formira konačna ocjena.
+	DOMAĆE ZADAĆE
+		Studenti koji žele postići bolju ocjenu iz ovog predmeta moraju izraditi neke od 
+		Domaćih zadaća za studente koji preferiraju bolju ocjenu 
+		koje će biti zadane tijekom semestra. Rok za predaju domaćih zadaća je 25.1.2021. u 20h. Domaće zadaće pišu se u LaTeX2e i šalju u pdf formatu na e-mail adresu asistenta, koji će procijeniti postignut broj bodova do maksimalnog mogućeg. Ako su ilustracije ili primjeri rađeni uz primjenu programskog sustava Mathematica, potrebno je priložiti i odgovarajući .nb dokument. U "subject'' e-mail-a treba upisati "DZ-MP''. Pri tome treba koristiti stil kojim su napisani zadaci.
+		Domaće zadaće (pdf (https://www.mathos.unios.hr/images/homepages/scitowsk/DZ-MP_2020.pdf))    Stil (tex) (https://www.mathos.unios.hr/images/homepages/scitowsk/DZ-MP_2020.rar)   Uvod u TEX (https://web.math.pmf.unizg.hr/~ungar/lkratko2e_internet.pdf)
+
+
+PRIMJERI PROŠLOGODIŠNJIH KOLOKVIJA
+	2020./2021.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-2020-Kol-1.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-2020-Kol-2.pdf)	Popravni kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-2020-Kol-1-popravni.pdf)	
+	2019./2020.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-19-Kol-1.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-19-Kol-2.pdf)	Popravni kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-19-Kol-popravni.pdf)	
+	2018./2019.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-18-Kol-1.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-18-Kol-2.pdf)	Popravni kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/mugrica/MP/MP-18-Kol-popravni.pdf)	
+	2017./2018.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/jmaltar/mp/MP-17-Kol-1.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/scitowsk/MP-17-Kol-2.pdf)	Popravni kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/scitowsk/MP-17-Kol-pop.pdf)	
+	2016./2017.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2016-2017/MP-16-Kol-1-s-rjesenjima.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2016-2017/MP-16-Kol-2-s-rjesenjima.pdf)	
+	2015./2016.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2015-2016/MP-15-Kol-1.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2015-2016/MP-15-Kol-2.pdf)	
+	2014./2015.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2014-2015/Kol_MP-14-1srj.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2014-2015/Kol_MP-14-2srj.pdf)	
+	2013./2014.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2013-2014/Kol_13-1srj.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2013-2014/Kol_MP-13-2srj.pdf)	
+	2012./2013.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2012-2013/Kol_12-1.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2012-2013/Kol_12-2.pdf)	
+	2011./2012.	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2011-2012/Kol_1_11.pdf)	2. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2011-2012/Kol_2_11.pdf)	Popravni kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/dgrahova/Matematicki_praktikum/Kolokviji_zadace/2011-2012/Kol_3_11.pdf)	

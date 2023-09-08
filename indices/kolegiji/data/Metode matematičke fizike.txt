@@ -1,0 +1,43 @@
+OSNOVNE INFORMACIJE
+	Kolegij Metode matematičke fizike izvodi se u ljetnom semestru treće godine sveučilišnog preddiplomskog studija matematike. Cilj kolegija je studente upoznati s s nekim fundamentalnim jednadžbama mehanike kontinuuma, njihovim svojstvima te osnovnim metodama u njihovom proučavanju i rješavanju.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m107.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA
+		prof. dr. sc. Krešimir Burazin (https://www.mathos.unios.hr/index.php/26-homepage/odjel/kadrovi/homepages/104-kresimir-burazin-s-home-page)
+		KONZULTACIJE: Srijedom u 11:00h	
+	ASISTENT	
+		dr. sc. Jelena Jankov (https://www.mathos.unios.hr/index.php/271)
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/271#teaching)	
+	OSNOVNA LITERATURA
+		I. Aganović, K. Veselić, Jednadžbe matematičke fizike, Školska knjiga, Zagreb, 1985.
+		I. Aganović, K. Veselić, Linearne diferencijalne jednadžbe. Uvod u rubne probleme, Element, Zagreb, 1997.
+		I. Aganović, K. Veselić, Matematički modeli i metode, Sveučilište J. J. Strossmayera u Osijeku – Odjel za matematiku, Osijek, 2014.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Metode matematičke fizike realizira se s fondom od 75 sati (tjedno 3 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno. Za točno vrijeme i raspored predavanja molimo vas da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod au89lis.
+	PREDAVANJA	TERMIN: Četvrtak, 10-13h	PREDAVAONICA: D-9	
+	VJEŽBE	TERMIN: Četvrtak, 13-15h	PREDAVAONICA: D-7	
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom semestra mogu pristupiti polaganju 2 kolokvija koji pokrivaju cijelo gradivo. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita. 
+	Da bi uspješno položio kolegij preko kolokvija/pismenog  ispita, student mora skupiti barem  55  bodova, pri čemu na kolokviju/pismenom ispitu može ostvariti maksimalno 100 bodova (1 postotak od ukupnog broja bodova na kolokviju/pismenom ispitu = 1 bod), a na zadaćama maksimalno 20 bodova (od toga maksimalno 10 bodova na zadaćama s predavanja i maksimalno 10 bodova na zadaćama s vježbi). Na svakom pojedinom kolokviju student mora ostvariti barem 20% od ukupnog broja bodova s tog kolokvija. Sukladno tome određuju se sljedeći pragovi:
+		ocjena dovoljan (2): 55-65 bodova
+		ocjena dobar(3): 65-78 bodova
+		ocjena vrlo dobar(4): 78-90 bodova
+		ocjena izvrstan(5): 90 bodova i više.
+	ZADAĆE
+		Svaki tjedan student će dobiti zadaće na vježbama i predavanju koje je dužan predati sljedeći tjedan u pismenom obliku. Zadaće se provjeravaju kontinuirano na predavanju i vježbama.
+		Na pojedinoj zadaći koju je usmeno prezentirao student može ostvariti 0-5 bodova.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. 
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente i pristupa mu se nakon položenog pismenog dijela ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA I PRIMJERI PISMENIH ISPITA
+	Prvi kolokvij (2021./2022.) (https://www.mathos.unios.hr/images/homepages/jjankov/mmf_prvikol26042022.pdf)
+	Drugi kolokvij (2021./2022.) (https://www.mathos.unios.hr/images/homepages/jjankov/mmf_drugikol10062022.pdf)
+	Prvi kolokvij (2020./2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/MMF_prvikol2021.pdf)
+	Drugi kolokvij (2020./2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/MMF_drugikol2021_zadnje.pdf)
+	Pismeni ispit (2021.) (https://www.mathos.unios.hr/images/homepages/jjankov/MMF_28062021.pdf)

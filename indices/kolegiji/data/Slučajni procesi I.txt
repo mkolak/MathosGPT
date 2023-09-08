@@ -1,0 +1,47 @@
+OSNOVNE INFORMACIJE
+	Kolegij Slučajni procesi I izvodi se u zimskom semestru prve godine Sveučilišnog diplomskog studija matematike, smjer financijska matematika i statistika. Cilj kolegija je usvajanje teorijskih koncepata vezanih uz osnovne tipove slučajnih procesa u diskretnom vremenu, razumijevanje analitičkih tehnika rješavanja problemskih zadataka iz teorije i prakse te prepoznavanje mogućih primjena slučajnih procesa.
+	VODITELJ KOLEGIJA: 
+		doc.dr.sc. Ivan Papić (https://www.mathos.unios.hr/index.php/26-homepage/odjel/kadrovi/homepages/132-ivan-papic-s-home-page)	
+		KONZULTACIJE: termin konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/132#teaching)	
+	OSNOVNA LITERATURA
+		R. Durrett, Essentials of Stochastic Processes, Springer Texts in Statistics, Springer, 1999.
+		G. Grimmett, D. Stirzaker, Probability and Random Processes, Clarendon Press, Oxford, 2004.
+	DODATNA LITERATURA
+		P. Baldi, L. Mazliak, P. Priouret, Martingales and Markov Chains: Solved Exercises and Elements of Theory, Chapman and Hall, New York, 2002.
+		N. Elezović, Statistika i procesi, Element, Zagreb, 2007.
+		S. Karlin, H. M. Taylor, A First Course in Stochastic Processes, Academic press, New York-London, 1975.
+		J. R. Norris, Markov Chains, Cambridge University Press, 1997.
+		S. I. Resnick, Adventures in Stochastic Processes, Birkhauser, Boston, 2002.
+		S. M. Ross, Introduction to Probability Models, Academic Press, 2014.
+		Z. Vondraček, Markovljevi lanci (web materijali), PMF-Matematički odsjek, Sveučilište u Zagrebu, 2013.
+		Z. Vondraček, Slučajni procesi (web materijali), PMF-Matematički odsjek, Sveučilište u Zagrebu, 2018.
+		D. Williams, Probability with Martingales, Cambridge University Press, 2001.	
+	Nužna znanja za praćenje kolegija (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/Nuzna_predznanja_Slucajni_procesi_I.pdf)
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Slučajni procesi I realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod zzkpay2.
+	MS Teams kod za 2022./2023. - zzkpay2oo2blt
+	Predavanja ponedjeljkom, 12:00-14:00	
+	Vježbe	četvrtkom, 12:00-14:00	
+
+
+PRAVILA POLAGANJA ISPITA
+	1. KOLOKVIJI
+		Tijekom semestra bit će organizirana dva kolokvija.
+		Na svakom kolokviju moguće je ostvariti najviše 50% od maksimalnog broja bodova. 
+		Barem 50% bodova ostvarenih putem kolokvija zamjena su za pismeni ispit i studentu osiguravaju pravo pristupanja usmenom ispitu tijekom akademske godine u kojoj je slušao kolegij. Na temelju tako ostvarenih bodova, ocjena za pristupanje usmenom ispitu formira se prema sljedećem kriteriju:
+			50%-64%: dovoljan(2); 65%-79%: dobar(3); 80%-90%: vrlo dobar(4); 91%-100%: izvrstan (5).
+		Tijekom semestra bit će zadane domaće zadaće i teme za samostalno učenje čije vrednovanje ne ulazi u ocjenu s kojom student pristupa usmenom ispitu, no koje mogu utjecati na pitanja i ocjenu na usmenom ispitu.
+	2. PISMENI ISPIT
+		Ukoliko student ne ostvari barem 50 bodova putem kolokvija, pristupa pismenom ispitu. Na pismenom ispitu moguće je ostvariti najviše 100 bodova. Ocjena pismenog ispita formira se prema sljedećem kriteriju:
+			50-64: dovoljan(2); 65-79: dobar(3); 80-90: vrlo dobar(4); 91-100: izvrstan (5).
+		S ostvarenih barem 50 bodova student ima pravo pristupiti usmenom ispitu u ispitnom roku (zimskom, ljetnom ili jesenskom) u kojem je položio pismeni ispit.
+	3. USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente.
+		Konačna ocjena na usmenom ispitu formira se uzimajući u obzir odgovore na postavljena pitanja, broj bodova ostvarenih putem kolokvija ili na pismenom ispitu, te usvojenost tema za samostalno učenje.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	kolokviji - zip datoteka (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/kolokviji.zip), prvi kolokvij 2014./2015. (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/SP_kol1_2015.pdf), drugi kolokvij 2014./2015. (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/SP_kol2_2015.pdf)
+	pismeni ispiti - zip datoteka (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/pismeni.zip)

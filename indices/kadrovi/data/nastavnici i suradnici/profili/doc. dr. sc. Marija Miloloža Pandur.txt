@@ -1,0 +1,107 @@
+General Information
+    Assistant Professor
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek 
+    phone: +385-31-224-819
+    fax: +385-31-224-801
+    email: mmiloloz@mathos.hr
+    office: 15 (first floor)
+    Research Interests
+        Numerical Mathematics
+        Numerical Linear Algebra
+    Degrees
+        PhD in mathematics, Faculty of Natural Science, Department of Mathematics, University of Zagreb, 2016 
+            Thesis: Computing interior eigenvalues and corresponding eigenvectors of definite matrix pairs, supervisors: K.Veselić, N.Truhar
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2007.
+
+
+Publications
+    Journal Publications
+        T. Marošević, J. Miletić, M. Miloloža Pandur, The bounds of votes of divisor electoral methods, Central European Journal of Operations Research  31 (2023)
+        M. Miloloža Pandur, Detecting a hyperbolic quadratic eigenvalue problem by using a subspace algorithm (https://link.springer.com/epdf/10.1007/s11075-019-00702-0?author_access_token=QCUtQ3e_390-jGN5gNp8Zve4RwlQNchNByi7wbcMAY4sdmVLCWrnMT3YcAAchuSAiQZrrButWjkKH7K1IdDzW8pVMYJBDadgsYfGU61u21b3szVxkTjlwnGhuGn0E4PN7RACAhJzJLTGA_LxLK1S9A%3D%3D), Numerical Algorithms 83/2 (2020), 767-787
+        M. Miloloža Pandur, Preconditioned gradient iterations for the eigenproblem of definite matrix pairs (http://etna.mcs.kent.edu/volumes/2011-2020/vol51/abstract.php?vol=51&pages=331-362), Electronic Transactions on Numerical Analysis 51 (2019), 331-362
+        D. Kressner, M. Miloloža Pandur, M. Shao, An indefinite variant of LOBPCG for definite matrix pencils (http://link.springer.com/article/10.1007%2Fs11075-013-9754-3#), Numerical Algorithms 66/4 (2014), 681-703
+    Refereed Proceedings
+        T. Marošević, J. Miletić, M. Miloloža Pandur,  Use of several inequalities in the comparison of proportional electoral methods, Book of Abstracts 17th International Conference on Operational Research, KOI 2018, Zadar, Croatia, 2018
+    Others
+        M. Miloloža Pandur, M. Pilj Vidaković, Generalizirani svojstveni problem (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/771.pdf ), Osječki matematički list 18/1 (2018)
+        M. Miloloža Pandur, Vedska matematika (https://hrcak.srce.hr/28748), Osječki matematički list 8/1 (2008), 19-28
+    Softwares
+        M. Miloloža Pandur, Preconditioned gradient iterations: MATLAB codes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/820.zip ) (2019)
+    Technical Reports
+        M. Miloloža Pandur, Preconditioned gradient iterations for the eigenproblem of definite matrix pairs (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/803.pdf ) (2019)
+        M. Miloloža Pandur, Detecting a hyperbolic quadratic eigenvalue problem by using a subspace algorithm (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/764.pdf ) (2018)
+
+
+Professional Activities
+    Committee Memberships
+        Udruga Matematičara Osijek  
+        HMD (Hrvatsko matematičko društvo)
+    Refereeing/Reviewing
+        Croatian Operational Research Review (CRORR)
+        International Journal of Mathematical Education in Science and Technology
+    Simposium and conference talk
+        Tenth Conference on Applied Mathematics and Scientific Computing, Brijuni, September 2020
+        Detecting hyperbolic quadratic eigenvalue problems, 
+        GAMM Workshop Applied and Numerical Linear Algebra 2019 (https://www.chemnitz-am.de/anla2019/index.php) (GAMM ANLA 2019), Chemnitz, Germany, 26-27 September 2019, program (https://www.chemnitz-am.de/anla2019/program.php)
+        Use of several inequalities in the comparison of proportional electoral methods, The 17th International Conference on Operational Research (http://hdoi.hr/koi2018/) (KOI 2018), Zadar, Croatia, 26-28 September 2018, joint work with Tomislav Marošević and Josip Miletić
+        New algorithms for detecting a hyperbolic quadratic eigenvalue problem,
+        Ninth Conference on Applied Mathematics and Scientific Computing (http://applmath.math.pmf.unizg.hr/#/) (ApplMath18), Solaris, Šibenik, Croatia, 17-20 September 2018, Book of Abstract (http://applmath.math.pmf.unizg.hr/ApplMath18%20-%20Book%20of%20Abstracts.pdf)s 
+        Detecting a Hyperbolic Quadratic Eigenvalue Problem Using a Subspace Algorithm,
+        6th International Eurasian Conference on Mathematical Sciences and Applications (IECMSA-2017) (http://www.iecmsa.org/), Budapest, 15-18 August 2017, Book of Abstracts (http://www.iecmsa.org/upload/dosya/IECMSA2017AbstractProceedingsBook.pdf)
+        Detecting a definite Hermitian matrix pair using a subspace algorithm, 6TH CROATIAN MATHEMATICAL CONGRESS (https://web.math.pmf.unizg.hr/congress15/abstracts.html), Zagreb, 14.6.2016.
+        Algoritam za svojstveni problem definitnih matričnih parova, Simpozij studenata doktorskih studija PMF-a, (https://www.pmf.unizg.hr/images/50016253/PROGRAM_SIMPOZIJ_PMF.pdf) Zagreb, 26.veljače 2016. 
+        An Eigensolver for Definite Matrix Pairs, Joint DMV and GAMM Annual Meeting, Braunschweig, 7-11 March 2016. (sudionici (http://jahrestagung.gamm-ev.de/images/2016/ParticipantsAll_2016-03-04.pdf)) (Book of Abstracts (http://www.iaa.tu-bs.de/vbach/Book-of-Abstracts_2016-03-04.pdf))
+    Seminar talks
+        Member of  Seminar za numeričku matematiku i znan. računanje  (http://degiorgi.math.hr/seminari/seminari_podaci.php?id=1)
+        Hamiltonijan-Jacobijev algoritam, 20.6.2013., Seminar za numeričku matematiku i znan. računanje  (http://degiorgi.math.hr/seminari/seminari_podaci.php?id=1)
+        Linearni vibracijski sistemi s jednodimenzionalnim prigušenjem, 12.11.2014., Seminar za optimizaciju i primjene (https://www.mathos.unios.hr/seminar/)
+        Računanje unutarnjih svojstvenih vrijednosti i svojstvenih vektora definitnih matričnih parova, 5.3.2015., Seminar za numeričku matematiku i znan. računanje  (http://degiorgi.math.hr/seminari/seminari_podaci.php?id=1)
+        Prekondicionirane gradijentne iteracije za rješavanje djelomičnog definitnog generaliziranog svojstvenog problema,27.5.2015., Radni seminar Odjela za matematiku  
+    Workshops
+        DAAD  PROJECT Center of Excellence for Applications of Mathematics in South–East Europe; Intensive course Krylov subspaces and applications, Kavaja, Albania, 11.9.2016.-17.9.2016.
+        Workshop within DAAD project Optimal Damping of Vibrating Systems, Osijek, 7.10.2014.-9.10.2014.
+        DAAD International School on Linear Optimal Control of Dynamic Systems, Osijek, 23.9.2013.-28.9.2013.
+        DAAD PROJECT Center of Excellence for Applications of Mathematics in South–East Europe; Intensive course Sparse Eigenvalue Problems, Sarajevo, 21.8.2011.-27.8.2011.
+    Service Activities
+        Zimska škola matematike za osnovnoškolce 2008., tema: Vedska matematika
+        Festival znanosti 2009. Radionica: Vedska matematika, voditelji: M. Miloloža Pandur, H. Velić
+        Festival znanosti 2010. Radionica: O ptičjoj udaljenosti između mjesta na Zemljinoj sferi, voditelji: T. Marošević, M. Miloloža Pandur, I. Papić
+        Festival znanosti 2017. Radionica: Kako uštedjeti vrijeme koristeći vedsku matematiku?, voditelji: M. Miloloža Pandur, A. Maglica, A. Krizmanić
+        Zimska škola matematike za osnovnoškolce 2018., tema: Kako je Mary sašila krivulju?, voditelji radionice: M. Miloloža Pandur, M. Špringman
+        Festival znanosti 2019. Poster: Šivanje krivulja, M. Miloloža Pandur, M. Špringman
+        kolovoz 2020., organizacijski odbor stučnog skupa Inovativna nastava matematike (http://inovmat.mathos.unios.hr/) (INOVMAT 20)
+
+
+Teaching
+    Current
+        Diferencijalni račun (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/179-diferencijalni-racun) (zimski semestar)
+        Matematika 1 (Diferencijalni račun), Odjel za fiziku (zimski semestar)
+        Matematika 1 (https://www.mathos.unios.hr/index.php/280), Prehrambeno-tehnološki fakultet (zimski semestar)
+        Digitalna pismenost (zimski semestar)
+        Primijenjena matematika u računalnoj znanosti  (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/586)(Vjerojatnost)
+    Past
+        Matematika 2, Prehrambeno-tehnološki fakultet (ljetni semestar)
+        Matematika, Ekonomski fakultet (ljetni semestar)
+        Uvod u vjerojatnost i statistiku   (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/203-uvod-u-vjerojatnost-i-statistiku)(zimski semestar)
+        Matematika (https://www.mathos.unios.hr/index.php/404), Fakultet agrobiotehničkih znanosti, preddiplomski studij (zimski semestar)
+        Matematika, Ekonomski fakultet (ljetni semestar)
+        M086 Linearna algebra I (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/182) (zimski semestar)
+        M020 Linearno programiranje (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/231) (ljetni semestar)
+        Mo12  Integralni račun (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/180) (ljetni semestar)
+        M066 Vektorski prostori (zimski semestar)
+        Matematika 1, PTF (zimski semestar)
+    Office Hours:
+        po dogovoru
+    Teme završnih radova:
+        Brojevi (tema iz Teorije skupova, Literatura: P. Papić, Uvod u teoriju skupova, HMD, 2000.;  M. Vuković, Teorija skupova (file:///C:/Users/mmiloloza/Downloads/TS-predavanja-2015.pdf), Sveučilište u Zagrebu, 2015.)
+        Neobični nizovi (tema iz Diferencijalnog računa)
+        Povijest matrica (tema iz Linearne algebre, Literatura: poveznica1 (https://www.oswego.edu/writing-across-the-curriculum/sites/www.oswego.edu.writing-across-the-curriculum/files/mat_casillo_3-23-16.pdf), poveznica2 (https://mathshistory.st-andrews.ac.uk/HistTopics/Matrices_and_determinants/) )
+        Primjene običnih diferencijalnih jednadžbi
+    Teme diplomskih  radova:
+        Google disk (tema iz Digitalne pismenosti)
+        Evolucija Interneta (tema iz Digitalne pismenosti)
+
+
+Personal
+    Married, two daughters and two sons

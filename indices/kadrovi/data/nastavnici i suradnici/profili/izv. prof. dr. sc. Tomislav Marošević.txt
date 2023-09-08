@@ -1,0 +1,81 @@
+General Information
+    Associate Professor
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-807
+    fax: +385-31-224-801
+    email: tmarosev@mathos.hr
+    office: 25/1 (ground floor)
+    Research Interests
+        Numerical and applied mathematics
+    Degrees
+        1998 PhD in Mathematics, Department of Mathematics, University of Zagreb, Croatia
+        1994 MSc in Mathematics, Department of Mathematics, University of Zagreb
+        1987 BSc in Mathematics and Physics, University of Osijek, Croatia 
+
+
+Publications
+    Journal Publications
+        T. Marošević, J. Miletić, M. Miloloža Pandur, The bounds of votes of divisor electoral methods, Central European Journal of Operations Research  31 (2023)
+        D. Jukić, T. Marošević, An existence level for the residual sum of squares of the power-law regression with an unknown location parameter (https://www.degruyter.com/document/doi/10.1515/ms-2021-0036/html), Mathematica Slovaca 71/4 (2021), 1019-1026
+        T. Marošević, I. Soldo, Modified indices of political power: a case study of a few parliaments (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/729.pdf ), Central European Journal of Operations Research  26/3 (2018), 645-657
+        T. Marošević, The Hausdorff distance between some sets of points (https://www.mathos.unios.hr/mc/index.php/mc/article/view/2540/554), Mathematical Communications 23 (2018), 247-257
+        R. Scitovski, T. Marošević, Multiple circle detection based on center-based clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/303.pdf ), Pattern Recognition Letters 52 (2015), 9-16
+        T. Marošević, R. Scitovski, Multiple ellipse fitting by center-based clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/539.pdf ), Croatian Operational Research Review  6/1 (2015), 43-53
+        T. Marošević, Data clustering for circle detection (http://hrcak.srce.hr/crorr), Croatian Operational Research Review  5/1 (2014), 15-24
+        T. Marošević, K. Sabo, P. Taler, A mathematical model for uniform distribution voters per constituencies (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=143330), Croatian Operational Research Review  4 (2013), 63-64
+        T. Marošević, R. Scitovski, An application of a few inequalities among sequences in electoral systems (http://dx.doi.org/10.1016/j.amc.2007.04.050), Applied mathematics and computation  194 (2007), 480-485
+        T. Marošević, Over- and Underrepresentation in Proportional Electoral Systems - an Empirical Study, Mathematical Communications - Supplement  1 (2001), 33-41
+        D. Jukić, T. Marošević, R. Scitovski, Discrete total lp-norm approximation problem for the exponential function (http://www.sciencedirect.com/science/article/pii/S0096300397100686), Applied mathematics and computation  94/2-3 (1998), 137-143
+        T. Marošević, D. Jukić,  Least orthogonal absolute deviations problem for exponential function (http://statpostgrade.ch/bilan/student/vol2n2.pdf), Student 2/2 (1997), 131-138
+        T. Marošević, Least orthogonal absolute deviations problem for  generalized  logistic  function, Mathematical Communications 2 (1997), 135-141
+    Refereed Proceedings
+        D. Jukić, T. Marošević,  Least squares fitting problem for the power-law regression with a location parameter, 18th International Conference on Operational Research, KOI 2020, Šibenik, 2020
+        T. Marošević, J. Miletić, M. Miloloža Pandur,  Use of several inequalities in the comparison of proportional electoral methods, Book of Abstracts 17th International Conference on Operational Research, KOI 2018, Zadar, Croatia, 2018
+        T. Marošević,  On directional bias of the Lp-norm, Conference on Applied Mathematics and Scientific Computing 2001, Dubrovnik, 2003, 229-235
+        T. Marošević, D. Šterc,  On estimating distances by means of Lp-norms, 9th International Conference on Operational Research KOI 2002, Trogir, 2002, 195-199
+        T. Marošević,  Estimation of optimal parameters of generalized logistic model--function in the discrete Lp norm, 7th International Conference on Operational Research KOI 1998, Rovinj, 1999, 247-256
+        T. Marošević, I. Bašić,  Primjena dviju inačica metode najmanjih kvadrata u ispitivanju električnih strojeva, 6th International Conference on Operational Research KOI 1996, Rovinj, 1996, 69-74
+        R. Scitovski, T. Marošević, D. Jukić,  Estimation of the optimal initial conditions in mathematical  model, 17th Int. Conf. Information Technology Interfaces, Cavtat, 1995, 475-480
+        R. Galić, R. Scitovski, T. Marošević, D. Jukić,  Problem optimalnih početnih uvjeta u  matematičkom modelu, 5th Conference on Operational Research KOI 1995, Rab, 1995, 62-71
+        R. Galić, R. Scitovski, T. Marošević,  Primjena pomične metode najmanjih  kvadrata za rješavanje problema identifikacije parametara u matematičkom  modelu, 4th Conference on Operational Research KOI 1994, Rab, 1994, 181-191
+        D. Sobol, T. Marošević,  Procjena nula u dijagramu zračenja adaptivnih antenskih  sustava, 33. Simpozij ETAN u pomorstvu, Zadar, 1991, 283-286
+    Others
+        T. Marošević, M. Šarić, O indeksima snage u sustavima glasovanja da-ne (https://hrcak.srce.hr/file/349432), Math.e : hrvatski matematički elektronski časopis  36/1 (2019), 1-12
+        T. Marošević, I. Soldo, Kako se mjeri snaga stranaka u parlamentu (2016)
+        T. Marošević, O metodama raspodjele mjesta u razmjernim izbornim sustavima, Osječki matematički list 1 (2001), 29-33
+        T. Marošević, A choice of norm in discrete approximation, Mathematical Communications 1 (1996), 147-152
+        T. Marošević, Nonparametric Regression -- Some Approaches, Mathematical Communications 1 (1996), 43-50
+        T. Marošević, Verižni razlomci i fizika, Matka  5 (1996), 7-11
+        T. Marošević, O metodama za rješavanje rijetkih nelinearnih sustava jednadžbi, Tehnički vjesnik 2/3-4 (1995), 33-40
+        T. Marošević, Verižni razlomci, Matka  4 (1995), 127-132
+
+
+Projects
+    Nonlinear parameter estimation problems in mathematical models (235-2352818-1034)
+        Project leader: prof.dr.sc. Dragan Jukić, Dept. of Mathematics, University of Osijek ((Ministry of Science, Education and Sport of the Republic of Croatia, 2007-2013), investigator
+    Parameter estimation in mathematical models (0235001)       
+        Project leader: prof.dr.sc. Rudolf Scitovski, Dept. of Mathematics, University of Osijek (Ministry of Science, Education and Sport of the Republic of Croatia, 2002-2006), investigator
+    Parameter identification problems in mathematical models (165021) (Department of Mathematics, University of Osijek; - Ministry of Science and Technology), investigator
+    Application of numerical and finite mathematics (1-01-129)  (Faculty of Electrical Engineering, University of Osijek;  - Ministry of Science, Technology and Computing), investigator 
+
+
+Professional Activities
+    Editorial Boards
+        Osječki matematički list (https://www.mathos.unios.hr/oml/)
+    Refereeing/Reviewing
+        Mathematical Reviews
+        Osječki matematički list (https://www.mathos.unios.hr/oml/)
+
+
+Teaching
+    Current
+        Povijest matematike (http://www.mathos.hr/index.php/237)
+        Primjene diferencijalnog i integralnog računa II (http://www.mathos.unios.hr/index.php/209)
+        Matematički aspekti izbornih sustava (http://www.mathos.hr/index.php/242)
+        Matematika III  (Fakultet elektrotehnike, računarstva i informacijskih tehnologija u Osijeku)
+        Matematika II (https://www.mathos.unios.hr/index.php/284)  (Prehrambeno-tehnološki fakultet u Osijeku)    
+    Office Hours: 
+        četvrtak (Thu) u 11:45 - 12:30 . Također, konzultacije su moguće i po dogovoru.
+    Teme diplomskih radova:   
+        pdf (https://www.mathos.unios.hr/images/homepages/tmarosev/teme_diplomski_2022_23.docx) 

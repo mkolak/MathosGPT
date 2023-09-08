@@ -1,0 +1,44 @@
+OSNOVNE INFORMACIJE
+	Cilj ovog predmeta usvojiti je temeljna znanja i koncepte iz područja valova, optike, akustike i atomske fizike. Tijekom kolegija studenti će se pripremati za kolegije koji slijede i koji zahtijevaju poznavanje prirodnih zakona iz navedenih područja.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku:  (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/f009.pdf).
+	VODITELJ KOLEGIJA
+		Izv.prof.dr.sc. Branko Vuković	
+		KONZULTACIJE: Ponedjeljkom od 11-12h
+		doc.dr.sc. Domagoj Bilić
+	ASISTENT
+		Jelena Strišković, prof
+		KONZULTACIJE: Četvrtkom od 10-12h
+	OSNOVNA LITERATURA
+		Planinić, J., Osnove fizike III., Valovi – akustika – optika - uvod u atomsku fiziku, Filozofski fakultet Osijek, 2005. 
+		http://www.fizika.unios.hr/of3
+		Henč-Bartolić, V., Kulišić, P., Valovi i optika, Školska knjiga, Zagreb, 1991.
+		Cindro, N., Fizika 1, Školska knjiga, Zagreb, 1988.
+		Henč-Bartolić, V., Baće, M., Bistričić, L., Horvat, D., Kulišić, P., Rješeni zadaci iz valova i optike, Školska knjiga, Zagreb, 1992.
+	Dopunska literatura:
+		Paić, M., Gibanje, Sile, Valovi, Liber, Zagreb, 1997.
+		Paić, M., Osnove fizike, IV dio, Sveučilišna naklada Liber, Zagreb, 1983.
+		Halliday, D., Resnick, R., Walker, J., Fundamentals of physics, John Wiley & Sons, Hoboken, 2003.
+		Young, H., Freedman, R., University Physics, with modern physics Addison-Wesley Publ., New York, 2008.
+		Giambattista, A i suradnici, College physics, McGraw Hill, 2007.
+		E. Babić, R. Krsnik i M. Očko. Zbirka riješenih zadataka iz fizike. Školska knjiga, Zagreb 2004.
+		V. Henč-Bartolić et. al. Riješeni zadaci iz valova i optike, Školska knjiga, Zagreb, 2002.
+		V. Lopac, P. Kulišić, V. Volovšek i V. Danani, Riješeni zadaci iz elektromagnetskih pojava i strukture tvari, Školska knjiga, Zgreb, 1992.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Osnove fizike III realizira se s fondom od 105 sati (tjedno 4 sata predavanja, 2 sata vježbi i 1 sat seminara).
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. 
+
+ 
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih na kolokvijima (90% ocjene: 40% iz teorijskih zadataka, 40% iz numeričkih zadataka i 10% iz konceptualnih zadataka) te seminarima (10%).
+	Za ocjenu dovoljan (2) potrebno je skupiti barem 50% ukupnog broja bodova, uz uvjet da je potrebno skupiti barem 50% od mogućih bodova iz teorijskih zadataka i barem 50% od mogućih bodova iz numeričkih zadataka.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. Na pismenom ispitu rješavaju se numerički zadaci; rezultat pismenog ispita čini 40% konačne ocjene.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Usmeni ispit nosi 40% konačne ocjene.
+		Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+NASTAVNI MATERIJALI
+	Svi nastavni materijali dostupni su na: http://gama.fizika.unios.hr/~branko/of3.htm

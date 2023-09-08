@@ -1,0 +1,15 @@
+C++ Club
+    Club idea: Host a non-academic environment for those interested in developing their knowledge of C++.
+    Plan: Weekly seminars covering a range of topics in C++ lasting roughly one hour, followed by individual consultation and tutorial. The seminars will typically include an introduction, writing some code, interpretting compiler messages, and using the C++ reference material. It is expected that C++14 will be the language discussed.Language of the Club: English and Croatian
+    Authors: 
+        Nathan Chappell, Department of Mathematics (skipper)
+        izv. prof. dr. sc. Domagoj Matijević, Department of Mathematics (coordinator)
+    About the club
+        Topics: The topics discussed will depend (due a very large degree) on the participants. The material covered will likely include: Technical language details. C++ can be a difficult language to interpret, by going slowly through some more complicated examples we should all come to a better understanding of it.
+        The Standard Library. The standard library is a labyrinth of (seemingly) complicated ways of accomplishing (seemingly) simple tasks, at least it seems like it at first. Getting some help understanding what is implemented and why it is implemented in that way will help tame the beast. Implementation of algorithms. It's usually preferred that a program does something useful, so we will probably end up writing at least one program that does work.
+        Tools. While we firmly believe that a programmer's most valuable tools are her text editor and brain, we don't have all day, so we get some help. C++ compilers can generate some pretty scary messages, but they are usually helpful if you know what you are looking for. Also, formatting programs can be tedious, so maybe we'll let something do that automatically for us.
+        External Libraries. Honestly, it isn't completely obvious how to even use external libraries in C++, so we'll run through it here. Then, we can benefit from the fruit of the world's labor to create programs that display graphics, solve linear programs, or even analyze other C++ programs. If it means anything to you at this point, the fuctionality provided by the following headers will certainly be discussed:
+    Schedule
+        Friday 12h (RP2) (18.10. first meeting)
+    A note from the author Nathan Chappell
+        I am looking forward to this club, because I really enjoy the C++ programming language. It is an interesting organism with origins that go back through the history of programming, starting with some "hacker" proving that programming wasn't just meant for squares in lab-coats (see Dennis Ritchie). While there is a bunch of stuff written above, my only goal is that those who attend the club end up enjoying C++. As a student, I've had a hard time learning about C++, and I hope that I can help you learn about it more efficiently (and less painfully) than I did. I've also found that being able to use the reference material and write minimal test cases to answer (most) questions I have on my own is quite helpful, so I'll do my best to help you learn how to do the same.

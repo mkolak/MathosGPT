@@ -1,0 +1,22 @@
+OSNOVNE INFORMACIJE
+	Napredne tehnike programiranja izvodi se u ljetnom semestru druge godine sveučilišnog diplomskog studija matematike i računarstva. Cilj kolegija je: upoznati studente s oblikovnim obrascima u programiranju; ovladati SOLID principima dizajniranja programskog koda; razumjeti i znati praktično koristiti koncepte kreacijskih (creational), strukturnih (structural) i „behavioral“ oblikovnih obrazaca.
+	Naglasak će biti na praktičnoj implementaciji ovakvih koncepata u jeziku C++. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i068.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)	
+		KONZULTACIJE: Ponedjeljkom od 11-13h	
+	ASISTENT
+		Antonio Jovanović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/821)	
+		KONZULTACIJE: Četvrtkom od 10-12h	
+	OSNOVNA LITERATURA
+		E. Gamma, R. Helm, R. Johnson, J. Vlissides, G. Booch, Design Patterns: Elements of Reusable Object-Oriented Software, Addison-Wesley, 1995.
+		A. Alexandrescu, Modern C++ Design: Generic Programming and Design Patterns Applied, Addison-Wesley, 2001
+		B. Stroustrup, The C++ Programming Language, Addison Wesley, 2000.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Predavanja i vježbe	TERMIN: Petak, 12h-16h	PREDAVAONICA: Računalni praktikum 2 (RP2)	
+
+
+PRAVILA POLAGANJA ISPITA
+	Predavanja i vježbe su obvezni. Ispit se sastoji od praktičnog dijela, a polaže se nakon odslušanih predavanja. Vježbe su laboratorijske uz korištenje računala. Studenti mogu utjecati na ocjenu tako da tijekom semestra pišu domaće zadaće. Tijekom predavanja bit će definirani samostalni ili grupni praktični projekti.

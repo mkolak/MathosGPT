@@ -1,0 +1,411 @@
+Statistički seminar
+    Statistički seminar Odjela za matematiku osnovan je u studenom 2017. godine s namjerom da se na njemu prezentiraju razne teme iz područja primijenjene i matematičke statistike.
+    Cilj seminara je uspostaviti znanstvenostručnu suradnju između nastavnika i suradnika sa svih sastavnica Sveučilišta J.J. Strossmayera u Osijeku iz područja statistike.
+    Statistički seminar održava se četvrtkom u 15:15 sati u predavaonici 2 na katu Odjela za matematiku.
+    e-mail seminara: statistika@mathos.hr
+    Ukoliko želite postati član Statističkog seminara to možete ostvariti ispunjavanjem sljedeće pristupnice(https://www.mathos.unios.hr/index.php/znanost/kolokviji-i-seminari/statisticki-seminar/530)
+    Tajnik seminara: Ivan Papić
+
+Voditelji seminara:
+    Mirta Benšić
+        redovni profesor tel: +385-31-224-800  fax: +385-31-224-801 email: mirta@mathos.hr  ured: 25 (prvi kat)
+    Nenad Šuvak
+        izvanredni profesor tel: +385-31-224-821  fax: +385-31-224-801  email: nsuvak@mathos.hr  ured: 18 (prvi kat)
+
+Mjesto i vrijeme:
+    Odjel za matematiku
+        Trg Lj. Gaja 6, Osijek 
+        Predavaonica 2 
+        Četvrtak u 15:15h
+        
+Članovi seminara:
+    Ekonomski fakultet u Osijeku
+        Luka Abičić
+        Ana Bilandžić
+        Antun Biloš
+        Đula Borozan
+        Martina Briš Alić
+        Ivan Kelić
+        Marinela Knežević
+        Ivan Kristek
+        Ivana Licht
+        Sanela Ravlić
+        Marina Stanić
+        Nataša Šarlija
+        Marijana Zekić Sušac
+    Fakultet za dentalnu medicinu i zdravstvo
+        Ivana Škrlec
+    Fakultet za odgojne i obrazovne znanosti
+        Ana Mirković Moguš
+        Diana Moslavac Bičvić
+        Tena Velki
+    Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek
+        Marinko Barukčić
+        Dragana Božić Lenard
+        Toni Varga
+    Filozofski fakultet Osijek
+        Vesna Bagarić Medve
+        Dino Krupić
+        Višnja Pavičić Takač
+        Silvija Ručević
+    Građevinski i arhitektonski fakultet Osijek
+        Hana Begić
+        Adriana Cerovečki
+        Mario Galić
+        Marin Grubišić
+        Marijana Hadzima-Nyarko
+        Ivan Kraus
+        Siniša Maričić
+        Josipa Matotek
+        Tatjana Mijušković-Svetinović
+        Dino Obradović
+        Mihaela Teni
+        Držislav Vidaković
+    KBC Osijek
+        Ljiljana Širić
+        Marin Vučković
+    Medicinski fakultet Osijek
+        David Andrijević
+        Hrvoje Brkić
+        Matija Fenrich
+        Marija Heffer
+        Vesna Ilakovac
+        Vedrana Ivić
+        Maja Jirouš
+        Kristina Kralik
+        Dubravka Matijašić-Bodalec
+        Katarina Mišković Špoljarić
+        Mirko Pešić
+        Krešimir Šolić
+        Maja Tolušić Levak
+        Ljiljana Trtica Majnarić
+    Odjel za biologiju
+        Branimir Hackenberger
+        Irena Labak
+    Odjel za fiziku
+        Matko Mužević
+    Odjel za matematiku
+        Mirta Benšić
+        Josip Cvenić
+        Rebeka Čorić
+        Mateja Đumić
+        Danijel Grahovac
+        Lucijana Grgić
+        Nera Keglević
+        Snježana Majstorović
+        Darija Marković
+        Dominik Mihalčić
+        Toni Milas
+        Sanja Novaković
+        Ivan Papić
+        Filip Paradžik
+        Matea Radan
+        Una Radojičić
+        Nikolina Romić
+        Željka Salinger
+        Nenad Šuvak
+    Fakultet agrobiotehničkih znanosti Osijek
+        Boris Lukić
+        Sanja Jelić Milković
+        Andrijana Rebekić
+    Poljoprivredni Institut Osijek 
+        Vlatko Galić
+    Pravni fakultet Osijek
+        Barbara Herceg Pakšić
+        Katarina Marošević
+    Prehrambeno-tehnološki fakultet Osijek
+        Ines Banjari
+        Veronika Barišić
+        Ana-Marija Cikoš
+        Lidija Dujmović
+        Marijana Grec
+        Lidija Jakobek Barron
+        Marko Jukić
+        Mirela Lučan
+        Jasmina Lukinac
+        Damir Magdić
+        Tihana Marček
+        Jelena Panak Balentić
+        Dijana Podravac
+    Osnovne i srednje škole
+        Marina Herceg, Ekonomska i upravna škola Osijek
+        Emina Lulić, Gimnazija A. G. Matoša Đakovo
+        Marija Kristina Imširović, Osnovna škola "Antunovac"
+    Katolički bogoslovni fakultet u Đakovu
+        Josip Bošnjaković
+    Hrvatska akademija znanosti i umjetnosti
+        Martina Harc
+    Ostale medicinske ustanove
+        Sanja Bekić, Specijalistička ordinacija obiteljske medicine dr. Sanja Bekić
+        Ivica Dubravica, Poliklinika Dubravica
+    Ostale ustanove
+        Marina Prce, Poglavarstvo grada Vukovara, odjel gospodarstva
+        Ivan Juričić, Agencija za strukovno obrazovanje i obrazovanje odraslih
+        Mario Jadrić, Hrvatsko društvo za operacijska istraživanja
+
+Održani seminari: 
+    Akademska godina 2022./2023.:
+        Dr. David Simon, Department of Statistics, Eötvös Loránd University:  Sampling rare and elusive population on the example of Roma Survey 2020, 1. lipnja 2023.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_06_01_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_06_01_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_06_01_3.JPG 
+
+        Nikolina Milinčević, Prirodoslovno matematički fakultet - Matematički odsjek, Sveučilište u Zagrebu:  Regularno varirajući slučajni elementi u Poljskim prostorima i njihove neprekidne transformacije, 25. svibnja 2023.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_05_25_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_05_25_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_05_25_3.JPG 
+
+        Ana Martinčić Špoljarić, Rimac Automobili d.o.o.:  Konvergencija diskretnog modela skraćivanja telomera prema vremensko neprekidnim procesima, 18. svibnja 2023.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_05_18_1.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_05_18_2.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_05_18_3.jpg 
+
+        dr. sc. Una Radojičić, Institute of Statistics & Mathematical Methods in Economics, Vienna University of Technology:  Functional outlier detection and robust covariance estimation, 26. travnja 2023.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_4_26_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_4_26_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_4_26_3.JPG 
+
+        doc. dr. sc. Petra Posedel Šimović, Agronomski fakultet, Sveučilište u Zagrebu:  Inferencijalno strojno učenje u financijama i ekonomiji: problem klasifikacije u poslovnoj praksi- problem nebalansiranih kategorija i predikcija churna, 13. veljače 2023.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_2_13_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_2_13_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_2_13_3.JPG 
+
+        doc. dr. sc. Franka Miriam Brueckler, Prirodoslovno matematički fakultet - Matematički odsjek, Sveučilište u Zagrebu:  Od J. Graunta do W. S. Gosseta - prvih 250 godina statistike, 19. siječnja 2023.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_1_19_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_1_19_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_23_1_19_3.JPG 
+
+        doc. dr. sc. Ivan Papić, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Frakcionalni Besselov proces, 15. prosinca 2022.
+    Akademska godina 2021./2022.:
+        Bojana Jovanović, Faculty of Sciences and Mathematics - Department of Mathematics, University of Niš:  A stochastic epidemic models for modeling the spread of West Nile virus, 28. lipnja 2022.
+            Sažetak: https://www.mathos.unios.hr/#najava967_collapse967 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_6_28_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_6_28_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_6_28_3.JPG 
+
+        Matilda Sorić, St. Edward's University in Austin, Texas:  Predicting Chances of having Bladder Cancer with Bayesian model, 26. svibnja 2022.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_5_26_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_5_26_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_5_26_3.JPG 
+
+        Prof. Dr. Herwig Friedl, Institute of Statistics, Graz University of Technology:  Mixture Models in Practice, 11. svibnja 2022.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_5_11_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_5_11_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_5_11_3.JPG 
+
+        prof. dr. sc. Miljenko Huzak, Prirodoslovno matematički fakultet - Matematički odsjek, Sveučilište u Zagrebu:  Matematičko modeliranje skraćivanja telomera, 28. travnja 2022.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_4_29_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_4_29_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_4_29_3.JPG 
+
+        prof. dr. sc. Marija Milošević, Faculty of Sciences and Mathematics - Department of Mathematics, University of Niš:  Stohastički model serotonina, 14. travnja 2022.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_4_14_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_4_14__2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_22_4_14_3.JPG 
+
+        prof.dr.sc. Janez Stare, Faculty of Medicine, University of Ljubljana:  Some examples of wrong usage of statistics, 7. travnja 2022.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_7_4_22_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_7_4_22_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_7_4_22_3.JPG 
+
+        izv. prof. dr. sc. Nenad Šuvak, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Primjeri stohastičkih modela za širenje epidemije virusa SARS-CoV-2, 3. veljače 2022.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_2_4_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_2_4_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_22_2_4_3.JPG 
+
+        Željka Salinger, School of Mathematics, Cardiff University:  Generalized Gaussian model for EEG data, 9. prosinca 2021.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_21_12_9_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_21_12_9_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_21_12_9_3.JPG 
+
+        izv. prof. dr. sc. Martina Mihalj, izv. prof. dr. sc. Silvija Ručević, Medicinski fakultet Osijek & Filozofski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Specifičnosti statističkih analiza u biomedicinskim istraživanjima, 2. prosinca 2021.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_21121_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_21121_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_21121_3.JPG 
+
+        prof. dr. sc. Nataša Erjavec, Ekonomski fakultet Zagreb, Sveučilište u Zagrebu:  Panel modeli - prednosti i izazovi, 25. studenog 2021.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_211125_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_211125_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_211125_3.JPG 
+
+        prof. dr. sc. Anamarija Jazbec, Šumarski fakultet, Sveučilište u Zagrebu:  Analiza korespodencije, 11. studenog 2021.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem211111_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem211111_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem211111_3.JPG 
+
+        dr. sc. Una Radojičić, Institute of Statistics & Mathematical Methods in Economics, Vienna University of Technology:  Order Determination for Matrix-valued Observations Using Data Augmentation, 27. listopada 2021.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_20211127_1.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_20211127_2.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/StatSem_20211127_3.jpg 
+
+    Akademska godina 2020./2021.:
+        izv. prof. dr. sc. Danijel Grahovac, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Pregled nekih tema vezanih uz granično ponašanje slučajnih procesa, 13. studenog 2020.
+
+        Una Radojičić, Institute of Statistics & Mathematical Methods in Economics, Vienna University of Technology:  Notion of information and Independent component analisys, 23. listopada 2020.
+
+    Akademska godina 2019./2020.:
+        izv.prof.dr.sc. Tena Velki, Fakultet za odgojne i obrazovne znanosti , Sveučilište J.J. Strossmayera u Osijeku:  Predviđanje ponašanja u društvenim istraživanjima, 5. ožujka 2020.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_050320_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_050320_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_050320_3.JPG 
+
+        Dušan Đorđević, mag.math., PMF - Departman za matematiku, Univerzitet u Nišu:  One approximate method for stochastic differential equations with coefficients which satisfy polynomial condition, 29. studenog 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_291119_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_291119_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_291119_3.JPG 
+
+        izv. prof. dr. sc. Tomislav Marošević, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  O matematičkim aspektima izbornih sustava, 28. studenog 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_281119_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_281119_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_281119_3.JPG 
+
+        prof. dr. sc. Mirta Benšić, izv. prof. dr. sc. Nenad Šuvak, Odjel za matematiku, Sveučilište J.J. Strossmayera u Osijeku:  Predstavljanje programa cjeloživotnog obrazovanja „Primijenjena statistika", 10. listopada 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem101019_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem101019_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem101019_3.JPG 
+
+    Akademska godina 2018./2019.:
+        izv. prof. dr. sc. Danijel Grahovac, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Lévyjevi procesi rizika, teorija fluktuacija i optimizacija dividendi, 27. lipnja 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_270619_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_270619_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_270619_3.JPG 
+
+        dr. sc. Dino Krupić, Filozofski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Analiza podataka dobivenih iz  longitudinalnih istraživanja, 30. svibnja 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_300519_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_300519_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_300519_3.JPG 
+
+        prof. dr. sc. Mirta Benšić, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Strukturne jednadžbe i problem endogenosti, 18. travnja 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_180419_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_180419_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_180419_3.JPG 
+
+        prof. dr. sc. Vesna Ilakovac, Medicinski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Statističke analize i metode u objavljenoj literaturi u području biomedicine i zdravstva: SAMPL smjernice, 4. travnja 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_04_04_2019_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_04_04_2019_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_04_04_2019_3.JPG 
+
+        Una Radojičić, Odjel za matematiku, Sveučilište u Osijeku:  Algoritmi za inicijalizaciju Gaussovih miješanih modela II, 28. veljače 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem28219_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem28219_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem28219_3.JPG 
+
+        Una Radojičić, Odjel za matematiku, Sveučilište u Osijeku:  Algoritmi za inicijalizaciju Gaussovih miješanih modela, 14. veljače 2019.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem14219_1.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem14219_2.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem14219_3.jpg 
+
+        izv. prof. dr. sc. Marinko Barukčić, Fakultet elektrotehnike, računarstva i informacijskih tehnologija Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Jednostavni stohastički model za procjenu neodređenosti proizvodnje fotonaponskog (PV) sustava, 17. siječnja 2019.
+
+        Ana Leko, Machine Learning Engineer, Gideon Brothers d.o.o.:  Primjena metoda dubokog učenja u računalnom vidu, 20. prosinca 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem201218_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem201218_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem201218_3.JPG 
+
+        Prof. Andrew R. Barron, Yale University, USA:  Linear and Nonlinear Modeling in Food Technology: Lessons and New Advances (Mjesto predavanja: V, 13. prosinca 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Talk_AndrewBarron_Alumni_Professional.pdf 
+
+        Prof. Andrew Barron, Yale University, USA:  Improved Statistical Fitting of Adsorption Isotherms (Mjesto predavanja: Vijećnica PTFOS-a), 11. prosinca 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Talk_AndrewBarron-faculty.pdf 
+
+        , :  Modeli kratkoročne prognoze koncentracije peludi bazirani na strojnom učenju, 6. prosinca 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem61218_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem61218_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem61218_3.JPG 
+
+        Marinela Knežević, Ekonomski fakultet u Osijeku, Sveučilište J.J. Strossmayera u Osijeku:  Vektorski autoregresivni modeli – uvod i primjena u modeliranju koncentracije peludi ambrozije, 22. studenog 2018.
+            Sažetak: https://www.mathos.unios.hr/#najava798_collapse798 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem221118_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem221118_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem221118_3.JPG 
+
+        izv. prof. dr. sc. Nenad Šuvak, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Modeliranje koncentracije peludi ambrozije, 8. studenog 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem081118_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem081118_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem081118_3.JPG 
+
+    Akademska godina 2017./2018.:
+        Matija Klarić, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Modeliranje prirasta EEG signala stacionarnim difuzijama, 7. lipnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_07062018_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_07062018_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_07062018_3.JPG 
+
+        Filip Paradžik, Željka Salinger, Odjel za matematiku, Sveučilište J.J. Strossmayera u Osijeku:  Metode procjene izloženosti kontaminantima u hrani, 17. svibnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_180517_1.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_180517_2.jpg 
+
+        Steffen Remus, Faculty of Mathematics, Informatics  and Natural Sciences - Department of Informatics, Hamburg University:  Information Management in the Biomedical Domain: Assistive Technologies for Reading Comprehensio, 26. travnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_260418_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_260418_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_260418_3.JPG 
+
+        dr. sc. Dino Krupić, Filozofski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Moderatorska regresijska analiza, 19. travnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem19418_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem19418_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem19418_3.JPG 
+
+        mr. sc. Josipa Matotek, Građevinski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Primjena statistike u hidrologiji, 5. travnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_05_04_18_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_05_04_18_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_05_04_18_3.JPG 
+
+        izv. prof. dr. sc. Silvija Ručević, Filozofski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Osnove faktorske analize, 22. ožujka 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_seminar_22318_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_seminar_22318_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_seminar_22318_3.JPG 
+
+        prof. dr. sc. Andrew R. Barron, Yale University, USA:  Proper Statistical Fitting of Adsorption Isotherms, 15. ožujka 2018.
+            Sažetak: https://www.mathos.unios.hr/#najava766_collapse766 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_150318_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_150318_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_150318_3.JPG 
+
+        prof. dr. sc. Vesna Lužar-Stiffler, Cair-Centar d.o.o.:  Bootstrap metode u biostatistici, 8. ožujka 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem08_03_18_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem08_03_18_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem08_03_18_3.JPG 
+
+        Ana Bilandžić, Ekonomski fakultet u Osijeku, Sveučilište J.J. Strossmayera u Osijeku:  Panel analiza podataka - odakle krenuti, 1. ožujka 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_02_03_2018_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_02_03_2018_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/stat_sem_02_03_2018_3.JPG 
+
+        prof. dr. sc. Marijana Zekić-Sušac, Ekonomski fakultet u Osijeku, Sveučilište J.J. Strossmayera u Osijeku:  Modeliranje pomoću umjetnih neuronskih mreža - prednosti i nedostatci, 22. veljače 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/slika_1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/slika_2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/slika_3.JPG 
+
+        Filip Paradžik, Odjel za matematiku, Sveučilište J.J. Strossmayera u Osijeku:  Coxov regresijski model u primjeni, 25. siječnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem1.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem3.JPG 
+
+        prof. dr. sc. Đula Borozan, Ekonomski fakultet u Osijeku, Sveučilište J.J. Strossmayera u Osijeku:  "Data envelopment" analiza - izazovi i primjena, 18. siječnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Stat_sem1.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Stat_sem2.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Stat_sem3.JPG 
+
+        izv. prof. dr. sc. Silvija Ručević, Filozofski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Muke po malom uzorku, 11. siječnja 2018.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/P1119390.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/P1119391.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/P1119392.JPG 
+
+        prof. dr. sc. Nataša Šarlija, Ekonomski fakultet u Osijeku, Sveučilište J.J. Strossmayera u Osijeku:  Upotreba logističke regresije u procjeni potencijala za rast poduzeća, 21. prosinca 2017.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Stat_seminar1.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Stat_seminar2.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/Stat_seminar3.jpg 
+
+        izv. prof. dr. sc. Nenad Šuvak, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Mjere zavisnosti - svojstva i zamke, 14. prosinca 2017.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/PC149164.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/PC149165.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/PC149166.JPG 
+
+        izv. prof. dr. sc. Vesna Ilakovac, Medicinski fakultet Osijek, Sveučilište J.J. Strossmayera u Osijeku:  Smjernice o izvještavanju istraživanja u biomedicini, 7. prosinca 2017.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem171207.JPG 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem271217.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem371217.jpg 
+
+        prof. dr. sc. Mirta Benšić, Odjel za matematiku, Sveučilište J. J. Strossmayera u Osijeku:  Regresijska analiza - interpretacije i zablude, 30. studenog 2017.
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_171130_1.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_171130_2.jpg 
+            Sažetak: https://www.mathos.unios.hr/images/predavanja/statsem_171130_3.jpg 

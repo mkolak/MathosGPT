@@ -1,0 +1,36 @@
+OSNOVNE INFORMACIJE
+	Uvod u programiranje izvodi se u ljetnom semestru prve godine sveučilišnog preddiplomskog studija matematike i sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je studente upoznati s temeljima objektno orijentiranog programiranja koristeći programski jezik C++ te steći predznanje koje će im koristit kako u timskom tako i u samostalnom rješavanju programskih zadataka.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)	
+		KONZULTACIJE: Ponedjeljkom od 11-13h	
+	ASISTENT
+		dr.sc. Domagoj Ševerdija (http://www.mathos.hr/~dseverdi)	
+		KONZULTACIJE: Četvrtkom od 10-12h	
+	ASISTENT
+		mr.sc. Petar Taler (http://www.mathos.hr/~petar)
+		KONZULTACIJE: Srijedom od 10-12h	
+	OSNOVNA LITERATURA
+		B. Motik, J. ribar: Demistificirani C++ (http://www.oss.unist.hr/~jvrlic/dokumenti/OOP/demistificirani_c++.pdf), Element, Zagreb, 1997
+		D. Matijevi, Nastavni materijali dostupni na web stranici predmeta.
+		M. Essert, C/C++ programski jezik, Zavodska skripta, FSB, 2000
+		Ortega. Grimshaw: An Introduction to C++ and Numerical Methodes, Oxford University Press, 1999.
+		B. Stroustrup, The C++ Programming Language, Addison Wesley, 2000.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Uvod u programiranje realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: Srijeda, 10-12h	PREDAVAONICA: P37	
+	VJEŽBE - grupa A	TERMIN: Četvrtak, 14-16h	PREDAVAONICA: P2	
+	VJEŽBE - grupa B	TERMIN: Četvrtak, 16-18h	PREDAVAONICA: P2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih na domaćim zadaćama, na kojima studenti mogu ostvariti ocjene dovoljan (2), dobar (3), vrlo-dobar (4). 
+		Za ocjenu dovoljan (2) potrebno je skupiti barem 40% od ukupnog broja bodova s domaćih zadaća. 
+		Oni studenti koji žele ocjenu odličan (5) trebaju napraviti samostalni programerski projekt koji će biti definiran pri kraju predavanja.
+	Domaće zadaće bit će dostupne studentima na tjednoj bazi, odnosno iza svakih vježbi biti će objavljena nova zadaća na ScriptRunner-u koju studenti mogu rješavati do kraja tjedna. Na sljedećim vježbama studenti će imati priliku izložiti svoja rješenja. Svi oni studenti koji predaju zadaće, a ne pojave se na vježbama neće im se priznavati bodovi iz zadaće.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

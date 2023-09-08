@@ -1,0 +1,114 @@
+General Information
+    PhD
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek 
+    phone: +385-31-224-822
+    fax: +385-31-224-801
+    email: jjankov@mathos.hr
+    office: 35 (first floor)
+    Google Scholar (https://scholar.google.hr/citations?view_op=list_works&hl=hr&user=o70N69MAAAAJ&gmla=AJsN-F7OsYLOXKvcq1T-esxmLUJT14HLcsjQmGHUKVnuR8iXOtJvidIkDfIjlSIR0mvpjcb6U6qk5_15dIaC7DqMsNTdvGCIeFb7RAf-QRZNUHko_0gvj5jKXlALD45-tkADswRNlDJ1)
+    Research Interests
+        Functional Analysis
+        Partial Differential Equations
+        Homogenization Theory and Applications in Optimal Design
+    Degrees
+        PhD in Mathematics, Department of Mathematics, University of Zagreb, Croatia, 2019.
+        MSc in mathematics, Financial Mathematics and Statistics, Department of Mathematics, University of Osijek, Croatia, 2014.
+        MSc in Mathematics and Computer Science Education, Department of Mathematics, University of Osijek, Croatia, 2020
+        BSc in Mathematics, Department of Mathematics, University of Osijek, Croatia, 2012.
+
+
+Publications
+    Journal Publications
+        N. Antonić, K. Burazin, J. Jankov, Small-amplitude homogenization of elastic plates via H-measures (https://onlinelibrary.wiley.com/doi/full/10.1002/zamm.202000348), Journal of Applied Mathematics and Mechanics 102/5 (2022), 1-9
+        K. Burazin, J. Jankov, On the effective properties of composite elastic plate (https://www.sciencedirect.com/science/article/abs/pii/S0022247X20308593), Journal of Mathematical Analysis and Applications 495/1 (2021)
+        K. Burazin, J. Jankov, Small-amplitude homogenization of elastic plate equation (https://www.tandfonline.com/doi/abs/10.1080/00036811.2019.1634255?journalCode=gapa20), Applicable Analysis 100/5 (2021), 1039-1050
+        K. Burazin, J. Jankov, M. Vrdoljak, Homogenization of elastic plate equation (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/735.pdf ), Mathematical Modelling and Analysis 23/2 (2018), 190-204
+    Others
+        J. Jankov, D. Gemeri, Trčati ili hodati po kiši, Matematičko fizički list 4/276 (2019)
+        D. Jankov Maširević, J. Jankov, Zanimljive rekurzije (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/393.pdf ), Matematičko fizički list 3/259 (2015)
+        K. Burazin, J. Jankov, Glazba titrajuće žice (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/398.pdf ), Osječki matematički list 14/1 (2014)
+    Books
+        K. Burazin, J. Jankov, I. Kuzmanović Ivičić, I. Soldo, Primjene diferencijalnog i integralnog računa funkcija jedne varijable (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/697.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2017.
+
+
+Projects
+    Research projects:
+        Application of short-range and long-range dependent stochastic models (bilateral project with Faculty of Natural Sciences - Department of Mathematics, University of Niš, Serbia (https://www.realforall.com/en/welcome/) Project leaders: Nenad Šuvak (University of Osijek) and Jasmina Đorđević (University of Niš); Project funded by Ministry of Science and Education of the Republic of Croatia and Ministry of Education, Science and Technology Development of the Republic of Serbia) 
+        Homogenization, dimension reduction and structural optimization in continuum mechanics       
+            The project is funded by Croatian Science Foundation since 2018.  Project leader: prof. Igor Velčić from University of Zagreb.
+        Damping optimization in mechanics systems excited with external force
+            Project run in 2015/16, supported by University of Osijek. Project leader: Zoran Tomljanović
+        Calculus of variations, optimisation and applications
+            This is bilateral project with Serbia (cofinanced by Serbian Ministry of Science) that run from 2016 until 2017. Project leaders: ass.prof. Krešimir Burazin from University of Osijek (croatian side) and prof. Nataša Krejić from University of Novi Sad (serbian side).
+    Other:
+        RZC PAN HR
+            Project started in 2022 with project leader Snježana Majstorović.    
+
+
+Professional Activities
+    Invited Lectures
+        Stručni skup nastavnika Matematika u primjenama, Osijek, Croatia, 2019
+    Schools and Conferences
+        International Mathematical Conference Analysis, Approximations and Applications, Vrnjačka Banja, Serbia, June 21-24, 2023
+        11th Conference on Applied Mathematics and Scientific Computing, Brijuni, Croatia, September 5-9, 2022
+        Analysis, PDEs and Applications, Dubrovnik, Croatia, June 19-25, 2022
+        Operators, generalized functions and related topics, Novi Sad, Serbia, September 21-24, 2021
+        Workshop on Control of Dynamical Systems, Dubrovnik, Croatia, June 14-16, 2021
+        Tenth Conference on Applied Mathematics and Scientific Computing, Brijuni, Croatia, September 14-18, 2020
+        International Conference on Elliptic and Parabolic Problems, Gaeta, Italy, May 20-24, 2019
+        ICMM 2019: International Conference on Material Modelling, London, United Kingdom, February 14-15, 2019
+        Ninth Conference on Applied Mathematics and Scientific Computing, Šibenik, Croatia, September 17-20, 2018
+        International Workshop on Optimal Control of Dynamical Systems and Applications, Osijek, Croatia, June 20-22, 2018
+        Applications of Generalized Functions in Harmonic Analysis, Mechanics, Stochastics and PDE, Novi Sad, Serbia, October 25 - 27, 2017
+        Partial Differential Equations, Optimal Design and Numerics, Benasque, Spain, August 20-29, 2017
+        Young Women in Harmonic Analysis and PDE, Bonn, Germany, December, 2-4 2016
+        International Conference on Generalized Functions, Dubrovnik, Croatia, September 4-9, 2016
+        3rd Workshop on Optimal Control of Dynamical Systems and Applications, Osijek, Croatia, March 28 - April 1, 2022
+        International Workshop on PDEs: analysis and modelling, Zagreb, Croatia, June 17-20, 2018
+        GMT, Shape Optimisation and Free Boundaries, Trieste, Italy, October 25-28, 2016
+        DAAD Intensive course on New Aspects of the Time Frequency Analysis involving Frechet Frames, Novi Sad, Serbia, September, 2016
+        International Workshop on PDEs: analysis and modelling; Celebrating 80th anniversary of professor Nedžad Limić, Zagreb, Croatia, June 19-22,2016
+        6th Croatian Mathematical Congress, Zagreb, Croatia, June 14-17, 2016
+        Studentski posjet PMF-MO Sveučilišta u Zagrebu u okviru DAAD projekta "Center of Excellence of Applications of Mathematics", 11.4.2016.-12.5.2016.
+        Scuola Matematica Interuniversitaria, Perugia, Italy, July-August 2015
+        Nonsmooth Analysis with Applications, Cluj-Napoca, Romania, September 2014
+        Microlocal Analysis, Wave Fronts and Propagation of Singularities, Novi Sad, Serbia, September 2013
+        DAAD International School on Linear Optimal Control of Dynamic Systems, Osijek, September 2013
+    Service Activities
+        Zimska škola matematike: 
+            2013. predavanje - Zanimljive rekurzije
+        Večer matematike:
+            2014. predavanje - Zanimljive rekurzije na djelu
+        Festival znanosti
+            2015. radionica - Magični kvadrati
+            2016. radionica - Origami
+        Simpozij studenata doktorskih studija PMF-a
+            2018. poster - Homogenizacija jednadžbe elastične ploče
+        Pripreme studenata za natjecanje 2014./2015.
+        Pripreme studenata za natjecanje 2015./2016.
+        Pripreme studenata za natjecanje 2016./2017.
+        Pripreme studenata za natjecanje 2017./2018.
+
+
+Teaching
+    Current
+        Diferencijalni račun (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/179-diferencijalni-racun)
+        Funkcije više varijabli (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/189-funkcije-vise-varijabli)
+        Metode matematičke fizike (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/646)
+        Primjene diferencijalnog i integralnog računa I (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/194)
+        Odjel za fiziku: Matematika II - Integralni račun (http://www.fizika.unios.hr/m2/)
+    Past
+        Primijenjena matematika za računalnu znanost
+        Primjene diferencijalnog i integralnog računa II
+        Realna analiza
+        Građevinski i arhitektonski fakultet: Matematika I
+        Građevinski i arhitektonski fakultet: Matematika II
+        Odjel za fiziku: Diferencijalne jednadžbe
+    Office Hours:
+        Četvrtak (Thu) 15h. Konzultacije se održavaju i po dogovoru putem e-maila.
+
+
+Personal
+    Birthdate: March 26, 1991
+    Birthplace: Vukovar, Croatia

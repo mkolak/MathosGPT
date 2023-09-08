@@ -1,0 +1,93 @@
+General Information
+    PhD
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-805
+    fax: +385-31-224-801
+    email: mdjumic@mathos.hr
+    office: 7 (ground floor)
+    Research Interests
+        Genetic algorithms
+        Genetic programming
+        Resource constrained project scheduling problem
+    Degrees
+        PhD in Computing, Faculty of Electrical Engineering and Computing, University of Zagreb, Croatia, 2020. 
+        MSc in Mathematics, Department of Mathematics, University of Osijek,Croatia, 2014.
+        BSc in Mathematics, Department of Mathematics, University of Osijek, Croatia, 2011.
+
+
+Publications
+    Journal Publications
+        M. Đurasević, M. Đumić, Automated design of heuristics for the container relocation problem using genetic programming (https://authors.elsevier.com/c/1fzRu5aecSnk2R), Applied Soft Computing 130 (2022)
+        M. Đumić, D. Jakobović, Using priority rules for resource-constrained project scheduling problem in static environment (https://authors.elsevier.com/sd/article/S0360-8352(22)00309-6), Computers & Industrial Engineering 169 (2022)
+        M. Đumić, D. Jakobović, Ensembles of Priority Rules for Resource Constrained Project Scheduling Problem (https://www.sciencedirect.com/science/article/pii/S1568494621005275?via%3Dihub), Applied Soft Computing 110 (2021)
+        R. Čorić, M. Đumić, D. Jakobović, Genetic programming hyperheuristic parameter configuration using fitness landscape analysis (https://link.springer.com/article/10.1007/s10489-021-02227-3), Applied Intelligence 51/10 (2021), 7402-7426
+        M. Đumić, D. Šišejković, R. Čorić, D. Jakobović, Evolving priority rules for resource constrained project scheduling problem with genetic programming (https://www.sciencedirect.com/science/article/pii/S0167739X1732441X), Future Generation Computer Systems 86 (2018), 211-221
+        N. Čerkez, R. Čorić, M. Đumić, D. Matijević, Finding an optimal seating arrangement for employees traveling to an event (http://hrcak.srce.hr/ojs/index.php/crorr/article/view/2794/2116), Croatian Operational Research Review  6/2 (2015), 419-427
+    Refereed Proceedings
+        R. Čorić, M. Đumić, S. Jelić,  A clustering model for time-series forecasting (http://docs.mipro-proceedings.com/proceedings/mipro_2019_proceedings.pdf), 42nd International Convention - MIPRO 2019, Opatija, 2019, 1295-1299
+        R. Čorić, M. Đumić, S. Jelić,  A Genetic Algorithm for Group Steiner Tree Problem (http://docs.mipro-proceedings.com/cis/cis_02_4726.pdf), 41st International Convention - MIPRO 2018, Opatija, Hrvatska, 2018, 1113-1118
+        R. Čorić, M. Đumić, D. Jakobović,  Complexity Comparison of Integer Programming and Genetic Algorithms for Resource Constrained Scheduling Problems  (http://docs.mipro-proceedings.com/cis/cis_21_4173.pdf), 40th International ICT Convention - MIPRO 2017, Opatija, 2017, 1394-1400
+    Others
+        M. Đumić, M. Jukić Bokun, Euklidov algoritam, Osječki matematički list 13 (2013), 121-137
+
+
+Projects
+    GAMe-based learning in MAthematics, Erasmus+, Cooperation for innovation and the exchange of good practices, Strategic Partnerships for school education. Duration: 01.10.2020.-30.09.2022.
+    Hyperheuristic Design of Dispatching Rules, funded by Croatian Science Foundation, duration:01.01.2020.-31.12.2023. Project leader: prof. Domagoj Jakobović from University of Zagreb. 
+    Application of optimization methods in biomedicine, bilateral project with Serbia, Duration: 01.01.2019. - 31.12. 2020. Project leaders: ass.prof. Slobodan Jelić from University of Osijek (croatian side) and ass.prof. Dušan Jakovetić from University of Novi Sad (serbian side).
+
+
+Professional Activities
+    Conferences
+        19th International Conference on Operational Research KOI 2022, Amadria Park, Croatia, September 28-30, 2022.
+        42th International ICT Convention - MIPRO 2019, Opatija, Croatia, May 20-25, 2019
+        23nd Young Statisticians Meeting, October 12-14, 2018, Balatonfüred, Hungary
+        41th International ICT Convention - MIPRO 2018, Opatija, Croatia, May 21-25, 2018.
+        40th International ICT Convention - MIPRO 2017, Opatija, Croatia, May 22-26, 2017.
+        15th International Conference on Operational Research KOI 2014, Osijek, Croatia, September 24-26, 2014.
+    Workshops
+        Time Verification of Real-Time Systems, workshop organized as part of MERIDA research project HRZZ IP-2016-06-8350, on September 19, 2018 in Osijek, Croatia
+        International Workshop on Optimal Control of Dynamical Systems and applications, 20-22 June 2018 at Department of Mathematics, J. J. Strossmayer University of Osijek
+        Mathematics for Big Data, Novi Sad, Serbia, May 31- June 1, 2017
+    Schools
+        COST Action Training School ImAPPNIO, 25th–29th November 2019, Coimbra, Portugal.
+        Second Edition of the Summer School on Optimization, Big Data and Applications (OBA), 30th June - 06th July, 2019, Veroli, Italy
+        COST Action Training School: Improving Applicability of Nature-Inspired Optimisation Joining Theory and Practice, Paris, France, October 18-24, 2017.
+        7th PhD Summer School in Discrete Mathematics, Rogla, Slovenia, July 23-29, 2017.
+        LTTA (Learning/Teaching/Training Activities)
+        LTTA in Athens, Greece, June 6-9, 2022
+        LTTA in Amsterdam, Netherlands, November, 7-10, 2022
+        LTTA in Pori, Finland, January, 16-20, 2023
+    Service Activities
+        Festival znanosti:
+            2011. radionica - Primjena Sunčeve svjetlosti pri određenim izračunavanjima
+            2012. radionica - 10 u svijetu matematike
+            2013. radionica - Zamisli jedan broj
+            2015. radionica - Kakve veze ima Sunce s matematikom?
+        Zimska škola matematike:
+            2011. predavanje - Euklidov algoritam
+            2019. predavanje - Formula uključivanja-isključivanja
+            2020. radionica - Formula uključivanja-isključivanja
+        Zimska škola informatike:
+            2017. radionica - Multi-threading i multi-processing u Pythonu
+
+
+Teaching
+    Current
+        Uvod u računalnu znanost (https://www.mathos.unios.hr/index.php/185)
+        Heuristički algoritmi (https://www.mathos.unios.hr/index.php/779)
+        Moderni sustavi baza podataka (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/607)
+        Objektno orijentirano programiranje (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/500)
+    Past
+        Analitička geometrija
+        Dizajniranje i modeliranje baza podataka
+        Kombinatorna i diskretna matematika
+        Osnove baza podataka
+        Uvod u računarstvo
+        Učenička matematička natjecanja
+        Matematika (Ekonomski fakultet)
+        Matematika (Poljoprivredni fakultet)
+        Matematika (Građevinski fakultet)
+    Office Hours: 
+        Po dogovoru e-mailom.

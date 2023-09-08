@@ -1,0 +1,31 @@
+OSNOVNE INFORMACIJE
+	Funkcijsko programiranje izvodi se u zimskom semestru prve godine sveučilišnog preddiplomskog studija Matematika i računarstvo. Cilj kolegija je studente upoznati s osnovnim idejama i metodama funkcijskog programiranja koje tretira računanje kao evaluaciju matematičkih funkcija.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i044.pdf).
+	Nositelj
+		izv. prof. dr. sc. Domagoj Matijević (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/76)	
+		KONZULTACIJE: nakon održanog predavanja ili po dogovoru putem e-maila	
+	Predavač
+		dr.sc. Luka Borozan (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/409)	
+		KONZULTACIJE: nakon održanih vježbi ili po dogovoru putem e-maila	
+	Asistent
+		Tomislav Prusina	
+		KONZULTACIJE: nakon održanih vježbi ili po dogovoru putem e-maila	
+	OSNOVNA LITERATURA
+		G. Hutton, Programming in Haskell, Cambridge University Press, New York, 2007.
+		Haskell 2010 Language Report (https://www.haskell.org/definition/haskell2010.pdf)
+		Online Haskell (http://rextester.com/l/haskell_online_compiler)
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Funkcionalno programiranje realizira se u prvom (zimskom) semestru, akademske 2020./21. godine, na preddiplomskom studiju matematike i računarstva s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Za obavijesti pratite MS Teams kanal. Za korištenje MS Teams platforme potreban je AAIEdu identitet.
+	Predavanja će biti praćena programiranjem u programskom jeziku Haskell. Vježbe su djelomično auditorne, a djelomično laboratorijske uz korištenje računala za programiranje u Haskell-u. Predavanja i vježbe su obavezne.
+	PREDAVANJA	TERMIN: Ponedjeljak, 14-16h	PREDAVAONICA: D-2	
+	VJEŽBE	TERMIN: Ponedjeljak, 12-14h	PREDAVAONICA: RP-2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti mogu polagati kolokvije (2 kolokvija) koji zamjenjuju pismeni ispit. Studentima koji su na svakom kolokviju postigli barem 50% bodova (od ukupnog broja bodova na tom kolokviju) priznaje se pismeni dio ispita. Ocjena se računa prema kriteriju:
+		ocjena dovoljan (2): 50%-62.5%
+		ocjena dobar(3): 62.5%-75%
+		ocjena vrlo dobar(4): 75%-87.5%
+		ocjena izvrstan(5): >87.5%

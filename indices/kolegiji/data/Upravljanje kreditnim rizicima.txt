@@ -1,0 +1,14 @@
+OSNOVNE INFORMACIJE
+	Upravljanje kreditnim rizicima izvodi se u zimskom semestru druge godine Sveučilišnog diplomskog studija matematike na smjeru: Financijska matematika i statistika. Cilj kolegija je studente naučiti što je kreditni rizik. Naučiti studente dio teorije o kreditnom riziku. Naučiti koji su to faktori utjecaja na rizičnost - poduzeća, malih poduzeća, stanovništva. Naučiti kreirati scoring/rejting modele. Naučiti validirati scoting/rejting modele. Naučiti osnovne koncepte Basel 2 standarda. Naglasak je na izgradnji, testiranju  i primjeni scoring modela u praksi. Studenti kroz ovaj predmet rade na konkretnim podacima kreditnih institucija.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/e009.pdf)).
+	VODITELJ KOLEGIJA	prof. dr. sc. Nataša Šarlija (http://www.efos.unios.hr/nsarlija/)
+	OSNOVNA LITERATURA
+		Caouette, J.B., Altman, E.I., Narayanan, P., Managing Credit Risk, John Wiley &Sons, New York, 1998.
+		Siddiqi, N., Credit Risk Scorecard, John Wiley & Sons, Inc., New Yersey, 2006.
+		N. Šarlija, Recenzirani nastavni materijali dostupni na web stranici predmeta.
+
+
+IZVOĐENJE NASTAVE I VREDNOVANJE ZNANJA
+	Nastava se izvodi u informatičkoj učionici gdje studenti sve navedene analize rade na praktičnim primjerima (case study) uz upotrebu softverskih alata (Statistica, R). Ocjena se formira kao prosječna ocjena ostvarena na temelju sljedećih ocjena iz: (i) aktivnosti u rješavanju zadataka i praktičnih problema; (ii) domaćih zadaća; (iii) 2 projektna zadatka gdje se prvi projektni zadatak odnosi na izvođenje klasične kreditne analize na primjeru poduzeća, a drugi projektni zadatak se odnosi na izradu scoring modela za kredite stanovništvu; (iv) ocjena iz kolokvija koje studenti pišu tijekom semestra.
+	Izvedbeni program kolegija Upravljanje kreditnim rizicima realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata seminara). 
+	Više o kolegiju možete vidjeti na sljedećem linku (https://www.mathos.unios.hr/upravljanjekr).

@@ -1,0 +1,26 @@
+OSNOVNE INFORMACIJE
+	Izborni kolegij Grafovi i primjene izvodi se u zimskom semestru prve i druge godine sveučilišnog diplomskog studija matematike, smjerovi: Financijska matematika i statistika, Matematika i računarstvo te na drugoj godini nastavničkog diplomskog studija matematike i informatike. Glavni cilj kolegija je upoznati studente s teorijom grafova, pri čemu će naglasak biti na primjene grafova u raznim područjima znanosti te u svakodnevnom životu. 
+	Sadržaj kolegija (https://www.mathos.unios.hr/images/homepages/smajstor/gip.pdf)
+	VODITELJ KOLEGIJA I ASISTENT	
+		izv.prof.dr.sc. Snježana Majstorović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/111)	
+		KONZULTACIJE: utorkom: 10:30-11:30	
+	OSNOVNA LITERATURA
+		R. Diestel, Graph Theory, Electronic Edition, 2000 (dostupno online)
+		D. Veljan, Kombinatorika s teorijom grafova, Školska knjiga, Zagreb, 1989
+		M. E. J. Newman, Networks – An Introduction, Oxford University Press, 2010
+		E. Estrada, The Structure of Complex Networks – Theory and Applications, Oxford University Press, 2012
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Nastava u zimskom semestru 2021./2022. se izvodi kontaktno uz korištenje platforme MS Teams.
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod 0ns6lef.
+	Izvedbeni program kolegija Grafovi realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: utorkom: 8-10h	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti će pisati dva kolokvija. Za prolaznu ocjenu, moraju točno riješiti barem 50%  zadataka na oba kolokvija.  Tijekom semestra, studenti imaju priliku rješavati projektne zadatke (samostalno ili u timu) te tako povećati broj bodova ostvarenih na kolokvijima. 
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji uspješno polože pismeni ispit. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

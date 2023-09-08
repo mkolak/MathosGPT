@@ -1,0 +1,31 @@
+OSNOVNE INFORMACIJE
+	Kolegij Moderni sustavi baza podataka izvodi se u ljetnom semestru druge godine sveučilišnog preddiplomskog studija Matematika i računarstvo. Cilj kolegija je stjecanje znanja o modernim sustavima baza podataka i njihovoj primjeni u izradi praktičnih rješenja te stjecanje vještina u radu na Oracle, MySQL, MongoDB i Hadoop sustavima za upravljanje bazama podataka.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i046.pdf).
+	NOSITELJ KOLEGIJA	
+		doc. dr. sc. Domagoj Ševerdija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/137)	
+	NASTAVNIK
+		dr.sc. Mateja Đumić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/123)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/123#konzultacije)	
+	ASISTENT/DEMONSTRATOR	
+		NASTAVNIK: Mislav Milinković	
+	OSNOVNA LITERATURA
+		Hector Garcia-Molina, Jeffrey D. Ullman, and JenniferWidom. Database Systems: The Complete Book, volume 1. Prentice Hall, Jan 2009.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Moderni sustavi baza podataka realizira se s fondom od 105 sati (tjedno 3 sata predavanja, 3 sata vježbi i 1 sat seminara). Pohađanje predavanja i vježbi je obvezno.
+	Nastava će se održavati prema redovitom rasporedu i Modelu 2. Kod za pristup odgovarajućem Teams kanalu je lljoj3q.
+	PREDAVANJA	TERMIN: Ponedjeljak, 14:00 - 17:00 h	PREDAVAONICA: RP-2	
+	VJEŽBE	TERMIN: Utorak, 9:00 - 12:00 h	PREDAVAONICA: RP-2	
+
+
+PRAVILA POLAGANJA
+	Tijekom semestra studenti pišu dva kolokvija koji zamjenjuju pismeni dio ispita. Na kolokvijima je moguće skupiti najviše 100 bodova, a za prolaz je potrebno skupiti barem 50%. Studenti koji na kolokviju postignu manje od 50% bodova moraju ići na pismeni dio ispita te za prolaz na njemu ostvariti barem 50% bodova. Ostvareni bodovi na kolokviju/pismenom ispitu na ukupnu ocjenu utječu 40%.
+	Studenti tijekom semestra mogu pisati domaće zadaće, koje će, u ovisnosti o uloženom trudu studenta, utjecati na formiranje konačne ocjene iz kolokvija/ispita. Domaće zadaće na ukupnu ocjenu utječu 20% .
+	Osim toga studenti moraju napraviti završni projekt koji predstavlja usmeni dio ispita. Završni projekt će se smatrati položenim ako se na njemu ostvari barem 50% mogućih bodova. Utjecaj završnog projekta na ocjenu je 40%. 
+	Konačna ocjena iz kolokvija/ispita  formira se na sljedeći način:
+		ocjena dovoljan (2): 40%-55%
+		ocjena dobar(3): 55%-70%
+		ocjena vrlo dobar(4): 70%-85%
+		ocjena izvrstan(5): >85%
+ 	Konačna ocjena iz kolegija formira se nakon položenih kolokvija i uspješno završenog projekta.

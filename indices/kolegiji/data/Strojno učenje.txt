@@ -1,0 +1,37 @@
+OSNOVNE INFORMACIJE
+	Ovim kolegijem želimo upoznati studente s teorijom i načelima strojnog učenja i odgovarajućim primjenama. U predmetu je posebni naglasak stavljen na nadzirane i nenadzirane metode učenja . Praktični dio kolegija radit će se u programskom jeziku Python. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (M096 (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m096.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m077.pdf).
+	NASTAVNIK	
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)	
+		KONZULTACIJE: Utorak od 12-13h	
+	NASTAVNIK	
+		prof. dr. sc. Kristian Sabo (http://www.mathos.hr/~ksabo)	
+		KONZULTACIJE: Utorkom od 10-11h	
+	ASISTENT
+		Antonio Jovanović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/821)	
+		KONZULTACIJE: Četvrtak, 12-14h	
+	OSNOVNA LITERATURA
+		Christopher Bishop, Pattern Recognition and Machine Learning (https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/), Springer-Verlag, Berlin, 2006. 
+		S. Shalev-Shwartz and S. Ben-David, Understanding Machine Learning: From Theory to Algorithms (https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), Cambridge Press, 2014.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Pohađanje predavanja i vježbi je obavezno.
+	Predavanja	
+		Utorak, 09:00-12:00h	PREDAVAONICA: D-9	
+	Vježbe	
+		Utorak, 14:00-16:00h (grupa A, prezimena A-O)	
+		Utorak, 16:00-18:00h (grupa B, prezimena P-Ž)	
+		PREDAVAONICA: RP-1	
+	Komunikacija se odvija putem Teamsa (pristupni kod: 2oel4a6) u akademskoj godini 2021/22.
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih na domaćim zadaćama i kolokvijima. Tijekom semestra će se pisati dva kolokvija.
+	Za ocjenu dovoljan (2) potrebno je skupiti barem 40% od ukupnog broja bodova s kolokvija i domaćih zadaća. Domaće zadaće utječu do najviše 10%, dok će se 90% ocjene formirati iz rezultata kolokvija.
+	Konačna ocijena će se formirati prema sljedećem:
+		<40% - nedovoljan (1)
+		40%-59% - dovoljan (2)
+		60%-79% - dobar (3)
+		80%-89% - vrlo dobar (4)
+		>= 90% - izvrstan (5)

@@ -1,0 +1,48 @@
+OSNOVNE INFORMACIJE
+	Vjerojatnost se izvodi u zimskom semestru prve godine Sveučilišnog diplomskog studija matematike, smjer financijska matematika i statistika. Cilj kolegija je da studenti ovladaju potrebnim sadržajima iz opće teorije vjerojatnosti da bi bili osposobljeni za razumijevanje teorije vjerojatnosti kao matematičke discipline te za njenu primjenu. Pri izboru sadržaja vodi se računa o potrebama grupe predmeta koji se temelje na teoriji vjerojatnosti (statistika, slučajni procesi, analiza vremenskih nizova, multivarijatna analiza i drugi). 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m118.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Danijel Grahovac (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/125)
+		KONZULTACIJE: https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/125#teaching
+	OSNOVNA LITERATURA
+		N. Sarapa - Teorija vjerojatnosti, Školska knjiga, Zagreb, 2000.
+	DODATNA LITERATURA
+		L.E. Bain and M. Engelhardt - Introduction to Probability and Mathematical statistics, BROOKS/COLE Cengage Learning
+		R.C. Mittelhammer - Mathematical Statistics for Economics and Business, Springer, New York-Tokyo, 1996.
+		T.S. Ferguson - A Course in Large Sample Theory, Chapman & Hall, London, 1996.
+		M. Benšić, N. Šuvak - Uvod u vjerojatnost i statistiku (https://www.mathos.unios.hr/uvis/UVIS_knjiga_final/UVIS_knjiga_web.pdf), Sveučilište u Osijeku, Odjel za matematiku, Osijek, 2014.
+		N. Elezović - Slučajne varijable, Element, Zagreb, 2007.
+		M. J. Crawley - The R Book, J. Wiley & Sons, 2007.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Vjerojatnost realizira se s fondom od 105 sati (tjedno 4 sata predavanja i 3 sata vježbi).
+	Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA/VJEŽBE
+		TERMIN četvrtkom od 8:30 do 12:00 PREDAVAONICA D3
+		TERMIN petkom od 8:30 do 11:00 PREDAVAONICA D3
+
+
+PRAVILA POLAGANJA ISPITA
+	1. KOLOKVIJI
+		Tijekom semestra bit će organizirana tri kolokvija.
+		Barem 50% bodova ostvarenih putem kolokvija i testova zamjena su za pismeni ispit i studentu osiguravaju pravo pristupanja usmenom ispitu tijekom akademske godine u kojoj je slušao kolegij. Na temelju ostvarenih bodova, ocjena za pristupanje usmenom ispitu formira se prema sljedećem kriteriju na osnovu postotka ostavarenih bodova:
+			50-65: dovoljan(2); 66-80: dobar(3); 81-90: vrlo dobar(4); 91-100: izvrstan (5).
+		Tijekom semestra zadavat će se i problemski zadaci. Za ocjene vrlo dobar i izvrstan rješavanje barem dijela problemskih zadataka je obavezno. Rješenja treba predati u terminu usmenog ispita kada će biti pregledan sadržaj rješenja.
+	2. PISMENI ISPIT
+		Ukoliko student ne ostvari barem 50 bodova putem domaćih zadaća i kolokvija, pristupa pismenom ispitu. Na pismenom ispitu moguće je ostvariti najviše 100 bodova. Ocjena pismenog ispita formira se prema sljedećem kriteriju:
+			50-65: dovoljan(2); 66-80: dobar(3); 81-90: vrlo dobar(4); 91-100: izvrstan (5).
+		S ostvarenih barem 50 bodova student ima pravo pristupiti usmenom ispitu u ispitnom roku (zimskom, ljetnom ili jesenskom) u kojem je položio pismeni ispit.
+	3. USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Konačna ocjena na usmenom ispitu formira se uzimajući u obzir odgovore na postavljena pitanja, broj bodova ostvarenih putem kolokvija ili na pismenom ispitu, te rješenja problemskih zadataka.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	Kolokviji
+		ak.god. 2014./2015. (kol. 1 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol1_2014_2015.pdf), kol. 2 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol2_2014_2015.pdf))
+		ak.god. 2015./2016. (kol. 1 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol1_2015_2016.pdf), kol. 2 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol2_2015_2016.pdf))
+		ak.god. 2016./2017. (kol. 1 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol1_2016_2017.pdf), kol. 2 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol2_2016_2017.pdf))
+		ak.god. 2017./2018. (kol. 1 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol1_2017.pdf), kol. 2 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol2_2017.pdf))
+		ak.god. 2018./2019. (kol. 1 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol1_2018.pdf), kol. 2 (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/Vj_kol2_2018.pdf))
+	Pismeni ispiti
+		zip datoteka (https://www.mathos.unios.hr/images/homepages/nsuvak/vjerojatnost/pismeni.zip)

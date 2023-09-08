@@ -1,0 +1,91 @@
+General Information
+    Assistant Professor
+    Department of Mathematics (http://www.mathos.hr)
+    Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/)
+    phone: +385-31-224-812
+    fax: +385-31-224-801
+    email: ipapic@mathos.hr
+    office: 14 (first floor)
+    Research Interests
+        Theoretical and applied probability and statistics
+        In particular: diffusions and fractional diffusions
+    Degrees
+        PhD in Mathematics, Faculty of Natural Science, Department of Mathematics, University of Zagreb, 2019
+                     Thesis: Time-changed stochastic models: fractional Pearson diffusions and delayed continuous-time autoregressive processes (https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A5771/datastream/PDF/view), supervisors: N. N. Leonenko (https://www.cardiff.ac.uk/people/view/98655-leonenko-nikolai), N. Šuvak (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/26-homepage/odjel/kadrovi/homepages/118-nenad-suvak-s-home-page)
+        MSc in Mathematics, Financial and Business Mathematics, Department of Mathematics (http://www.mathos.hr/), University of Osijek, Croatia, 2013
+        MSc in Mathematics and Computer Science Education, Department of Mathematics (http://www.mathos.hr/), University of Osijek, Croatia, 2020
+        BSc in Mathematics, Department of Mathematics (http://www.mathos.hr/), University of Osijek, Croatia, 2011
+
+
+Publications
+    Journal Publications
+        J. Đorđević, I. Papić, N. Šuvak, A two diffusion stochastic model for the spread of the new corona virus SARS-CoV-2 (https://www.sciencedirect.com/science/article/pii/S0960077921003453), Chaos, Solitons & Fractals 148/110991 (2021)
+        N.N. Leonenko, I. Papić, A. Sikorskii, N. Šuvak, Approximation of heavy-tailed fractional Pearson diffusions in Skorokhod topology (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/849.pdf ), Journal of Mathematical Analysis and Applications 486/2 (2020)
+        N.N. Leonenko, I. Papić, Correlation properties of continuous-time autoregressive processes delayed by the inverse of the stable subordinator (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/806.pdf ), Communications is Statistics - Theory and Methods  49/20 (2020), 5091-5113
+        N.N. Leonenko, A.M. Kulik, I. Papić, N. Šuvak, Parameter estimation for non-stationary Fisher-Snedecor diffusion (https://link.springer.com/article/10.1007/s11009-019-09755-z), Methodology and Computing in Applied Probability 22/3 (2020), 1023-1061
+        N.N. Leonenko, I. Papić, A. Sikorskii, N. Šuvak, Ehrenfest-Brillouin-type correlated continuous time random walk and fractional Jacobi diffusion (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/779.pdf ), Theory of Probability and Mathematical Statistics 99 (2019), 137-147
+        N.N. Leonenko, I. Papić, A. Sikorskii, N. Šuvak, Correlated continuous time random walks and fractional Pearson diffusions (https://arxiv.org/pdf/1708.07086.pdf), Bernoulli 24/4B (2018), 3603-3627
+        N.N. Leonenko, I. Papić, A. Sikorskii, N. Šuvak, Heavy-tailed fractional Pearson diffusions (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/667.pdf ), Stochastic Processes and their Applications 127/11 (2017), 3512-3535
+        N. Graovac, I. Papić, E. Merdić, Pupil’s Diet-Related Attitudes to Healthy Lifestyle, Journal of Environmental Science and Engineering A 4 (2015), 651-664
+    Refereed Proceedings
+        N.N. Leonenko, I. Papić, A. Sikorskii, N. Šuvak,  Theoretical and simulation results on heavy-tailed fractional Pearson diffusions, 20th European Young Statisticians Meeting, Uppsala, Sweden, 2017, 95-103
+    Others
+        J. Kraševac, I. Papić, N. Šuvak, Statistička olimpijada, brošura s primjerima riješenih zadataka (https://natjecanje.dzs.hr/dokumenti/SO%202018%20skripta.pdf) (2018)
+        D. Jankov Maširević, I. Papić, Tri klasična problema, Osječki matematički list 12 (2012), 11-19
+
+
+Projects
+    Application of short-range and long-range dependent stochastic models (2019-2022) (bilateral project with Faculty of Natural Sciences - Department of Mathematics, University of Niš, Serbia; Project leaders: Nenad Šuvak (University of Osijek) and Jasmina Đorđević (University of Niš)); Project funded by Ministry of Science and Education of the Republic of Croatia and Ministry of Education, Science and Technology Development of the Republic of Serbia)
+    Limiting behavior of intermittent processes and diffusions (Granično ponašanje intermitentnih procesa i difuzija; 2018-2019), Department of Mathematics, J.J. Strossmayer University of Osijek, Leader: Danijel Grahovac (the project was funded by the J.J. Strossmayer University of Osijek)
+    Stochastic models with long-range dependence (Stohastički modeli s dugoročnom zavisnošću; 2017-2018), Department of Mathematics, J.J. Strossmayer University of Osijek, Leader: Nenad Šuvak (the project was funded by the J.J. Strossmayer University of Osijek)
+    Fractional Pearson Diffusions (Frakcionalne Pearsonove difuzije; 2015-2016), Department of Mathematic, J.J. Strossmayer University of Osijek, Leader: Nenad Šuvak (the project was funded by the J.J. Strossmayer University of Osijek)
+
+
+Grants
+    ERASMUS grant for mobility of scientists (study visit to Babes-Bolyai University, Cluj-Napoca, Romania, 2016)
+    Grant of the AMAC-UK, United Kingdom Association of Alumni and Friends of Croatian Universities (study visit to School of Mathematics, Cardiff University, UK, 2016)
+
+
+Professional Activities
+    Conferences and Workshops
+        Workshop on Quantitative Methods for Insurance and Finance (http://web.math.pmf.unizg.hr/cqd/WQMIFvenue.html), June 5-6, 2014, Zagreb, Croatia
+        6th Croatian Mathematical Congress (https://web.math.pmf.unizg.hr/congress15/), June 14-17, 2016, Zagreb, Croatia (poster presentation)
+        Mathematics for Big Data (https://www.dmi.uns.ac.rs/mathbd/index.html), May 31 - June 1, 2017, Novi Sad, Serbia
+        Workshop on Quantitative Modeling in Biomedicine (https://web.math.pmf.unizg.hr/woqmib/), June  5-7, 2017, Zagreb, Croatia
+        Korean Croatian Summer Probability Camp (https://web.math.pmf.unizg.hr/kcpsc/), July 3-6, 2017, Zagreb, Croatia
+        20th European Young Statisticians Meeting (https://indico.uu.se/event/317/), August 14-18, 2017, Uppsala, Sweden (short communication)
+        22nd Young Statisticians Meeting (http://vladowiki.fmf.uni-lj.si/doku.php?id=events:ysm17:index), October 13-15, 2017, Zagreb, Croatia (short communication)
+        The 2nd International Statistical Conference in Croatia (http://www.hsd-stat.hr/en/international-statistical-conference-in-croatia-isccro18/), May 10-11, 2018, Opatija, Croatia (short communication)
+        18th Winter school on Mathematical Finance (https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/winterschool.html), January 21-23, 2019, Lunteren, Netherlands
+        11th International Conference on Extreme Value Analysis (https://web.math.pmf.unizg.hr/eva2019/), July 1-5, 2019, Zagreb, Croatia
+        32nd European Meeting of Statisticians (https://www.ems2019.palermo.it/#targetText=European%20Meeting%20of%20Statisticians%202019%20Palermo&targetText=The%20European%20Meeting%20of%20Statisticians,statistics%20and%20probability%20in%20Europe.), July 22-26, 2019, Palermo, Italy (poster presentation)
+    Study Visits
+        School of Mathematics (http://www.cardiff.ac.uk/maths/index.html), Cardiff University, UK (study visits lasting 2 weeks in February, 3 weeks in November and December 2016 and 2 weeks in November 2017)
+    Editorial Boards
+        Co-Editor of  Croatian Operational Research Review (http://hdoi.hr/crorr-journal/) , 2023 - 
+    Service Activities
+        tajnik Statističkog seminara (https://www.mathos.unios.hr/index.php/524) u Osijeku, 2017 - 
+
+
+Teaching
+    Current
+        Vjerojatnost i statistika (https://www.mathos.unios.hr/index.php/278) (Probability and Statistics), Faculty of Civil Engineering, University of Osijek (winter semester)
+        Primijenjena statistika (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/407-primijenjena-statistika) (Applied Statistics), Faculty of Ciliv Engineering, University of Osijek (winter semester)
+        Uvod u vjerojatnost i statistiku (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/203) (Introduction to Probability and Statistics), Department of Mathematics, University of Osijek (winter semester)
+        Slučajni procesi I (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/247-slucajni-procesi) (Stochastic processes I), Department of Mathematics, University of Osijek (winter semester)
+        Statistički praktikum (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/261) (Statistical Lab), Department of Mathematics, University of Osijek (spring semester)
+    Past
+        Mathematics (Faculty of Economics in Osijek, University of Osijek)
+        Mathematics (Faculty of Agriculture in Osijek, University of Osijek)
+        Mathematics I (Faculty of Food Technology Osijek, University of Osijek)
+        Statistics (Faculty of Education, Undergraduate University Studies of Kinesiology, University of Osijek)
+        Statistics (Faculty of Food Technology Osijek, University of Osijek)
+        Statistics (Department of Mathematics, University of Osijek)
+        Stochastic processes II (Department of Mathematics, University of Osijek)
+        Numerical Mathematics (Department of Mathematics, University of Osijek)
+        Differential calculus (Department of Mathematics, University of Osijek)
+        Differential calculus (Department of Physics, University of Osijek)
+    Teme završnih i diplomskih radova 2022./2023.
+        (https://www.mathos.unios.hr/images/homepages/ipapic/Teme_2223.pdf)
+    Office Hours:  
+        Za vrijeme ispitnih rokova po dogovoru.

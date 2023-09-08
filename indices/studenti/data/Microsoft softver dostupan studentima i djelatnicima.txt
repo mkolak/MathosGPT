@@ -1,0 +1,5 @@
+Microsoft softver dostupan studentima i djelatnicima		
+
+Odjel za matematiku sudjeluje u Microsoft-ovom Azure Dev Tools for Teaching programu preko kojeg studenti i djelatnici imaju pravo korištenja određenog Microsoft-ovog softvera (Windows 10/11, SQL server, Visual Studio...).
+Softver se može skinuti sa Azure Dev Tools for Teaching stranice(https://aka.ms/devtoolsforteaching). Prijavite se s vašim AAI@EduHr korisničkim imenom. Prilikom prve prijave tražit će se i telefonski broj na koji ćete dobiti verifikacijski kod u SMS poruci.
+Napominjemo da je korištenje ovog softvera dozvoljeno isključivo u edukacijske i neprofitne svrhe. Više informacija o ovom programu dostupno je https://learn.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/about-program.

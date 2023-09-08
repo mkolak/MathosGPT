@@ -1,0 +1,50 @@
+OSNOVNE INFORMACIJE
+	Kolegij Slučajni procesi II izvodi se u drugom semestru Sveučilišnog diplomskog studija matematike, smjer financijska matematika i statistika. Cilj kolegija je usvajanje teorijskih koncepata vezanih uz osnovne tipove slučajnih procesa u neprekidnom vremenu, razumijevanje analitičkih tehnika rješavanja problemskih zadataka iz teorije i prakse te prepoznavanje mogućih primjena slučajnih procesa u praksi. 
+	Sadržaj kolegija (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m121.pdf)
+	VODITELJ KOLEGIJA: 
+		izv.prof.dr.sc. Nenad Šuvak (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/26-homepage/odjel/kadrovi/homepages/118-nenad-suvak-s-home-page)	
+		KONZULTACIJE: (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/26-homepage/odjel/kadrovi/homepages/118-nenad-suvak-s-home-page#teaching)	
+	OSNOVNA LITERATURA
+		G. Grimmett, D. Stirzaker, Probability and Random Processes, Clarendon Press, Oxford, 2004.
+		T. Mikosch, Elementary Stochastic Calculus With Finance in View, World Scientific, 2000. 
+	PREPORUČENA LITERATURA
+		P. Baldi, L. Mazliak, P. Priouret, Martingales and Markov Chains: Solved Exercises and Elements ofTheory, Chapman and Hall, New York, 2002.
+		N. Elezović, Statistika i procesi, Element, Zagreb, 2007.
+		S. Karlin, H. M. Taylor, A First Course in Stochastic Processes, Academic press, New York-London,1975
+		S. Karlin, H. M. Taylor, A Second Course in Stochastic Processes, Academic press, New York-London,1981.
+		J. R. Norris, Markov Chains, Cambridge University Press, 1997.
+		S. I. Resnick, Adventures in Stochastic Processes, Birkhauser, Boston, 2002.
+		S. M. Ross, Introduction to Probability Models, Academic Press, 2014.
+		Z. Vondraček, Financijsko modeliranje (web materijali), PMF-Matematički odsjek, Sveučilište u Zagrebu, 2018.
+		Z. Vondraček, Markovljevi lanci (web materijali), PMF-Matematički odsjek, Sveučilište u Zagrebu,2013.
+		Z. Vondraček, Slučajni procesi (web materijali), PMF-Matematički odsjek, Sveučilište u Zagrebu,2018.
+		D. Williams, Probability with Martingales, Cambridge University Press, 2001.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Slučajni procesi II realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi).
+	Kod za uključenje na kolegij u aplikaciji Microsoft teams je xc529tm.
+	PREDAVANJA	
+		Srijeda, 08:30-10:00	PREDAVAONICA: D-3	
+	VJEŽBE	
+		Srijeda, 10:15 -11:45 	PREDAVAONICA: D-3
+
+
+PRAVILA POLAGANJA ISPITA
+	1. KOLOKVIJI
+		Tijekom semestra bit će organizirana dva kolokvija, svaki nosi 50 bodova.
+		Barem 50 bodova ostvarenih putem kolokvija zamjena su za pismeni ispit i studentu osiguravaju pravo pristupanja usmenom ispitu tijekom akademske godine u kojoj je slušao kolegij. Na temelju tako ostvarenih bodova, ocjena za pristupanje usmenom ispitu formira se prema sljedećem kriteriju:
+			50%-64%: dovoljan(2); 65%-79%: dobar(3); 80%-90%: vrlo dobar(4); 91%-100%: izvrstan (5).
+	2. Tijekom semestra bit će zadane domaće zadaće i teme za samostalno učenje čije vrednovanje ne ulazi u ocjenu s kojom student pristupa usmenom ispitu, no koje mogu utjecati na pitanja i ocjenu na usmenom ispitu.
+	3. PISMENI ISPIT
+		Ukoliko student ne ostvari barem 50 bodova putem kolokvija, pristupa pismenom ispitu. Na pismenom ispitu moguće je ostvariti najviše 100 bodova. Ocjena pismenog ispita formira se prema sljedećem kriteriju:
+			50-64: dovoljan(2); 65-79: dobar(3); 80-90: vrlo dobar(4); 91-100: izvrstan (5).
+		S ostvarenih barem 50 bodova student ima pravo pristupiti usmenom ispitu u ispitnom roku (zimskom, ljetnom ili jesenskom) u kojem je položio pismeni ispit.
+	4. USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente, a uključuje odgovaranje gradiva obrađenog na nastavi i gradiva zadanog za samostalno učenje.
+		Konačna ocjena na usmenom ispitu formira se uzimajući u obzir odgovore na postavljena pitanja, broj bodova ostvarenih na  kolokvijima ili na pismenom ispitu, te usvojenost tema za samostalno učenje.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	kolokviji (2021./2022. - kolokvij 1 (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/SP2_kol1_2021_2022_rjesenja.pdf), kolokvij 2 (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/SP2_kol2_2021_2022_rjesenja.pdf))
+	primjer pismenog ispita (https://www.mathos.unios.hr/images/homepages/nsuvak/Slucajni_procesi/SP2_26092022_rjesenja.pdf)

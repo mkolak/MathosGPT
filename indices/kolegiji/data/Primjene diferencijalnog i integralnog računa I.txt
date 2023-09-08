@@ -1,0 +1,53 @@
+OSNOVNE INFORMACIJE
+	Kolegij  Primjene diferencijalnog i integralnog računa I izvodi se u ljetnom semestru druge godine sveučilišnog preddiplomskog studija matematike i sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je upoznati studente s primjenama osnovnih pojmova i tehnika koje su obrađene u okviru predmeta Diferencijalni i Integralni račun. Razmatrat će se problemi koji se odnose na primjene u različitim područjima primjena kao što su fizika, ekonomija, biologija i kemija.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m093.pdf).
+	VODITELJ KOLEGIJA	
+		prof. dr. sc. Krešimir Burazin (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/104)	
+			KONZULTACIJE: Srijedom u 11:00h	
+	ASISTENT	
+		dr. sc. Jelena Jankov (https://www.mathos.unios.hr/index.php/271)	
+			KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/271#teaching)	
+	OSNOVNA LITERATURA
+		Stewart, Calculus 7th Edition, McMaster University and University of Toronto, Brooks/Cole, Cengage Learning, Belmont, 2008.
+		B. P. Demidovič, Zadaci i riješeni primjeri iz više matematike s primjenom na tehniče nauke, Tehnička knjiga, Zagreb, 1986.
+		D. Jukić, R. Scitovski, Matematika I, Odjel za matematiku, Osijek, 2000.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Primjene diferencijalnog i integralnog računa I realizira se s fondom od 45 sati (tjedno 1 sat predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno. Za točno vrijeme i raspored predavanja molimo vas da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod kc4t3m6.
+	PREDAVANJA	
+		TERMIN: Srijeda, 14-15h	PREDAVAONICA: D2	
+	VJEŽBE	
+		TERMIN: Srijeda, 15-17h	PREDAVAONICA: D2	
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom studija mogu pristupiti polaganju 2 kolokvija koji pokrivaju cijelo gradivo. Uspješno položeni kolokviji zamjenjuju pismeni dio ispita. 
+	Maksimalan broj bodova na pojedinom kolokviju određuje se kao zbroj bodova troje najboljih studenata, podijeljen s 3. Da bi uspješno položio kolegij preko kolokvija/pismenog  ispita, student mora skupiti barem  50  bodova, pri čemu na kolokviju/pismenom ispitu može ostvariti maksimalno 100 bodova (1 postotak od ukupnog broja bodova na kolokviju/pismenom ispitu = 1 bod), a na zadaćama maksimalno 10 bodova. Na svakom pojedinom kolokviju student mora ostvariti barem 20 bodova, neovisno o maksimalnom broju bodova na tom kolokviju. Sukladno tome određuju se sljedeći pragovi:
+		ocjena dovoljan (2): 50-65 bodova
+		ocjena dobar(3): 65-78 bodova
+		ocjena vrlo dobar(4): 78-90 bodova
+		ocjena izvrstan(5): 90 bodova i više.
+	ZADAĆE
+		Svaki tjedan student će dobiti zadaće na vježbama i predavanju koje je dužan predati sljedeći tjedan u pismenom obliku. Zadaće se provjeravaju kontinuirano na predavanju i vježbama.
+		Na pojedinoj zadaći koju je usmeno prezentirao student može ostvariti 0-5 bodova.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. 
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI PISMENIH ISPITA
+		2018/19 18.2.2019. (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_1802.pdf)
+		2017/18 16.2.2018. (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_ispit_16_2_2018.pdf)  20.06.2018. (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_2006.pdf) 04.07.2018. (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_0407.pdf)
+		2016/17 20.06.2017. (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_20061617.pdf)  04.07.2017. (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_04071617.pdf) 13.09.2017. (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_1309.pdf) (https://www.mathos.unios.hr/images/homepages/djankov/PDIIR1_3008.pdf)
+		2015/16 20.06.2016. (https://www.mathos.unios.hr/images/homepages/djankov/pdir1ispit.pdf)  04.07.2016. (https://www.mathos.unios.hr/images/homepages/mugrica/PDIIR/PDIIR1_ispit_4_7_2016.pdf)  22.9.201 (https://www.mathos.unios.hr/images/homepages/mugrica/PDIIR/PDIIR1_ispit_22_9_2016.pdf)6.
+		2014/15:  04.02.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/PDIIR_04022015.pdf)  18.02.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/PDIIR_18022015.pdf)  24.06.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/PDIR1/PDIIR_24062015.pdf)  04.09.2015. (https://www.mathos.unios.hr/images/homepages/djankov/PDIR_1_0409.pdf)
+		2013/14:  23.06.2014. (https://www.mathos.unios.hr/pdiir1/Pismeni/pdiir1-23-6-2014.pdf)  07.07.2014. (https://www.mathos.unios.hr/pdiir1/Pismeni/pdiir1-23-6-2014.pdf)  01.09.2014. (https://www.mathos.unios.hr/pdiir1/Pismeni/pdiir1-23-6-2014.pdf)  15.09.2014. (https://www.mathos.unios.hr/pdiir1/Pismeni/pdiir1-23-6-2014.pdf) 
+	PRIMJERI KOLOKVIJA
+		2020/21 Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/jjankov/PDIR1_prvi_kol2021.pdf) Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/jjankov/PDIR1_drugi_kol2021.pdf)
+		2018/19 Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/djankov/PDIR1_prvi_kol1819.pdf)
+		2017/18 Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/djankov/PDIR1_prvi_kol1718.pdf) Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/djankov/PDIR1_drugi_kol.pdf)
+		2016/17: Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/djankov/PDIR1_prvi_kol.pdf)
+		2015/16: Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/djankov/PDIR1_prvi_kolokvij.pdf) Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/djankov/PDIR1_2kol.pdf)
+		2014/15: Prvi kolokvij (https://www.mathos.unios.hr/images/homepages/ikuzmano/PDIR1/PDIIR_kol1_2015.pdf)  Drugi kolokvij (https://www.mathos.unios.hr/images/homepages/djankov/kolokvijpdir1.pdf)
+		2013/14: Prvi kolokvij (https://www.mathos.unios.hr/pdiir1/Kolokviji/PDIIR_kol1_2014.pdf)  Drugi kolokvij (https://www.mathos.unios.hr/pdiir1/Kolokviji/PDIIR_kol2_2014.pdf)

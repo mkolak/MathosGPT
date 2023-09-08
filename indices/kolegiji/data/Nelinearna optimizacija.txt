@@ -1,0 +1,33 @@
+OSNOVNE INFORMACIJE
+	Nelinearna optimizacija izvodi se u ljetnom semestru druge godine sveučilišnog diplomskog studija matematike i računarstva te sveučilišnog diplomskog studija financijske matematike i statistike. Cilj kolegija je studente upoznati s načinom pristupa rješavanju realnih problema nelinearne optimizacije koji se pojavljuju u različitim primjenama. Posebno će se razmatrati postavljanje problema, njegovo rješavanje i interpretacija rezultata. Obradit će se i analizirati poznate numeričke metode za rješavanje jednodimenzionalnih i višedimenzionalnih problema diferencijabilne i nediferencijabilne nelinearne optimizacije.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m129.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA	
+		prof.dr.sc. Kristian Sabo (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/116)
+		KONZULTACIJE: po dogovoru putem	ksabo@mathos.hr
+	ASISTENT
+		Antonio Jovanović
+		KONZULTACIJE: po dogovoru putem ajovanov@mathos.hr 
+		Tomislav Prusina
+		KONZULTACIJE: po dogovoru putem tprusina@mathos.hr
+	OSNOVNA LITERATURA
+		R. Scitovski, K. Sabo, D. Grahovac, Globalna optimizacija, Sveučilište u Osijeku, Odjel za matematiku, 2017.
+		R. Scitovski, N. Truhar, Z. Tomljanović, Metode optimizacije, Sveučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2014.
+		A. S. Ackleh, E. J. Allen, R. B. Kearfott, P. Seshaiyer, 2010. Classical and Modern Numerical Analysis: Theory, Methods and Practice. Taylor and Francis Group, LLC.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Nelinearna optimizacija realizira se s fondom od 75 sati (tjedno 3 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	MSTeams kod: a14grob
+	PREDAVANJA	TERMIN: Ponedjeljak, 13-15.30h	PREDAVAONICA: D5	
+	VJEŽBE	TERMIN: Utorak, 11-13h	PREDAVAONICA: RP1	
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti tijekom izvođenja nastave pišu dva kolokvija, od kojih svaki novi 100 bodova, a pomoću kojih se kontinuirano provjerava njihov rad i znanje. Studentima koji su na svakom kolokviju postigli barem 35 bodova, a ukupno barem 80 bodova priznaje se pismeni dio ispita i direktno se pozivaju na usmeni dio ispita, koji se po njihovom izboru može održati tijekom tekuće akademske godine. Pri tome ocjene na kolokviju definirane su na sljedeći način:
+		dovoljan: 80 - 140
+		dobar: 140 -200
+	Studenti mogu postići višu ocjenu rješavanjem domaćih zadaća.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s kolokvija, zadaća, pismenog ispita i seminara, formira konačna ocjena.

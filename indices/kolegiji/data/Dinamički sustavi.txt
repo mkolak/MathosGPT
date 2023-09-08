@@ -1,0 +1,73 @@
+OSNOVNE INFORMACIJE
+	Cilj predmeta.U okviru ovog predmeta želimo studente upoznati sa osnovnim pojmovima teorije dinamičkih sustava, sa naglaskom na modele iz drugih znanstvenih disciplina kao što su Ekonomija, Biologija, Elektrodinamika, Mehanika i dr. Studenti će se upoznati sa odabranim temama i algoritmima, koji imaju vrlo veliku primjenu, koristeći neke od standardnih matematičkih alata (Matlab, WRI-Mathematica, Octave)
+	Potrebna predznanja. Preddiplomski studij matematike.
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Ninoslav Truhar
+	OSNOVNA LITERATURA:
+		1. D. K. Arrowsmith and C. M. Place, „Dynamical Systems: Differential Equations, Maps and Chaotic Behaviour“, CRC Press, Boca Raton, 1998.
+		2. L. Perko, „Differential Equations and Dynamical Systems“, New York : Springer - Verlag, 2001.
+	Dopunska literatura:
+		1. T. A. Weber, „Optimal Control Theory with Applications in Economics“, MIT Press, Cambridge, Massachusetts, 2011.
+		J. Jost, „Dynamical Systems: Examples of Complex Behaviour“, Universitext. Springer-Verlag, Berlin, 2005
+
+
+Sadržaj predmeta. 
+	Autonomne jednadžbe. Autonomni sustavi. Konstrukcija faznog prostora. 
+	Linearni sustavi. Linearna izmjena varijabli. Fazni portret kanonskih sustava. Klasifikacija jednostavnih faznih portreta. Operator evolucije. Afini sustavi. 
+	Nelinearni sustavi. Lokalno i globalno ponašanje. Linearizacija u okolini fiksne točke. Teorem o linearizaciji. Višesrtuke fiksne točke. Stabilnost fiksnih točaka. Globalno ponašanje.
+	PrimjeneLinearni modeli (mehanički oscilator, električni krug, zatvoreni i otvoreni modeli ekonomije). Afini modeli (prisilni harmonijski oscilator). Nelinearni modeli.
+
+
+ISHODI UČENJA
+	u potpunosti razumiju te su sposobni konstruirati autonomne jednadžbe i sustave te fazni prostor
+	u potpunosti razumiju i primjenjuju stečena znanja o linearnim izmjena varijabli, faznim portretima kanonskih sustava, klasifikaciji jednostavnih faznih portreta, operatoru evolucije i afinim sustavima
+	u potpunosti razumiju i primjenjuju stečena znanja o nelinearnim sustavima
+	u potpunosti razumiju i sposobani su konstruirati modele koristeći diferencijalne jednadžbe
+	prijenjuju stečena znanja i razumijanje u primjenama na linearne modele kao što su mehanički oscilator, električni krug, zatvoreni i otvoreni modeli ekonomije
+	prijenjuju stečena znanja i razumijanje u primjenama na afine modele, npr. prisilni harmonijski oscilator te na nelinerane modele
+	koriste matematičku literaturu različitih izvora
+
+
+POVEZIVANJE ISHODA UČENJA, ORGANIZACIJE NASTAVNOG PROCESA I PROCJENA ISHODA UČENJA 
+	Pohađanje predavanja i vježbi
+		ECTS	1
+		ISHOD UČENJA**	1-8
+		AKTIVNOST STUDENATA*	Prisutnost na nastavi, rasprava, timski rad, samostalan rad na zadacima i kratke provjere znanja
+		METODA PROCJENE	Potpisne liste, praćenje aktivnosti na nastavi, zadaci zatvorenog tipa
+		BODOVI min 0 max 4
+	Domaće zadaće
+		ECTS	1
+		ISHOD UČENJA**	1-8
+		AKTIVNOST STUDENATA*	Samostalno rješavanje programerskih zadataka
+		METODA PROCJENE	Provjera točnih rješenja (ocjenjivanje)
+		BODOVI min 0 max 4
+	Provjera znanja(kolokvij)
+		ECTS	2
+		ISHOD UČENJA**	1-8
+		AKTIVNOST STUDENATA*	Priprema za pismenu provjeru znanja
+		METODA PROCJENE	Provjera točnih odgovora (ocjenjivanje)
+		BODOVI min 25 max 46
+	Završni ispit
+		ECTS	2
+		ISHOD UČENJA**	1-8
+		AKTIVNOST STUDENATA*	Ponavljanje gradiva
+		METODA PROCJENE	Usmeni ispit
+		BODOVI min 25 max 46
+	UKUPNO
+		ECTS	6
+		BODOVI min 50 max 100
+
+
+Izvođenje nastave i vrednovanje znanja.
+	Predavanja i vježbe su obavezne. 
+	Ispit se sastoji od pismenog i usmenog dijela, a polaže se nakon odslušanih predavanja i obavljenih vježbi. 
+	Prihvatljivi rezultati postignuti na kolokvijima, koje student pišu tijekom semestra, zamjenjuju pismeni dio ispita.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Primjene dinamičkih sustava realizira se s fondom od 30 sati (tjedno 1 sata predavanja i 1 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+
+
+PRIMJERI ISPITNIH ROKOVA
+	Primjer-Kolokvija 1 (https://www.mathos.unios.hr/images/homepages/ntruhar/DinamSustK1_1516.pdf)
+	Primjer-Kolokvij2 (https://www.mathos.unios.hr/images/homepages/ntruhar/Kolokvij2_2013.pdf)

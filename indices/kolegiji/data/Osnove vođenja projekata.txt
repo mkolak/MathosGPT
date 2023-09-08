@@ -1,0 +1,30 @@
+OSNOVNE INFORMACIJE
+	Kolegij Osnove vođenja projekata izvodi se u zimskom semestru druge godine sveučilišnog diplomskog studija matematike (smjerovi matematika i računarstvo, te financijska matematika i statistika). Cilj kolegija je omogućiti studentima upoznavanje i razumijevanje projekata i projektnih metodologija koje se primjenjuju u praksi.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i040.pdf).
+	VODITELJ KOLEGIJA	
+		doc.dr.sc. Zoran Tomljanović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119)	
+		KONZULTACIJE: Po dogovoru	
+	ASISTENT
+		Goran Bokun (https://hr.linkedin.com/in/goranbokun)	
+		KONZULTACIJE: Po dogovoru	
+	OSNOVNA LITERATURA
+		A Guide to the Project Management Body of Knowledge (PMBOK Guide), Fifth Edition, PMI, 2013.  
+		Meri Williams, The Principles of Project Management, Sitepoint, 2008.
+		Eric Verzuh, The Fast Forward MBA in Project Management, Fourth Edition, Wiley, 2012.
+		IPMA Competence Baseline, Version 3.0, IPMA, 2006. 
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Osnove vođenja projekata realizira se s fondom od 30 sati (tjedno 2 sata integriranih predavanja i vježbi). Pohađanje predavanja je obavezno.
+	Predavanja se održavaju srijedom 16:00-18:00h u D7.
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se ocjenjuje na osnovi aktivnog sudjelovanja na predavanjima, izrade zadaća, izrade i prezentacije projektnog zadatka, te usmene provjere znanja. Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se formira konačna ocjena. 
+	ZADAĆE
+		Na predavanjima će studenti dobivati individualne i grupne zadaće. Grupne su zadaće uglavnom vezane uz projektni zadatak grupe. Individualne zadaće predaje svaki student za sebe, a grupne zadaće predaje voditelj grupe za cijelu grupu. Zadaće se predaju putem emaila. Rok za predaju zadaće je dva dana prije sljedećeg predavanja (osim ako nije drugačije dogovoreno). Pravovremeno rješavanje zadaće i izrada projektnog zadatka su uvjet za izlazak na usmeni ispit.
+		Kako se poslane zadaće ne bi zagubile, i kako bi bile pravovremeno pregledane, molimo studente da se pridržavaju pravila imenovanja dokumenata i poslanih emaila:
+		Naslov (subject) emaila za slanje individualne zadaće: "OVP: Assignment Lecture x" (x = 1, 2, ...)
+		Naslov dokumenta s rješenjem individualne zadaće treba biti isti kao i naziv preuzetog dokumenta, uz dodatak prezimena i imena studenta. Npr. preuzeti dokument je "OVP_OOP1.rtf", dokument s rješenjem je "OVP_OOP1_Bokun_Goran.rtf".
+		Naslov (subject) emaila za slanje projektnog zadatka: "OVP: project_name - topic". Npr. "OVP: World Domination - Project Charter"
+		Naslov dokumenta vezanog uz projektni zadatak treba uvijek sadržavati ime projekta. Npr. "OVP_WorldDomination_ProjectCharter.doc".

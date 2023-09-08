@@ -1,0 +1,34 @@
+OSNOVNE INFORMACIJE
+	Uvod u računalnu znanost izvodi se u zimskom semestru prve godine sveučilišnog preddiplomskog studija Matematika i sveučilišnog preddiplomskog studija Matematika i računarstvo. Cilj kolegija je na početnoj razini upoznati studente s osnovnim idejama i metodama računarstva koji su osnova za druge računalne kolegije.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i056.pdf).
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Domagoj Matijević (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/76)	
+			KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/76#teaching)	
+	ASISTENT	
+		dr. sc. Rebeka Čorić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/122)	
+			KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/122#teaching)	
+		dr. sc. Mateja Đumić (https://www.mathos.unios.hr/index.php/26-homepage/odjel/kadrovi/homepages/123-mateja-dumic-s-home-page)	
+			KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/123#konzultacije)	
+	OSNOVNA LITERATURA
+		Materijali s predavanja i vježbi na platformi MS Teams
+		D. Matijević, N. Truhar, Uvod u računarstvo (pdf (https://www.mathos.unios.hr/images/uploads/10.pdf))
+	DOPUNSKA LITERATURA
+		M. L. Hetland, Beginning Python: From Novice to Professional, Apress, 2008.
+		J. G. Brookshear, D. Brylow: Computer Science – An Overview (12 ed), Pearson Education, 2015.
+		J. Šribar, B. Motik: Demistificirani C++, Element, 2010. (3. prošireno izdanje).
+		Malan, D.J., Introduction to Computer Science, Harvard online course
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Uvod u računalnu znanost realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi).
+	Nastava u zimskom semestru 2022./23. se izvodi uživo.
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod 40jyvt4, ili klikom na link (https://teams.microsoft.com/l/team/19%3ap9suJxOuc35FtODEwyuQ6NQ90_cMHGo0u8-M0MUCq101%40thread.tacv2/conversations?groupId=a44a6467-7842-4bb2-9ea1-8c51cf054469&tenantId=64a0544e-0190-4e26-932f-4cbf44ecbee1).
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra održati će se dva kolokvija. Tijekom semestra studenti će imati domaće zadaće na kojima mogu ostvariti određeni broj bodova i utjecati na konačnu ocjenu. Za prolaz je potrebno skupiti najmanje 50% od ukupnog broja bodova.
+	PISMENI ISPIT
+		Studenti koji ne skupe minalni bodovni prag na kolokvijima dužni su pristupiti pismenom ispitu.
+	USMENI ISPIT
+		Na usmenom ispitu se, u ovisnosti od ocjene s kolokvija, odnosno pismenog ispita i zadaća formira konačna ocjena.
+		Detaljnije o načinu ocjenjivanja moguće je pronaći na prezentaciji s prvog predavanja.

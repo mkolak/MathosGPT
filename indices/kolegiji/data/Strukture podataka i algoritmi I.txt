@@ -1,0 +1,23 @@
+Osnovne informacije
+	Kolegij Strukture podataka i algoritmi I se u zimskom semestru druge godine preddiplomskog studija matematike i preddiplomskog studija matematike i računarstva. Cilj kolegija je studente upoznati s vrstama te uporabama jednostavnih i složenih struktura podataka i algoritama te koristiti ih u praktičnoj primjeni u objektno orijentiranom programskom jeziku C++.
+	Sadržaj kolegija: [pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i053.pdf)] 
+	PREDAVAČ	
+		izv.prof.dr.sc. Domagoj Matijević	KONZULTACIJE: po dogovoru putem maila	
+	ASISTENT
+		Tomislav Prusina	KONZULTACIJE: po dogovoru putem maila	
+	Osnovna literatura
+		T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein, Introduction to Algoritms, 4Ed, MIT Press, 2001.
+
+
+Raspored predavanja i vježbi
+	Izvedbeni program kolegija Strukture podataka i algoritmi I realizira se s fondom od 75 sati (tjedno 3 sata predavanja i 2 sata vježbi).
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal.
+
+
+Pravila polaganja ispita
+	Tijekom semestra studenti polažu dva kolokvija i pišu tjedne zadaće. Zadaće donose 10% od ukupnog broja bodova a ostatak bodova su bodovi sa kolokvija.
+	Konačna ocjena se računa prema sljedećem kriteriju.
+		dovoljan (2): [50% - 65%)
+		dobar (3): [65% - 80%)
+		vrlo dobar (4): [80% - 90%) 
+		izvrstan (5): [90% - 100%]

@@ -1,0 +1,42 @@
+OSNOVNE INFORMACIJE
+	Naučiti studente rješavati složene lokalne i mrežne programske zadaće u ekipnom radu. Ovaj praktikum povezuje znanja iz svih dosadašnjih računalnih kolegija. Kroz predavanja obrađuju se pojmovi povezanosti matematičkih alata s WEB okolišem. Na vježbama studenti u ekipnom radu programiraju dva zadana projekta (case study) i objavljuju ih na WEB-u. Projekti mogu biti metodičke cjeline iz matematike ili fizike, a služit će u edukaciji srednjoškolaca ili studenata.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i018.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Zoran Tomljanović
+		KONZULTACIJE: vidjeti https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119/#teaching
+	ASISTENT
+		dr.sc. Matea Ugrica	
+		KONZULTACIJE: dogovor putem mugrica@mathos.hr
+ 	OSNOVNA LITERATURA
+		D. J. Higham, N.J. Higham, MATLAB Guide, SIAM, Philadelphia, 2000.
+		R.E. Maeder, Programming in Mathematica, 3/E, Addison-Wesley, Boston, 1995.
+		S. Wolfram, The MATHEMATICA (R) Book, Version 4, Cambridge Univ., Cambridge, 1999.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	PREDAVANJA	 
+		petak, 8:00-9:00
+		PREDAVAONICA	RP-2
+	VJEŽBE	 
+		petak, 9:00-11:00
+		PREDAVAONICA	RP-2
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se može položiti putem 3 kolokvija i projektnog zadatka pri cemu treba zadovoljiti bodovne pragove
+		Prvi kolokvij (Mathematica) vrijedi 100 bodova.
+		Drugi kolokvij (Matlab) vrijedi 100 bodova.
+		Treći kolokvij (Matlab) vrijedi 100 bodova.
+		Projektni zadatak vrijedi 100 bodova.
+	Bodovni prag po svakom kolokviju i na projektnom zadatku iznosi 35 bodova.
+	Studenti, koji imaju barem 45% od ukupnih bodova, su položili ispit. 
+	Studentima, koji nisu zadovoljili kriterije za polaganje ispita, ali imaju barem 40% od ukupnog broja bodova ili im nedostaje tocno jedan bodovni prag, u ljetnim ispitnim rokovima u okviru usmenog ispita mogu popraviti naslabiji dio i tim popravnim ispitom im se omogućuje polaganje ispita
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu položili pismeni ispit preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA
+	2017./2018. prvi kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-RP/1_kol_30_3_18.pdf), drugi kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-RP/2_kol_26_4_18.pdf), treći kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-RP/3_kol_1_6_18.pdf)     
+	2012./2013.  prvi kolokvij (https://www.mathos.unios.hr/rp/rp_1_kol_30_4_13.pdf),  drugi kolokvij (https://www.mathos.unios.hr/rp/2_kol_22_5_13.pdf)

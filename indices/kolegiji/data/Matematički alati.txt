@@ -1,0 +1,28 @@
+OSNOVNE INFORMACIJE
+	Predmet Matematički alati izvodi se u zimskom semestru druge godine sveučilišnog preddiplomskog studija matematike. Cilj kolegija je studente upoznati i osposobiti za rad s modernim alatima za matematičke izračune i ilustracije (Mathematica i MATLAB) te standardnim sustavom za pisanje stručnih i znanstvenih dokumenata LaTeX. Tijekom nastave će se izrađivati primjeri iz različitih područja matematike, fizike, ekonomije i inženjerstva.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i027.pdf).
+	NOSITELJ KOLEGIJA
+		doc. dr. sc. Ivana Kuzmanović Ivičić
+		KONZULTACIJE: po dogovoru
+	OSNOVNA LITERATURA
+		Originalni priručnici za korištene softverske alate. Sadržaji dostupni na web stranicama:
+		Mathematica: Wolfram Research (http://www.wolfram.com)
+		MATLAB: The MathWorks (http://www.mathworks.com)
+		LaTeX: Ne baš tako kratak uvod u TeX i LaTeX2e (http://web.math.pmf.unizg.hr/~ungar/lkratko2e_internet.pdf)
+	Dopunska literatura:
+		LaTeX – A document preparation system
+		TeX Resources on the Web
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Kroz predavanja i vježbe obrađuju se matematički alati s naglaskom na pisanje jednostavnih programa i matematičkih tekstova. Izvedbeni program kolegija Matematički alati realizira se s fondom od 45 sati (tjedno 1 sat predavanja i 2 sata vježbi).
+	PREDAVANJA	utorkom 10:00-11:00 h	PREDAVAONICA: RP-1	
+	VJEŽBE	utorkom, 11:00-13:00 h	PREDAVAONICA: RP-1
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se sastoji od pismenog i usmenog dijela, a polaže se nakon odslušanih predavanja i obavljenih vježbi. Prihvatljivi rezultati postignuti na kolokvijima, koje studenti pišu tijekom semestra, zamjenjuju pismeni dio ispita. Na kolokviju i pismenom ispitu je potrebno ostvariti najmanje 12 bodova iz LaTeX-a i 18 bodova iz Mathematica-e. Ukupno je potrebno ostvariti najmanje 45 bodova.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija. Na pismenom ispitu je potrebno ostvariti najmanje 12 bodova iz LaTeX-a i 18 bodova iz Mathematica-e  te ukupno najmanje 45 bodova.
+	USMENI ISPIT
+		Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

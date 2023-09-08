@@ -1,0 +1,48 @@
+OSNOVNE INFORMACIJE
+	Obrada prirodnog jezika pripada jednom od temeljnih područja umjetne inteligencije stoga će studenti u ovom predmetu modelirati probleme obrade prirodnog jezika koristeći napredne tehnike iz strojnog učenja. Teorijskim pristupom bit će upoznati s različitim primjenama i jezičnim modelima, a kroz praktičan rad razvijat će vlastite dubinske modele u modernim Python bibliotekama za dubinsko učenje te vrednovati na stvarnim primjenama obrade prirodnog jezika.
+	Sadržaj kolegija: [pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/i069.pdf)] .
+	VODITELJ KOLEGIJA
+		doc.dr.sc. Domagoj Ševerdija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/137)	
+	ASISTENT 
+		Rebeka Čorić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/122)	
+		Danijela Jaganjac (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/629)	
+	OSNOVNA LITERATURA
+		Y. Goldberg, Neural Network Models for Natural Language Processing,Morgan & Claypool Publishers, 2017
+		P. Goyal, S. Pandey, K. Jain, Deep Learning for Natural Language Processing: Creating Neural Networks with Python, Apress, 2018.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Uvod u programiranje realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: četvrtak, 9-12h	
+	VJEŽBE - grupa A	TERMIN: četvrtak, 14-16h	
+	VJEŽBE - grupa B	TERMIN: četvrtak, 14-16h	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju aktivnosti prema bodovima:
+	Pohađanje predavanja i vježbi
+		ECTS	1
+		AKTIVNOST STUDENATA	Prisutnost na nastavi, rasprava, timski rad, samostalan rad na zadacima i kratke provjere znanja
+		BODOVI 0-10
+	Domaće zadaće
+		ECTS	2
+		AKTIVNOST STUDENATA	Samostalno rješavanje programerskih zadataka
+		BODOVI 15-25
+	Provjera znanja(kolokvij)
+		ECTS	2
+		AKTIVNOST STUDENATA	provjera usvojenosti teorijskog dijela gradiva
+		BODOVI 15-25
+	Završni ispit
+		ECTS	2
+		AKTIVNOST STUDENATA Izrada seminarskog rada/programskog projekta
+		BODOVI 20-40
+	OCJENA
+		Zadovoljavanje minimalnog praga bodova za sve kategorije je nužnost za prolaz na kolegiju. Obzirom na ostvarene bodove, student može ostvariti sljedeće ocjene:
+			50% - 59%  -  dovoljan (2) 
+			60% - 75%  -  dobar (3)
+			75% - 89%  -  vrlo dobar (4) 
+			90% - 100%  -  izvrstan (5).
+		PISMENI ISPIT
+			Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko navedenih kriterija.
+		USMENI ISPIT
+			Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

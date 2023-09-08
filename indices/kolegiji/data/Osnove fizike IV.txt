@@ -1,0 +1,47 @@
+OSNOVNE INFORMACIJE
+	Cilj ovog predmeta usvojiti je temeljna znanja i koncepte iz područja: struktura tvari, kinetička teorija plinova, toplina, termodinamika, struktura atoma, nuklearne reakcije, standardni kozmološki model čestica. Tijekom kolegija studenti će se pripremati za kolegije koji slijede i koji zahtijevaju poznavanje prirodnih zakona iz navedenih područja.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/f010.pdf).
+	VODITELJ KOLEGIJA
+		Izv.prof.dr.sc. Branko Vuković	
+		KONZULTACIJE: Ponedjeljkom od 12-13h
+	ASISTENT
+		dr.sc. Matko Mužević
+		KONZULTACIJE: Ponedjeljkom od 12-13h
+	OSNOVNA LITERATURA
+		Cindro, N., Fizika 1, Školska knjiga, Zagreb, 1991.
+		http://gama.fizika.unios.hr/~branko/of4.htm 
+		Kulišić, P.,  Mehanika i toplina, Školska knjiga, Zagreb, 2005.
+		Kulišić, P., Lopac, V., Elektromagnetske pojave i struktura tvari, Školska knjiga, Zagreb, 1991.
+		Kulišić, P., Bistričić, L., Horvat, D. et al.,  Riješeni zadaci iz mehanike i topline, Školska knjiga, Zagreb, 2007.
+	Dopunska literatura:
+		1. Paić, M., Toplina, Termodinamika, Energija, Liber, Zagreb, 1993.
+		2. Halliday, D., Resnick, R., Walker, J., Fundamentals of physics, John Wiley & Sons, Hoboken, 2003.
+		3. Young, H., Freedman, R., University Physics, with modern physics Addison-Wesley Publ., New York, 2008.
+		4. Giambattista, A i suradnici, College physics, McGraw Hill, 2007.
+		5. E. Babić, R. Krsnik i M. Očko. Zbirka riješenih zadataka iz fizike. Školska knjiga, Zagreb 2004.
+		6. P. Kulišić, L.Bistričić, D. Horvat, Z. Narančić, T. Petrović i D. Pevec, Riješeni zadaci iz mehanike i topline, Školska knjiga, Zagreb, 2002.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Osnove fizike IV realizira se s fondom od 105 sati (tjedno 4 sata predavanja, 2 sata vježbi i 1 sat seminara).
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i MsTeams kanal (v65lrqp). 
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih na kolokvijima (60% ocjene), domaćim zadaćama (10%), završnom ispitu (20%) te seminarima (10%). 
+	Za ocjenu dovoljan (2) potrebno je skupiti barem 60% ukupnog broja bodova
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. 
+		Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+NASTAVNI MATERIJALI S PREDAVANJA
+Svi nastavni materijali dostupni su na:  http://gama.fizika.unios.hr/~branko/of4.htm (http://gama.fizika.unios.hr/~branko/of4.htm)
+
+
+DOMAĆE ZADAĆE
+	(https://www.mathos.unios.hr/prg/materijali/Zadaca_01_2013-14.pdf)	
+	(https://www.mathos.unios.hr/prg/materijali/Zadaca_02_2013-14.pdf)	
+	(https://www.mathos.unios.hr/prg/materijali/Zadaca_02_2013-14.pdf)	

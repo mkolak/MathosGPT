@@ -1,0 +1,36 @@
+OSNOVNE INFORMACIJE
+	Upoznati se sa apstraktnim strojevima i problemima koji oni mogu riješiti  (teorijom automata) i formalnih jezika (regularnih jezika i kontekstno neovisnih jezika).  Naglasak će biti na načinima razmišljanja koja će studentima omogućiti bolje razumijevanje  teorije automata i formalnih jezika. Kroz vježbe studenti će biti upoznati sa mnogim primjerima formalnih jezika u različitim programskim jezicima.astava se izvodi putem predavanja i vježbi. Predavanja i vježbe su obavezne. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m097.pdf).
+	VODITELJ KOLEGIJA
+			izv.prof.dr.sc. Zoran Tomljanović http://www.mathos.hr/~ztomljan
+			KONZULTACIJE: vidjeti https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119/#teaching
+	OSNOVNA LITERATURA
+		M. Sipser, Introduction to the Theory of Computation (3rd Ed.), Cengage Learning, Boston, 2013.
+
+ 
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Teorijske osnove računalne znanosti realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže kroz pismeni i usmeni ispit. Studenti se mogu osloboditi pismenog ispita preko dva kolokvija. 
+	Pismeni dio ispita se može položiti putem 2 kolokvija od kojih svaki vrijedi 100 bodova.
+	Na svakom kolokviju bodovni prag je 30 bodova.
+	Studenti, koji ukupno imaju barem 80 bodova i zadovoljavaju bodovne pragove, su položili pismeni dio ispita.
+	PISMENI ISPIT
+		Studenti koji nisu položili pismeni dio ispita preko kolokvija moraju prije pristupanja usmenom ispitu najprije položiti pismeni dio ispita u nekom od redovnih ispitnih termina. Na pismenom ispitu za ocjenu dovoljan (2) potrebno je skupiti barem 45% od ukupnog broja bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	Pismeni ispit 1.2.2019: ispit (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-mtr/TORZ_pis_1_2_2019.pdf)
+	Kolokviji u ak.god. 2020./2021.
+		1. kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-mtr/MTR_1kol_28_4_21.pdf)
+		2. kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-mtr/TORZ_2kol_2_6_21.pdf)
+	Kolokviji u ak.god. 2018./2019.
+		 1. kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-mtr/OMTR_kol_1_30_11_2018.pdf)
+		 2.kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-mtr/OMTR_kol_2_25_1_2019.pdf)
+	Kolokviji u ak.god. 2015./2016.
+		1. kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-mtr/MTR_1kol_7_12_15.pdf)
+		2. kolokvij (https://www.mathos.unios.hr/images/homepages/ztomljan/materijali-mtr/MTR_2kol_26_1_16.pdf)

@@ -1,0 +1,199 @@
+General Information
+  Associate Professor
+  Department of Mathematics 
+  Josip Juraj Strossmayer University of Osijek 
+  phone: +385-31-224-827
+  fax: +385-31-224-801
+  email: ztomljan@mathos.hr
+  office: 18 (ground floor)
+  Google Scholar Profile (https://scholar.google.hr/citations?hl=hr&user=DhIXUXYAAAAJ)
+  Research Interests
+    Numerical linear algebra
+    Damping optimization in mechanical systems
+    Control Theory
+    Matrix Equations
+  Degrees
+    PhD in Mathematics, Department of Mathematics, University of Zagreb, May 2011,
+    MSc in Mathematics, Department of Mathematics, University of Zagreb, Croatia, December 2005,
+    1997-2001 Mathematical Gymnasium at high school in Našice
+
+
+Publications
+  Journal Publications
+    Z. Tomljanović, Damping optimization of the excited mechanical system using dimension reduction, Mathematics and Computers in Simulation 207 (2023), 24-40
+    N. Jakovčević Stor, I. Slapničar, Z. Tomljanović, Fast Computation of Optimal Damping Parameters for Linear Vibrational Systems, Mathematics 10/5 (2022), 1-17
+    N. Jakovčević Stor, T. Mitchell, Z. Tomljanović, M. Ugrica, Fast optimization of viscosities for frequency-weighted damping of second-order systems, Journal of Applied Mathematics and Mechanics (2022), prihvaćen za objavljivanje
+    I. Nakić, D. Tolić, Z. Tomljanović, I. Palunko, Numerically Efficient H∞ Analysis of Cooperative Multi-Agent Systems, Journal of The Franklin Institute 359/16 (2022), 9110-9128
+    N. Truhar, Z. Tomljanović, R. Li, Perturbation Theory for Hermitian Quadratic Eigenvalue Problem -- Damped and Simultaneously Diagonalizable Systems, Applied mathematics and computation  371 (2020)
+    C. Beattie, S. Gugercin, Z. Tomljanović, Sampling-free model reduction of systems with low-rank parameterization, Advances in Computational Mathematics 46/6 (2020), 1-34
+    Z. Tomljanović, M. Voigt, Semi-active H∞-norm damping optimization by adaptive interpolation (http://dx.doi.org/10.1002/nla.2300), Numerical Linear Algebra with Applications 27/4 (2020), 1-17
+    N. Truhar, Z. Tomljanović, M. Puvača, Approximation of damped quadratic eigenvalue problem by dimension reduction, Applied mathematics and computation  347 (2019), 40-53
+    I. Nakić, Z. Tomljanović, N. Truhar, Mixed control of vibrational systems, Journal of Applied Mathematics and Mechanics 99/9 (2019), 1-15
+    Y. Kanno, M. Puvača, Z. Tomljanović, N. Truhar, Optimization Of Damping Positions In A Mechanical System, Rad HAZU, Matematičke znanosti. 23 (2019), 141-157
+    Z. Tomljanović, C. Beattie, S. Gugercin, Damping optimization of parameter dependent mechanical systems by rational interpolation, Advances in Computational Mathematics 44/6 (2018), 1797-1820
+    N. Truhar, Z. Tomljanović, M. Puvača, An Efficient Approximation For Optimal Damping In Mechanical Systems, International journal of numerical analysis and modeling 14/2 (2017), 201-217
+    I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar, Damping optimization over the arbitrary time of the excited mechanical system, Journal of Computational and Applied Mathematics, 304 (2016), 120-129
+    P. Benner, P. Kurschner, Z. Tomljanović, N. Truhar, Semi-active damping optimization of vibrational systems using the parametric dominant pole algorithm, Journal of Applied Mathematics and Mechanics 96/5 (2016), 604-619
+    N. Truhar, Z. Tomljanović, K. Veselić, Damping  optimization in mechanical systems with external force, Applied mathematics and computation  250 (2015), 270-279
+    M. Rukav, K. Stražanac, N. Šuvak, Z. Tomljanović, Markov decision processes in minimization of expected costs, Croatian Operational Research Review  5/2 (2014), 247-257
+    P. Benner, Z. Tomljanović, N. Truhar, Optimal Damping of Selected Eigenfrequencies Using Dimension Reduction, Numerical Linear Algebra with Applications 20/1 (2013), 1-17
+    I. Nakić, Z. Tomljanović, N. Truhar, Optimal Direct Velocity Feedback, Applied mathematics and computation  225 (2013), 590-600
+    I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar, Optimization of material with modal damping, Applied mathematics and computation  218 (2012), 7326-7338
+    P. Benner, Z. Tomljanović, N. Truhar, Dimension reduction for damping optimization in linear vibrating system, Journal of Applied Mathematics and Mechanics 91/3 (2011), 179-191
+    Z. Tomljanović, N. Truhar, K. Veselić, Optimizing a damped system - a case study, International Journal of Computer Mathematics 88/7 (2011), 1533-1545
+    N. Truhar, Z. Tomljanović, R. Li, Analysis of the solution of the Sylvester equation using low-rank ADI with exact shifts, Systems and Control Letters 59 (2010), 248-257
+    N. Truhar, Z. Tomljanović, Estimation of optimal damping for mechanical vibrating systems, International Journal of Applied Mathematics and Mechanics  5/5 (2009), 14-26
+  Refereed Proceedings
+    I. Nakić, D. Tolić, I. Palunko, Z. Tomljanović,  Numerically Efficient Agents-To-Group H∞ Analysis, 10th Vienna International Conference on Mathematical Modelling MATHMOD 2022, Vienna Austria, 2022, 199-204
+    I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar,  Applications of Lyapunov and T-Lyapunov equations in mechanics, Fourth Mathematical Conference of the   Republic of Srpska,, Trebinje, 2014, 83-92
+    J. Denissen, A. Koskela, H. Mena, Z. Tomljanović,  Damping optimization in vibrational systems based on amplitude (http://fwn06.housing.rug.nl/mtns2014-papers/fullPapers/0345.pdf), The 21th International Symposium on Mathematical Theory of Networks and Systems, Groningen,  The Netherlands , 2014, 1222-1227
+    P. Benner, Z. Tomljanović, N. Truhar,  Damping Optimization for Linear Vibrating Systems Using Dimension Reduction, The 10th International Conference on Vibration Problems ICOVP 2011, Prag, 2011, 297-305
+  Others
+    M. Marković, Z. Tomljanović, Kolaborativno filtriranje, Math.e : hrvatski matematički elektronski časopis  34/1 (2018), 1-22
+    C. Beattie, S. Gugercin, Z. Tomljanović, Sampling-free parametric model reduction of systems with structured parameter variation (https://www.scienceopen.com/document_file/f43a59f7-c8dd-4508-b8f1-b60e5b096662/ScienceOpen/25Plakat_ZT_Nantes18%20_submitted.pdf) (2018)
+    Z. Tomljanović, N. Truhar, K. Veselić, Damping optimization in mechanical systems with external force  (https://www.scienceopen.com/collection/2015VM60) (2015)
+    Z. Tomljanović, M. Ugrica, QR decomposition using Givens rotations and applications, Osječki matematički list 14/2 (2015), 117-141
+    K. Burazin, Z. Tomljanović, I. Vuksanović, Prigušivanje mehaničkih vibracija (http://e.math.hr/br24/BurazinEtAl), Math.e : hrvatski matematički elektronski časopis  24 (2014)
+    Z. Tomljanović, Hornerov algoritam i primjene, Osječki matematički list 7 (2008), 99-106
+  Books
+    R. Scitovski, N. Truhar, Z. Tomljanović,  Metode optimizacije (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/301.pdf ), Svučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2014.
+  Technical Reports
+    N. Truhar, Z. Tomljanović, M. Puvača, An efficient approximation for the optimal damping in mechanical systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/614.pdf ) (2016)
+    N. Truhar, Z. Tomljanović, Dimension reduction approach for the parameter dependent quadratic eigenvalue problem (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/615.pdf ) (2016)
+    N. Truhar, Z. Tomljanović, K. Veselić, Damping  optimization in mechanical systems with external force (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/497.pdf ) (2014)
+
+
+Projects
+  Accelerated solution of optimal damping problems, -- scientific project; supported by the DAAD for period 2021--2022 (principal investigator together with Jens Saak); cooperation with Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany 
+  Vibration Reduction in Mechanical Systems (http://vims.mathos.unios.hr/) -- scientific project (IP-2019-04-6774, VIMS). This project has been fully supported by Croatian Science Foundation for the period 01.01.2020.--31.12.2023. (principal investigator) 
+  Control of Dynamical Systems (http://condys.unidu.hr/) -- scientific project (IP-2016-06-2468, ConDyS). This project has been fully supported by Croatian Science Foundation for the period 01.03.2017.--28.02.2021. (investigator)
+  Robustness optimization of damped mechanical systems, -- scientific project; supported by the DAAD for period 2017--2018 (principal investigator together with Matthias Voigt); cooperation with TU Berlin, Germany
+  Optimization of parameter dependent mechanical systems (https://www.mathos.unios.hr/index.php/399)  -- scientific project (IP-2014-09-9540; OptPDMechSys). This project has been fully supported by Croatian Science Foundation for the period 01.07.2015.--30.06.2019. (investigator)
+  Damping optimization in mechanical systems excited with external force -- scientific project; supported by the J. J. Strossmayer University of Osijek for period 2015 (principal investigator)
+  Mixed Integer Nonlinear Programming (MINLP) for damper optimization -- scientific project; supported by the DAAD for period 2015--2016 (investigator); cooperation with Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg 
+  European Model Reduction Network (EU-MORNET). Funded by: COST (European Cooperation in Science and Technology) (investigator).
+  Optimization of semi-active damping in vibrational systems -- scientific project; supported by the J. J. Strossmayer University of Osijek for period 2014 (principal investigator); cooperation with Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg
+  Optimal Damping of Vibrating Systems -- scientific project; supported by the DAAD for period 2013--2014 (investigator) 
+  Passive control of mechanical models -- scientific project No.235-2352818-1042 of the Croatian Ministry of Science, Education and Sports for period 2007.-- (investigator) 
+  Optimization algorithms for determination of optimal damping in mechanical systems -- scientific project; supported by the Croatian Science Foundation for period 2008--2009 (principal investigator)  
+
+
+Professional Activities - Professional Society Membership, Committee Memberships and organization, Refereeing/Reviewing, Workshop and Conference Talks
+  Professional Society Membership
+    International Association of Applied Mathematics and Mechanics,  GAMM  (https://www.gamm-ev.de/)
+    GAMM Activity Group Applied and Numerical Linear Algebra,  GAMM ANLA (http://gamm-anla.epfl.ch/)
+    Croatian Mathematical Society, HMD (http://www.matematika.hr/)
+    Croatian Operational Research Society, CRORS (http://www.hdoi.hr/en/)
+    Society for Industrial and Applied Mathematics, SIAM (https://www.siam.org/)
+  Committee Memberships and organization
+    UPCOMING: Co-organizer of the the Winter School on Model Reduction for Optimization and Control that will be held on 19 - 23 February 2024 in Dubrovnik, Croatia: webpage (https://www.mathos.unios.hr/index.php/911)
+    Co-organizer of the  3rd Workshop on Optimal Control of Dynamical Systems and applications, 28-31 March 2022 at Department of Mathematics, J. J. Strossmayer University of Osijek: webpage (http://vims.mathos.unios.hr/page-builder/workshop-daad-2022/) 
+    Co-organizer of the Workshop on Optimal Control of Dynamical Systems and applications, 5-6 November 2020 at Department of Mathematics, J. J. Strossmayer University of Osijek: webpage (http://vims.mathos.unios.hr/home/workshop2020)   
+    Co-organizer of the 10th Conference on Applied Mathematics and Scientific Computing 14-18 September 2020, Brijuni, Croatia. In 2020 we have a special section on optimal control of dynamical systems and applications, coorganized with the Department of Mathematics, University of Osijek., webpage (https://applmath.math.pmf.unizg.hr/2020)  
+    Co-organizer of International Workshop on Optimal Control of Dynamical Systems and applications, 20-22 June 2018 at Department of Mathematics, J. J. Strossmayer University of Osijek,  webpage (http://workshop.mathos.unios.hr)  
+    Co-organizer of Workshop on Model Reduction Methods and Optimization, 20-21 September 2016, in Opatija, Croatia, webpage (http://www.mathos.unios.hr/index.php/443) 
+    Co-organizer of The third International School on Model Reduction for Dynamical Control Systems, 5 - 10 October 2015, in Dubrovnik, Croatia, webpage  (http://www.mathos.unios.hr/index.php/351)
+    Co-organizer of the DAAD International School on Linear Optimal Control of Dynamic Systems, 23 - 28 September 2013, Osijek, webpage  (http://www.mathos.unios.hr/locschool2013/)
+    Co-organizer of the Summer School on Numerical Linear Algebra for Dynamical and High-Dimensional Problems, October 10-15, 2011, Trogir, Croatia, webpage  (http://www.mpi-magdeburg.mpg.de/mpcsc/events/trogir/)
+  Refereeing/Reviewing
+    Refereeing:
+      LAA
+      APOM
+      Mathematical Communications
+      Osječki matematički list
+  Workshop and Conference Talks
+    Analysis of Cooperative Multi-Agent Systems, Workshop on Modelling, analysis and numerical methods of complex dynamics (https://conferences.cirm-math.fr/3036.html), 21 – 23 June 2023, Marseille, France
+    Finite time horizon mixed control of vibrational systems, 25th Conference of the International Linear Algebra Society (https://ilas2023.es/), 12 - 16 June 2023, Madrid, Spain
+    Damping Optimization of the Excited Mechanical System Using Dimension Reduction, SIAM Conference on Computational Science and Engineering (CSE23) (https://www.siam.org/conferences/cm/conference/cse23), February 26 - March 3, 2023, Amsterdam, The Netherlands.
+    Numerically Efficient $H_{infty}$ Analysis of Cooperative Multi-Agent Systems, ApplMath22 (https://applmath.math.pmf.unizg.hr/2022/#/), 5-9 September 2022, Brijuni, Croatia
+    Numerically Efficient Agents-To-Group H_{infty} Analysis, Mathmod2022 (https://www.mathmod.at), 27-29 July 2022, Vienna, Austria
+    Finite time horizon mixed control of vibrational systems, New Trends in Computational Science in Engineering and Industrial Mathematics (https://indico3.mpi-magdeburg.mpg.de/event/6/), 1-2 July 2022, Magdeburg, Germany
+    Numerically Efficient Agents-to-Group $H_{\infty}$ Analysis, 3rd Workshop on Optimal Control of Dynamical Systems and applications (http://vims.mathos.unios.hr/page-builder/workshop-daad-2022/), 28-31 March 2022 at Department of Mathematics, J. J. Strossmayer University of Osijek, Osijek, Croatia
+    Optimal damping of vibrational systems using finite time energy criterion, Workshop on Control of Dynamical Systems (http://condys.unidu.hr/workshop-2021/), 14-16 June 2021, Dubrovnik, Croatia
+    Sampling-free model reduction of systems with low-rank parameterization, Croatian German meeting on analysis and mathematical physics (https://www.mathematik.tu-dortmund.de/lsix/events/CGMAMP21/index.php), 22nd to 25th March 2021,
+    Frequency-weighted damping via non smooth optimization and fast computation of QEPs, 91st GAMM Annual Meeting in Kassel (https://gamm202021.de/), 15-19 March 2021, Kassel, Germany
+    Efficient approximation of novel residual bounds for parameter dependent quadratic eigenvalue problem, Tenth Conference on Applied Mathematics and Scientific Computing (https://applmath.math.pmf.unizg.hr/2020/#/), 14-18 September 2020, Brijuni, Croatia
+    H∞ damping optimization by adaptive interpolation, The sixth Najman conference on spectral theory and differential equations (https://web.math.pmf.unizg.hr/najman_conference/#/), 8-13 September 2019, Sveti Martin na Muri, Croatia
+    Sampling-free parametric model reduction of structured systems, 4th Workshop on Model Reduction of Complex Dynamical Systems (https://imsc.uni-graz.at/modred2019/index.html),  28-30 August 2019, Graz, Austria
+    Perturbation Theory for Quadratic Eigenvalue Problem - Applied on Damped Mechanical Systems, The 9th International Congress on Industrial and Applied Mathematics (https://iciam2019.org/), Valencia, 15-19 July 2019, Spain
+    Semi-active H-inf damping optimization by adaptive interpolation, 90th Annual Meeting GAMM 2019, (https://jahrestagung.gamm-ev.de/index.php/2019/2019-annual-meeting) Vienna, 18-22 February 2019, Austria
+    Sampling-free parametric model reduction of structured systems, Numerical Analysis and Scientific Computation with Applications (http://nasca18.math.uoa.gr/), 2-6 July 2018, Kalamata, Greece
+    Sampling-Free Parametric Model Reduction Of Structured Systems, International Workshop on Optimal Control of Dynamical Systems and applications (http://workshop.mathos.unios.hr/), Department of Mathematics, J. J. Strossmayer University of Osijek, 20-22 June 2018, Osijek, Croatia
+    Upper and Lower Bounds for Sines of Canonical Angles, SIAM Conference on Applied Linear Algebra (SIAM-ALA18) (http://www.math.hkbu.edu.hk/siam-ala18/),  4-8 May 2018, Hong Kong Baptist University, Hong Kong
+    Sampling-free parametric model reduction of systems with structured parameter variation (poster (https://www.scienceopen.com/document_file/f43a59f7-c8dd-4508-b8f1-b60e5b096662/ScienceOpen/25Plakat_ZT_Nantes18%20_submitted.pdf)), Model Reduction of Parametrized Systems IV (https://morepas2018.sciencesconf.org/), 10-13 April 2018, Nantes, France
+    Interpolation-based parametric model reduction for efficient damping optimization, Workshop Numerical methods for optimal control problems: algorithms, analysis and applications (http://www1.mat.uniroma1.it/ricerca/convegni/2017/numoc2017/), 19-23 June 2017, Rome, Italy
+    Dimension reduction approach to the parameter dependent quadratic eigenvalue problem, 88th GAMM Annual Meeting (http://jahrestagung.gamm-ev.de/index.php/2017/annual-meeting-2017),  6-10 March 2017, Weimar, Germany
+    Damping optimization of parameter dependent mechanical systems by rational interpolation, 3rd Workshop on Model Reduction of Complex Dynamical Systems (http://www.mpi-magdeburg.mpg.de/csc/events/modred2017), Odense, Denmark, 11-13 January 2017 
+    H_2  and H∞ semi-active damping optimization, 6TH CROATIAN MATHEMATICAL CONGRESS (https://web.math.pmf.unizg.hr/congress15/index.html), June 14 - 17, 2016, Zagreb, Croatia
+    Semi-active damping optimization using the parametric dominant pole algorithm, MatTriad'2015 (http://www.mattriad.ipt.pt/), 7 - 11 September 2015, Coimbra, Portugal
+    Damping optimization in mechanical systems with external force(poster), Numerical Algebra, Matrix Theory, Differential-Algebraic Equations, and Control Theory (http://www3.math.tu-berlin.de/multiphysics/VM60/), 6-9 May 2015, TU Berlin, Berlin, Germany
+    Optimal direct velocity feedback and semi-active damping,Chemnitz–Zagreb Workshop on Harmonic Analysis for PDEs, Applications (https://www.tu-chemnitz.de/mathematik/stochastik/research/workshops/Chemnitz-Zagreb-2014.php), and related topics 1st-5th July 2014, TU Chemnitz, Chemnitz, Germany
+    Optimal Direct Velocity Feedback, 10th International Workshop on Accurate Solution of Eigenvalue Problems (http://iwasep.fesb.hr/iwasep10/), June 2 - 5, 2014, Dubrovnik, Croatia
+    Semi-active Damping Optimization of Vibrational Systems Using Dimension Reduction,  84th Annual Meeting of the International Association of Applied Mathematics and Mechanics  (http://gamm2013.cats-host.com/cms), March 18-22, 2013, Novi Sad, Serbia
+    Optimal Parameters for Damping Optimization in Linear Vibrating Systems,  9th International Workshop on Accurate Solution of Eigenvalue Problems (http://www.cs.berkeley.edu/~odedsc/IWASEP9/), June 4 - 7, 2012, Napa Valley, USA
+    Damping Optimization in Linear Vibrating Systems Using Dimension Reduction,  International Conference on Vibration Problems 2011 (http://www.springer.com/physics/classical+continuum+physics/book/978-94-007-2068-8), September 5-8, 2011, Prague, Czech Republic
+    Optimal Damping of Partial Spectra Using Dimension Reduction,  8th International Workshop on Accurate Solution of Eigenvalue Problems (http://www3.math.tu-berlin.de/iwasep8/), June 28 - July 1, 2010, Berlin, Germany
+    Dimension Reduction For Damping Optimization In Linear Vibrating Systems,  Applied Linear Algebra In honor of Hans Schneider  (http://ala2010.pmf.uns.ac.rs/), May 24-28, 2010, Novi Sad, Serbia
+    Damping optimization of linear vibrating systems using dimension reduction, GAMM Workshop  (http://www.sam.math.ethz.ch/GAMM09/), Applied and Numerical Linear Algebra, September 10-11, 2009, ETH Zurich, Zurich, Switzerland
+
+
+Professional Activities - Seminar talks, Study Visits Abroad and Professional Improvement, Service Activities
+  Seminar talks
+    Fast optimization of viscosities for frequency-weighted damping of second-order systems, Applied numerical analysis seminar,17 Sep 2021, Virginia Polytechnic Institute and State University, Blacksburg, USA
+    Damping optimization in mechanical systems using parametric model reduction, Seminar za primijenjenu matematiku i teoriju upravljanja (https://www.unidu.hr/seminar-za-primijenjenu-matematiku-i-teoriju-upravljanja/), University of Dubrovnik, 5 February 2021
+    Sampling-free model reduction of systems with low-rank parameterization, Optimization and application seminar (https://www.mathos.unios.hr/index.php/znanost/kolokviji-i-seminari/seminar-za-optimizaciju-i-primjene), 25. November 2020, J. J. Strossmayer University of Osijek Department of Mathematics
+    Damping optimization in mechanical systems using sampling-free model reduction (http://www.maloc.ovgu.de/Upcoming/Zoran+Tomljanovic.html), MAgdeburg Lectures on Optimization and Control (http://www.maloc.ovgu.de/),  September 25, 2020, Magdeburg, Germany 
+    Hinf damping optimization by adaptive interpolation, Applied Numerical Analysis Seminar (https://www.math.vt.edu/seminars.php), 26 April 2019, Departments of Mathematics at Virginia Tech, USA
+    Approximation bounds for parameter dependent quadratic eigenvalue problem, Applied Numerical Analysis Seminar (http://www.math.vt.edu/seminars.php), 4 Oct 2017, Departments of Mathematics at Virginia Tech, USA
+    Optimization of semi-active damping and viscous damping in excited mechanical systems, Matrix Computation Seminar (http://www.math.vt.edu/people/mcchung/matcomp/2015/matcompnov10.php),   10 November 2015, Departments of Mathematics at Virginia Tech, USA
+    Optimization of semi-active damping and external damping in mechanical systems with external force, Absolventen-Seminar  - Numerische Mathematik (https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/fg_numerische_mathematik/v-menue/vortraege/absolventen_seminar_main/), 30 June 2015, Berlin, Germany
+    Damping optimization in mechanical systems with external force, CSC  (http://www.mpi-magdeburg.mpg.de/2838508/csc2015)
+    Seminar at MPI (http://www.mpi-magdeburg.mpg.de/2838508/csc2015) Magdeburg, Germany, 5 May 2015
+    Optimizacija prigušenja u mehaničkim sustavima sa vanjskom silom, Department of Mathematics, University of Osijek, Optmization and applications seminar (https://www.mathos.unios.hr/seminar/), 15 April 2015
+    Optimization of semi-active damping and viscous damping in mechanical systems with external force, October 21, 2014, University in Innsbruck, Department of Mathematics, Austria
+    Optimization of mechanical systems using dimension reduction, October 17, 2013, Forschungsseminar Scientific Computing (http://www.tu-chemnitz.de/mathematik/scico/), Technische Universitat Chemnitz, Germany
+    Optimalno prigušenje kod vibracijskih sistema koristeći redukciju dimenzije, March 17, 2011, Seminar za numeričku matematiku i računarstvo (http://degiorgi.math.hr/seminari/predavanje.php?id_pred=6), PMF-Mathematical Departments, University of Zagreb, Croatia
+    Optimizacija prigušenja u vibracijskim sistemima pomoću redukcije dimenzije sistema, April 29, 2009,Optmization and applications seminar (https://www.mathos.unios.hr/seminar/), University of Osijek, Department of Mathematics, Croatia
+    An efficient algorithm for solving and optimizing some types of Lyapunov, May 15, 2007, TU Chemnitz, Research Seminar Numerics (http://www.tu-chemnitz.de/mathematik/industrie_technik/lehre/ForschSem/index.php), Germany
+  Study Visits Abroad and Professional Improvement:
+    visiting researcher at Charles University, Faculty of Mathematics and Physics, Prague 20/2/2022-27/2/2022
+    visiting researcher at Department of Mathematics, Carlos III University of Madrid, Spain 06/09/2016 - 15/09/2016
+    visiting researcher at Departments of Mathematics at Virginia Tech, USA,  6/11/2022-12/11/2022, 10/9/2021-18/9/2021, 21/04/2019-27/04/2019, 02/10/2017-14/10/2017, 4/11/2015-20/11/2015
+    visiting researcher at TU Berlin, Germany 11/11/2018-15/11/2018, 16/07/2018-22/07/2018, 07/01/2018-14/01/2018,  21/06/2017 - 29/6/2017, 30/03/2017 - 07/04/2017, 23/02/2016 - 25/02/2016, 29/6/2015 - 9/7/2015
+    visiting researcher at University in Innsbruck, Department of Mathematics 19/10/2014-22/10/2014
+    visiting researcher at Max Planck Institute for Dynamics of Complex Technical Systems in Magdeburg, Germany, starting from 2010 almost every year there was a visit between a week up to one month. 
+    visiting researcher at TU Chemnitz, Germany 13/5/2007 - 14/6/2007, 10/4/2008 - 8/5/2008, 10/5/2009 - 10/7/2009, 24/1/2010 - 24/2/2010, 9/10/2013 - 20/10/2013
+  Service Activities
+    Deputy Head of Department for Research at J. J. Strossmayer University of Osijek, Department of Mathematics, since October 2021 -
+    Deputy Head of Department for Education and Students at J. J. Strossmayer University of Osijek, Department of Mathematics, from October 2017 - October 2021
+    Moderator of Optimization and application seminar, since October 2017 -
+    Chairman of the Mathematical Colloquium in Osijek, since January 2017 -
+    Erasmus+ coordinator in the Department of Mathematics, since 2013 - 2017
+
+
+Teaching
+  Current 
+    Linearna algebra I (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/182), predavanja 
+    Osnove teorije upravljanja s primjenama (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika-i-racunarstvo/izvedbeni-plan-preddiplomski-matrac/649), predavanja 
+    Teorijske osnove računalne znanosti (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/593-teorijske-osnove-racunalne-znanosti), predavanja i vježbe
+  Teme diplomskih i završnih radova:
+    Numeričko rješavanje običnih diferencijalnih jednadžbi
+    - obraditi osnovne metode: Eulerova i osnovne Runge Kutta metode 
+    - implementirati ih u Matlabu ili C-u i ilustrirati efikasnost na primjerima
+    QR dekompozicija s pivotiranjem 
+    - obraditi QR dekompoziciju i QR dekompoziciju s pivotiranjem
+    - implementirati ju u Matlabu
+    - na primjerima pokazati osnovne primjene npr. na određivanje ranga matrice
+    Schurova dekompozicija i primjene
+    - definirati definirati Schurovu dekompoziciju  
+    - obraditi osnovna svojstva i primjene
+    - implementirati i ilustrirati na primjeru
+    Metoda Gaussovih eliminacija s potpunim pivotiranjem 
+    - obraditi metodu Gaussovih eliminacija s potpunim pivotiranjem
+    - u Matlabu napraviti ilustraciju metode kroz vizualizaciju koraka
+    - napraviti vizualizaciju rjesenja dvije jednadzbe s dvije nepoznanice
+    Iterativne metode za rješavanje linearnih sustava
+    - napraviti osnovni pregled iterativnih metode za sustave 
+    - imlementirati neku od metoda te napraviti ilustraraciju na numeričkim primjerima 
+  Office Hours:
+    ponedjeljkom u 10:30 sati 

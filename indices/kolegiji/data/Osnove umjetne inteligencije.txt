@@ -1,0 +1,47 @@
+OSNOVNE INFORMACIJE
+	Osnove umjetne inteligencije izvodi se u ljetnom semestru druge godine sveučilišnog diplomskog studija matematike i pete godine sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je studente upoznati s teorijom te primjenom tehnika umjetne inteligencije, te kroz primjere omogućiti studentima ovladavanje osnovnim principima dizajniranja i ocjenjivanja inteligentnih sustava.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i007.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Darija Marković (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/112)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/112#teaching)	
+	OSNOVNA LITERATURA
+		S. J. Russell, P.Norvig, Artificial Intelligence: A Modern Approach, Prentice Hall; 3rd edition, New Jersey,2010.
+	LITERATURA KOJA SE PREPORUČUJE
+		G. F. Luger, Artificial Intelligence: Structures and Strategies for Complex Problem Solving. Addison-Wesley, 2005.
+		T. M. Mitchell, Machine Learning.McGraw-Hill, New York, 1997.
+		C. Bishop, Neural Networks and Machine Learning, Springer Verlag, Berlin, 1998.
+		D. Graupe, Principles of Artificial Neural Networks (2nd edition), Advanced Series in Circuits and Systems - Vol. 6, World Scientific, Singapore 2007.
+		D. W. Patterson, Introduction to Artificial Intelligence and Expert Systems, Prentice Hall, London, 1990.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Osnove umjetne inteligencije realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: Srijeda, 9:00 - 10:30	PREDAVAONICA: MS Teams	
+	VJEŽBE	TERMIN: Srijeda, 11:00 - 12:30	PREDAVAONICA: MS Teams	
+
+
+PRAVILA POLAGANJA ISPITA
+	KOLOKVIJI
+		Tijekom semestra studenti mogu polagati 2 kolokvija koji zamjenjuju pismeni dio ispita.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu uspješno položili kolokvije i nosi ukupno 100 bodova. Bodovni prag za polaganje pismenog ispita je 50 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita ili kolokvija, formira konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA
+	1. kolokvij 2019./20. (https://www.mathos.unios.hr/images/homepages/darija/ui/oui2020.pdf)
+	2. kolokvij 2019./20. (https://www.mathos.unios.hr/images/homepages/darija/ui/2kol-20192020.pdf)
+	1. kolokvij 2018./19. (https://www.mathos.unios.hr/images/homepages/darija/ui/1kol-20182019.pdf)
+	2. kolokvij 2018./19. (https://www.mathos.unios.hr/images/homepages/darija/ui/2kol-20182019.pdf)
+	1. kolokvij 2017./18. (A grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/1kol-20172018A.pdf)) (B grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/1kol-20172018B.pdf))
+	2. kolokvij 2017./18. (A grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/2kol-20172018A.pdf)) (B grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/2kol-20172018B.pdf))
+	1. kolokvij 2015./16. (A grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/01_OUI201516_kolokvij1_A.pdf)) (B grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/01_OUI201516_kolokvij1_B.pdf))
+	2. kolokvij 2015./16. (A grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/02_OUI201516_kolokvij2_A.pdf)) (B grupa (https://www.mathos.unios.hr/images/homepages/darija/ui/02_OUI201516_kolokvij2_B.pdf))
+
+
+PRIMJERI PISMENIH ISPITA
+	10. srpnja 2015. (pdf (https://www.mathos.unios.hr/images/homepages/darija/ui/pismeni_10_7.pdf))
+	2. srpnja 2015. (pdf (https://www.mathos.unios.hr/images/homepages/darija/ui/pismeni_2_7.pdf))
+	11. rujna 2014. (pdf (https://www.mathos.unios.hr/images/homepages/darija/ui/11_9_2014.pdf))
+	3. rujna 2013. (pdf (https://www.mathos.unios.hr/images/homepages/darija/ui/3_9_2013.pdf))

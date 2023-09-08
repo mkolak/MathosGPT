@@ -1,0 +1,37 @@
+General information
+    Professor retired
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek
+    Biography
+        Davor Butković was born in 1935 in Split, where he completed his secondary school education in 1953. In 1960 and in 1967, he obtained a BSc degree in Electrical Engineering from the Faculty of Electrical Engineering and a BSc degree in Pure Mathematics from the Faculty of Science, University of Zagreb. In 1962, he started to work in the Institute of Applied Mathematics at the Faculty of Electrical Engineering, where he worked until 2000. He received his MSc degree and PhD degree from the Faculty of Science, University of Zagreb, in 1973 and in 1975, respectively. Dr Butković was appointed assistant professor, associate professor and full professor in 1975, 1981, and 1987, respectively. In 1998, he was appointed full professor with tenure. From 2000 to 2002 he worked as Assistant Minister for International Cooperation at the Ministry of Science and Technology, and from 2003 until his retirement in 2006 he was employed at the Department of Mathematics, University of Osijek.
+        Dr Butković taught courses at undergraduate and postgraduate studies at the Faculty of Science and the Faculty of Electrical Engineering in Zagreb, and universities of Split, Osijek and Tuzla. In the 1983-84 academic year, he was a visiting professor at the University of Florida. He also paid longer and shorter study visits to Rennes, Warsaw, Perugia, Kiev and Graz. Dr Butković has authored or co-authored about twenty scientific papers in the field of measure theory, summability theory and probability theory. He has published two books at the University of Osijek, parts of which and first editions were published as course materials. Dr Butković was awarded the 1995 Josip Lončar gold medal by the Faculty of Electrical Engineering in Zagreb, and in 2002 he was awarded the Ordre des Palmes Académiques by the French Republic pour services rendus a la culture française.
+        Professor Davor Butković passed away on 2020.
+
+
+Publications
+    Scientific Papers
+        D. Butković, On the almost convergence of double sequences, Glasnik Matematički, 51(71) (2016), 175-196.
+        D. Butković, Fubini revisited, Grazer Mathematische Berichte, 342 (2000), 3-20.
+        D. Butković, On almost regular convergence, Acta Mathematica Hungarica, 82(3) (1999), 249-264.
+        D. Butković, On regular almost convergence, Mathematical Communications, 1 (1996), 127-137.
+        D. Butković, H. Kraljević, On almost convergent double sequences, Functional Analysis IV, Dubrovnik 1993, Various Publications Series (Aarhus Universitet) 43 (1994), 11-26.
+        D. Butković, H. Kraljević, Some notes on almost convergence, Berichte der Mathematisch-statistischen Section Graz, 275 (1987), 1-28.
+        D. Butković, H. Kraljević, N. Sarapa, On the almost convergence, Functional Analysis II, Dubrovnik 1985, Lecture Notes in Math, 1242 (1987), 396-417.
+        D. Butković, On the almost convergence of convolution sequences of measures, Glasnik Matematički, 20(40) (1985), 87-91.
+        D. Butković, Completions and the null-completion of vector measures, Functional Analysis I, Dubrovnik 1981, Lecture Notes in Math., 948 (1982), 230-234.
+        D. Butković, N. Sarapa, On the summability of sequences of independent random variables, Glasnik Matematički, 16(36) (1981), 157-166.
+        D. Butković, N. Sarapa, Two examples of summability methods, Beitrage der Ernst-Moritz-Arndt-Universität Greifswald 1982, Topology and and Measure III (Vitte/Hiddensee, GDR, 1980.) Part 1, 27-32.
+        D. Butković, On vector-valued Radon measures, Berichte der Mathematisch-statistischen Section Graz, 155 (1981), 1-9.
+        D. Butković, Integration with respect to measures with values in arbitrary topological vector spaces, Glasnik Matematički 15(35) (1980), 33-40.
+        D. Butković, Integration with respect to measures with values in arbitrary topological vestor spaces, Publications des Seminaires de Mathematiques et Informatique de Rennes, Seminaire de Probabilites 1979, expose 3, 1-10, preprint.
+        D. Butković, On vector measures, Berichte der Mathematisch-statistischen Section Graz 117 (1979), 1-10.
+        D. Butković, On Borel and Radon vector measures, Glasnik Matematički 13(33) (1978), 255-270.
+        D. Butković, On the summability of convolution sequences of measures, Glasnik Matematički 13(33) (1978), 69-74, correction, ibid. 18(38) (1983), 391-392.
+        D. Butković, On the completion of vector measures, Vector Space Measures and Applications II, Dublin 1977, Lecture Notes in Math. 645 (1978), 8-15.
+        D. Butković, Integration with respect to Radon vector premeasures, Glasnik Matematički 11(31) (1976), 263-289.
+        D. Butković, On Denjoy integrals which depend on a parameter, Zbornik na trudovite, V kongres na mat., fiz. i astronom. na Jugoslavija, t.I (matematika) Skopje (1973), 77-81.
+        D. Butković, On the Fourier integral formula for some Denjoy-integrable functions, Glasnik Matematički 5(25) (1970), 81-95.
+        D. Butković, On the theory of Fourier single integral, Glasnik Matematički 3(23) (1968), 165-181.
+    Books
+        D. Butković: Kompleksni konačnodimenzionalni vektorski prostori, 2. izdanje, Odjel za matematiku Sveučilišta Josipa Jurja Strossmayera u Osijeku, Osijek, 2007., ISBN 978-953-6931-28-6, str. 1-328.
+        D. Butković: Predavanja iz linearne algebre, Odjel za matematiku Sveučilišta Josipa Jurja Strossmayera u Osijeku, Osijek, 2008., ISBN 978-953-6931-31-6, str. 1-351.

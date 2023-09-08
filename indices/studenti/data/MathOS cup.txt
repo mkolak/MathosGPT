@@ -1,0 +1,36 @@
+MathOS cup
+Srednjoškolsko ekipno natjecanje iz matematike i programiranja
+ 
+OSNOVNE INFORMACIJE
+    MathOS cup je ekipno, dinamično i potpuno drugačije natjecanje učenika srednjih škola organizirano u dvije sekcije:
+    sekcija matematika; sekcija programiranje.
+    Nositelji organizacije MathOS cupa su Odjel za matematiku Sveučilišta Josipa Jurja Strossmayera u Osijeku, III. gimnazije Osijek (sekcija matematika), Gimnazija Požega (sekcija programiranje), uz podršku Udruge matematičara Osijek.
+    Natjecanje u obje sekcije organizira se u dva kruga tijekom kojih ekipe od tri učenika  rješavaju problemske zadatke. Prvi krug se odvija online dok se drugi krug za najuspješnije ekipe održava uživo na Odjelu za matematiku Sveučilišta u Osijeku (https://goo.gl/maps/6JJRddXtZxFDb4Pr8).
+    Svim sudionicima drugoga kruga MathOS cup-a Odjel za matematiku Sveučilišta u Osijeku u okviru bodovanja posebnih postignuća priznaje maksimalni broj bodova za upis na Prijediplomski studij Matematika te Prijediplomski studij Matematika i računarstvo. Najbolje plasirani timovi će osvojiti vrijedne nagrade.
+    MathOS cup 2023 je financijski podržan od strane Ericsson Nikola Tesla d.d.
+
+Organizatori
+    Sekcija matematika
+        Ivana Kuzmanović Ivičić
+            Odjel za matematiku  email: ikuzmano@mathos.hr
+        Darija Brajković Zorić
+            Odjel za matematiku email: dbrajkovic@mathos.hr
+        Jelena Jankov
+            Odjel za matematiku email: jjankov@mathos.hr
+        Aleksandra Floreani
+            III. gimnazija email: aleksandra.floreani@gmail.com
+        Mirna Čalija Matijević
+            III. gimnazija email: mirna.calija@gmail.com
+        Mirta Vujnovac
+            III. gimnazija email: mirta.vujnovac@gmail.com
+    Sekcija programiranje
+        Sanja Grabusin
+            Gimnazija Požega  email: sanja.grabusin@skole.hr
+        Domagoj Matijević
+            Odjel za matematiku email: domagoj@mathos.hr
+        Tomislav Prusina
+            Odjel za matematiku email: tprusina@mathos.hr
+        Antonio Jovanović
+            Odjel za matematiku email: ajovanov@mathos.hr
+        Mario Živić
+            TestDome email: mario.zivic@testdome.com

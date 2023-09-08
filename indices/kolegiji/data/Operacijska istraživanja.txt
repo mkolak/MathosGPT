@@ -1,0 +1,29 @@
+OSNOVNE INFORMACIJE
+	Kolegij Operacijska istraživanja je izborni kolegij koji se izvodi u zimskom semestru pete godine Sveučilišnog nastavničkog studija matematike i informatike i drugoj godini Sveučilišnog diplomskog studija matematike na smjerovima: Financijska matematika i statistika i Matematika i računarstvo. Cilj kolegija je upoznati studente s osnovnim metodama operacijskih istraživanja, s naglaskom na transportne probleme i probleme mrežnog protoka te njihovim primjenama. Naglasak će biti na uočavanju problema, modeliranju i interpretiranju rezultata.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (PDF) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m037.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Tomislav Marošević	
+		Konzultacije: petak 11:00  i  po dogovoru	
+	OSNOVNA LITERATURA
+		D. Bertsimas and J. N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific, Belmont, Massachusetts, 1997
+	DODATNA LITERATURA
+		L. Neralić, Uvod u matematičko programiranje 1, Element, Zagreb, 2003.
+		G. Sierksma, Linear and Integer Programming, Marcel Dekker, Inc., 1999.
+		A. Schrijver, Theory of Linear and Integer Programming, John Wiley & Sons, Inc., NY, SAD, 1999.
+		R. Bronson, G. Naadimuth, Operation Research, Schaum's, McGraw Hill, New York, 1997
+		C. H. Papadimitriou, H. Christos, Combinatorial Optimization, Prentice-Hall, N. J., 1982. 6. G. L. Nemhauser, A. Laurence, Wolsey, Integer and Combinatorial Optimization, John Wiley & Sons, Inc., 1999
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Za točno vrijeme i raspored predavanja molim pratiti stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod r4bp5jm .
+	Izvedbeni program kolegija Operacijska istraživanja realizira se s fondom od 30 sati (tjedno 1 sat predavanja i 1 sat seminara). Pohađanje predavanja i seminara je obvezno.
+	PREDAVANJA	TERMIN: srijedom, 12:00 - 14:00 h	PREDAVAONICA: RP-2	
+
+
+PRAVILA POLAGANJA ISPITA
+	SEMINARI
+		Studenti tijekom semestra pripremaju seminarski rad u trajanju do 20 minuta. Seminarske radove studenti mogu raditi u grupama čija veličina ovisi o izboru teme.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za sve studente. U pismeni ispit ulazi gradivo s predavanja.
+	USMENI ISPIT
+		Uspješno urađen seminarski rad i domaća zadaća mogu dijelom ili potpuno zamijeniti usmeni ispit. Na usmenom ispitu se, u ovisnosti o ocjeni iz pismenog ispita i seminara, te domaćih zadaća i ispunjavanju obaveza tijekom nastave, formira konačna ocjena.

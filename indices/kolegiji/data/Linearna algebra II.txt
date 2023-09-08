@@ -1,0 +1,90 @@
+OSNOVNE INFORMACIJE
+	Linearna algebra II izvodi se u ljetnom semestru prve godine sveučilišnog preddiplomskog studija Matematike i sveučilišnog preddiplomskog studija Matematike i računarstva. Cilj kolegija je studente upoznati s pojmovima i svojstvima vektorskih i unitarnih prostora, osnovnim svojstvima linearnih operatora nad konačnodimenzionalnim prostorima, skalarnim produktom i unitarnim prostorima.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m087.pdf).
+	VODITELJ KOLEGIJA	
+		izv. prof. dr. sc. Dragana Jankov Maširević (https://www.mathos.unios.hr/index.php/106-dragana-jankov-s-home-page)	
+		KONZULTACIJE: nakon predavanja ili po dogovoru	
+	VJEŽBE	
+		Marinela Pilj Vidaković (https://www.mathos.unios.hr/index.php/en/26-homepage/odjel/kadrovi/homepages/662-marinela-pilj-vidakovic-s-home-page)	
+		KONZULTACIJE: nakon vježbi ili po dogovoru	
+	DEMONSTRATORICA	Magdalena Mikić	
+	OSNOVNA LITERATURA
+		D. Bakić,  Linearna algebra, Školska knjiga, Zagreb, 2008. (PDF (https://web.math.pmf.unizg.hr/~bakic/la/2019_LA_drugo_izdanje_v6.pdf))
+		H. Kraljević, Vektorski prostori, Odjel za matematiku, Osijek, 2008. (skripta, PDF (http://www.mathos.unios.hr/vektorski/skripta.pdf))
+	LITERATURA KOJA SE PREPORUČUJE
+		S. Kurepa, Uvod u linearnu algebru, Školska knjiga, Zagreb, 1987.
+		S. Kurepa, Konačnodimenzionalni vektorski prostori i primjene, Tehnička knjiga, Zagreb, 1967.
+		N. Bakić, A. Milas, Zbirka zadataka iz linearne algebre, PMF-Matematički odjel Sveučilišta u Zagrebu, 1995.
+		L. Čaklović, Zbirka zadataka iz linearne algebre, Školska knjiga, 1992.
+		K. Horvatić, Linearna algebra, Golden marketing, Tehnička knjiga, Zagreb, 2004.
+		G. Strang, Introduction to Linear Algebra, Wellesley-Cambridge Press, 2009.
+		J. Hefferon, Linear Algebra, http://joshua.smcvt.edu/linearalgebra/ (http://joshua.smcvt.edu/linearalgebra/) 
+		S. Axler, Linear Algebra Done Right, Springer, 2009.
+		C. Meyer, Matrix Analysis and Applied Linear Algebra, SIAM, 2001.
+		N. Elezović, A. Aglić, Linearna algebra: zbirka zadataka, Element, Zagreb, 1999.
+		V. Proskurjakov, Problems in linear algebra, Mir, Moskva, 1978.
+		R. Scitovski, Geometrija ravnine i prostora (recenzirani nastavni materijali dostupni na web stranici Odjela za matematiku, Sveučilište u Osijeku), 2011.
+		H. Anton, R. Rorres, Elementary linear algebra, John Wiley & Sons, Danvers, 2000.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Linearna algebra II realizira se s fondom od 90 sati (tjedno 3 sata predavanja i 3sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	
+		Četvrtak 09:00-12:00 
+		PREDAVAONICA: D-1	
+	VJEŽBE grupa A	
+		Petak 13:00-16:00	
+		PREDAVAONICA: D-2	
+	VJEŽBE grupa B	
+		Petak 10:00-13:00	
+		PREDAVAONICA: D-3	
+	Raspored studenata po grupama:
+		A grupa - Preddiplomski studij Matematika
+		B grupa - Preddiplomski studij Matematika i računarstvo
+	Za točno vrijeme i raspored predavanja molim da pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod 0de2dvl. 
+
+
+PRAVILA POLAGANJA ISPITA
+	KOLOKVIJI
+		Tijekom semestra studenti mogu polagati 2 kolokvija koji zamjenjuju pismeni dio ispita. Kolokviji se pišu 2 puna sata. 
+	Studenti koji su:
+		1. izašli na sve kolokvije,
+		2. na svakom kolokviju postigli barem 40 bodova (od 100 mogućih) i
+		3. ukupno postigli barem 80 bodova (od 200 mogućih)
+	oslobađaju se pismenog dijela ispita.
+	Studenti koji su na jednom kolokviju ostvarili manje od 40 bodova mogu izaći na popravni kolokvij.
+	Na popravni kolokvij mogu izaći i studenti koji žele pokušati postići veću ocjenu.
+	Ocjene kolokvija s obzirom na ostvareni broj bodova:
+		80-130 bodova: dovoljan (2);
+		131-160 bodova: dobar (3);
+		161-180 bodova: vrlo dobar (4);
+		181-200 bodova: izvrstan (5).
+	DOMAĆE ZADAĆE
+		Tijekom semestra studentima će biti ponuđeno rješavanje domaćih zadaća na kojima se može ostvariti najviše 30 dodatnih bodova.
+	PISMENI ISPITI
+		Pismeni ispit obavezan je za studente koji nisu uspješno položili kolokvije i nosi ukupno 100 bodova. Pismeni ispit piše se 2 puna sata. Bodovni prag za polaganje pismenog ispita je 50 bodova.
+	Ocjene pismenog ispita s obzirom na ostvareni broj bodova:
+		50-65 bodova: dovoljan (2);
+		66-80 bodova: dobar (3);
+		81-90 bodova: vrlo dobar (4);
+		91-100 bodova: izvrstan (5).
+	USMENI ISPITI
+		Usmeni ispit obavezan je za sve studente. Na usmenom ispitu, u ovisnosti od ocjene s pismenog ispita ili kolokvija, formira se konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI KOLOKVIJA
+		2022./2023.	Akademska godina: pdf (https://www.mathos.unios.hr/images/homepages/mpilj/LA2_2022_2023_klk1.pdf)	1. kolokvij: pdf	
+		2020./2021.	Akademska godina: pdf (https://www.mathos.unios.hr/images/homepages/lprimora/LA2/LA2_1kol20_21.pdf)	1. kolokvij: pdf (https://www.mathos.unios.hr/images/homepages/lprimora/LA2/LA2_2kol20_21.pdf)	
+		2019./2020.	Akademska godina: A (https://www.mathos.unios.hr/images/homepages/djankov/LA2_1_kol_170420201A.pdf)	1. kolokvij: A (https://www.mathos.unios.hr/images/homepages/djankov/LA2_2_kol_100620201a.pdf)	
+		2018./2019.	Akademska godina: A (https://www.mathos.unios.hr/images/homepages/ikuzmano/LA2_kol1_29042019A_2.pdf)	1. kolokvij: A (https://www.mathos.unios.hr/images/homepages/ikuzmano/La2Kol2.pdf)	
+		2017./2018.	Akademska godina: A (https://www.mathos.unios.hr/images/homepages/zsalinge/LA2/primjeri_kolokvija/LA2_kolokvij_1A_2018.pdf)	1. kolokvij: B (https://www.mathos.unios.hr/images/homepages/zsalinge/LA2/primjeri_kolokvija/LA2_kolokvij_1B_2018.pdf)	2. kolokvij: A (https://www.mathos.unios.hr/images/homepages/ssusic/LA2_kol2_A_2018.pdf)	
+				Akademska godina: B (https://www.mathos.unios.hr/images/homepages/ssusic/LA_kol2_B_2018.pdf)	
+	PRIMJERI PISMENIH ISPITA
+		18.6.2021. (https://www.mathos.unios.hr/images/homepages/djankov/LA2_pismeni1_18062021.pdf)  2.7.2021. (https://www.mathos.unios.hr/images/homepages/djankov/LA2_pismeni2_02072021.pdf)   9.9.2021. (https://www.mathos.unios.hr/images/homepages/lprimora/LA2/LA2_090921.pdf)
+		21.6.2019. (https://www.mathos.unios.hr/images/homepages/ikuzmano/LA_21062019.pdf)   8.7.2019 (https://www.mathos.unios.hr/images/homepages/ikuzmano/LA2_08072019.pdf).  4.9.2019. (https://www.mathos.unios.hr/images/homepages/ikuzmano/LA_04092019.pdf)
+		26. lipnja 2018 (https://www.mathos.unios.hr/images/homepages/ssusic/LA2_pismeni_2606.pdf)
+		10. srpnja 2018 (https://www.mathos.unios.hr/images/homepages/ssusic/LA_pismeni_ispit10072018.pdf) 
+	TERMINI PISMENIH ISPITA
+		ljetni	Ispitni rok: 16.6.2023.	Prvi rok: 30.6.2023.	
+		jesenski	Ispitni rok: 28.8.2023.	Prvi rok: 11.9.2023.	

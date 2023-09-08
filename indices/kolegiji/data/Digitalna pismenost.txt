@@ -1,0 +1,28 @@
+OSNOVNE INFORMACIJE
+	Digitalna pismenost izvodi se u zimskom semestru prve godine sveučilišnog diplomskog studija matematike i informatike. Cilj kolegija je razviti kod studenata osposobljenost korištenja alata za izradu digitalnih sadržaja te distribuciju istih korištenjem mrežnih tehnologija. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i062.pdf).
+	VODITELJ KOLEGIJA	
+		doc.dr.sc. Marija Miloloža Pandur (http://www.mathos.hr/~mmiloloz)	
+		KONZULTACIJE: nakon održane nastave i po dogovoru	
+	OSNOVNA LITERATURA
+		S. Dota: A Beginners Guide to Google Drive: Master Google Drive, Docs, Sheets and Slides Now, Amazon Digital Services LLC
+		Andy Williams, WordPress for Beginners 2019: A Visual Step-by-Step Guide to Mastering WordPress, Webmaster Series, 2018.
+		Misty E. Vermaat et al. Shelly Cashman Series Microsoft Office 365 & Office 2016: Introductory, Cengage Learning, 2016.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Digitalna pismenost realizira se s fondom od 75 sati (tjedno 2 sata predavanja i 2 sata vježbi, te 1 sat seminara). Pohađanje predavanja i vježbi je obaveno. Nastava u zimskom semestru 2021./2022. se izvodi uživo prema rasporedu. Za materijale i predaju domaćih zadaća koristit ćemo platformu MS Teams.
+	PREDAVANJA	
+		srijeda, 8.15h-13h	Praktikum: RP1	
+	VJEŽBE	
+		srijeda, 8.15h-13h	Praktikum: RP1	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih na domaćim zadaćama
+	Za ocjenu dovoljan (2) potrebno je skupiti barem 50% od ukupnog broja bodova s domaćih zadaća. 
+	Domaće zadaće bit će dostupne studentima na tjednoj ili dvotjednoj bazi. Na sljedećim vježbama studenti će imati priliku izložiti svoja rješenja. 
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko zadaća.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente.  Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita ili ocjene iz zadaća, formira konačna ocjena.

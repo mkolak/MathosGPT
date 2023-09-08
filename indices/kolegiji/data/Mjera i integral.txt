@@ -1,0 +1,59 @@
+OSNOVNE INFORMACIJE
+	Kolegij Mjera i integral izvodi se u zimskom semestru prve godine sveučilišnog diplomskog studija.
+	Cilj kolegija je studente upoznati s osnovnim pojmovima iz apstraktne teorije mjere i integracije koja je osnova za razumijevanje mnogih modernih matematičkih disciplina. 
+	Sadržaj kolegija:
+		Uvod. Prebrojivi skupovi i osnovni topološki pojmovi. σ-algebra
+		Mjera na σ-algebri. Vanjska mjera. Izmjerivi skupovi. Carathéodoryjev teorem. Lebesgueova vanjska mjera. Lebesgueova mjera. Prostor potpune mjere.
+		Topologija na [-∞,∞]. Izmjerive funkcije. Svojstva izmjerivih funkcija. Jednostavne funkcije. Svojstvo “skoro svuda”.
+		Lebesgueov integral. Integral nenegativne jednostavne funkcije. Integral nenegativne izmjerive funkcije. Levijev teorem o monotonoj konvergenciji. Fatouova lema. Integral izmjerive funkcije. Lebesgueov teorem o dominiranoj konvergenciji. Veza Riemannovog i Lebesgueovog integrala.
+	NOSITELJ KOLEGIJA
+		izv.prof.dr.sc. Dragana Jankov Maširević (https://www.mathos.unios.hr/index.php/106-dragana-jankov-s-home-page)	
+		KONZULTACIJE: utorkom, nakon predavanja	
+	SURADNIK
+		Dominik Mihalčić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/885)	
+		KONZULTACIJE: utorkom, nakon vježbi	
+	OSNOVNA LITERATURA
+		D. Jukić, Mjera i integral (https://www.mathos.unios.hr/images/homepages/jukicd/knjiga_2izd_novo.pdf), Sveučilište J. J. Strossmayera, Odjel za matematiku, Osijek, 2012.
+		D. Jankov Maširević, Zbirka riješenih zadataka iz teorije mjere i integracije (http://www.mathos.unios.hr/images/uploads/33.pdf), Sveučilište J. J. Strossmayera, Odjel za matematiku, Osijek, 2014.
+	DOPUNSKA LITERATURA
+		D. L. Cohn, Measure theory, Birkhäuser, 1980.
+		S. Mardešić, Matematička analiza 2: Integral i mjera, Školska knjiga, Zagreb, 1977.
+		W. Rudin, Principles of Mathematical Analysis, Mc Graw-Hill, Book Company, 1964.
+		R. L. Schilling, Measures, integrals and martingales, Cambridge University Press, New York, 2005.
+		H. J. Wilcox and D. L. Myers, An Introduction to Lebesgue Integration and Fourier Series, Dover, New york, 1994.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Mjera i integral realizira se s fondom od 75 sati (tjedno 3 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: utorak, 12-15h	PREDAVAONICA: D-3	
+	VJEŽBE	TERMIN: utorak, 15-17h	PREDAVAONICA: D-3	
+	Microsoft Teams kod u akademskoj 2022./2023. godini: eq29t1v
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra održat će se dva kolokvija. Gradivo prvih 7 predavanja je pokriveno prvim kolokvijem, a gradivo preostalih 8 predavanja ulazi u drugi kolokvij. Kolokviji se sastoje od zadataka i teorijskih pitanja.
+	Studenti na kolokvijima mogu imati samo pribor za pisanje.
+	Broj mogućih bodova na svakom kolokviju je 100. Dakle, ukupno je moguće ostvariti do 200 bodova. U gradivo pojedinog kolokvija ulazi sve što se radilo na predavanjima i vježbama.
+	Studenti koji su:
+		1. izašli na sve kolokvije,
+		2. na svakom kolokviju postigli barem 45 bodova (od 100 mogućih) i
+		3. ukupno postigli barem 110 bodova (od 200 mogućih)
+	oslobađaju se pismenog dijela ispita.
+	Uspjeh na kolokvijima računa se prema sljedećoj tablici:
+		110%-130%: dovoljan(2); 131%-160%: dobar(3); 161%-185%: vrlo dobar(4); 186%-200%: izvrstan (5).	
+	PISMENI ISPIT
+		Pismeni dio ispita je obvezan. Tijekom semestra studenti mogu polagati 2 kolokvija koji zamjenjuju pismeni dio ispita. 
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+NASTAVNI MATERIJALI
+	D. Jukić, Mjera i integral, Odjel za matematiku, Osijek, 2012., internet izdanje. PDF (1.7 MB) (https://www.mathos.unios.hr/images/homepages/jukicd/knjiga_2izd_novo.pdf)
+
+
+KORISNI LINKOVI
+	R. L. Schilling, Measures, integrals and martingales, Cambridge University Press, New York, 2005. (http://www.motapa.de/measures_integrals_and_martingales/index.shtml)
+	Probability Tutorials (http://www.probability.net/index.html)
+	Free online  materials by Jeff Viaclovsky (Massachusetts Institute of Technology) (http://ocw.mit.edu/courses/mathematics/18-125-measure-and-integration-fall-2003/lecture-notes/)
+	Stranica kolegija Mjera i integral na Matematičkom odjelu PMF-a u Zagrebu (http://web.math.pmf.unizg.hr/nastava/mii/)
+	Free online course materials (Massachusetts Institute of Technology) (http://ocw.mit.edu/courses/mathematics/)

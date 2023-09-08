@@ -1,0 +1,62 @@
+OSNOVNE INFORMACIJE
+	Elementarna matematika izvodi se u zimskom semestru prve godine sveučilišnog preddiplomskog studija matematike. Cilj kolegija je obnoviti i proširiti znanja studenata iz elementarne matematike, čime se kod studenata stvara čvrsta osnova fundamentalnih matematičkih znanja nužno potrebnih u daljnjem tijeku studija.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m100.pdf).
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Mihaela Ribičić Penava (https://www.mathos.unios.hr/~mihaela)	
+		KONZULTACIJE: nakon predavanja i po dogovoru	
+	DEMONSTRATOR	
+		Nataša Ujić	
+	OSNOVNA LITERATURA
+		D. Jukić, R. Scitovski, Matematika I, Odjel za matematiku, Osijek, 2000.
+		B. Pavković, D. Veljan, Elementarna matematika I, Tehnička knjiga, Zagreb, 1992.
+	LITERATURA KOJA SE PREPORUČUJE
+		B. Pavković, B. Dakić, Polinomi, Školska knjiga, Zagreb, 1991.
+		S. Kurepa, Uvod u matematiku, Tehnička knjiga, Zagreb, 1984.
+		S. Lipschutz, Schaum's Outline of Set Theory and Related Topics, McGraw-Hill, New York, 1998.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Elementarna matematika realizira se s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: četvrtak, 8:00-10:00	PREDAVAONICA: D-1	
+	VJEŽBE	TERMIN: četvrtak, 10:00-12:00	PREDAVAONICA: D-1	
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra studenti mogu polagati dva kolokvija koji zamjenjuju pismeni dio ispita. Studentima koji su na svakom kolokviju postigli barem 20 bodova, te ukupno na oba kolokvija postigli 80 bodova  priznaje se pismeni dio ispita i direktno se pozivaju na usmeni dio ispita. Postoji mogućnost popravka jednog od kolokvija na kome nije postignuta prolazna razina. 
+		dovoljan (2): 80-114
+		dobar (3): 115-154
+		vrlo dobar (4): 155-179
+		izvrstan (5): 180 i više
+	DOMAĆE ZADAĆE
+		Tijekom semestra studentima će biti ponuđeno rješavanje domaćih zadaća na kojima se može ostvariti najviše 15% dodatnih bodova koji mogu utjecati na konačnu ocjenu.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za sve studente i nosi ukupno 100 bodova. Bodovni prag za polaganje pismenog ispita je 50 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+		Podsjetnik pitanja za usmeni ispit. (https://www.mathos.unios.hr/images/homepages/mihaela/Pitanja_EM1.docx)
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI KOLOKVIJA
+		2020./21. Kolokvij 1 (https://www.mathos.unios.hr/images/homepages/ivuksano/EMkol1_2021.pdf)
+		2019./20.  Kolokvij 1 (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_matematika/EM_kol1A_2019.pdf)            Kolokvij 2 (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_matematika/EM_kol2_2019.pdf)
+		2018./19.  Kolokvij 1: A (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_matematika/EM_kol1A_2018_1.pdf), B (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_matematika/EM_kol1B_2018.pdf)   Kolokvij 2 (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_matematika/EM_kol2_2018.pdf)
+		2017./18.  Kolokvij 1: A (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_k1A_2017_2018.pdf), B (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_k1B_2017_2018.pdf)   Kolokvij 2: A (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_k2A_2017_2018.pdf), B (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_k2B_2017_2018.pdf)
+		2016./17.  Kolokvij 1: A (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_1kol_20162017_A.pdf), B (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_1kol_20162017_B.pdf)   Kolokvij 2: A (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_2kol_20162017_A.pdf), B (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_2kol_20162017_B.pdf)
+		2015./16.  Kolokvij 1  (https://www.mathos.unios.hr/images/homepages/mugrica/EM1/elementarna1_2015.pdf)          Kolokvij 2 (https://www.mathos.unios.hr/images/homepages/mugrica/EM1/elementarna1_2zad2016.pdf)
+		2014./15.  Kolokvij 1 (https://www.mathos.unios.hr/images/homepages/ikuzmano/elemantarna1_1zad14.pdf)           Kolokvij 2 (https://www.mathos.unios.hr/images/homepages/ikuzmano/elementarna1_2zad14.pdf)
+		2013./14.  Kolokvij 1 (https://www.mathos.unios.hr/elementarna1/Pismeni/elementarna1_1zad13.pdf)           Kolokvij 2 (https://www.mathos.unios.hr/elementarna1/Pismeni/elementarna1_2zad2013.pdf)
+		2012./13.  Kolokvij 1 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_1zad12.pdf)           Kolokvij 2 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_2zad2012.pdf)
+		2011./12.  Kolokvij 1 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_1zad11.pdf)           Kolokvij 2 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_2zad11.pdf)           Kolokvij 3 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_3zad11.pdf)
+		2010./11.  Kolokvij 1 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_1zad10.pdf)           Kolokvij 2 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_2zad10.pdf)           Kolokvij 3 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_3zad10.pdf)
+		2009./10.  Kolokvij 1 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_1zad09.pdf)           Kolokvij 2 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_2zad09.pdf)           Kolokvij 3 (https://www.mathos.unios.hr/elementarna1/Zadace/elementarna1_3zad09.pdf)
+	PRIMJERI PISMENIH ISPITA
+		2017./18  06.02.2018. (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_PI1_2017_2018.pdf)  20.02.2018 (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_PI2_2017_2018.pdf).   18.06.2018.  (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_18062018.pdf)  05.07.2018. (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_572018.pdf)   07.09.2018. (https://www.mathos.unios.hr/images/homepages/lprimora/EM/EM_PI3_2017_2018.pdf)  
+		2016./17.  06.02.2017. (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_pismeni_06022017.pdf)  20.02.2017. (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_pismeni_20022017.pdf) (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_pismeni_20022017.pdf)  23.06.2017. (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_pismeni_23062017.pdf)  07.07.2017. (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_pismeni_07072017.pdf) 07.09.2017. (https://www.mathos.unios.hr/images/homepages/kvincetic/EM1_pismeni_07092017.pdf)
+		2015./16.  04.02.2016. (https://www.mathos.unios.hr/images/homepages/mugrica/EM1/pismeni_040216.pdf)  18.02.2016. (https://www.mathos.unios.hr/images/homepages/mugrica/EM1/pismeni_180216.pdf)  23.06.2016. (https://www.mathos.unios.hr/images/homepages/mugrica/EM1/pismeni23-6-2016.pdf)  07.07.2016. (https://www.mathos.unios.hr/images/homepages/mugrica/EM1/EM1_ispit_7_7_2016.pdf)
+		2014./15.  09.02.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/2015_09_02_EM1.pdf)  23.02.2015 (https://www.mathos.unios.hr/images/homepages/ikuzmano/2015_23_02_EM1.pdf)   15.06.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_1/2015_15_06_EM1.pdf)  29.06.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_1/2015_29_06_EM1.pdf)  04.09.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_1/2015_04_09_EM1.pdf)  18.09.2015. (https://www.mathos.unios.hr/images/homepages/ikuzmano/Elementarna_1/2015_18_09_EM1.pdf)
+		2013./14.  30.01.2014. (https://www.mathos.unios.hr/elementarna1/Pismeni/2014_1_30_EM1.pdf)  13.02.2014. (https://www.mathos.unios.hr/elementarna1/Pismeni/2014_2_13_EM1.pdf)  18.06.2014. (https://www.mathos.unios.hr/elementarna1/Pismeni/2014_18_06_EM1.pdf)  02.07.2014. (https://www.mathos.unios.hr/elementarna1/Pismeni/2014_02_07_EM1.pdf)  04.09.2014. (https://www.mathos.unios.hr/elementarna1/Pismeni/2014_04_09_EM1.pdf)  18.09.2014. (https://www.mathos.unios.hr/elementarna1/Pismeni/2014_18_09_EM1.pdf)
+		2012./13.  31.01.2013. (https://www.mathos.unios.hr/elementarna1/Pismeni/2013_31_01_em1.pdf)  14.02.2013. (https://www.mathos.unios.hr/elementarna1/Pismeni/2013_14_02_em1.pdf)  13.06.2013. (https://www.mathos.unios.hr/elementarna1/Pismeni/2013_13_06_em1.pdf)  27.06.2013. (https://www.mathos.unios.hr/elementarna1/Pismeni/2013_27_06_em1.pdf)  05.09.2013. (https://www.mathos.unios.hr/elementarna1/Pismeni/2013_05_09_EM1.pdf)
+		2011./12.  10.02.2012. (https://www.mathos.unios.hr/elementarna1/Pismeni/2012_10_02_EM1.pdf)  24.02.2012. (https://www.mathos.unios.hr/elementarna1/Pismeni/2012_24_02_EM1.pdf)  12.06.2012. (https://www.mathos.unios.hr/elementarna1/Pismeni/2012_12_06_EM1.pdf)  10.09.2012. (https://www.mathos.unios.hr/elementarna1/Pismeni/2012_10_09_EM1.pdf)  24.09.2012. (https://www.mathos.unios.hr/elementarna1/Pismeni/2012_24_09_EM1.pdf)
+		2010./11.  10.02.2011. (https://www.mathos.unios.hr/elementarna1/Pismeni/2011_10_02_EM1.pdf)  24.02.2011. (https://www.mathos.unios.hr/elementarna1/Pismeni/2011_24_02_EM1.pdf)
+		2009./10.  05.02.2010. (https://www.mathos.unios.hr/elementarna1/Pismeni/2010_05_02_EM1.pdf)  19.02.2010. (https://www.mathos.unios.hr/elementarna1/Pismeni/2010_19_02_EM1.pdf)

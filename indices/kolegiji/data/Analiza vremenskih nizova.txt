@@ -1,0 +1,27 @@
+OSNOVNE INFORMACIJE
+	Analiza vremenskih nizova izvodi se u ljetnom semestru druge godine sveučilišnog diplomskog studija matematike kao obvezni kolegij na smjeru financijska matematika i statistika te kao izborni kolegij na smjeru industrijska i primijenjena matematika. Cilj kolegija je studente upoznati s osnovnim modelima iz teorije vremenskih nizova. Posebna pažnja se pridaje modelima vremenskih nizova koji su relevantni sa stanovišta ekonomije i financijske matematike. Dio nastave je posvećen praktičnoj primjeni ove teorije i analizi stvarnih vremenskih nizova. Kroz predavanja uvode se osnovni pojmovi i modeli. Posebno se ilustrira njihova korisnost i primjena. Kroz seminare studenti trebaju savladati odgovarajuću tehniku i osposobiti se za rješavanje konkretnih problema uz pomoć računala.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m003.pdf)).
+	VODITELJ KOLEGIJA
+		izv. prof. dr. sc. Danijel Grahovac (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/125)
+		KONZULTACIJE: vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/125#teaching)	
+	OSNOVNA LITERATURA
+		P. J. Brockwell, R. A.Davis, Introduction to time series and forecasting, Second edition, Springer Verlag, New York, 2002.
+		P. J. Brockwell, R. A. Davis, Time series: theory and methods, Second edition, Springer Series in Statistics, Springer-Verlag, New York, 1991.
+		J. D. Cryer, K-S. Chan, Time Series Analysis with applications in R, Fourth edition, Springer Verlag, New York, 2017.
+
+
+RASPORED PREDAVANJA I SEMINARA
+	Izvedbeni program kolegija Analiza vremenskih nizova realizira se u četvrtom semestru Sveučilišnog diplomskog studija matematike, smjer financijska matematika i statistika, s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata seminara). 
+	Za točno vrijeme i raspored predavanja pratite stranicu rasporeda i Teams kanal. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod . 
+	PREDAVANJA i SEMINARI	 srijeda 8:30 - 12:00
+
+
+PRAVILA POLAGANJA ISPITA
+	Tijekom semestra bit će organizirana dva kolokvija. Preduvjet za polaganje ispita je uspješno napravljen seminarski rad. Uspješno položeni kolokviji i seminar osiguravaju konačnu ocjenu najviše dobar (3). Ocjena se može korigirati na usmenom ispitu pri čemu je moguće ostvariti višu konačnu ocjenu. Studenti koji ne polože kolokvije pristupaju direktno usmenom ispitu ukoliko su uspješno izradili seminar.
+
+
+PRIMJERI KOLOKVIJA
+	2016./2017. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Rezultati/AVN_kol1_2016-2017.pdf)    drugi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Rezultati/AVN_kol2_2016-2017.pdf)  (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Rezultati/AVN_kol1_2016-2017.pdf)
+	2017./2018. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Rezultati/AVN_kol1_2017-2018.pdf)    drugi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Rezultati/AVN_kol2_2017-2018.pdf)
+	2018./2019. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Rezultati/AVN_kol1_2018-2019.pdf)    drugi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Rezultati/AVN_kol2_2018-2019.pdf)
+	2019./2020. - prvi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Kolokviji/AVN_kol1_2019-2020.pdf)  (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Kolokviji/AVN_kol1_2019-2020rjesenja.pdf))     drugi kolokvij (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Kolokviji/AVN_kol2_2019-2020.pdf)   (rješenja (https://www.mathos.unios.hr/images/homepages/dgrahova/Analiza_vremenskih_nizova/Kolokviji/AVN_kol2_2019-2020rjesenja.pdf))

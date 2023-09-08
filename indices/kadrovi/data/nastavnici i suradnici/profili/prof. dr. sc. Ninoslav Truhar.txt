@@ -1,0 +1,181 @@
+General Information
+  Full Professor 
+  Department of Mathematics 
+  Josip Juraj Strossmayer University of Osijek
+  phone: +385-31-224-817
+  fax: +385-31-224-801
+  email: ntruhar@mathos.hr
+  office: 1st  floor
+  Google Scholar Profile (https://scholar.google.hr/citations?hl=hr&user=HeVgezQAAAAJ&view_op=list_works&sortby=pubdate)
+  Research Interests
+    Numerical Linear Algebra
+    Systems and Control  Theory
+    Applied Mathematics
+    Linear Matrix Equations, Linear Vibrating Systems, Damping Optimization, Matrix Perturbation Theory, Perturbation Theory of Invariant Subspaces
+  Degrees
+    B. S. in Mathematics and Physics 1987, University of Osijek
+    M. S. In Mathematics 1995, University of Zagreb
+    Ph.D. in Mathematics 2000, University of Zagreb
+
+
+Study Visits Abroad and Professional Improvement
+  1997 10-12, visiting researher at The Pennsylvania State University,  State College, PA, USA
+  1999–2001 post-Ph. D. research at FernUniversitat in Hagen, Germany
+  2003 guest professor at FernUniversitat in Hagen, Germany (one month)
+  2004 guest professor at FernUniversitat in Hagen, Germany (one month)
+  2006 visiting researher at Department of Mathematics, University of Kentucky, Lexington, Kentucky, USA
+  2007 visiting professor at Department of Mathematics at the University of Texas at Arlington, Arlington, Texas, USA (one semester)
+  2013 visiting professor at Department of Mathematics at the University of Texas at Arlington, Arlington, Texas, USA (one semester)
+
+
+Publications 
+  Journal Publications
+    J. Moro, S. Miodragović, F. de Teran, N. Truhar, Frequency isolation for gyroscopic systems via hyperbolic quadratic eigenvalue problems, Mechanical Systems and Signal Processing 184/109688 (2023), 1-19
+    N. Truhar, M. Petrač, Damping Optimization of Linear Vibrational Systems with a Singular Mass Matrix, Mathematics 10 (2022), 1-21
+    N. Truhar, R. Li, On an Eigenvector-Dependent Nonlinear Eigenvalue Problem from the Perspective of Relative Perturbation Theory, Journal of Computational and Applied Mathematics, 395 (2021)
+    P. Benner, X. Liang, S. Miodragović, N. Truhar, Relative Perturbation Theory for Quadratic Hermitian Eigenvalue Problem, Linear algebra and its applications 618 (2021), 97-128
+    N. Truhar, Z. Tomljanović, R. Li, Perturbation Theory for Hermitian Quadratic Eigenvalue Problem -- Damped and Simultaneously Diagonalizable Systems, Applied mathematics and computation  371 (2020)
+  More publications
+    N. Truhar, A Note on an Upper and a Lower Bound on Sines between Eigenspaces for regular Hermitian Matrix Pairs, Journal of Computational and Applied Mathematics, 358 (2019), 374-384
+    N. Truhar, Z. Tomljanović, M. Puvača, Approximation of damped quadratic eigenvalue problem by dimension reduction, Applied mathematics and computation  347 (2019), 40-53
+    I. Ali, N. Truhar, Location of right eigenvalues of quaternionic matrix polynomials (https://rdcu.be/bOhxg ), Advances in Applied Clifford Algebras 29/4 (2019), 1-21
+    I. Nakić, Z. Tomljanović, N. Truhar, Mixed control of vibrational systems, Journal of Applied Mathematics and Mechanics 99/9 (2019), 1-15
+    Y. Kanno, M. Puvača, Z. Tomljanović, N. Truhar, Optimization Of Damping Positions In A Mechanical System, Rad HAZU, Matematičke znanosti. 23 (2019), 141-157
+    N. Truhar, Z. Tomljanović, M. Puvača, An Efficient Approximation For Optimal Damping In Mechanical Systems, International journal of numerical analysis and modeling 14/2 (2017), 201-217
+    I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar, Damping optimization over the arbitrary time of the excited mechanical system, Journal of Computational and Applied Mathematics, 304 (2016), 120-129
+    L. Grubišić, S. Miodragović, N. Truhar, Double angle theorems for definite matrix pairs, Electronic Transactions on Numerical Analysis 45 (2016), 33-57
+    P. Benner, P. Kurschner, Z. Tomljanović, N. Truhar, Semi-active damping optimization of vibrational systems using the parametric dominant pole algorithm, Journal of Applied Mathematics and Mechanics 96/5 (2016), 604-619
+    N. Truhar, Z. Tomljanović, K. Veselić, Damping  optimization in mechanical systems with external force, Applied mathematics and computation  250 (2015), 270-279
+    N. Truhar, S. Miodragović, Relative perturbation theory for definite matrix pairs and hyperbolic eigenvalue problem, Applied Numerical Mathematics 98 (2015), 106-121
+    N. Truhar, L. Grubišić, S. Miodragović,  The Rotation of Eigenspaces of Perturbed Matrix Pairs II, Linear and multilinear algebra 68/8 (2014), 1010-1031
+    E. Mengi, D. Kressner, I. Nakić, N. Truhar, Generalized Eigenvalue Problems with Specified Eigenvalues, The IMA Journal of Numerical Analysis 34/2 (2014), 480-501
+    P. Benner, Z. Tomljanović, N. Truhar, Optimal Damping of Selected Eigenfrequencies Using Dimension Reduction, Numerical Linear Algebra with Applications 20/1 (2013), 1-17
+    I. Nakić, Z. Tomljanović, N. Truhar, Optimal Direct Velocity Feedback, Applied mathematics and computation  225 (2013), 590-600
+    I. Kuzmanović Ivičić, N. Truhar, Optimization of the solution of the parameter-dependent Sylvester equation and applications (http://www.sciencedirect.com/science/article/pii/S0377042712003123), Journal of Computational and Applied Mathematics, 237/1 (2013), 136-144
+    I. Kuzmanović Ivičić, N. Truhar, Sherman-Morrison-Woodbury formula for Sylvester and $T$-Sylvester equation with applications (http://www.tandfonline.com/doi/abs/10.1080/00207160.2012.716154#.UYpK_kr3SH0), International Journal of Computer Mathematics 90/2 (2013), 306-324
+    I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar, Optimization of material with modal damping, Applied mathematics and computation  218 (2012), 7326-7338
+    R. Li, Y. Nakatsukasa, N. Truhar, W. Wang, Perturbation of multipleeigenvalues of Hermitian matrices, Linear algebra and its applications 437/1 (2012), 202-213
+    L. Grubišić, N. Truhar, K. Veselić, The Rotation of Eigenspaces of Perturbed Matrix Pairs, Linear algebra and its applications 436/11 (2012), 4161-4178
+    P. Benner, Z. Tomljanović, N. Truhar, Dimension reduction for damping optimization in linear vibrating system, Journal of Applied Mathematics and Mechanics 91/3 (2011), 179-191
+    Z. Tomljanović, N. Truhar, K. Veselić, Optimizing a damped system - a case study, International Journal of Computer Mathematics 88/7 (2011), 1533-1545
+    R. Li, Y. Nakatsukasa, N. Truhar, S. Xu, Perturbation of Partitioned Hermitian Generalized Eigenvalue Problem, SIAM Journal on Matrix Analysis and Applications  32/2 (2011), 642-663
+    N. Truhar, Z. Tomljanović, R. Li, Analysis of the solution of the Sylvester equation using low-rank ADI with exact shifts, Systems and Control Letters 59 (2010), 248-257
+    N. Truhar, K. Veselić, An efficient method for estimating the optimal dampers' viscosity for linear vibrating systems using Lyapunov equation, SIAM Journal on Matrix Analysis and Applications  31/1 (2009), 18-39
+    N. Truhar, Z. Tomljanović, Estimation of optimal damping for mechanical vibrating systems, International Journal of Applied Mathematics and Mechanics  5/5 (2009), 14-26
+    P. Benner, R. Li, N. Truhar, On ADI Method for Sylvester Equations, Journal of Computational and Applied Mathematics, 233/4 (2009), 1035-1045
+    K. Veselić, N. Truhar, On bounds for discrete semigroups, Operators and Matrices 3/3 (2009), 357-365
+    N. Truhar, K. Veselić, Bounds on the trace of a solution to the Lyapunov equation with a general stable matrix, Systems and Control Letters 56/7-8 (2007), 493-503
+    N. Truhar, The perturbation bound for the solution of the Lyapunov equation, Mathematical Communications 1/12 (2007), 83-94
+    N. Truhar, Relative residual bounds for eigenvalues of Hermitian matrices, SIAM Journal on Matrix Analysis and Applications  28/4 (2006), 949-960
+    N. Truhar, I. Slapničar, Relative residual bounds for indefinite Hermitian matrices, Linear algebra and its applications 417/2-3 (2006), 466-477
+    N. Truhar, An efficient algorithm for damper optimization for linear vibrating systems using Lyapunov equation, Journal of Computational and Applied Mathematics, 172/1 (2004), 169-182
+    N. Truhar, K. Veselić, On some properties of the Lyapunov equation for damped systems, Mathematical Communications 2/9 (2004), 189-197
+    N. Truhar, R. Li, A sin 2theta theorem for graded indefinite Hermitian matrices, Linear algebra and its applications 359/1-3 (2003), 263-276
+    I. Slapničar, N. Truhar, Relative perturbation theory for hyperbolic singular value problem, Linear algebra and its applications 358/1-3 (2003), 367-386
+    N. Truhar, I. Slapničar, Relative perturbation bound for invariant subspaces of Hermitian matrix, Glasnik Matematički 2/35 (2000), 221-232
+    I. Slapničar, N. Truhar, Relative perturbation theory for hyperbolic eigenvalue problem, Linear algebra and its applications 309 (2000), 57-72
+    N. Truhar, I. Slapničar, Relative perturbation bounds for invariant subspaces of graded indefinite Hermitian matrices, Linear algebra and its applications 301 (1999), 171-185
+
+
+Publications - Refereed Proceedings, Others, Books, Technical Reports
+  Refereed Proceedings
+    I. Kuzmanović Ivičić, Z. Tomljanović, N. Truhar,  Applications of Lyapunov and T-Lyapunov equations in mechanics, Fourth Mathematical Conference of the   Republic of Srpska,, Trebinje, 2014, 83-92
+    P. Benner, Z. Tomljanović, N. Truhar,  Damping Optimization for Linear Vibrating Systems Using Dimension Reduction, The 10th International Conference on Vibration Problems ICOVP 2011, Prag, 2011, 297-305
+    D. Markulak, D. Varevac, N. Truhar,  he dynamic response of a highway bridge under actual traffic load, Progress in Steel, Composite and Aluminium Structures , Rzesow, 2006, 264-265
+    D. Varevac, D. Markulak, N. Truhar,  Seismic Response Of The Long Countinuous RC Bridge, Concrete Structures for Traffic Network, Hradec Kralove, 2006
+    D. Varevac, D. Morić, N. Truhar,  Mathematical model for calculating eigenvalues of continuous bridge ggirder in transversal direction, Durability and Maintenance of Concrete Structures, Dubrovnik, 2004, 147-154
+    N. Truhar, D. Markulak, D. Varevac,  Optimizing stiffnesses and positions of dampers for cable on the steel high voltage towers,  7th Congress of the European Society for Research in Mathematics Education, Rzeszow, Poljska, 2002
+    N. Truhar, B. Dukić,  Low rank approximation using singular value decomposition, 6th International Conference on Operational Research KOI 1996, Rovinj, 1996, 75-80
+  Others
+    Z. Tomljanović, N. Truhar, K. Veselić, Damping optimization in mechanical systems with external force  (https://www.scienceopen.com/collection/2015VM60) (2015)
+    N. Truhar, Dva dokaza Heronove formule, Osječki matematički list 8/2 (2009), 65-68
+    D. Markulak, N. Truhar, Dinamička interakcija vozila i cestovnog grednog mosta, Tehnički vjesnik 3/3,4 (2004), 15-21
+    N. Truhar, I. Slapničar, Relative perturbation of invariant subspaces, Mathematical Communications (1996), 169-174
+    G. Bučar, N. Truhar, Utjecaj vremena građenja na cijenu radova, Građevinar 48 (1996)
+  Books
+    R. Scitovski, N. Truhar, Z. Tomljanović,  Metode optimizacije (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/301.pdf ), Svučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku, Osijek, 2014.
+    D. Matijević, N. Truhar, Uvod u računarstvo (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/10.pdf ), Odjel za matematiku, Sveučilište Josipa Jurja Strossmayera u Osijeku, Osijek, 2012.
+    N. Truhar, Numerička linearna algebra (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/302.pdf ), Odjel za matematiku, svučilišta J. J. Strosmayera u Osijeku, Osijek, 2010.
+  Technical Reports
+    N. Truhar, Z. Tomljanović, M. Puvača, An efficient approximation for the optimal damping in mechanical systems (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/614.pdf ) (2016)
+    N. Truhar, Z. Tomljanović, Dimension reduction approach for the parameter dependent quadratic eigenvalue problem (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/615.pdf ) (2016)
+    N. Truhar, Z. Tomljanović, K. Veselić, Damping  optimization in mechanical systems with external force (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/497.pdf ) (2014)
+
+
+Projects
+  Principal Investigator: Optimization of parameter dependent mechanical systems (https://www.mathos.unios.hr/index.php/399) (IP-2014-09-9540; OptPDMechSys). This project has been fully supported by Croatian Science Foundation (http://www.hrzz.hr/default.aspx?id=47) for the period 01.07.2015.--30.06.2019.           
+  Mixed Integer Nonlinear Programming (MINLP) for damper optimization--scientific project; supported by the DAAD for period 2015--2016 (Project director); partner institution: Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg
+  European Model Reduction Network (EU-MORNET (http://www.cost.eu/domains_actions/TDP/Actions/TD1307)). Funded by: COST (European Cooperation in Science and Technology).
+    Partner: researchers in model order reduction from 17 countries.
+  DAAD: Optimal Damping of Vibrating Systems (http://www.mpi-magdeburg.mpg.de/mpcsc/projekte/damping/index.php?lang=en), PPP Germany, 2013--2015     
+    Project run 01/01/2013 - 12/31/2014 founded by DAAD in collaboration between Max Planck Institute for Dynamics Complex Technical Systems Magdeburg, Computational Methods in Systems and Control Theory, Magdeburg, Germany and Department of Mathematics, University of Osijek, Osijek, Croatia   
+  Solution of large-scale (http://homepage.uibk.ac.at/~c7021020/) Lya (http://homepage.uibk.ac.at/~c7021020/)punov (http://homepage.uibk.ac.at/~c7021020/) Differential Equations (http://homepage.uibk.ac.at/~c7021020/),  
+    Funded by: FWF Austrian Science Fundation,  FWF project id: P27926
+    Researchers: Dr. Hermann Mena (project director, University of Innsbruck, Innsbruck, Austria); Prof. Dr. Alexander Ostermann (University of Innsbruck, Innsbruck, Austria)
+    Partners: Universidad Jaime I, Castellon (Spain), University of Tuebingen, (Germany),
+  Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg (Germany), Department of Mathematics, University of Osijek (Croatia)
+
+
+Editorial Service
+  Member of Editorial Board:
+    Computational Mathematics and Computer Modeling with Applications (https://cmcma.sbu.ac.ir/) (since 2022--)
+    Numerical Algebra, Control  and Optimization (https://www.aimsciences.org/journal/2155-3289) (since 2021--)
+    Mathematics (MDPI) (https://www.mdpi.com/journal/mathematics) (since 2021--)
+    Mathematical Communications (https://www.mathos.unios.hr/mc/index.php/mc) (since 2007--)
+    Osječki matematički list (https://hrcak.srce.hr/osjecki-matematicki-list) (since 2003--)
+  Committee Memberships
+    Member of the Scientific Committee of the 8th Croatian Congress of Mathematics (Osijek, 2024) 
+    11th Conference on Applied Mathematics and Scientific Computing   5-9 September 2022, Brijuni, Croatia 
+    10th Conference on Applied Mathematics and Scientific Computing       14-18 September 2020, Brijuni, Croatia
+    Ninth Conference on Applied Mathematics and Scientific Computing    17-20 September 2018, Solaris, Šibenik, Croatia
+    Workshop on Model Reduction Methods and Optimization,      20-21 September 2016, in Opatija, Croatia, http://www.mathos.unios.hr/index.php/443 (https://www.mathos.unios.hr/index.php/443). 
+    The third International School on Model Reduction for Dynamical Control Systems, 5 - 10 October 2015, in Dubrovnik, Croatia http://www.mathos.unios.hr/index.php/351 (https://www.mathos.unios.hr/index.php/351) (https://www.mathos.unios.hr/index.php/351)
+    Member of the Scientific Committee of the 6th Croatian Congress of Mathematics (Zagreb, 2016)   
+    Organizer of the DAAD International School on Linear Optimal Control of Dynamic Systems, 23 - 28 September 2013, Osijek http://www.mathos.unios.hr/locschool2013/ (https://www.mathos.unios.hr/locschool2013/)
+    Member of the Scientific Committee of the  5th Croatian Congress of Mathematics (Rijeka, 2012) http://www.math.uniri.hr/CroMC2012/ (http://www.math.uniri.hr/CroMC2012/)
+    Organizer of the Summer School on Numerical Linear Algebra for Dynamical and High-Dimensional Problems, October 10-15, 2011, Trogir, Croatia, http://www.mpi-magdeburg.mpg.de/mpcsc/events/trogir/ (http://www.mpi-magdeburg.mpg.de/mpcsc/events/trogir/)
+    Member of the Scientific Committee of the 4th Croatian Congress of Mathematics (Osijek, 2008) http://www.mathos.hr/congress2008/ (http://www.mathos.hr/congress2008/)
+  Refereeing/Reviewing
+    Refereeing
+      SIAM Journal on Matrix Analysis and Applications (SIMAX)
+      SIAM Journal on Scientific Computing (SISC)
+      Linear Algebra and its Applications (LAA)
+      Numerische Mathematik
+      BIT Numerical Mathematics
+      Mathematical and Computer Modelling (MCM)
+      Applied Mathematics and Computation (AMC)
+      International Journal of Computer Mathematics
+      Journal of Applied Mathematics and Computing (JACM)
+      Journal of Sound and Vibration 
+      International Journal of Systems Science
+      International Journal of Computer Mathematics
+      Numerical Algorithms
+      Central European Journal of Mathematics
+      Bulletin of the Iranian Mathematical Society 
+      Glasnik matematički
+      Mathematical Communications
+    Reviewing
+      AMS Mathematical Review   (since 2006)
+      Zentralblatt MATH
+    Service Activities
+      Chairman of Osijek Mathematical Society, 2003--2013 
+      Chairman of the Mathematical Colloquium, 2005-2017
+
+
+Teaching
+  Current
+    Numerička linearna algebra (https://www.mathos.unios.hr/index.php/204)
+    Primijenjena linearna algebra i znanstveno računarstvo (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/700-primijenjena-linearna-algebra-i-znanstveno-racunarstvo)
+    Metode optimizacije (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/244)
+    Dinamički sustavi (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/717)
+  Office Hours: 
+    Utorak (Tue)  11:30am-12:15pm, Srijeda (Wed) 11:30am-12:15pm. Konzultacije su moguće i po dogovoru.
+  Teme za diplomske radove: popis tema (https://www.mathos.unios.hr/images/homepages/ntruhar/Teme_za_diplomske_radove.docx)
+
+
+Personal
+  Birthdate: May 4, 1963
+  Birthplace: Osijek, Croatia
+  Citizenship: Croatian
+  Family: Married
+  Hobbies: I am a fan and supporter of basketball club KK Vrijednosnice Osijek

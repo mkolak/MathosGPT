@@ -1,0 +1,33 @@
+Pretkolegiji Fakulteta primijenjene matematike i informatike
+
+OSNOVNE INFORMACIJE
+	Pretkolegij iz matematike i Pretkolegij iz informatike su online tečajevi Fakulteta primijenjene matematike i informatike koji studentima prve godine preddiplomskog studija Fakulteta primijenjene matematike i informatike nude mogućnost testiranja i samostalnog ponavljanja srednjoškolskog gradiva iz matematike i informatike.
+	Pretkolegij iz matematike
+		Teme obuhvaćene Pretkolegijem iz matematike su sljedeće:
+			Brojevi i algebra
+			Funkcije
+			Jednadžbe i nejednadžbe
+			Geometrija
+		Tečaj se sastoji od dva dijela. U prvom dijelu nalaze se zadaci za samostalan rad. U drugom dijelu nalaze se zadaci za provjeru znanja.
+		Detaljnije informacije o samom tečaju možete  pronaći unutar Loomen sustava. Tečaju pristupate preko sljedeće poveznice: https://fakulteti.loomen.carnet.hr/course/view.php?id=5207 (https://fakulteti.loomen.carnet.hr/course/view.php?id=5207) (za prvi pristup proučite upute za pristup pretkolegijima koje se nalaze na ovoj stranici). 
+	Pretkolegij iz informatike
+		Teme obuhvaćenje Pretkolegijom iz informatike su sljedeće: 
+			Logičko grananje (if-then-else)
+			Petlje (for, while)
+			Funkcije
+		Tečaj se sastoji od dva dijela. U prvom dijelu nalaze se zadaci za samostalan rad u kojima će studenti, osim ponavljanja gradiva, imati priliku upoznati način automatske evaluacije programerskih zadataka pomoću Virtual Programming Lab dodatka u sustavu Loomen. U drugom dijelu nalazi se izbor od 6 zadataka (2 iz logičkog grananja, 2 iz petlji, 1 koji povezuje petlje i grananje i 1 iz funkcija).
+		Tečaju možete pristupiti putem sljedeće poveznice:  https://fakulteti.loomen.carnet.hr/course/view.php?id=1742 (https://fakulteti.loomen.carnet.hr/course/view.php?id=1742) (za prvi pristup proučite upute za pristup pretkolegijima koje se nalaze na ovoj stranici).
+
+Upute za pristup pretkolegijima
+	Pretkolegiji su u potpunosti izvedeni kao e-kolegiji na Loomen platformi ( (https://loomen.carnet.hr/)https://loomen.carnet.hr/ (https://loomen.carnet.hr/)) što znači da će sav sadržaj i komunikacija biti u obliku online sadržaja. Kako biste pristupili e-kolegijima preporučujemo sljedeće korake:
+	Na e-kolegije pristupate preko sljedećih poveznica:
+		Pretkolegij iz matematike: https://fakulteti.loomen.carnet.hr/course/view.php?id=5207 (https://fakulteti.loomen.carnet.hr/course/view.php?id=5207)
+		Pretkolegij iz informatike: https://fakulteti.loomen.carnet.hr/course/view.php?id=1742 (https://fakulteti.loomen.carnet.hr/course/view.php?id=1742)
+	Prilikom pristupa e-kolegijima ponudit će vam se opcija prijave i odaberite opciju: "Prijava s AAI@Edu.hr elektroničkim identitetom" (tu trebate unijeti informacije koje ste dobili u Obavijesnom pismu prilikom upisa). Kako bi se upisali na odgovarajući e-kolegij kod Studentskog upisa upišite lozinku e-kolegija pr3tkolegij. 
+	Nakon upisa, u glavnom izborniku Loomen sustava u podizborniku Moji e-kolegiji pojavit će se Pretkolegij iz matematike/Pretkolegij iz informatike kao e-kolegij na kojeg ste se prijavili. Nakon ovog koraka više ne morate unositi lozinku e-kolegija.
+
+DEMONSTRATURE  IZ PRETKOLEGIJA IZ MATEMATIKE 
+	U prva tri tjedna nastave organizirat će se demonstrature iz Pretkolegija iz matematike na kojima će studentima koji to žele demonstratori pomoći u savladavanju pojedinog dijela gradiva iz pretkolegija. 
+
+POMOĆ OKO RJEŠAVANJA ZADATAKA IZ PRETKOLEGIJA IZ INFORMATIKE
+	Na kolegiju Uvod u računalnu znanost prolazit će se kroz teme obuhvaćene Pretkolegijem iz informatike i rješavati slični zadaci. Ako studenti budu imali pitanja vezana uz ove zadatke slobodno ih mogu postaviti u trenutku kad se određena tema bude obrađivala na kolegiju.

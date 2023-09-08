@@ -1,0 +1,114 @@
+General Information
+    Full Professor
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-811
+    fax: +385-31-224-801
+    email: zkolar@mathos.hr
+    office: 2 (ground floor)
+    Research Interests
+        nonassociative algebraic structures 
+        geometry
+    Degrees
+        PhD in Mathematics, University of Zagreb (http://www.unizg.hr/), Croatia, 2003   
+        Msc in Mathematics, University of Zagreb (http://www.unizg.hr/), Croatia, 1999  
+        Bsc in Mathematics and Physics,  University of Osijek (http://www.unios.hr/), Croatia, 1993 
+
+
+Publications
+    Journal Publications
+        Z. Kolar-Begović, V. Volenec, Hamilton triangle of a triangle in the isotropic plane (https://akjournals.com/view/journals/314/28_NS2/1/article-p1.xml), Mathematica Pannonica New Series 28/1 (2022), 1-10
+        V. Volenec, Z. Kolar-Begović, On some properties of Kiepert parabola in the isotropic plane (https://web.math.pmf.unizg.hr/~duje/radhazumz/preprints/volenec-kolar-begovic.pdf), Rad HAZU, Matematičke znanosti. (2022), prihvaćen za objavljivanje
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, On Some Properties of the First Brocard Triangle in the Isotropic Plane (https://www.mdpi.com/2227-7390/10/9/1381/htm), Mathematics 10/9 (2022), 1-13
+        A. Katalenić, Z. Kolar-Begović, Prospective Primary School Teachers’ Work in Continuous Online Assessments in the Course of Didactics of Mathematics, Mathematics Teaching-Research Journal 14/4 (2022), 80-105
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Inflection Points in Cubic Structures (https://www.mdpi.com/2227-7390/9/21/2819/htm), Mathematics 9/21 (2021)
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Tangentials in cubic structures (https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=361964), Glasnik Matematički 55/2 (2020), 337-349
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, A complete system of the shapes of triangles (https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=333808), Glasnik Matematički 54/2 (2019), 409-420
+        Z. Kolar-Begović, R. Kolar-Šuper, V. Volenec, Brocard circle of the triangle in an isotropic plane, Mathematica Pannonica 26/1 (2018), 103-113
+        Z. Kolar-Begović, R. Kolar-Šuper, V. Volenec, Jerabek hyperbola of a triangle in an isotropic plane, KoG (Scientific and Professional Journal of Croatian Society for Geometry and Graphics)  22/22 (2018), 12-19
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Kiepert hyperbola in an isotropic plane (https://hrcak.srce.hr/206200), Rad HAZU, Matematičke znanosti. 22/534 (2018), 129-143
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Cubic structure, Glasnik Matematički 52/2 (2017), 247-256
+        R. Kolar-Šuper, Z. Kolar-Begović, V. Volenec,  Steiner point of a triangle in an isotropic plane, Rad HAZU, Matematičke znanosti. 20/528 (2016), 83-95
+        Z. Kolar-Begović, R. Kolar-Šuper, V. Volenec,  Equicevian points and equiangular lines of a triangle in an isotropic plane, Sarajevo Journal of Mathematics 11/23 (2015), 101-107
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Affine Fullerene C_60 in a GS-Quasigroup, Journal of Applied Mathematics 2014 (2014), 1-8
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Reciprocity in an isotropic plane, Rad HAZU, Matematičke znanosti. 519/18 (2014), 171-181
+        J. Beban-Brkić, V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Cosymmedian triangles in an isotropic plane, Rad HAZU, Matematičke znanosti. 515/2013 (2013), 33-42
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Crelle-Brocard points of the triangle in an isotropic plane, Mathematica Pannonica 24/2 (2013), 167-181
+        J. Beban-Brkić, V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, On Gergonne point of the triangle in isotropic plane, Rad HAZU, Matematičke znanosti. 515/2013 (2013), 95-106
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Affine regular icosahedron circumscribed around the affine regular octahedron in GS--quasigroup, Commentationes Mathematicae Universitatis Carolinae 53/3 (2012), 501-507
+        Z. Kolar-Begović, A short direct characterization of GS-quasigroups, Czechoslovak Mathematical Journal   61/136 (2011), 3-6
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Affine-regular hexagons in the parallelogram space, Quasigroups and Related Systems 19 (2011), 353-358
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, ARH-quasigroups, Mathematical Communications 16 (2011), 539-550
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Kiepert triangles in an isotropic plane, Sarajevo Journal of Mathematics 7/19 (2011), 81-90
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, ARO-quasigroups, Quasigroups and Related Systems 18 (2010), 213-228
+        R. Kolar-Šuper, Z. Kolar-Begović, V. Volenec, Dual Feuerbach theorem in an isotropic plane, Sarajevo Journal of Mathematics 18 (2010), 109-115
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Steiner's ellipses of the triangle in an isotropic plane, Mathematica Pannonica 21/2 (2010), 229-238
+        R. Kolar-Šuper, Z. Kolar-Begović, V. Volenec, Thebault circles of the triangle in an isotropic plane, Mathematical Communications 15 (2010), 437-442
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Thebault's pencil of circles in an isotropic plane, Sarajevo Journal of Mathematics 18 (2010), 237-239
+        Z. Kolar-Begović, R. Kolar-Šuper, V. Volenec, Brocard angle of the standard triangle in an isotropic plane, Rad HAZU, Matematičke znanosti. 503 (2009), 55-60
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Heptagonal triangle as the extreme triangle of Dixmier-Kahane-Nicolas inequality, Mathematical Inequalities and Applications 12/4 (2009), 773-779
+        Z. Kolar-Begović, V. Volenec, LGS-quasigroups, Quasigroups and Related Systems 17 (2009), 77-90
+        V. Volenec, J. Beban-Brkić, R. Kolar-Šuper, Z. Kolar-Begović, Orthic axis, Lemoine line and Longchamp's line of the triangle in I_2., Rad HAZU, Matematičke znanosti. 503 (2009), 13-19
+        Z. Kolar-Begović, R. Kolar-Šuper, V. Volenec, The second Lemoine circle of the triangle in an isotropic plane, Mathematica Pannonica 20/1 (2009), 79-86
+        V. Volenec, Z. Kolar-Begović, Affine regular decagons in GS-quasigroups, Commentationes Mathematicae Universitatis Carolinae 49/3 (2008), 383-395
+        Z. Kolar-Begović, R. Kolar-Šuper, V. Volenec, Angle bisectors of a triangle in I_2, Mathematical Communications 13/1 (2008), 97-105
+        R. Kolar-Šuper, Z. Kolar-Begović, V. Volenec, Apollonius circles of the triangle in an isotropic plane, Taiwanese journal of mathematics  12/5 (2008), 1239-1249
+        R. Kolar-Šuper, Z. Kolar-Begović, V. Volenec, J. Beban-Brkić, Isogonality and inversion in an isotropic plane, International Journal of Pure and Applied Mathematics 44/3 (2008), 339-346
+        V. Volenec, Z. Kolar-Begović, R. Kolar-Šuper, Two characterizations of the triangle with the angles $ frac{pi}{7}, frac{2 pi}{7}, frac{4 pi}{7}$, International Journal of Pure and Applied Mathematics 44/3 (2008), 335-338
+        Z. Kolar-Begović, R. Kolar-Šuper, Six concyclic points, Mathematical Communications 12 (2007), 255-256
+        R. Kolar-Šuper, Z. Kolar-Begović, V. Volenec, The first Lemoine circle of the triangle in an isotropic plane, Mathematica Pannonica 18/2 (2007), 253-263
+        Z. Kolar-Begović, V. Volenec, The meaning of computer search in the study of some classes of IM-quasigroups,  Croatian Journal of Education 53 (2007), 293-297
+        J. Beban-Brkić, R. Kolar-Šuper, Z. Kolar-Begović, V. Volenec, On Feuerbach's theorem and a pencil of circles in I_2, Journal for Geometry and Graphics 10/2 (2006), 125-132
+
+
+Publications - Other Publications, Books
+    Others
+        R. Kolar-Šuper, Z. Kolar-Begović, Dokaz bez riječi: kvadrat razlike, razlika kubova, kub razlike (https://hrcak.srce.hr/234346), Osječki matematički list 19/1 (2019), 45-48 
+        Z. Kolar-Begović, V. Ždralović, Vivianijev teorem  (https://hrcak.srce.hr/234340), Osječki matematički list 19/1 (2019), 31-41
+        M. Alilović, Z. Kolar-Begović, Lj. Primorac Gajčić, Wallace-Simsonov pravac (https://hrcak.srce.hr/239990), Osječki matematički list 19/2 (2019), 137-146
+    Books
+        Z. Kolar-Begović, R. Kolar-Šuper, A. Katalenić, Advances in Research on Teaching Mathematics (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/967.pdf ), Odjel za matematiku, Fakultet za odgojne i obrazovne znanosti, Osijek, 2022.
+        Z. Kolar-Begović, R. Kolar-Šuper, Lj. Jukić Matić, Towards new perspectives on mathematics education (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/811.pdf ), Fakultet za odgojne i obrazovne znanosti i Odjel za matematiku, Sveučilište u Osijeku, Osijek, 2019.
+        Z. Kolar-Begović, R. Kolar-Šuper, Lj. Jukić Matić, Mathematics Education as a Science and a Profession (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/683.pdf ), Odjel za matematiku i Fakultet za odgojne i obrazovne znanosti, Osijek, 2017.
+        Z. Kolar-Begović, R. Kolar-Šuper, I. Đurđević, Higher Goals in Mathematics Education  (http://files.eric.ed.gov/fulltext/ED557785.pdf), Odjel za matematiku, Fakultet za odgojne i obrazovne znanosti , Osijek, 2015.
+        M. Pavleković, Z. Kolar-Begović, R. Kolar-Šuper, Mathematics teaching for the future (http://files.eric.ed.gov/fulltext/ED542544.pdf), Odjel za matematiku, Fakultet za odgojne i obrazovne znanosti, Osijek, 2013.
+
+
+Projects
+    Participation (as researcher) in work of the following projects:
+        Non associative algebraic structures and their application (Neasocijativne algebarske strukture i njihove primjene), Ministry of Science, Education and Sports of the Republic Croatia, Department of Mathematics, University Of Zagreb, Principal investigator: Vladimir Volenec
+        Geometric and algebraic geometric structures (Geometrije i algebarsko geometrijske strukture), Ministry of Science, Education and Sports of the Republic Croatia, Department of Mathematics, University Of Zagreb, Principal investigator: Vladimir Volenec 
+
+
+Professional Activities
+    Editorial Boards
+        Editor in Chief of the Journal Osječki matematički list (https://www.mathos.unios.hr/index.php/znanost/casopisi/osjecki-matematicki-list) (since 2012)
+    Committee Memberships
+        Member of the Scientific and Organizing Committee of the International Colloquium Mathematics and Children  (Osijek 2007, Osijek 2009, Osijek 2011, Osijek 2013, Osijek 2015) 
+        Head of the Organizing Committee of the 5th International Scientific Colloquium Mathematics and Children (Osijek 2015) 
+    Refereeing/Reviewing
+        Osječki matematički list (https://www.mathos.unios.hr/index.php/znanost/casopisi/osjecki-matematicki-list)
+        Mathematical Reviews  (http://www.ams.org/mathscinet/)
+
+
+Teaching
+    Current
+        Elementarna Geometrija (https://www.mathos.unios.hr/index.php/193)
+        Analitička geometrija (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/219)
+        Konstruktivna Geometrija (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/462)
+    Prijedlog tema diplomskih radova
+        1. Geometrija zlatnog reza
+        2. Inverzija u ravnini i primjene
+        3. Značajni pravci u geometriji trokuta
+    Prijedlog tema završnih radova
+        1. Algebarska metoda rješavanja konstruktivnih zadataka
+        2. Euleorova kružnica
+    Office Hours: 
+        Četvrtak (16:00 h).  Konzultacije su moguće i po dogovoru.
+
+
+Personal
+    Birthdate: March 24, 1969
+    Birthplace: Sremska Mitrovica
+    Citizenship: Croatian
+    Family: Married with two children (Dolores, Alojzije)

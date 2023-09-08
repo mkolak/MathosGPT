@@ -1,0 +1,217 @@
+General Information
+    Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek 
+    phone: +385-31-224-800
+    fax: +385-31-224-801
+    email: mirta@mathos.hr
+    office: 25 (first floor)
+    Google Scholar profil (https://scholar.google.hr/citations?user=OMd_XDgAAAAJ&hl=hr)
+    Research Interests
+        Statistical theory (estimators - asymptotic properties)
+        Statistical applications (medical statistics, econometrics)
+    Degrees
+        PhD in  Mathematics,  University of Zagreb  (http://www.math.hr), 1997.
+        MSc in Mathematics,  University of Zagreb (http://www.math.hr) , 1990.
+        BSc in Mathematics and Physics, University of Osijek, Croatia, 1985.
+
+ 
+Publications - Journal Publications Part 1
+    Journal Publications
+        S. Guljaš, M. Benšić, Z. Krivdić Dupan, O. Pavlović, V. Krajina, D. Pavoković, P. Šmit Takač, M. Hranić, T. Salha, Dynamic Contrast Enhanced Study in Multiparametric Examination of the Prostate—Can We Make Better Use of It? (https://www.mdpi.com/2379-139X/8/3/124/htm), Tomography 8/3 (2022), 1509-1521
+        I. Netinger-Grubeša, M. Benšić, M. Vračević, New methods for assessing brick resistance to freeze-thaw cycles (https://materconstrucc.revistas.csic.es/index.php/materconstrucc/article/view/2328), Materiales De Construcción 71 (2021)
+        V. Barišić, I. Flanjak, A. Tot, M. Budeč, M. Benšić, A. Jozinović, J. Babić, D. Šubarić, B. Miličević, Đ. Ačkar, 5-hydroxymethylfurfural and acrylamide content of cocoa shell treated with high voltage electrical discharge (https://www.sciencedirect.com/science/article/abs/pii/S0956713519306322), Food Control 110 (2020)
+        L. Jakobek, P. Margetić, Š. Kraljević, Š. Ukić, M. Benšić, A. Barron, Adsorption between quercetin derivatives and beta-glucan studied with a novel approach to modeling adsorption isotherms (https://www.mdpi.com/2076-3417/10/5/1637/pdf), Applied Sciences 10/ 1637 (2020), 1-16
+        V. Barišić, I. Flanjak, M. Kopjar, M. Benšić, A. Jozinović, J. Babić, D. Šubarić, B. Miličević, K. Doko, Đ. Ačkar, Does high voltage electrical discharge treatment induce changes in tannin and fiber properties of cocoa shell? (https://www.mdpi.com/2304-8158/9/6/810/htm), Foods 9/6 (2020)
+        S. Hamedović, M. Benšić, K. Sabo, Estimating the width of a uniform distribution under symmetric measurement errors (http://link.springer.com/article/10.1007/s42952-019-00035-7), Journal of the Korean Statistical Society 49/3 (2020), 822-840
+        R. Bušić, M. Benšić, I. Miličević, K. Strukar, Prediction Models for the Mechanical Properties of Self-Compacting Concrete with Recycled Rubber and Silica Fume (https://www.mathos.unios.hr/ https:/www.mdpi.com/1996-1944/13/8/1821/pdf), Materijals 13/8 (2020)
+        J. Panak Balentić, A. Jozinović, Đ. Ačkar, J. Babić, B. Miličević, M. Benšić, M. Vladetić, S. Jokić, A. Šarić, Nutritionally improved third generation snacks produced by supercritical CO2 extrusion I. Physical and sensory properties (https://onlinelibrary.wiley.com/doi/abs/10.1111/jfpe.12961), Journal of food process engineering 42/2 (2019)
+        A. Barron, M. Benšić, K. Sabo, A Note on Weighted Least Square Distribution Fitting and Full Standardization of the Empirical Distribution Function (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/747.pdf ), TEST 27/4 (2018), 946-967
+        S. Hamedović, M. Benšić, K. Sabo, P. Taler, Estimating the size of an object captured with error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/712.pdf ), Central European Journal of Operations Research  26/3 (2018), 771-781
+
+
+Publications - Journal Publications Part 2   
+    More publications
+        K. Buljan, M. Benšić, M. Vladetić, V. Buljan, S. Butković-Soldo, Functional Carotid Ultrasound Markers of Subclinical Atherosclerosis in Vascular Healthy Women (http://www.neurosonology-bg.com/en/publications/journal.html), NEUROSONOLOGY AND CEREBRAL HEMODYNAMICS 14 (2018), 31-40
+        I. Kosović, M. Benšić, Đ. Ačkar, A. Jozinović, Ž. Ugarčić, J. Babić, B. Miličević, D. Šubarić, Microstructure and cooking quality of barley-enriched pasta produced at different process parameters (https://www.mathos.unios.hr/ http:/jfrm.ru/files/archive/12.pdf), Foods and Raw materials 6/2 (2018), 281-290
+        K. Buljan, M. Benšić, V. Buljan, M. Vladetić, S. Butković-Soldo, Functional carotid ultrasound markers of subclinical atherosclerosis in men with cardiovascular risk factors (http://seemedj.mefos.unios.hr/index.php/seemedj/article/view/22), Southeastern European Medical Journal 1/1 (2017), 19-26
+        J. Flam, D. Gugić, M. Benšić, S. Tomić, J. Rajc, High tumor stroma proportion is a worse prognostic factor in colorectal cancer  (https://hrcak.srce.hr/184326), ACTA CLINICA CROATICA 56 (2017)
+        M. Benšić, P. Taler, S. Hamedović, E.K. Nyarko, K. Sabo, LeArEst: Length and Area Estimation from Data Measured with Additive Error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/700.pdf ), The R Journal 9/2 (2017), 461-473
+        M. Benšić, K. Sabo, Uniform distribution width estimation from data observed with Laplace additive error (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/603.pdf ), Journal of the Korean Statistical Society 45/4 (2016), 505-517
+        M. Benšić, Properties  of the generalized nonlinear least squares method applied for  fitting distribution  to data (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/533.pdf ), Discussiones Mathematicae Probability and Statistics 35/1-2 (2015), 75-94
+        K. Buljan, S. Butković-Soldo, D. Jančuljak, D. Kadojić, M. Čandrlić, M. Benšić, V. Buljan, Relationship between Age and Thickness of Carotid Arteries in a Population without Risk Factors for Atherosclerosis (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=245477), Collegium antropologicum 39/3 (2015), 779-784
+        J. Milić, A. Kvolik, A. Babić Čikeš, I. Labak, M. Benšić, V. Ilakovac, M. Ništ, L. Zibar, M. Heffer-Lauc, Are There Differences in Students’ School Success, Biorhythm, and Daytime Sleepiness Depending on Their School Starting Times? (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=189316), Collegium antropologicum 38/3 (2014), 889-893
+        R. Pavić, P. Margetić, M. Benšić, R. Letica Brnadić, Diagnostic value of US, MR and MR arthrography in shoulder instability (https://bib.irb.hr/datoteka/698025.injury_2013.pdf), Injury 44/3 (2013), 26-32
+        A. Hunjet, Đ. Parac-Osterman, M. Benšić, Yellow as a domnant tone (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=117641), Tehnički vjesnik 19/1 (2012), 93-98
+        S. Mihaljević, M. Katičić, Ž. Krznarić, B. Dmitrović, M. Štefanić, Lj. Pinotić, M. Samarđija, M. Benšić, I. Karner, The influence of the different morphological changes on gastric mucosa on somatostatin cell number in antrum mucosa and serum somatostatin (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=96994), Collegium antropologicum 35 (2011), 5-8
+        I. Labak, D. Šnajder, M. Kostović Srzentić, M. Benšić, M. Ništ, V. Ilakovac, M. Heffer-Lauc, Writing and Drawing with Both Hands as Indicators of Hemispheric Dominance (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=96061), Collegium antropologicum 35 (2011), 65-71
+        M. Benšić, K. Sabo, Estimating a uniform distribution when data are measured with a normal additive error with unknown variance (http://www.tandfonline.com/doi/abs/10.1080/02331880903076645#.U7Uh9vKVOao), Statistics - a Journal of Theoretical and Applied Statistics 44/3 (2010), 235-246
+        M. Pavleković, M. Benšić, M. Zekić-Sušac, Modelling Children's Mathematical Gift By Neural Networks and Logistic Regression (http://www.sciencedirect.com/science/article/pii/S0957417410002873), Expert systems with applications 37/10 (2010), 7167-7173
+        K. Sabo, M. Benšić, Border estimation of a disc observed with random errors solved in two steps (DOI: 10.1016/j.cam.2008.10.010), Journal of Computational and Applied Mathematics, 229/1 (2009), 16-26
+        N. Šarlija, M. Benšić, M. Zekić-Sušac, Comparison procedure in predicting the time to default in behavioral scoring (https://www.mathos.unios.hr/10.1016/j.eswa.2008.11.042), Expert systems with applications 36/5 (2009), 8778-8788
+        D. Marković, D. Jukić, M. Benšić, Nonlinear weighted least squares estimation of a three-parameter Weibull density with a  nonparametric start (http://www.sciencedirect.com/science/article/pii/S0377042708004883), Journal of Computational and Applied Mathematics, 228/1 (2009), 304-312
+        H. Lepeduš, H. Fulgosi, M. Benšić, V. Cesar, Efficiency of the photosynthetic apparatus in developing needles of Notway spruce (Picea abies L. Karst), Acta Biologica Hungarica 59/2 (2008), 217-232
+        D. Jukić, M. Benšić, R. Scitovski, On the existence of the nonlinear weighted least squares estimate for a three-parameter Weibull distribution (http://www.sciencedirect.com/science/article/pii/S0167947308001588), Computational Statistics & Data Analysis  52/9 (2008), 4502-4511
+        R. Pavić, M. Pavić, O.K. Tot, M. Benšić, M. Heffer-Lauc, Side distinct sciatic nerve recovery differences between rats and mice (https://www.mathos.unios.hr/10.1080/08990220802276666), Somatosensory & Motor Research  25/3 (2008), 163-170
+        M. Benšić, K. Sabo, Border Estimation of a Two-dimensional Uniform Distribution if Data are Measured with Additive Error, Statistics - a Journal of Theoretical and Applied Statistics 41 (2007), 311-319
+        A. Hunjet, Đ. Parac-Osterman, M. Benšić, Doživljaj tona boje na akromatskim podlogama (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=127962), Tehnički glasnik 1 (2007), 38-43
+
+
+Publications - Journal Publications Part 2   
+    More publications
+        M. Benšić, K. Sabo, Estimating the width of a uniform distribution when data are measured with additive normal errors with known variance, Computational Statistics & Data Analysis  51 (2007), 4731-4741
+        N. Šarlija, M. Benšić, M. Zekić-Sušac, Logistic refression, survival analysis and neural networks in modeling customer credit scoring, WSEAS Transactions on Business and Economics 3/3 (2006), 64-70
+        A. Hunjet, Đ. Parac-Osterman, M. Benšić, Utjecaj boje okoline na doživljaj žutog i plavog tona, Tekstil 55/3 (2006), 121-126
+        M. Benšić, N. Šarlija, M. Zekić-Sušac, Modeling Small Business Credit Scoring Using Logistic Regression, Neural Networks, and Decision Trees, Intelligent Systems in Accounting, Finance and Management 13/3 (2005), 133-150
+        M. Zekić-Sušac, M. Benšić, N. Šarlija, Selecting neural network architecture for investment profitability predictions (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=116378), Journal of Information and Organizational Sciences 29/2 (2005), 83-95
+        Ž. Vukšić-Mihaljević, M. Benšić, D. Begić, G. Lauc, B. Hutinec, V. Čandrlić, V. Todorović, Combat Related Posttraumatic Stress Disorder Among Croatian Veterans: The Causal Models of Symptom Clusters (http://cat.inist.fr/?aModele=afficheN&cpsidt=16377800), The European Journal of Psychiatry 18/4 (2004), 197-208
+        M. Benšić, M. Pavleković, Matematički časopis kao učiteljev izvor ideja za suvremenijom organizacijom nastave matematike, Život i škola 9/1 (2003), 39-49
+        Z. Bohaček, N. Šarlija, M. Benšić, Upotreba kredit skoring modela za ocjenjivanje kreditne sposobnosti malih poduzetnika (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=40189), Ekonomski pregled 54/7/8 (2003), 565-580
+        S. Mihaljević, I. Karner, B. Dmitrović, M. Benšić, N. Mičunović, A. Včev, B. Škurla, M. Katičić, Hormonska regulacija želučane sekrecije i helicobacter pylori, Liječnički vjesnik 124/1 (2002), 13-16
+        M. Benšić, N. Šarlija, Influence of entrepreneur's educational background and experience on number of employees, Mathematical Communications - Supplement  1/1 (2001), 121-126
+        M. Benšić, N. Šarlija, Analiza utjecaja na broj uposlenih u poduzećima hrvatskih poduzetnika (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=45243), Ekonomski pregled 51/11-12 (2000), 1229-1238
+        Ž. Vukšić-Mihaljević, N. Mandić, M. Benšić, S. Mihaljević, Postraumatic stress disorder among Croatian veterans: A causal model (http://onlinelibrary.wiley.com/doi/10.1046/j.1440-1819.2000.00764.x/abstract;jsessionid=503D1CCD95D3B666AB0E9934187F035D.f02t03), Psychiatry and Clinical Neurosciences 54 (2000), 625-636
+        N.N. Leonenko, M. Benšić, On estimation of regression coefficients of long memory random fields observed on the arrays, Random operators and stochastics equations 5/3 (1997), 237-252
+        N.N. Leonenko, M. Šilac-Benšić, On the asymptotic distributions of least square estimations in a regression model with singular erors, Dopovidi NAS of Ukraine 7 (1997), 26-31
+        N.N. Leonenko, M. Benšić, Asymptotic properties of the LSE in a regression model with long-memory Gaussian and non-Gaussian stationary errors, Random operators and stochastics equations 4/1 (1996), 17-32
+        N.N. Leonenko, M. Šilac-Benšić, On estimation of regression coefficients in the case of long-memory noise, Theory of Stochastic Processes  18/3-4 (1996), 108-119
+        B. Dukić, D. Francišković, D. Jukić, R. Scitovski, M. Benšić, Strategije otplate zajma, Financijska teorija i praksa (1994), 15-26
+        M. Šilac, Otplata zajma varijabilnim anuitetima, Economic analysis  and worker's management 23/2 (1989), 185-197
+
+
+Publications - Refereed Proceedings, Others, Books, Softwares, Technical Reports    
+    Refereed Proceedings
+        M. Benšić, P. Taler, E.K. Nyarko,  Statistical estimation of the object’s area from the image contaminated with additive noise (https://ieeexplore.ieee.org/document/9140918), 15th Iberian Conference on Information Systems and Technologies (CISTI), Seville, Spain, 2020, 1-6
+        P. Taler, S. Hamedović, M. Benšić, E.K. Nyarko,  LeArEst - The Software for Border and Area Estimation of Data Measured with Additive Error, 59th International Symposium ELMAR-2017, Zadar, 2017, 259-263
+        M. Zekić-Sušac, N. Šarlija, M. Benšić,  Insolvency prediction by neural networks, 12th International Conference on Operational Research, Pula, Croatia, 2009, 175-188
+        M. Benšić, D. Jankov Maširević,  Parameter estimation for a three-parameter Weibull distribution - a comparative study, 12th International Conference on Operational Research, Pula, Croatia, 2008, 159-164
+        N. Šarlija, M. Benšić, M. Zekić-Sušac,  A neural network clasification of credit applicants in consumer credit scoring, IASTED International Conference on Artificial Intelligence and Applications, part of the 24th Multi-Conference on Applied Informatics, 2006, Innsbruck, 2006, 205-210
+        N. Šarlija, M. Benšić, M. Zekić-Sušac,  Modeling customer revolving credit scoring using logistic regression, survival analysis and neural networks, 7th WSEAS International Conference on Neural Networks, Cavtat, 2006, 164-169
+        S. Pfeifer, M. Benšić, N. Šarlija,  An insight into using entrepreneurship intentions as predictor of entrepreneurial behavior, The Entrepreneurship - Innovation - Marketing Interface, Karlsruhe, 2005, 89-108
+        N. Šarlija, M. Benšić, Z. Bohaček,  Customer revolving credit – how the economic conditions make a difference (http://www.business-school.ed.ac.uk/waf/crc_archive/2005/papers/sarlija-bensic-bohacec.pdf), Credit Scoring & Credit Control IX, Edinburgh, 2005
+        N. Šarlija, M. Benšić, Z. Bohaček,  Multinomial model in consumer credit scoring, 10th International Conference on Operational Research KOI 2004, Trogir, 2004, 193-202
+        M. Zekić-Sušac, N. Šarlija, M. Benšić,  Small business credit scoring: A comparison of logistic regression, neural network and decision tree models, 26th International Conference on Information Tehnology Interfaces, Cavtat, Dubrovnik, 2004, 265-270
+        S. Mihaljević, M. Katičić, B. Dmitrović, I. Karner, A. Včev, V. Borzan, S. Canecki, Ž. Vranješ, V. Prus, J. Barbić, M. Benšić,  The Influence of Stomach Mucosa Morphological Changes on Somatostatin Cell Number in Atrum Mucosa, 11th International Conference on Ulcer Research, Dubrovnik, 2003, 307-312
+        M. Benšić, Z. Bohaček, N. Šarlija, M. Zekić-Sušac,  Neural Network-and-Logit-Based Modeling Strategy for Small Business Credit Scoring, International Conference Forecasting Financial Markets : Advances for Exchange Rates, Interest Rates and Asset Management, London, 2002
+        M. Benšić, Đ. Borozan,  Nonlinearity in the foreign-exchange market: the application of close returns analysis, 7th International Conference on Operational Research KOI 1998, Rovinj, 1999, 311-316
+        M. Benšić, R. Scitovski,  Određivanje intervala povjerenja za neke specijalne nelinearne regresije, 6th International Conference on Operational Research KOI 1996, Rovinj, 1996, 87-92
+    Others
+        M. Benšić, G. Benšić, Kamatni račun (http://hrcak.srce.hr/file/119764), Osječki matematički list 11/2 (2011), 113-126
+        M. Benšić, Jedna igra na sreću, Osječki matematički list 1 (2001), 5-8
+        M. Benšić, M. Crnjac, Optimalan Lp procjenitelj nepoznatih parametara regresijskog modela, Ekonomski vjesnik 10/1 (1998), 71-74
+        M. Benšić, Confidence regions and intervals in nonlinear regression (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=2856), Mathematical Communications 2 (1997), 71-76
+        M. Benšić, Asymptotic distributions of least square estimations in a regression model with singular errors, Mathematical Communications 1/2 (1996), 33-38
+        M. Šilac-Benšić, Problemi optimalnog izbora, Ekonomski vjesnik 2/5 (1992), 327-328
+        R. Scitovski, M. Šilac, D. Francišković, Problemi i nesporazumi u primjeni financijske matematike, Privreda 33 (1989), 243-257
+    Books
+        M. Benšić, N. Šuvak, Uvod u vjerojatnost i statistiku (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/31.pdf ), Sveučilište J.J. Strossmayera, Odjel za matematiku, Osijek, 2014.
+        M. Benšić, N. Šuvak, Primijenjena statistika (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/34.pdf ), Sveučilište J.J. Strossmayera, Odjel za matematiku, Osijek, 2013.
+    Softwares
+        M. Benšić, K. Sabo, P. Taler, S. Hamedović, LeArEst softverski paket za R (https://cran.r-project.org/web/packages/LeArEst/) (2017)
+    Technical Reports
+        A. Barron, M. Benšić, K. Sabo, Standardizing the Empirical Distribution Function Yields the Chi-Square Statistic (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/621.pdf ) (2016)
+
+
+Projects
+    (http://zprojekti.mzos.hr/public/c-prikaz_det.asp?psid=0&ID=602)
+    Leader of the following projects
+        University J.J. Strossmayer in Osijek: 
+            Exploration of optimization and estimation properties of Generalized method of moments and Nonlinear least squares (2016)
+        Croatian Ministry of Science: 
+            Statistical aspects of estimation problem in nonlinear parametric models  (http://zprojekti.mzos.hr/public/c-prikaz_det.asp?psid=0&ID=602)(2006-2013) 
+            Statistical aspects of parameter identification problems (2001-2006) 
+            Poticajni projekt za mlade znanstvenike "Statistički aspekti problema identifikacije parametara" (1998-2000)
+        Participation  in work of the following projects 
+            "Development and application of the advanced building materials for construction of healthy buildings: protection from non-ionizing radiation", (Faculty of Civil Engineering and Architecture, J. J. Strossmayer University of Osijek - European Regional Development Fund) - Project coordinator (MATHOS) (2020-2022)
+            The optimization and statistical models and methods in recognizing properties of data sets measured with errors (https://www.mathos.unios.hr/index.php/osmomesip), researcher, leader: Rudolf Scitovski (founded by Croatian Science Foundation, 2017-2021)
+            Limiting behavior of intermittent processes and diffusions, researcher, Project coordinator: Danijel Grahovac (UNIOS - ZUP 2018 - Youth Research Projects) 
+            Frakcionalne Pearsonove difuzije, researcher, leader: Nenad Šuvak (founded by  University J.J. Strossmayer in Osijek, 2015-2016)
+            Stanična i tkivna diferencijacija tijekom razvoja biljnih organa, researcher, leader: Vera Cesar (founded by MZOS, 2007.-2013. )
+            Posttraumatski stresni poremećaj djece ratnh veterana: kauzalni model, konzultant 
+                leader: doc.dr.sc. Ž. Vukšić-Mihaljević (founded by MZOS, 2001-2006)
+            Parameter identification problem in mathematical models, researcher 
+                leader: prof.dr.sc. R. Scitovski (founded by MZOS, 1996-2000)
+            Teorijske i institucionalne pretpostavke poduzetničke ekonomije, istraživač
+                leader: prof.dr.sc. S. Singer (1991.-1996.)
+            Theory of probability and mathematical statistics, researcher
+                leader: prof.dr.sc. N. Sarapa (1991-1996)
+            Zakon vrijednosti u funkciji upravljanja razvojem, istraživač
+                leader: prof.dr.sc. S. Singer (1986-1990)
+
+
+Professional Activities
+    Editorial Boards
+        Mathematical Communications (https://www.mathos.unios.hr/mc/index.php/mc)
+        Osječki matematički list (https://www.mathos.unios.hr/oml/)
+        Matematički kolokvijum (MAT-KOL), Banja Luka, ISSN 0354-6969, stručno-metodički časopis
+    Committee Memberships
+        Member of the Program Committee of ISCCRO’18: The 2nd International Statistical Conference in CROatia, (http://www.hsd-stat.hr/en/international-statistical-conference-in-croatia-isccro18/) 10-11 May, 2016, Opatija, Croatia
+        Member of the Program Committee of  ISCCRO’16: The 1st International Statistical Conference in CROatia (http://www.hsd-stat.hr/en/isccro_en/), 05-06 May, 2016, Zagreb, Croatia
+        Member of the Program Committee of the International Symposium Biomedical Informatics, Osijek, 2014.
+        Member of the Organizing Committee of the International Colloquiums Mathematics and Children (Osijek 2007-2017)
+        Member of the Organizing and Program Committee of the 18th European Young Statisticians Meeting (https://www.mathos.unios.hr/eysm18/)
+        Chairman of the Organizing Committee of the 4th Croatian Mathematical Congress (https://www.mathos.unios.hr/congress2008/), Osijek, June 17-20, 2008
+    Refereeing/Reviewing (Selection)
+        Mathematical Communications  (https://www.mathos.unios.hr/mc/index.php/mc)
+        Communications in Statistics - Theory and Methods  (http://www.tandfonline.com/toc/lsta20/current)
+        Computational Statistics & Data Analysis  (http://www.journals.elsevier.com/computational-statistics-and-data-analysis/)
+        IEEE Transactions on Reliability  (http://www.ieee.org/index.html)
+        Inteligent Systems in Accounting, Finance and Management  (http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1174)
+        Osječki matematički list  (https://www.mathos.unios.hr/oml/)
+        Matematički kolokvijum (MAT-KOL), Banja Luka, ISSN 0354-6969, stručno-metodički časopis
+        AMS Mathematical Review (http://www.ams.org/mr-database)
+    Selected Service Activities
+        2013-2017 - Head of the Department of Mathematics, University of Osijek
+        2012-2013 - Member of the University board for quality assurance in higher education
+        2008-2013 - Substitute Head of the Department of Mathematics, University of Osijek
+        2008-2013 - member of the committee for teacher credentialing (Education and Teacher Training Agency)
+        2005-2011 - Head of the Dept. of Mathematics board for quality assurance in higher education
+        2001-2008 - Assistant Head of the Department of Mathematics, University of Osijek
+        2000–2004 - Head of the Mathematical Colloquium in Osijek
+
+
+Teaching
+    Current                                         
+        Multivarijatna analiza (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/258) (Multivariate Analysis), Odjel za matematiku
+        Statistika (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/246) (Statistics), Odjel za matematiku
+        Vjerojatnost i statistika (https://www.mathos.unios.hr/index.php/278) (Probability and Statistics), Građevinski i arhitektonski fakultet Osijek
+        Planiranje eksperimenata i obrada rezultata (Doktorski studij, Prehrambeno tehnološki fakultet Osijek)
+        Primijenjena multivarijatna statistika (https://www.mathos.unios.hr/index.php/428) (Applied Multivariate Statistics) (Doktorski studij, Građevinski i arhitektonski fakultet Osijek)
+    Past
+        Uvod u vjerojatnost i statistiku (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/203) (Introduction to Probability and Statistics)
+        Analiza vremenskih nizova (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/253) (Time Series Analysis)
+        Statistički praktikum  (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/261)(Stat Labs)
+        Vjerojatnost (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/226) (Probability)
+        Slučajni procesi (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/247) (Random Processes)
+        Metodika nastave matematike 1
+        Metodika nastave matematike 2
+        Statistika (https://www.mathos.unios.hr/index.php/588) (Statistics), Sveučilišni preddiplomski studij kineziologije
+        Matematika i statistika (https://www.mathos.unios.hr/index.php/423) (Doktorski studij, Strojarski fakultet, Slavonski Brod)
+        Matematika 1, Matematika 2 (Ekonomski fakultet Osijek)
+        Teorijska statistika (Ekonomski fakultet Osijek)
+        Matematika 1, Matematika 2 (Prehrambeno tehnološki fakultet Osijek)
+        Primijenjena statistika (Građevinski fakultet Osijek)
+        Primijenjena statistika (Prehrambeno tehnološki fakultet Osijek)
+        Statistika (Učiteljski fakultet Osijek) 
+    Office Hours: 
+        Nakon termina nastave kolegija ili po dogovoru.
+    Prijedlog tema diplomskih radova na Odjelu za matematiku:
+        Visokodimenzionalni linearni modeli i LASSO
+        Modeliranje razlika u razlikama
+        Regresija vremenskog niza
+        Statistička analiza usklađenosti ocjenjivača
+        Moguće su i druge teme u dogovoru sa zainteresiranim studentom 
+
+
+Links
+    Primijenjena statistika (udžbenik (https://www.mathos.unios.hr/ptfstatistika/00_statistika.pdf), baze podataka (https://www.mathos.unios.hr/ptfstatistika/Baze_xls.zip))
+    Uvod u vjerojatnost i statistiku (udžbenik (https://www.mathos.unios.hr/uvis/UVIS_knjiga_final/UVIS_knjiga_web.pdf))
+    Projekt u nastavi matematike srednjih škola (https://www.mathos.unios.hr/~mirta/tekst_S.pdf)
+    Buffonov pokus u nastavi matematike (https://www.mathos.unios.hr/~mirta/Buffon.zip)
+
+
+Personal
+    Birth year:  1961
+    Birthplace: Đakovo, Croatia
+    Citizenship: Croatian
+    Family: Married with two children (Tin (https://www.ferit.unios.hr/fakultet/imenik-djelatnika/tbensic), Anja (https://www.linkedin.com/in/anja-ben%C5%A1i%C4%87-b91a70164/?originalSubdomain=hr))

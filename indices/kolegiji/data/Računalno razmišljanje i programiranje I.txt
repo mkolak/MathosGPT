@@ -1,0 +1,26 @@
+OSNOVNE INFORMACIJE
+	Računalno razmišljanje i programiranje izvodi se u zimskom semestru prve godine sveučilišnog diplomskog nastavničkog  studija matematike i informatike. Cilj kolegija je praktično upoznavanje studenata sa složenijim programerskim tehnikama i razmišljanjima, korištenje programskih jezika visokih nivoa. Ovim predmetom se želi naučiti studente matematike naprednijim, ali ne nužno i teže shvatljivim, konceptom programiranja i programerskog razmišljanja.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/ssusic/i0612.pdf)).
+	NOSITELJ KOLEGIJA
+		doc. dr. sc. Ivana Kuzmanović Ivičić	
+		KONZULTACIJE: Ponedjeljkom u 12:30h	
+	OSNOVNA LITERATURA
+		A Gentle Introduction to Programming Using Python – MiT OpenCourseWare Downey, Allen, Jeffrey Elkner, and Chris Meyers. How to Think Like a Computer Scientist: Learning with Python. Green Tea Press, 2002.
+		Learn to Program: Crafting Quality Code (University of Toronto) - Coursera
+		Dive Into Python (http://www.diveintopython.net/index.html)
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	PREDAVANJA	TERMIN: Ponedjeljak, 9-11h,	PREDAVAONICA: RP-1	
+	VJEŽBE	TERMIN: Ponedjeljak, 11-13h	PREDAVAONICA: RP-1	
+	Šifra za MS Teams za kolegij Računalno razmišlajnje i programiranje je n2ey6ti
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju dva kolokvija, na kojima studenti mogu ostvariti ocjene dovoljan (2), dobar (3), vrlo-dobar (4). 
+		Za ocjenu dovoljan (2) potrebno je skupiti barem 40% od ukupnog broja bodova s oba kolokvija. 
+		Oni studenti koji žele ocjenu izvrstan (5) trebaju napraviti samostalni programerski projekt koji će biti definiran pri kraju predavanja.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

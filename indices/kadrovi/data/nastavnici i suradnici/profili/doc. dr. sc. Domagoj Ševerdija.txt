@@ -1,0 +1,54 @@
+General Information
+    Assistant Professor
+    Department of Mathematics (http://www.mathos.hr)
+    Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/)
+    phone: +385-31-224-823
+    fax: +385-31-224-801
+    email: dseverdi@mathos.hr
+    office: S-8(ground floor)
+    Research Interests
+        Combinatorial Optimization
+        Computational Linguistics
+        Natural Language Processing
+    Degrees
+        PhD in Electrical Engineering, ETFOS (https://www.mathos.unios.hr/~dseverdi/index.html/www.etfos.unios.hr), University in Osijek, Croatia, 2013. [disertacija (https://www.dropbox.com/s/arp1r9ezkevaoch/Severdija_phD_dis_CT.pdf?dl=0)]
+        BS in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr/), University of Osijek, Croatia, 2007.
+
+
+Publications
+    Journal Publications
+        S. Jelić, D. Ševerdija, Government Formation Problem, Central European Journal of Operations Research  (2017), prihvaćen za objavljivanje
+        D. Matijević, D. Ševerdija, G. Martinović, Efficient Implementations of Guarding 1.5D Terrains, Croatian Operational Research Review  6/1 (2015), 79-89
+        K. Elbassioni, D. Matijević, D. Ševerdija,      Guarding 1.5D Terrains with Demands (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/1.pdf ), International Journal of Computer Mathematics 89/16 (2012), 2143-2151
+        K. Elbassioni, E. Krohn, D. Matijević, J. Mestre, D. Ševerdija, Improved Approximations for Guarding 1.5-Dimensional Terrains (http://link.springer.com/article/10.1007%2Fs00453-009-9358-4), Algorithmica 60/2 (2011), 451-463
+        F. Belić, Ž. Hocenski, D. Ševerdija, Naive Matrix Multiplication versus Strassen Algorithm in Multi-thread Environment, Tehnički vjesnik 18/3 (2011), 309-314
+    Refereed Proceedings
+        D. Ševerdija, T. Prusina, A. Jovanović, L. Borozan, J. Maltar, D. Matijević,  Compressing Sentence Representation with Maximum Coding Rate Reduction (Best paper award in AIS - Artificial Intelligence Systems track) (https://ieeexplore.ieee.org/document/10159709), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023
+        B. Borozan, L. Borozan, D. Ševerdija, D. Matijević, S. Canzar,  Fortuna Detects Novel Splicing in Drosophila scRNASeq Data (https://ieeexplore.ieee.org/document/10159716), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023, 410-415
+    Others
+        D. Matijević, D. Ševerdija, S. Jelić, L. Borozan, Uparena optimizacijska metoda (http://e.math.hr/Vol30/Borozan), Math.e : hrvatski matematički elektronski časopis  30 (2016)
+        D. Ševerdija, I. Matić, Grčko - kineski stil u teoriji brojeva (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/66.pdf ), Osječki matematički list 10/1 (2010), 43-58
+        D. Ševerdija, I. Matić, Metodički aspekti abakusa II (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/63.pdf ), Matematika i škola 53 (2010), 106-111
+        D. Matijević, D. Ševerdija, Problem vidljivosti (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/8.pdf ), Osječki matematički list (2010), prihvaćen za objavljivanje
+        D. Ševerdija, I. Matić, Metodički aspekti abakusa I (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/62.pdf ), Matematika i škola 52 (2009), 57-62
+        I. Matić, D. Ševerdija, S. Škorvaga, Numerička ograničenja kineskog abakusa (http://www.google.hr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CBsQFjAA&url=http%3A%2F%2Fhrcak.srce.hr%2Ffile%2F74585&ei=w4S0U_aUFKGm0QWkh4CQBw&usg=AFQjCNH-jNPc2pcO9_zQaosRI0FEVGJwQw&bvm=bv.70138588,d.d2k), Osječki matematički list 9 (2009), 75-91
+    Books
+        I. Kuzmanović Ivičić, D. Ševerdija, Znanstveno-stručni skup Računalno jezikoslovlje i Zlatna formula hrvatskoga jezika - Knjiga sažetaka (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/935.pdf ), Sveučilište J. J. Strossmayera u Osijeku – Odjel za matematiku, Osijek, 2021.
+    Technical Reports
+        D. Ševerdija, R. Čorić, Detecting inflectional patterns for Croatian verb stems using class activation mappings (2022)
+
+
+Projects
+    "Računalom upravljano korpusno jezikoslovlje" - UNIOS - ZUP 2018 - Interdisciplinarni istraživački projekti", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište Josipa Jurja Strossmayera u Osijeku), 2019-2020
+    "Mrežni okvir „Ča-Kaj-Što“ sastavnice hrvatskoga identiteta" - Stvaralaštvo, ekologija, baština i dobrota - Zaklada Adris", (Odjel za matematiku, Sveučilište u Osijeku - Zaklada Adris), 2020 - 2021
+      "Hrvatski jezik u mrežnom oblaku svjetskih jezika" - Stvaralaštvo, ekologija, baština i dobrota - Zaklada Adris", (Odjel za matematiku, Sveučilište u Osijeku - Zaklada Adris), 2019-2020
+
+
+Teaching
+    Current
+        Računalno jezikoslovlje (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/506-racunalno-jezikoslovlje) (Computational Linguistics)
+        Obrada prirodnog jezika metodama dubokog učenja (https://www.mathos.unios.hr/index.php/718) (Natural Language Processing with Deep Learning)
+        3D računalna grafika (https://www.mathos.unios.hr/index.php/en/30-homepage/odjel/nastava/kolegij/611-3d-rac-grafika) (3D Computer Graphics)
+        Strukture podataka i algoritmi  (https://www.mathos.unios.hr/index.php/608)II (Data structures and algorithms 2)
+    Office Hours: 
+        ponedjeljak (Mon) 1:00pm-2:00pm,  Konzultacije su moguće i po dogovoru.

@@ -1,0 +1,30 @@
+OSNOVNE INFORMACIJE
+	Inteligentni robotski sustavi izvodi se u ljetnom semestru prve godine sveučilišnog diplomskog studija matematike i računarstva. Cilj kolegija je studente upoznati s temeljima robotike: kinematikom, dinamikom, upravljanjem stanja, procjenom stanja i računalnim vidom. Svaku od predstavljenih tema studenti će implementirati samostalno u programskom jeziku Python (matplotlib, numpy, PyTorch, OpenCV) ili na stvarnome robotu.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i066.pdf).
+	VODITELJ KOLEGIJA
+		prof. dr. sc. Ninoslav Truhar (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/120)
+		KONZULTACIJE: Po dogovoru	
+	ASISTENT
+		Jurica Maltar (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/522)	
+		KONZULTACIJE: Po dogovoru	
+	OSNOVNA LITERATURA
+		B. Siciliano et al., Springer Handbook of Robotics, Second Edition, Springer
+		K. M. Lynch et al., Modern Robotics: Mechanics, Planning and Control, Cambridge University Press
+		R. Siegwart et al., Introduction to Autonomous Mobile Robots, Second Edition, MIT Press
+		B. Siciliano et al., Robotics: Modelling, Planning and Control, Springer
+		S. Thrun et al., Probabilistic Robotics, MIT Press
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Pohađanje predavanja i vježbi je obaveno.
+	Predavanja	TERMIN: Ponedjeljak, 12:00-15:00	PREDAVAONICA: RP1	
+	Vježbe i seminar	TERMIN: Petak, 12:00-15:00	PREDAVAONICA: RP1	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih na dolascima, domaćim zadaćama i kolokvijima, na kojima studenti mogu ostvariti ocjene dovoljan (2), dobar (3), vrlo-dobar (4) i odličan (5). 
+	Za ocjenu dovoljan (2) potrebno je skupiti barem 50% od ukupnog broja bodova.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij uobičajenim putem.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

@@ -1,0 +1,196 @@
+Osječki matematički list
+
+Osječki matematički list je službeno glasilo Odjela za matematiku Sveučilišta u Osijeku i Udruge matematičara Osijek. Namijenjen je učenicima i nastavnicima u srednjim i osnovnim školama, te studentima matematike. Objavljuje stručne članke iz matematike i informatike, ali i teme iz drugih područja ako su povezane s osnovnim profilom časopisa. 
+Časopis se objavljuje od 2001.
+ISSN 1845-4607 Print      
+ISSN 1848-946X Online
+Skraćeno: OML
+Službene mrežne stranice: http://www.mathos.unios.hr/oml
+Hrčak OML mrežna stranica: http://hrcak.srce.hr/osjecki-matematicki-list
+ 
+Licenciranje: 
+Licence Creative Commons Imenovanje-Nekomercijalno 4.0 međunarodna
+
+ 
+Cilj i opseg
+Osječki matematički list izdaje  radove iz područja matematike i informatike usmjerene, ali ne i ograničene na nastavnike i učenike osnovnih i srednjih škola te studentima matematike. 
+Pored klasičnih članaka sadrži i priloge: Crtice iz povijesti matematike, Priča s nagradnim zadacima, informacije s Odjela za matematiku Sveučilišta u Osijeku, informacije iz Udruge matematičara Osijek, informacije iz Matematičkog kluba itd. Od 2001. godine redovito izlazi dva puta godišnje pod imenom Osječka matematička škola (od 2001. do 2004.), a od 2005. pod imenom Osječki matematički list.  
+Izdaje je redovito - 2 puta godišnje.
+Aktivnim članovima Udruge matematičara Osijek  primjerak je besplatan. (Za učlanjenje u Udrugu potrebno je popunjen i potpisan OBRAZAC(https://www.mathos.unios.hr/umo/dokumenti/Pristupnica.pdf) poslati na e-mail adresu umo@mathos.hr.
+Časopis ne naplaćuje tisak radova po stranici. 
+ 
+
+  Postupak recenzije
+Svaki rukopis je stručno recenziran prema sljedećim procedurama:
+Prvotna procjena rukopisa. Urednici prvo vrednuju sve rukopise. U mnogim slučajevima u ovoj etapi Urednici vraćaju rukopis autorima ukoliko ne zadovoljava interes samog časopisa i razinu kvalitete. Podnošenje rukopisa koji zadovoljava minimalni kriterij su u uobičajenom slučaju proslijeđeni barem dvojici recezenata.
+Vrste stručne recenzije. Osječki matematički list provodi jednostrano slijepo recenziranje, u kojem je recezent nepoznat autoru, ali identitet autora je poznat recezentu.
+ Konačni izvještaj. Recezenti savjetuju urednike. Urednička odluka o prihvaćanju ili odbijanju rukopisa bit će promptno poslana autoru, s odgovarajuće detaljiziranim objašnjenjima.
+ Urednička odluka je konačna. Urednici su odgovorni za konačnu odluku o prihvaćanju ili odbijanju rukopisa i u tom slučaju postupak završava.
+
+Učestalost publiciranja
+Časopis se izdaje u jednom svesku u 2 broja po godini. 
+ 
+ Otvoreni pristup
+Osječki matematički list je časopis otvorenog pristupa što znači da je sav sadržaj  slobodno dostupan bez ikakve pristojbe korisniku ili njegovoj ustanovi. Korisnicima je dopušteno čitanje, preuzimanje, distribucija, ispisivanje, pretraživanje i referiranje čitavog sadržaja članaka časopisa bez prijašnjeg dopuštenja izdavača ili autora. Ovaj stavak je u skladu s BOAI definiciji otvorenog pristupa. Časopis ima otvoreni pristup čitavim tekstovima svih radova kroz Hrčak bazu podataka.
+Ne postoji pretplatnička naknada, plaćanje po pregledavanju niti naknada za ponovno tiskanje. 
+ 
+Izvori prihoda
+Časopis je financijski potpomognut sredstvima Ministarstva znanosti i obrazovanja  Republike Hrvatske i izdavačem Odjelom za matematiku Sveučilišta J. J. Strossmayera u Osijeku
+ 
+
+Upute autorima
+ 
+Područje:
+Osječki matematički list objavljuje stručne radove iz matematike i informatike, ali i teme iz drugih područja ako su na neki način povezane s osnovnim proﬁlom časopisa.
+Slanje rada:
+Pozivamo autore da rad u pdf-formatu pošalju elektronički na e-mail adresu časopisa  oml@mathos.hr. Prva stranica treba sadržavati naslov članka i imena autora. Slike i tablice treba poslati posebno.
+Ukoliko autor ne šalje rad elektronički onda treba tri jednostrane kopije rada s dvostrukim proredom  poslati na adresu: 
+Osječki matematički list Odjel za matematiku Sveučilišta u Osijeku Trg Ljudevita Gaja 6 HR-31000 Osijek 
+Molimo autore da svoje radove pišu u LaTeX okruženju koristeći OML stil. Stil, zajedno s primjerom i .tex datotekom možete preuzeti https://www.mathos.unios.hr/images/homepages/dseverdi/OML/OML.zip.
+Autori imaju obvezu posjedovanja ORCID identifikatora zbog potrebe unosa istog u HRČAK nakon objave rada. Za posjedovanje ORCID identifikatora ukoliko takav ne postoji za autora, dovoljno je dostaviti email adresu uredništvu prilikom predaje rada te će HRČAK automatski kontaktirati autore za dostavu njihovog autenticiranog ORCID identifikatora.
+
+Literatura 
+Literatura treba biti napisana abecednim redom. Treba koristiti sljedeće stilove:
+
+Članci u časopisima:
+
+M. Benšić, Igra na sreću, Osječka matematička škola, 1(2001), 97-85
+
+
+Knjige i udžbenici:
+
+M. Pavleković, Metodika nastave matematike s informatikom I, Element, Zagreb 1997.
+
+
+Zbornici radova:
+
+N. Sarapa, Populacija. Statističko obilježje, Zbornik radova 3. susreta nastavnika matematike, (urednik: S. Varošanec), Hrvatsko matematičko društvo, 1996, 184-216.
+
+
+
+ 
+Sadržaj
+
+Članci u elektronskom obliku mogu se preuzeti s Portala znanstvenih časopisa Republike Hrvatske Hrčak
+
+Vol. 22 (2022)
+	Sadržaj broja 1. : https://hrcak.srce.hr/broj/21502
+
+Vol. 21 (2021)
+	Sadržaj broja 1. : https://hrcak.srce.hr/broj/20482
+	Sadržaj broja 2. : https://hrcak.srce.hr/broj/20871
+
+Vol. 20 (2020)
+	Sadržaj broja 1. : https://hrcak.srce.hr/index.php?show=toc&id_broj=19747
+	Sadržaj broja 2. : https://hrcak.srce.hr/index.php?show=toc&id_broj=20260
+
+Vol. 19 (2019)
+	Sadržaj broja 1. : https://hrcak.srce.hr/index.php?show=toc&id_broj=17823
+	Sadržaj broja 2. : https://hrcak.srce.hr/index.php?show=toc&id_broj=18679
+
+Vol. 18 (2018)
+	Sadržaj broja 1. : https://hrcak.srce.hr/index.php?show=toc&id_broj=16353
+	Sadržaj broja 2. : https://hrcak.srce.hr/index.php?show=toc&id_broj=17146
+
+Vol. 17 (2017)
+	Sadržaj broja 1. : https://hrcak.srce.hr/index.php?show=toc&id_broj=14888
+	Sadržaj broja 2. : https://hrcak.srce.hr/index.php?show=toc&id_broj=15433
+
+Vol. 16 (2016)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=13245
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=13793
+
+Vol. 15 (2015)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=12086
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=12516
+
+Vol. 14 (2014)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=10142
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=10899
+
+Vol. 13 (2013)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=8605
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=9337
+
+Vol. 12 (2012)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=7024
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=8605
+
+Vol. 11 (2011)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=6036
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=6496
+
+Vol. 10 (2010)
+	Sadržaj broja 1. : https://hrcak.srce.hr/index.php?show=toc&id_broj=4640
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=5355
+
+Vol. 9 (2009)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=3561
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=3937
+
+Vol. 8 (2008)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=2503
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=2915
+
+Vol. 7 (2007)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=2001
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=2001
+
+Vol. 6 (2006)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=505
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=925
+
+Vol. 5 (2005)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=417
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=416
+
+Vol. 4 (2004)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=419
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=418
+
+Vol. 3 (2003)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=421
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=420
+
+Vol. 2 (2002)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=423
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=422
+
+Vol. 1 (2001)
+	Sadržaj broja 1. : http://hrcak.srce.hr/index.php?show=toc&id_broj=424
+	Sadržaj broja 2. : http://hrcak.srce.hr/index.php?show=toc&id_broj=425
+
+
+Uredništvo
+
+
+Glavni urednik
+
+	Zdenka Kolar Begović Odjel za matematiku Sveučilište J. J. Strossmayera u Osijeku  Trg Ljudevita Gaja 6  Osijek  tel: +385-31-224-822  fax: +385-31-224-801 email: zkolar@mathos.hr ured: 19 (prvi kat)
+
+
+Tehnički urednik
+
+	Domagoj Ševerdija Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Trg Ljudevita Gaja 6  Osijek  tel: +385-31-224-824  fax: +385-31-224-801  email: dseverdi@mathos.hr ured: 8 (prizemlje)
+
+
+Urednički odbor
+
+	Mirta Benšić  Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Dragan Jukić  Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Ljerka Jukić Matić   Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR   
+	Ružica Kolar-Šupek    Fakultet za odgojne i obrazovne znanosti  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Nataša Macura   Odjel za matematiku  Trinity University  San Antonio, USA  
+	Tomislav Marošević  Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR 
+	Ivan Matić   Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Kristian Sabo   Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Rudolf Scitovski  Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Ninoslav Truhar   Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Šime Ungar    Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+	Mihaela Ribičić Penava Odjel za matematiku  Sveučilište J. J. Strossmayera u Osijeku  Osijek, HR  
+
+
+Osječki matematički list 
+Odjel za matematiku Sveučilište J. J. Strossmayera u Osijeku 
+Trg Ljudevita Gaja 6 HR-31000 Osijek  email: oml@mathos.hr  Tel: 031-224-800  Fax: 031-224-801
+Kunski žiro račun: Sveučilište J.J. Strossmayera u Osijeku Odjel za matematiku IBAN: HR3725000091402000049

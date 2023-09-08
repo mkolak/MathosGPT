@@ -1,0 +1,48 @@
+OSNOVNE INFORMACIJE
+	Strani jezik u struci I izvodi se u zimskom i ljetnom semestru prve godine sveučilišnog preddiplomskog studija matematike i sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je usvajanje osnovne terminologije iz područja matematike i informatike te što korektnija primjena gramatičkih struktura koje su karakteristične za jezik u struci. Osposobljavanje studenata za čitanje stručne literature i vođenje razgovora o nekim osnovnim temama vezanim uz struku.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/z011.pdf)).
+	VODITELJ KOLEGIJA	
+		Karmen Knežević (kknezevic@fizika.unios.hr)	
+		KONZULTACIJE:  na Odjelu za fiziku prema dogovoru
+	OSNOVNA LITERATURA ZA ENGLESKI JEZIK U STRUCI I
+		I. Ferčec, A Course in Scientific English: Mathematics, Physics, Computer Science, Odjel za matematiku/Elektrotehnički fakultet, Osijek, 2001.
+		R. Murphy, English Grammar in Use, CUP, Cambridge, 1999.
+	OSNOVNA LITERATURA ZA NJEMAČKI JEZIK U STRUCI I
+		H. Binder/R. Buhlmann, Hinführung zur mathematisch-naturwissenschaftlichen Fachsprache, Teil1:Mathematik, Max Hueber Verlag, München, 1981.
+		Dreyer-Schmitt, Lehr- und Übungsbuch der deutschen Grammatik, Max Hueber Verlag, München, 2000.
+		J. Ortmann, Einführung in die PC-Grundlagen, Tandem Verlag, Herne, 1993.
+
+
+IZVOĐENJE NASTAVE I VREDNOVANJE ZNANJA
+	Izvedbeni program kolegija Strani jezik u struci I realizira se s fondom od 60 sati (tjedno 2 sata seminara u oba semestra). 
+	Nastava za ovaj predmet predviđena je u obliku seminara koji su obavezni za sve studente. U nastavi se koriste audiovizuelna nastavna pomagala (LCD, PC, DVD), te brojni stručni časopisi i knjige koje su dostupne u knjižnici Odjela za matematiku. Studenti povremeno dobivaju domaće zadaće ili manje projektne zadatke, što utječe na konačnu ocjenu iz predmeta. Znanje studenata prati se kontinuirano putem kolokvija, a usmeni dio ispita slijedi na kraju akademske godine.
+
+
+NASTAVNI MATERIJALI I PLAN RADA
+	Work Plan
+		A Course in Scientific English; Ferčec.I; Osijek 2001.
+		Part One: MATHEMATICS
+		Unit 1        Introduction to mathematics and numbers, The number system, Set of numbers
+		Unit 2        Fractions
+		Unit 3        Powers and roots
+		Unit 4        Factors, Grammar: Irregural Verbs. Present Simple. Present Continuous .Past Simple.Past Continuous. Present Perfect. Future Forms. 
+		1st preliminary exam
+		Unit 5        Equations and formulae
+		Unit 6        Lines and Angles
+		Unit 7        Two dimensional figures
+		Unit 8        Three-dimensional figures, Grammar: The Passive Voice
+		2nd preliminary exam
+		(https://www.mathos.unios.hr/images/homepages/kknezevic/Plan_rada.doc)
+	Grammar
+		Present Simple and Present Continuous (https://www.mathos.unios.hr/images/homepages/kknezevic/PRESENT_SIMPLE_AND_PRESENT_CONTINUOUS.ppt)
+		Past Simple (https://www.mathos.unios.hr/images/homepages/kknezevic/PAST_SIMPLE_PP.ppt)
+		Past Progressive (https://www.mathos.unios.hr/images/homepages/kknezevic/PAST_PROGRESSIVE_PP.ppt)
+		Present Perfect (https://www.mathos.unios.hr/images/homepages/kknezevic/Present_Perfect_Tense.ppt)
+		Future Forms (https://www.mathos.unios.hr/images/homepages/kknezevic/FUTURE_FORMS.ppt)
+		Passive Voice Excersizes (https://www.mathos.unios.hr/images/homepages/kknezevic/Passive_vježbe.ppt)
+		Passive Voice (https://www.mathos.unios.hr/images/homepages/kknezevic/PASSIVE_VOICE.ppt)
+		Nepravilni glagoli (https://www.mathos.unios.hr/images/homepages/kknezevic/G_Najfrekventniji_nepravilni_glagoli_16.10.08.doc)
+		Vocabulary
+		Powers and Roots Factors (https://www.mathos.unios.hr/images/homepages/kknezevic/Powers_and_Roots_Factors.pdf)
+		Mat numbers, Fractions (https://www.mathos.unios.hr/images/homepages/kknezevic/Mat_and_numbers_Fractions.pdf)
+		Equations and formulae, Geometry (https://www.mathos.unios.hr/images/homepages/kknezevic/EquationsFormulae_and_Geometry.pdf)

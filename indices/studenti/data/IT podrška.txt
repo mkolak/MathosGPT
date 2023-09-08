@@ -1,0 +1,21 @@
+IT podrška		
+
+Svim studentima su prilikom upisa otvoreni korisnički račun na računalu pitagora.mathos.hr i AAI@EduHr korisnički identitet. U nastavku su kratke informacije o tim računima.
+Korisnički račun na računalu pitagora.mathos.hr (e-mail)
+    E-mail možete koristiti preko bilo kojeg klijenta za elektroničku poštu, ili preko web sučelja na adresi https://www.mathos.unios.hr/roundcube/. Ako koristite neki e-mail klijent, postavke su:
+    Dolazni (incoming) server za e-mail: pitagora.mathos.hr (IMAP, port 143, STARTTLS)Odlazni (outgoing) server za e-mail: pitagora.mathos.hr (SMTP, port 587, STARTTLS, uključiti autentikaciju)
+    Zaporku možete promijeniti preko webmail sučelja na adresi https://www.mathos.unios.hr/roundcube/ (Postavke→Lozinka). Na istoj adresi može se podesiti i preusmjeravanje maila.
+AAI@EduHr elektronički identitet
+    AAI@EduHr je autentikacijska i autorizacijska infrastruktura sustava znanosti i visokog obrazovanja u Republici Hrvatskoj. Vaša AAI@EduHr korisnička oznaka je oblika korisnik@unios.hr (to nije mail adresa).
+    Ovaj korisnički račun možete koristiti za:
+        pristup uslugama koje se oslanjanju na Office 365 infrastrukturu (npr. Teams)
+        prijavljivanje na eduroam bežičnu mrežu Odjela za matematiku i drugih akademskih ustanova u Hrvatskoj i Europi (više na http://www.eduroam.hr/user_man.php),
+        pristup internetu po povlaštenoj cijeni sa osobnog računala (više na http://www.carnet.hr/studenti/pristup_internetu),
+        prijavu na uslugu e-Građani (više na https://gov.hr/), itd.
+    Ostale usluge za koje možete koristiti AAI@EduHr identitet možete vidjeti na https://www.aaiedu.hr/statistika-i-stanje-sustava/web-aplikacije.
+    Zaporku i ostale podatke možete promijeniti na adresi https://www.unios.hr/ldap/user/ (pristup dozvoljen samo iz CARNET mreže).
+Web stranice Odjela
+    Pozivaju se svi studenti da otvore korisnički račun na web stranicama Odjela (Glavni izbornik/Prijava/Kreiraj korisnički račun). Račun možete otvoriti isključivo s mathos e-mail adresom. Nakon registracije dobit ćete aktivacijski link na mathos email adresu pomoću kojega ćete aktivirati svoj račun. Kao registrirani korisnici moći ćete direktno postavljati pitanja u studentskoj referadi, kao i nastavnicima i asistentima Odjela na stranicama svakog kolegija.
+Bežična mreža eduroam
+    Za konfiguriranje uređaja (laptop, smartphone, tablet) potrebno je pratiti upute sa stranice eduroam installer http://installer.eduroam.hr/.
+    Često postavljana pitanja o eduroam bežičnoj mreži http://installer.eduroam.hr/faq.php

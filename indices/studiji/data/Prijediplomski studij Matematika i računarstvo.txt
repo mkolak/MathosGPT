@@ -1,0 +1,13 @@
+Sveučilišni prijediplomski studij Matematika i računarstvo
+
+Novi i suvremeni Sveučilišni prijediplomski studijski program Matematika i računarstvo (http://cs.mathos.unios.hr) razvijen je u suradnji s tvrtkama članicama udruge Osijek Software City (https://softwarecity.hr/) po uzoru na slične Computer Science prijediplomske studije europskih i američkih sveučilišta. Osnovni cilj ovakvog programa je formiranje studijskog programa koji će studente bolje pripremiti za tržište rada u IT-u, možda i najbrže rastućoj grani industrije u Republici Hrvatskoj.
+Studijski program prijediplomskog sveučilišnog studija Matematika i računarstvo jedinstven je po svojoj strukturi i sadržaju predmeta upravo zbog činjenice što objedinjuje znanja i vještine iz dva područja, matematike i računarstva. Struktura predloženog studijskog programa je motivirana prijediplomskim Computer Science studijima Sveučilišta Saarland, Saarbruecken, te Sveučilišta Stuttgart.
+
+Nositelj / izvođač studija: Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku
+Akademski naziv koji se stječe završetkom studija: Sveučilišni/a prvostupnik/prvostupnica (baccalaureus/baccalaurea) matematike i računarstva (univ. bacc. math. et comp.)
+Trajanje studija: tri godine (šest semestara), pri čemu će kandidat sakupiti minimalno 180 ECTS bodova
+Status studenta: redoviti studenti (48 redovitih studenata + 2 strani državljanin)
+
+Naučite kako održavati računalne mreže i sigurnost računalnih sustava, raditi s bazama podataka (SQL, noSQL, Big Data), koristiti proceduralne, funkcijske i objektno orijentirane programske jezike, baviti se grafičkim programiranjem (OpenGL), algoritmima i strukturama podataka, izrađivati mobilne, web i ugrađene aplikacije, upravljati projektima, kao i implementirati algoritme upravljanja i umjetne inteligencije na dinamičkim (robotskim) sustavima.
+Studenti računarstva na Odjelu na matematiku su od strane poslodavaca u 2016. godini proglašeni najboljim u 10 od 11 kategorija s područja razvoja softvera u odnosu na ostale fakultete (Znanja i vještine studenata osječkih fakulteta (http://softwarecity.hr/opcenito/znanja-vjestine-studenata-osjeckih-fakulteta/)).
+Uvjeti za upis na studij (https://www.mathos.unios.hr/index.php/upisi/upis-u-preddiplomski-studij-matematike-i-racunarstva)

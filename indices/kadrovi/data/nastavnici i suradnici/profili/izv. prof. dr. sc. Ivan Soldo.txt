@@ -1,0 +1,98 @@
+General Information
+    Associate Professor
+    Department of Mathematics (http://www.mathos.hr)
+    Josip Juraj Strossmayer University of Osijek (http://www.unios.hr/)
+    phone: +385-31-224-841
+    fax: +385-31-224-801
+    email: isoldo@mathos.hr
+    office: 14 (ground floor)
+    Research Interests
+        Number Theory, i.e. diophantine equations over imaginary quadratic fields and diophantine m-tuples.
+    Degrees
+        B.Sc. February 17, 2005, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia. 
+        PhD, July 2, 2012, Department of Mathematics (http://www.math.hr), University of Zagreb, Croatia
+
+
+Publications
+    Journal Publications
+        Y. Fujita, I. Soldo, D(−1)-tuples in the ring Z[√−k] with k > 0, Publicationes Mathematicae  100 (2022), 49-67
+        A. Filipin, M. Jukić Bokun, I. Soldo, On $D(-1)$-triples ${1,4p^2+1,1-p}$ in the ring $Z[sqrt{-p}]$ with a prime $p$ (https://link.springer.com/article/10.1007/s10998-021-00435-5), Periodica Mathematica Hungarica 85 (2022), 292-302
+        M. Jukić Bokun, I. Soldo, Pellian equations of special type (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/896.pdf ), Mathematica Slovaca 71/6 (2021), 1599-1607
+        A. Dujella, M. Jukić Bokun, I. Soldo, A Pellian equation with primes and applications to D(−1)-quadruples (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/761.pdf ), Bulletin of the Malaysian Mathematical Sciences Society 42 (2019), 2915-2926
+        M. Jukić Bokun, I. Soldo, On the extensibility of D(-1)-pairs containing Fermat primes (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/804.pdf ), Acta Mathematica Hungarica 159 (2019), 89-108
+        T. Marošević, I. Soldo, Modified indices of political power: a case study of a few parliaments (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/729.pdf ), Central European Journal of Operations Research  26/3 (2018), 645-657
+        A. Dujella, M. Jukić Bokun, I. Soldo, On the torsion group of elliptic curves induced by Diophantine triples over quadratic fields (https://bib.irb.hr/datoteka/846014.AD_MJB_IS.pdf), RACSAM 111 (2017), 1177-1185
+        I. Soldo, D(-1)-triples of the form {1, b, c} in the ring Z[√ -t], t>0 (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/40.pdf ), Bulletin of the Malaysian Mathematical Sciences Society 39/3 (2016), 1201-1224
+        Z. Franušić, I. Soldo, The problem of Diophantus for integers of Q[√ -3] (http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=188447), Rad HAZU, Matematičke znanosti. 18 (2014), 15-25
+        I. Soldo, On the existence of Diophantine quadruples in Z[√ -2] (http://mat76.mat.uni-miskolc.hu/~mnotes/downloader.php?article=mmn_565.pdf), Miskolc Mathematical Notes 14/1 (2013), 265-277
+        I. Soldo, On the extensibility of D(-1)-triples {1, b, c} in the ring Z[√ -t], t > 0 (http://www.akademiai.com/content/7644715332n2877r/?genre=article&id=doi%3a10.1556%2fSScMath.50.2013.3.1244), Studia scientiarum mathematicarum Hungarica 50/3 (2013), 296-330
+        A. Dujella, I. Soldo, Diophantine quadruples in Z[sqrt(-2)] (http://www.anstuocmath.ro/mathematics/pdf20/Articol7.pdf), Analele Stiintifice ale Universitatii Ovidius Constanta Seria Matematica 18/3 (2010), 81-98
+    Others
+        I. Soldo, K. Vincetić, Cjelobrojne funkcijske jednadžbe (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/608.pdf ), Matematičko fizički list 67/2 (2016), 93-103
+        T. Marošević, I. Soldo, Kako se mjeri snaga stranaka u parlamentu (2016)
+        I. Soldo, I. Vuksanović, Pitagorine trojke, Matematičko fizički list 255 (2014), 179-184
+        I. Soldo, I. Mandić, Pellova jednadžba (http://hrcak.srce.hr/file/45108), Osječki matematički list 8 (2008), 29-36
+        I. Soldo, Različiti načini množenja matrica (http://hrcak.srce.hr/file/6635), Osječki matematički list 5 (2005), 1-8
+    Books
+        K. Burazin, J. Jankov, I. Kuzmanović Ivičić, I. Soldo, Primjene diferencijalnog i integralnog računa funkcija jedne varijable (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/697.pdf ), Sveučilište Josipa Jurja Strossmayera u Osijeku - Odjel za matematiku, Osijek, 2017.
+
+
+Conference Talks and Participations
+    I. Soldo, D(-1)-tuples in the ring Z[√−k] with k>0, Conference on Diophantine m-tuples and related problems III, September 14 – 16, 2022, Faculty of Civil Engineering, University of Zagreb, Zagreb, Croatia
+    I. Soldo, D(-1)-tuples in the ring Z[√−k] with k>0, 7th Croatian Mathematical Congress, June 15-18, 2022, Faculty of Science, University of Split, Croatia
+    I. Soldo, On the extensibility of some parametric families of D(-1)-pairs to quadruples in the rings of integers of the imaginary quadratic fields, Friendly workshop on diophantine equations and related problems, July 6-8, 2019, Bursa, Turkey.
+    I. Soldo, A Pellian equation in primes and its applications, Representation Theory XVI, June 24-29, 2019, Dubrovnik, Croatia.
+    I. Soldo, Applications of a Diophantine equation of a special type, Conference on Diophantine m-tuples and Related Problems II, October 15-17, 2018, Purdue University Northwest, Westville/Hammond, Indiana, USA
+    I. Soldo, A Pellian equation with primes and its applications, XXXth Journées Arithmétiques, July 3-7, 2017,  Caen, France.
+    T. Marošević, I. Soldo, Indices of political power–a case study of a few parliaments, 16th International Conference on Operational Research KOI 2016, September 27-29, 2016, Osijek, Croatia. 
+    I. Soldo, Diophantine triples in the ring of integers of the quadratic field Q(√-t), t>0, Computational Aspects of  Diophantine equations, February 15-19, 2016, Salzburg, Austria.
+    I. Soldo, D(-1)-triples of the form {1,b,c} in the ring Z[√-t], t>0, Workshop on Number Theory and Algebra, Department of Mathematics, University of Zagreb, November 26-28, 2014, Zagreb, Croatia.
+    I. Soldo, D(-1)-triples of the form {1,b,c} and their extensibility in the ring Z[√-t], t>0, Conference on Diophantine m-tuples and related problems, November 13-15, 2014, Purdue University North Central, Westville, Indiana, USA.
+    I. Soldo, D(z)-quadruples in the ring Z[√-2], for some exceptional cases o z, Erdös Centennial, July 1-5, 2013, Budapest, Hungary.
+    I. Soldo, The problem of existence of Diophantine quadruples in Z[√-2],  5th Croatian Mathematical Congress, June 18 - 21, 2012, Rijeka, Croatia.
+    I. Soldo, Diophantine quadruples in Z[√-2], Number Theory and Its Applications, An International Conference Dedicated to Kálman Győry, Attila Pethő, János Pintz and András Sárközy, Debrecen, Hungary, 2010.
+    Winter School on Explicit Methods in Number Theory, January 26 - 30, 2009, Debrecen, Hungary
+    4th Croatian Mathematical Congress, June 17 - 20, 2008, Osijek, Croatia.
+    Conference from Diophantine Approximations, July 25 - 27, 2007, Graz, Austria.
+    K. Sabo, I. Soldo, Računanje udaljenosti točke do krivulje, Zbornik radova PrimMath[2003], Mathematica u znanosti, tehnologiji i obrazovanju, September 25 - 26, 2003., pp. 215 - 225.
+
+
+Projects
+    2014-2018 member of the scientific project entitled with Diophantine m-tuples, elliptic curves Thue and index of equations (supported by Croatian Science Foundation).
+    2018-2022 member of the scientific project entitled with Diophantine geometry and applications (supported by Croatian Science Foundation).
+
+
+Postgraduate Seminars
+    Member of Seminar for Number Theory and Algebra (http://www.math.hr/~duje/seminar.html). 
+    Leaders are prof.dr.sc. A. Dujella and prof.dr.sc. I. Gusić.
+        The extensibility of some D(-1)-triples over the imaginary quadratic fields II, April 25, 2012.
+        The extensibility of some D(-1)-triples over the imaginary quadratic fields I, April 11, 2012.
+        Diophantine quadruples in Z[√-2], September 22, 2010.
+        General Weierstrass equation, June 18, 2008.
+        Criteria for solvability of Pellian equation x^2- d y^2 = +-2, June 20, 2007.
+        Numerical computation of zeroes of Riemann Zeta function, April 20, 2007.
+
+
+Professional Activities
+    Editorial Boards
+        Since 2009, technical editor of the international Journal Mathematical Communications (http://www.mathos.hr/mc).
+    Refereeing/Reviewing
+        One of the referees of a Journal Osječki matematički list (http://www.mathos.hr/oml).
+    Commite Memberships
+        Member of the Organize Committee of the 4th Croatian Congress of Mathematics (http://www.mathos.hr/congress2008/), Osijek, 2008 
+        Member of the Organize Committee of the 15th International Conference on Operational Research (http://www.hdoi.hr/en/koi-conference), Croatian Operational Research Society, Osijek 2014
+        Member of the Organize Committee of the Workshop on Number Theory and Algebra, Zagreb, 2014
+    Service Activities
+        Since 2012, secretary of the Craotian Operationl Researsh Society 
+
+
+Teaching
+    Current
+        Diferencijalni račun (https://www.mathos.unios.hr/index.php/179) (zimski semestar)
+        Kriptografija  (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/669)(zimski semestar)
+        Integralni račun (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/180) (ljetni semestar)
+    Office Hours: 
+        Utorak (Thu) 11:00pm-12:00pm;  konzultacije su moguće i nakon održane nastave, a i po dogovoru.
+    ZAVRŠNI I DIPLOMSKI RADOVI
+        Prijedlozi tema završnih i diplomskih radova u ak. god. 2022/2023 (docx (https://www.mathos.unios.hr/images/homepages/isoldo/Teme_diplozav_radova_od_2021.docx)) 
+        Mentorstva / komentorstva (docx (https://www.mathos.unios.hr/images/homepages/isoldo/Mentorstva_web.docx)) 

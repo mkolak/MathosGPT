@@ -1,0 +1,44 @@
+Knjižnica Odjela za matematiku
+
+Knjižnica Odjela za matematiku počinje s radom odmah nakon osnutka Odjela za matematiku (1. listopada 1999.). Početni fond knjižnice nastao je od knjiga i časopisa Zavoda za primijenjenu matematiku i putem donacija (PMF - Matematički odjel, Sveučilište u Zagrebu, gđa Zlata Preka, g. Zlatko Tadić, prof. dr. Krešimir Veselić). Ubrzo nakon osnutka Odjela za matematiku počinje intenzivna nabava knjiga i časopisa značajnih svjetskih izdavača (Springer - Verlag, Cambridge Univ. Press, American Math. Soc., SIAM, Math. Asoc. of America, London Math. Soc., McGraw Hill itd.).
+Knjižnica je od osnutka nekoliko puta mijenjala lokaciju te se sada nalazi u prizemlju zgrade na Gajevom trgu broj 6. Uz knjižnicu nalazi se i čitaonica opremljena s tri računala za pretraživanje online kataloga knjižnice, bibliografskih i full-text baza podataka časopisa te za pristup matematičkim udruženjima. Knjižnica i čitaonica nalaze se na površini od 150m2. Za knjižnicu je izrađena vlastita baza podataka za knjige i periodiku dostupna putem Interneta. Posebnost online kataloga knjiga je u tome što se, osim standardnog bibliografskog opisa za svaku knjigu može vidjeti slika naslovnice, sadržaj i predgovor. Knjižnica Odjela za matematiku redovito prima 270 naslova periodike, od koji preko 120 dolazi kao razmjena za vlastiti časopis Mathematical Communications (http://hrcak.srce.hr/index.php?show=casopis&id_casopis=39).
+Nakon osnutka Odjela za fiziku i Odjela za biologiju (travanj 2005.) knjižnica Odjela za matematiku radi obradu knjižnične građe prenesene s Filozofskog fakulteta za navedene Odjele.
+Danas knjižnica obavlja funkciju knjižnice za sva tri ranije navedena Odjela.
+
+Osnovne informacije
+    Radno vrijeme: ponedjeljak - petak, 7:30 - 14:30 (za korisnike) 
+    tel: 031 224 813
+    e-mail: knjiznica@mathos.hr
+Djelatnici
+    Mirna Šušak Lukačević, prof. matematike i informatike, viša knjižničarka
+
+Posudba građe
+    Studenti mogu posuditi knjige uz sljedeće uvjete:
+        prilikom učlanjenja u knjižnicu i otvaranja članske iskaznice na zadnju stranu indeksa stavlja se žig "posuđeno"
+        učlanjenje je besplatno
+        student ne može testirati godinu prije nego vrati sve posuđene knjige, što se potvrđuje žigom "vraćeno"
+        student može biti zadužen za najviše 3 knjige, a pojedinu knjigu student mora vratiti u roku od 15 dana, dok je u slučaju prekoračenja roka dužan platiti zakasninu u iznosu od 5 kn po knjizi i po danu.
+    Časopisi se ne mogu iznositi iz čitaonice. Ista odredba vrijedi i za referentnu građu (enciklopedije, rječnici, priručnici...). U knjižnici je moguće kopirati članke iz časopisa.
+ 
+Online baze
+    MathSciNet (http://www.ams.org/mathscinet) je opsežna baza podataka koja sadrži svjetsku matematičku literaturu objavljenu od 1940. godine. Ona preko interneta pruža pristup bibliografskim podacima matematičke literature. Za dopunjavanje podataka i poboljšanja brine se AMS - American Mathematical Society. AMS je jedno od najpoznatijih svjetskih matematičkih udruženja i među glavnim je objavljivačima matematičke literature.
+    Zentralblatt Math (http://www.emis.de/ZMATH) je najkompletnija i najstarija baza podataka za pregled sažetaka iz matematičkih časopisa. Baza sadrži više od 2,8 milijuna unosa iz više od 3.500 časopisa.
+    DOAJ (http://www.doaj.org)
+    Portal elektroničkih izvora za hrvatsku akademsku i znanstvenu zajednicu (http://baze.nsk.hr/)
+    SCOPUS (http://baze.nsk.hr/baza/scopus/)
+    WOS (http://baze.nsk.hr/baza/web-science/) 
+
+Elektronički časopisi
+    Preko računala u čitaonici omogućen je pristup velikom broju časopisa svjetskih matematičkih udruženja u e obliku.(http://baze.nsk.hr/otvoren-probni-pristup-na-jstor/)
+
+Elektroničke knjige
+    Preko IP adresa Odjela dostupna je kolekcija Springerovih e-knjiga Mathematics and Statistics (2014-2016). Na sljedećim linkovima nalaze se popisi dostupnih knjiga 
+    Springer e-books 2014 (https://www.mathos.unios.hr/images/homepages/msusak/SPRINGER_eBooks_MS_c2014_2.xlsx)
+    Springer e-books 2015 (https://www.mathos.unios.hr/images/homepages/msusak/SPRINGER_eBooks_MS_c2015_1.xlsx)
+    Springer e-books 2016 (https://www.mathos.unios.hr/images/homepages/msusak/SPRINGER_eBooks_MS_c2016.xlsx)
+    Knjige su dostupne preko linka https://rd.springer.com (https://rd.springer.com/), u ponuđenu tražilicu kopirati/upisati naslov koji želimo iz danih popisa te godinu izdanja. Pristup je platio Odjel i biti će trajno otvoren.
+
+Edukacija korisnika
+    Online pretraživanje baza podataka - lekcija 1 (https://www.youtube.com/watch?v=sDWPmSMcvE4)
+    Lekcija 1a: Kako pretraživati baze podataka?  (https://www.youtube.com/watch?v=Qmrx0zMQNYU)
+    Journal Citation Reports pojmovi (https://www.mathos.unios.hr/images/homepages/msusak/JCR_pojmovi.docx) (https://www.youtube.com/watch?v=Qmrx0zMQNYU)

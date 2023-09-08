@@ -1,0 +1,47 @@
+General Informations
+    Assistant Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek 
+    phone: +385-31-224-819
+    fax: +385-31-224-801
+    email: lprimora@mathos.hr
+    office: 15 (first floor)
+    Research Interests
+        Pseudo-Riemannian Geometry
+        Differential Geometry
+    Degrees
+        PhD in theoretical mathematics, Department of Mathematics, University of Zagreb , 2016.
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2007.
+
+
+Publications
+    Journal Publications
+        R. Lopez, Ž. Milin-Šipuš, Lj. Primorac Gajčić, I. Protrka, Involutes of Pseudo-null Curves in Lorentz-Minkowski 3-space (https://www.mdpi.com/2227-7390/9/11/1256/htm), Mathematics 9/11 (2021)
+        R. Lopez, Ž. Milin-Šipuš, Lj. Primorac Gajčić, I. Protrka, Null scrolls with spacelike harmonic evolutes in Lorentz-Minkowski space, Results in Mathematics 76/1 (2021)
+        Ž. Milin-Šipuš, Lj. Primorac Gajčić, I. Protrka, Generalized helices on a lightlike cone in 3-dimensional Lorentz-Minkowski space, KoG (Scientific and Professional Journal of Croatian Society for Geometry and Graphics)  24/24 (2020), 41-46
+        Lj. Primorac Gajčić, Ž. Milin-Šipuš, I. Protrka, Null scrolls with prescribed curvatures in Lorentz-Minkowski 3-space (https://www.anstuocmath.ro/mathematics/anale2020v3/13_Sipus%20Z.M.%20et%20all.pdf), Analele Stiintifice ale Universitatii Ovidius Constanta Seria Matematica 28/3 (2020), 229-240
+        R. Lopez, Ž. Milin-Šipuš, Lj. Primorac Gajčić, I. Protrka, Harmonic evolutes of B-scrolls with constant mean curvature in Lorentz–Minkowski space (http://dx.doi.org/10.1142/S0219887819500762), International Journal of Geometric Methods in Modern Physics 16/5 (2019)
+        Ž. Milin-Šipuš, Lj. Primorac Gajčić, Minding isometries of ruled surfaces in Lorentz-Minkowski space (https://web.math.pmf.unizg.hr/~duje/radhazumz/preprints/primorac-milin-preprint.pdf), Rad HAZU, Matematičke znanosti. 23 (2019), 107-122
+        Ž. Milin-Šipuš, Lj. Primorac Gajčić, I. Protrka, Null scrolls as B-scrolls in Lorentz-Minkowski 3-space, Turkish Journal of Mathematics 43/6 (2019), 2908-2920
+    Refereed Proceedings
+        Lj. Primorac Gajčić, Ž. Milin-Šipuš, I. Protrka,  Structure Functions of Ruled Surfaces with Null Rulings , The 18th International Conference on Geometry and Graphics, Milano, 2018, 371-380
+        Lj. Primorac Gajčić,  On local isometries of B-scrolls in Minkowski space, The Young Researcher Workshop on Differential Geometry in Minkowski Space, Granada, Spain, 2017, 125-132
+        Lj. Primorac Gajčić, Ž. Milin-Šipuš,  Ruled Surfaces of Constant Slope in 3-Minkowski Space, 16th International Conference on Geometry and Graphics, Innsbruck, 2014
+    Others
+        Lj. Primorac Gajčić, Neke manje poznate kružnice u geometriji trokuta, Osječki matematički list 20/2 (2020), 87-97
+        M. Alilović, Z. Kolar-Begović, Lj. Primorac Gajčić, Wallace-Simsonov pravac (https://hrcak.srce.hr/239990), Osječki matematički list 19/2 (2019), 137-146
+        Lj. Primorac Gajčić, A. Corn, Pravilni zvjezdasti mnogokuti, Osječki matematički list 17/2 (2018), 161-170
+        Lj. Primorac Gajčić,  Al-Khwarizmijeva metoda rješavanja kvadratnih jednadžbi, Matematika i škola 27/83 (2016), 122-124
+
+
+Teaching
+    Current
+        Uvod u diferencijalnu geometriju (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/626)
+        Metodička matematička praksa I
+        Odabrane teme iz nastave matematike (https://www.mathos.unios.hr/index.php/nastava/diplomski-studij-nastavnicki-studij-matematike-i-informatike/672)
+        Elementarna geometrija (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/495)
+        Konstruktivna i analitička geometrija (https://www.mathos.unios.hr/index.php/nastava/diplomski-studij-nastavnicki-studij-matematike-i-informatike/673)
+        Linearna algebra II (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/498)
+        Metodička matematička praksa II
+    Office Hours: 
+        Srijedom u 11.30h ili po dogovoru.

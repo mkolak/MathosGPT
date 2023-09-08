@@ -1,0 +1,27 @@
+OSNOVNE INFORMACIJE
+	Web programiranje izvodi se u zimskom semestru treće godine sveučilišnog preddiplomskog studija matematike i računarstva. Cilj kolegija je osposobiti studente za samostalno snalaženje u osnovnim konceptima WEB programiranja korištenjem standardnih i modernih web tehnologija predloženih od strane World Wide Web konzorcija (W3C).
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i057.pdf).
+	VODITELJ KOLEGIJA	
+		izv. prof. dr. sc. Zoran Tomljanović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119)	KONZULTACIJE: Po dogovoru	
+	ASISTENT
+		Jurica Maltar (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/522)	KONZULTACIJE: Po dogovoru	
+	OSNOVNA LITERATURA
+		Materijali s vježbi i predavanja
+	DOPUNSKA LITERATURA
+		J. Duckett, HTML & CSS: Design and Build Websites, 1st edition, John Wiley & Sons
+		J. Duckett, JavaScript & jQuery: Interactive Front-End Web Development, 1st edition, John Wiley & Sons
+		N. Murray, F. Coury, A. Lerner, C. Taborda, ng-book: The Complete Guide to Angular, 5th edition, CreateSpace Independent Publishing
+		K. Chinnathambi, Learning React: A Hands-On Guide to Building Wen Applications Using React and Redux, 2nd edition, Addison-Wesley Professional
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Web programiranje realizira se s fondom od 90 sati (tjedno 3 sata predavanja, 2 sata vježbi i 1 sat seminara). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA & VJEŽBE	TERMIN: Četvrtak 9:00-11:00, Petak 12:00-15:00	PREDAVAONICA: RP2
+	Pristupni kod za grupu "Web programiranje" na Teams-u je: zcdmiy 
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju
+		bodova ostvarenih na domaćim zadaćama, na kojima studenti mogu ostvariti 60% od sveukupnog broja bodova.
+		bodova ostvarenih na projektu za veću ocjenu, na kojima studenti mogu ostvariti 40% od sveukupnog broja bodova.
+	Potrebno je skupiti minimalno 40% od ukupnog broja bodova za prolaznu ocjenu.

@@ -1,0 +1,92 @@
+General Information
+    Assistant Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-812
+    fax: +385-31-224-801
+    email: ssusic@mathos.hr
+    office: 14 (first floor)
+    Google Scholar Profile (https://scholar.google.hr/citations?user=ri-rMEcAAAAJ&hl=hr)
+    Research Interests
+        Numerical Linear Algebra
+        Perturbation Theory
+    Degrees
+        PhD in theoretical mathematics, Department of Mathematics, University of Zagreb , 2014.
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2007.
+
+
+Publications
+    Journal Publications
+        J. Moro, S. Miodragović, F. de Teran, N. Truhar, Frequency isolation for gyroscopic systems via hyperbolic quadratic eigenvalue problems, Mechanical Systems and Signal Processing 184/109688 (2023), 1-19
+        I. Kuzmanović Ivičić, S. Miodragović, Perturbation bounds for stable gyroscopic systems (https://rdcu.be/c4blW), BIT Numerical Mathematics 63/1 (2023), 1-16
+        I. Kuzmanović Ivičić, S. Miodragović, M. Ugrica, The tan Θ theorem for definite matrix pairs, Linear and multilinear algebra 70 (2022), 1-17
+        P. Benner, X. Liang, S. Miodragović, N. Truhar, Relative Perturbation Theory for Quadratic Hermitian Eigenvalue Problem, Linear algebra and its applications 618 (2021), 97-128
+        L. Grubišić, S. Miodragović, N. Truhar, Double angle theorems for definite matrix pairs, Electronic Transactions on Numerical Analysis 45 (2016), 33-57
+        D. Jankov Maširević, S. Miodragović, Geometric median in the plane, Elemente der Mathematik 70 (2015), 21-32
+        N. Truhar, S. Miodragović, Relative perturbation theory for definite matrix pairs and hyperbolic eigenvalue problem, Applied Numerical Mathematics 98 (2015), 106-121
+        N. Truhar, L. Grubišić, S. Miodragović,  The Rotation of Eigenspaces of Perturbed Matrix Pairs II, Linear and multilinear algebra 68/8 (2014), 1010-1031
+
+
+Projects
+    Accelerated solution of optimal damping problems, -- scientific project; supported by the DAAD for period 2020--2021 (investigator ); cooperation with Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
+    Vibration Reduction in Mechanical Systems (http://vims.mathos.unios.hr/) -- scientific project (IP-2019-04-6774, VIMS). This project has been fully supported by Croatian Science Foundation for the period 01.01.2020.--31.12.2023. (investigator)
+    Project leader on Isolation of the unwanted part of the spectrum in the quadratic eigenvalue problem. Project was funded by J. J. Strossmayer University of Osijek, for period November, 2018.- May, 2020.
+    01.07.2015. - 30.06.2019  investigator on scientific project "Optimization of parameter dependent mechanical systems (IP-2014-09-9540; OptPDMechSys). This project has been fully supported by Croatian Science Foundation (http://www.hrzz.hr/default.aspx?id=47)
+    Mixed Integer Nonlinear Programming (MINLP) for damper optimization -- scientific project; supported by the DAAD for period 2015--2016 (investigator); cooperation with Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg
+    Investigator on Non-linear parameter dependent eigenvalue problem, project leader prof.dr.sc. Ninoslav Truhar. Project was funded by J. J. Strossmayer University of Osijek, for period 10.6.2016.-10.7.2016.
+    Optimzacija semi-aktivnog prigušenja kod titrajnih sistema, project leader: doc. dr. sc. Zoran Tomljanović, Deptartment of Mathematics, University of Osijek. Project was funded by J. J. Strossmayer University of Osijek, for period  2014.
+
+
+Professional Activities
+    Committee Memberships and organization
+        Co-organizer of the Workshop on Optimal Control of Dynamical Systems and applications, 5-6 November 2020 at Department of Mathematics, J. J. Strossmayer University of Osijek http://vims.mathos.unios.hr/home/workshop2020 (http://vims.mathos.unios.hr/home/workshop2020/)  
+    Workshop and conference talk
+        ApplMath2020 (https://applmath.math.pmf.unizg.hr/2020/#/), 14.-18.9.2020., Brijuni, Croatia
+        28th Biennial Numerical Analysis Conference, Glasgow, 25-28 June 2019
+        ICIAM 2019 (https://iciam2019.org/), July, 15-19, Valencia, Spain
+        GAMM ANLA Workshop Lund 2018, October, 10-12, 2018, Lund, Sweden
+        Eigensubspace perturbation bounds for quadratic eigenvalue problem, ApplMath18, September, 17-20, 2018, Šibenik, Croatia
+        International Workshop on Optimal Control of Dynamical Systems and applications (http://workshop.mathos.unios.hr/), 20-22 June 2018, Osijek, Croatia
+        Relative Perturbation Bounds for Hyperbolic Quadratic Eigenvalue Problem, 89th Annual Meeting of GAMM, March 19-23, 2018, Munich, Germany
+        Double angle theorems, 6th Croatian MathematicalCongress, June 14-17, 2016, Zagreb, Croatia
+        Relative Perturbation Theory for Definite Matrix Pairs, Joint Annual Meeting of GAMM and DMV, March 07-11, Braunschweig,  Germany
+        Relative Perturbation Theory for Definite Matrix Pairs and Hyperbolic Quadratic Eigenvalue Problem, Workshop on Matrix Equations and Tensor Techniques, September 21-22, Bologna, Italy
+        Eigensubspace perturbation theory for definite matrix pairs, Workshop within DAAD project Optimal Damping of Vibrating Systems, Osijek, October 7-10, 2014, Croatia.
+        sin 2Θ Theorems for Definite Matrix Pairs, 10th International Workshop on Accurate Solution of Eigenvalue Problems (http://iwasep.fesb.hr/iwasep10/), Dubrovnik, June 2 - 5, 2014
+        The Rotation of Eigenspace of Perturbed Matrix Pairs, 5th Croation Mathematical Congress, Rijeka, June 18-21, 2012
+    Seminars and talks
+        Seminar za optimizaciju i primjene (Odjel za matematiku, Osijek), 
+        Geometrijski medijan u ravnini, 2009.
+        Seminar za Numeričku matematiku i računarstvo (PMF-Matematički odjel, Zagreb), Problem svojstvenih vrijednosti hermitskih matrica s "time reversal" simetrijom, 2012.
+        Topološki seminar, (PMF-Matematički odjel, Zagreb), A-beskonačno-prostori, A-beskonačno-algebre, A-beskonačno-operadi, 2012.
+        Seminar za Numeričku matematiku i računarstvo (PMF-Matematički odjel, Zagreb), Rotacija svojstvenih potprostora perturbiranih matričnih parova, 2013.
+        Seminar za optimizaciju i primjene (Odjel za matematiku, Osijek), Relativne perturbacijske ocjene ovisne o parametru i hiperbolički svojstveni problem, 2014.
+        Seminar za optimizaciju i primjene (Odjel za matematiku, Osijek), Rotacija svojstvenog potprostora perturbiranih definitnih matričnih parova, 2014.
+        CSC Seminar (Max Planck Institute, Magdeburg), The Rotation of Eigenspace of Perturbed Matrix Pairs, 2015.
+    Participation in summer schools and workshops:
+        The third International School on Model Reduction for Dynamical Control Systems, 5 - 10 October 2015, Dubrovnik, Croatia
+        DAAD International School on Linear Optimal Control of Dynamic Systems, 23 - 28 September 2013, Osijek, Croatia
+        Summer School on Numerical Linear Algebra for Dynamical and High-Dimensional Problems, October 10-15, 2011, Trogir, Croatia
+        DAAD International School “Methods of Numerical Optimization “, May, 2012, Novi Sad/Serbia
+        DAAD International School “Hyperbolic Geometry and Arithmetics (Applications of the Selberg Trace Formula)”, October 3-10, 2010, Sarajevo/Bosnia 
+    Study Visits Abroad
+        14.02.-28.2.2015., 23.11.-28.11.2015. Max-Planck-Institut für Dynamik komplexer technischer Systeme, Magdeburg
+        2.2.-7.2.2020. University Carlos III, Madrid, Spain
+
+
+Teaching
+    Current
+        Integralni račun (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/180-integralni-racun)
+        Matematika 2 - Odjel za kemiju  (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/728-matematika-ii-odjel-za-kemiju)
+        Numerička matematika (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/610)
+        Računalno razmišljanje i programiranje (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/676-racunalno-razmisljanje-i-programiranje-i)
+        Metode optimizacije (https://www.mathos.unios.hr/index.php/30-homepage/odjel/nastava/kolegij/244-metode-optimizacije)
+        Primijenjena i Inženjerska matematika - PTFOS (https://www.mathos.unios.hr/index.php/304)
+    Past
+        Vektorski i unitarni prostori
+    Teme diplomskih radova:
+        1.
+        2. 'CS dekompozicija' (ortogonalne matrice, udaljenost svojstvenog potprostora, CS dekompozicija i primjeri)
+        3. 'Linearni problem najmanjih kvadrata i matrične faktorizacije koje ga rješavaju ' (općenito o linearnom problemu najmanjih kvadrata, normalne jednadžbe, QR i SVD dekompozicija)
+        4. 'Hiperbolni kvadratni svojstveni problem' (općenito o kvadratnom svojstvenom problemu, svojstva hiperbolnog kvadratnog svojstvenog problema, implementacija u Matlabu)
+        5. 'Teorija perturbacije za linearne sustave'

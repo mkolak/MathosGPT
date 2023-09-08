@@ -1,0 +1,48 @@
+OSNOVNE INFORMACIJE
+	Studente će se upoznati s glavnim metodama jednodimenzionalne i višedimenzionalne minimizacije sa i bez ograničenja. Posebno će se obraditi metode minimizacije nediferencijablinih funkcija. Pri tome, izbjegavat će se dokazivanje teorema, osim u slučaju konstruktivnih dokaza koji sami po sebi upućuju na izgradnju ideja ili metoda. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/mi004.pdf).
+	VODITELJ KOLEGIJA
+		prof.dr.sc. Ninoslav Truhar
+		KONZULTACIJE	srijeda u12:00 h
+	ASISTENT
+		doc.dr.sc. Suzana Miodragović
+ 		KONZULTACIJE četvrtak u 14:00h
+	OSNOVNA LITERATURA
+		1. R. Scitovski, N. Truhar, Z. Tomljanović, Metode optimizacije, Svučilište Josipa Jurja Strossmayera u Osijeku, Odjel za matematiku., Osijek, 2014.
+	DOPUNSKA LITERATURA
+		C.T.Kelley, Iterative methods for optimization, SIAM, Philadelphia, 1999.
+		P.E.Gill, W.Murray and M.H.Wright, Practical Optimization, Academic Press, 1981.
+		F.Jare, J.Stoer, Optimierung, Springer-Verlag, Berlin, 2004.G.Golub, C.F.Van Loan, Matrix Computations, Johns Hopkins Univ Pr., 3rd edition, 1996.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Metode optimizacije realizira se s 3 sata predavanja i 2 sata vježbi. Pohađanje predavanja i vježbi je obaveno.
+	Sve obavijesti vezane za predavanja i vježbe će se postavljati na MS Team kanalu. Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod  dtkbcg3.
+
+
+PRAVILA POLAGANJA ISPITA
+	Ispit se može položiti putem 2 kolokvija od kojih svaki vrijedi po 100 bodova. Na svim kolokvijima bodovni prag je 35%, pri čemu se kolokviji sastoje od:
+		1. kolokvij sadrzi gradivo prvog dijela vježbi i predavanja 
+		2. kolokvij sadrzi gradivo drugog dijela vježbi i predavanja.
+	Studenti koji zadovoljavaju 45% od ukupnog broja bodova i zadovoljavaju bodovne pragove, položili su pismeni dio ispita. Ostali studenti trebaju prije usmenog ispita položiti pismeni ispit.
+
+
+NASTAVNI MATERIJALI
+	Rudolf Scitovski, Ninoslav Truhar, Zoran Tomljanović, Metode optimizacije; Odjel za matematiku, Sveučilišta J. J. Strossmayera u Osijeku, 2014. (https://www.mathos.unios.hr/index.php/odjel/nasa-izdanja)
+	Službena stranica Matlab-a (http://www.mathworks.com/)
+	Službena stranica Mathematice (http://www.wolfram.com/)
+
+
+PRIMJERI KOLOKVIJA I ISPITNIH ROKOVA
+	PRIMJERI ISPITNIH ROKOVA
+		23.06.2016. (https://www.mathos.unios.hr/images/homepages/ssusic/MO_pismeni_23062016.pdf)
+		10.02.2011 (https://www.mathos.unios.hr/mo/MO_pis_10_2_11.pdf).
+		30.06.2009. (https://www.mathos.unios.hr/mo/MO_pis_30_6_09.pdf)
+		16.06.2009. (https://www.mathos.unios.hr/mo/MO_pis_16_6_09.pdf)
+	PRIMJERI KOLOKVIJA
+		2018/2019    Primjeri zadataka za drugi kolokvij (https://www.mathos.unios.hr/images/homepages/ntruhar/MO_kol2_Primjer2019.pdf)  
+		2015/2016   prvi kolokvij (https://www.mathos.unios.hr/images/homepages/ssusic/MO_kol1_2016.pdf)   drugi kolokvij (https://www.mathos.unios.hr/images/homepages/ssusic/kol2_MO_2015.pdf)
+		2014/2015   prvi kolokvij (https://www.mathos.unios.hr/images/homepages/ssusic/kolokvij_2304.pdf)
+		2013/2014   prvi kolokvij (https://www.mathos.unios.hr/mo/MO_1kol_25_4_13.pdf)      drugi kolokvij (https://www.mathos.unios.hr/mo/MO_2kol_5_6_13.pdf)
+		2010/2011   prvi kolokvij  (https://www.mathos.unios.hr/mo/MO_1kol_29_11_10.pdf)     drugi kolokvij (https://www.mathos.unios.hr/mo/MO_2kol_21_12_09.pdf)   treći kolokvij (https://www.mathos.unios.hr/mo/MO_3kol_27_1_11.pdf)
+		2008/2009   prvi kolokvij (https://www.mathos.unios.hr/mo/MO_1kol_17_11_08.pdf)      drugi kolokvij (https://www.mathos.unios.hr/mo/MO_2kol_15_12_08.pdf)  

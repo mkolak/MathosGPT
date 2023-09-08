@@ -1,0 +1,120 @@
+General Information
+    Associate Professor      
+    Department of Mathematics 
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-843
+    fax: +385-31-224-801
+    email: smajstor@mathos.hr
+    office: 19 (ground floor)
+    Google Scholar Profil (https://scholar.google.hr/citations?hl=hr&user=XVyH-d0AAAAJ)
+    Research Interests
+        Graph Theory and applications(Spectral Graph Theory, Metric Graph Theory, Dominations in Graphs)
+        Complex Networks
+        Cluster Analysis
+    Degrees
+        PhD in Mathematics, Department of Mathematics (http://www.math.pmf.unizg.hr/), University of Zagreb, Croatia, 2011.
+        BSc in Mathematics and Computer Science, Department of Mathematics (http://www.mathos.hr), University of Osijek, Croatia, 2005.
+
+
+Publications
+    Journal Publications
+        R. Scitovski, K. Sabo, P. Nikić, S. Majstorović, A new efficient method for solving the multiple ellipse detection problem, Expert systems with applications (2023), prihvaćen za objavljivanje
+        S. Majstorović, Maximizing Graovac-Ghorbani Index of Trees with Fixed Maximum Degree, MATCH Communications in Mathematical and in Computer Chemistry 90/3 (2023), 673-684
+        R. Scitovski, S. Majstorović, K. Sabo, A combination of RANSAC and DBSCAN methods for solving the multiple geometrical object detection problem (https://link.springer.com/article/10.1007/s10898-020-00950-8), Journal of Global Optimization  79/3 (2021), 669-686
+        M. Knor, S. Majstorović, A. Teo Masha Toshi, R. Škrekovski, I. Yero, Graphs with the edge metric dimension smaller than the metric dimension, Applied mathematics and computation  401 (2021)
+        M. Knor, S. Majstorović, R. Škrekovski, Graphs preserving total distance upon vertex removal, Electronic Notes in Discrete Mathematics 68 (2018), 107-112
+        M. Knor, S. Majstorović, R. Škrekovski, Graphs preserving Wiener index upon vertex removal, Applied mathematics and computation  338 (2018), 25-32
+        M. Knor, S. Majstorović, R. Škrekovski, Graphs whose Wiener index does not change when a specific vertex is removed (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/739.pdf ), Discrete Applied Mathematics 238 (2018), 126-132
+        S. Majstorović, K. Sabo, J. Jung, M. Klarić, Spectral methods for growth curve clustering (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/740.pdf ), Central European Journal of Operations Research  26/3 (2018), 715-737
+        S. Majstorović, A. Klobučar, T. Došlić, Domination Numbers of m-cactus chains, Ars Combinatoria 125 (2016), 11-22
+        S. Majstorović, G. Caporossi, Bounds and relations involving the adjusted centrality of a tree, Graphs and Combinatorics 31/6 (2015), 2319-2334
+        S. Majstorović, D. Stevanović, A note on graphs with the largest eigenvalue of modularity matrix equal to zero, Electronic Journal of Linear Algebra 27 (2014), 611-618
+        S. Majstorović, T. Došlić, A. Klobučar, K-domination on hexagonal cactus chains, Kragujevac Journal of Mathematics 36/2 (2012), 335-347
+        S. Majstorović, K-domination sets on double linear hexaghonal chains, Aplimat - Journal of applied mathematics 3/3 (2010), 77-86
+        S. Majstorović, A. Klobučar, I. Gutman, Tricyclic Biregular Graphs Whose Energy Exceeds the Number of Vertices, Mathematical Communications 15/1 (2010), 213-222
+        I. Gutman, A. Klobučar, S. Majstorović, C. Adiga, Biregular Graphs Whose Energy Exceeds the Number of Vertices, MATCH Communications in Mathematical and in Computer Chemistry 62/3 (2009), 499-508
+        S. Majstorović, A. Klobučar, I. Gutman, Triregular Graphs Whose Energy Exceeds the Number of Vertices, MATCH Communications in Mathematical and in Computer Chemistry 62/3 (2009), 509-524
+    Refereed Proceedings
+        S. Majstorović, A. Kolos Csaba, A. Vaskovi,  Spectral Clustering of Survival Curves, International Symposium of Operational Research SOR'19, Bled, Slovenia, 2019, 81-87
+    Others
+        S. Majstorović, Turanov teorem, Math.e : hrvatski matematički elektronski časopis  (2023), prihvaćen za objavljivanje
+        S. Majstorović, D. Begović, Niz stupnjeva grafa, Osječki matematički list 20/1 (2020), 39-52
+        S. Majstorović, K. Vincetić, Totalna zbrka, Osječki matematički list 17/2 (2017), 109-123
+        K. Vincetić, S. Majstorović, Zanimljivi zadatci s brojem 2017, Poučak 72/18 (2017), 6-23
+        S. Majstorović, L. Boras, Petersenov graf, Math.e : hrvatski matematički elektronski časopis  27 (2015)
+        S. Majstorović, Dirichletov princip, Osječki matematički list 6 (2006), 99-105
+    Books
+        S. Majstorović, A. Klobučar, I. Gutman, Selected topics from the theory of graph energy: hypoenergetic graphs, Applications of graph spectra / Cvetković, Dragoš; Gutman, Ivan , Matematički institut SANU, Beograd, 2009.
+
+
+Projects
+    Regionalni znanstveni centar Panonske Hrvatske, stručni projekt, nositelj Osječko-baranjska županija (2022.-2024.)
+    Modeliranje adsorpcije na nanostrukturama: Graf-teoretički pristup (Modeling adsorption on nanostructures: A graph-theoretical approach), bilateralni hrvatsko-slovenski   projekt pod vodstvom prof.dr.sc. T. Došlić (HR) i izv.prof.dr.sc. R. Škrekovski (SLO), 2016.-2017.  
+    "Neke primjene geometrijskih reprezentacija u grafovima“ u sklopu kolaborativnog projekta „Geometrijske reprezentacije i simetrije grafova i druge diskretne strukture i primjene u znanosti pod vodstvom prof.dr.sc.A.Klobučar,  2011-2014.
+    "Pasivna kontrola mehaničkih modela“ pod vodstvom prof.dr.sc.N.Truhara, 2009.-2014.
+
+
+Professional Activities
+    Professional Society Membership
+        HMD - Croatian Mathematical Society, Department Osijek
+        HDOI - Croatian Operational Research Society
+    Invited Lectures 
+        "Types of domination on m-ary chain cacti", GERAD-Group for Research in Decision Analysis, Montreal, Canada, October 2011
+        "Indivisible graphs", Technische universitat, Graz, Austria, January 2015
+        "Spectral methods for growth curve clustering", Corvinus University, Budapest, Hungary, April 2018
+    Study Visits Abroad and Professional Improvements
+        DAAD- Biomedical Image Analysis and Bioinformatics - Intensive course, Vrnjačka Banja, Serbia, September 2010
+        GERAD-Group for Research in Decision Analysis, Montreal, Canada, October 2011
+        Summer School of the Marie Curie ITN 'Environmental ChemoInformatics', Verona, Italy, June 2012
+        DAAD- Graph Spectra and Applications- Intensive course, Vrnjačka Banja, Serbia, September 2012
+        DAAD- Linear Optimal Control of Dynamic Systems, Osijek, Croatia, September 2013
+        Summer School in Discrete Mathematics, Rogla, Slovenia, June 2015
+        Montanuniversitat Loeben, Loeben, Austria, September 2015  (ERASMUS+ 2014/2015)
+        Montanuniversitat Loeben, Loeben, Austria, September 2015  (ERASMUS+ 2015/2016)
+        DAAD - Approximation theory and Applications, Sozopol, Bulgaria, June 2016
+        DAAD - Krylov Subspaces and Applications, Golem, Kavaja, Albania, September 2016
+        Fakulteta za matematiko in fiziko, Universa v Ljubljani, Ljubljana, Slovenija, 1.03.-5.03. 2017
+        Fakulteta za matematiko in fiziko, Universa v Ljubljani, Ljubljana, Slovenija, 16.12.-21.12. 2017
+        Fakulteta za matematiko in fiziko, Universa v Ljubljani, Ljubljana, Slovenija, August 2018 (ERASMUS+ 2017/2018)
+        Fakulteta za matematiko in fiziko, Universa v Ljubljani, Ljubljana, Slovenija, June 2021 (ERASMUS+ 2021/2022)
+        Fakulteta za matematiko in fiziko, Universa v Ljubljani, Ljubljana, Slovenija, October 2022 (ERASMUS+ 2022/2023)
+    Refereeing/Reviewing
+        AMS Mathematical Review (http://www.ams.org)
+    Service Activities
+        Zimska matematička škola (Winter math school) 2005-2006:
+            Tetivno-tangencijalni četverokuti
+        Pripreme za natjecanje IMC (https://www.mathos.unios.hr/index.php/studenti/imc)  2015
+        Koordinatorica priprema za međunarodna studentska natjecanja iz matematike: Vojtech (http://vjimc.osu.cz/) 2016, IMC 2017 (http://www.imc-math.org.uk/), IMC 2018
+        Član organizacijskog odbora međunarodne konferencije CroCoDays 2016 (http://www.grad.hr/crocodays/) , CroCoDays 2018 (http://www.grad.hr/crocodays/), CroCoDays 2020
+        IAESTE - mentor   od ak.god. 2016/2017 - ....
+        Koordinatorica za Festival znanosti od 2018. -...
+        Festival znanosti 2018: 
+            Fourierova otkrića
+        Festival znanosti 2019: 
+            Neriješeni problem bojenja ravnine
+        Festival znanosti 2022: 
+            Eulerova otkrića
+        Član organizacijskog odbora međunarodne studentske konferencije GREEN 2018
+        Član organizacijskog odbora međunarodne studentske konferencije GREEN 2022
+        Član organizacijskog odbora međunarodne konferencije VODA ZA SVE 2019
+        Večer matematike 2018: 
+            Modeliranje pomoću grafova
+        Član organizacijskog odbora STEM games 2021
+
+
+Teaching
+    Current
+        Primjene diferencijalnog i integralnog računa II (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/209)
+        Kombinatorna i diskretna matematika (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematika/494)
+        Grupiranje podataka: pristupi, metode i primjene (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/262)
+        Prehrambeno-tehnološki fakultet: Matematika II (https://www.mathos.unios.hr/index.php/280)
+        Grafovi (https://www.mathos.unios.hr/index.php/nastava/integrirani-nastavnicki-studij/248)
+        Građevinski fakultet: Matematika III (https://www.mathos.unios.hr/index.php/281)
+    Office Hours: 
+        Konzultacije su moguće po dogovoru.
+
+
+Personal
+    Birthdate: April 13
+    Birthplace: Osijek, Croatia
+    Citizenship: Croatian

@@ -1,0 +1,35 @@
+OSNOVNE INFORMACIJE
+	Kolegij Operativni sustavi se izvodi u ljetnom semestru druge godine sveučilišnog diplomskog studija matematike i računarstva. Cilj kolegija je studente upoznati s temeljnim pojmovima vezanim za operativne sustave te iste demonstrirati putem implementacije vlastitog operativnog sustava.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i067.pdf).
+	NOSITELJ
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)	
+	PREDAVAČ
+		dr.sc. Luka Borozan (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/409)	
+		KONZULTACIJE: po dogovoru putem e-maila	
+	ASISTENT
+		Bartol Borozan (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/820)
+		KONZULTACIJE: po dogovoru putem e-maila	
+	OSNOVNA LITERATURA
+		A. S. Tanenbaum, H. Bos, Modern Operating Systems, Fourth Edition, Global Edition, Pearson Education Limited, 2015.
+		N. Nisan, S. Shocken, The elements of computing systems: building a modern computer from first principles, MIT press, 2021.
+		www.nand2tetris.org (https://www.nand2tetris.org)
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Uvod u programiranje realizira se s fondom od 90 sati (tjedno 3 sata predavanja, 2 sata vježbi I 1 sat seminara). Pohađanje predavanja i vježbi je obaveno.
+	PREDAVANJA	TERMIN: Srijeda, 14-17h	PREDAVAONICA: RP1,	3l4lfb0(MS Teams)	
+	VJEŽBE	TERMIN: Srijeda, 17-19h	PREDAVAONICA: RP1,	3l4lfb0(MS Teams)	
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju bodova ostvarenih putem rješavanja domaćih zadaća tokom semestra i izrade seminarskog rada. Domaće zadaće nose ukupno 100 bodova i zamjenjuju pismeni dio ispita. Ocjene iz domaćih zadaća se dodjeljuju u sljedećem rasponu.
+		[0-50) nedovoljan
+		[50, 65) dovoljan
+		[65, 80) dobar
+		[80, 90) vrlo dobar
+		[90, 100] izvrstan
+	Ocjenu iz domaćih zadaća potrebno je potvrditi izradom i izlaganjem seminara pomoću kojega je istu moguće i povisiti.
+	PISMENI ISPIT
+		Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij putem domaćih zadaća.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

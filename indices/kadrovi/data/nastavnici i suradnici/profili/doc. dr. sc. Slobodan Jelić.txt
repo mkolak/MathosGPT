@@ -1,0 +1,50 @@
+General Information
+    Asistant Professor
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek
+    phone: +385-31-224-858
+    fax: +385-31-224-801
+    email: sjelic@mathos.hr
+    office: 8 (ground floor)
+    Research Interests
+        Combinatorial optimization
+        Approximation Algorithms
+        Linear optimization
+        Massively parallel computing
+    Degrees
+        dr. sc., University of Zagreb, PMF - Department of Mathematics, Croatian Doctoral Study of Mathematics, Zagreb, 2015.
+            PhD thesis: Fast approximation algorithms for connected set cover problem and related problems (in Croatian)
+        mag. math., University of J. J. Strossmayer, Department of mathematics (http://www.mathos.unios.hr), Graduate Study of Mathematics, branch: Financial and Business Mathematics, Osijek, 2009.
+            master thesis: Approximation Algorithms for Optimal Stage Illumination (in Croatian)
+        univ. bacc. math., University of J. J. Strossmayer, Department of mathematics (http://www.mathos.unios.hr), Undergraduate Study of Mathematics, Osijek, 2007.
+            bachelor thesis: Gaussian Method for Solving of Systems of Linear Equations (in Croatian)
+
+
+Publications
+    Journal Publications
+        S. Jelić, D. Ševerdija, Government Formation Problem, Central European Journal of Operations Research  (2017), prihvaćen za objavljivanje
+        S. Jelić, S. Laue, D. Matijević, P. Wijerama, A Fast Parallel Implementation of a PTAS for Fractional Packing and Covering Linear Programs (http://link.springer.com/article/10.1007/s10766-015-0352-y), International Journal of Parallel Programming 43/5 (2015), 840-875
+        S. Jelić, An FPTAS for the fractional group Steiner tree problem (http://hrcak.srce.hr/ojs/index.php/crorr/article/view/3659), Croatian Operational Research Review  6/2 (2015), 525-539
+        K. Elbassioni, S. Jelić, D. Matijević, The relation of Connected Set Cover and Group Steiner Tree (https://www.mathos.unios.hr/ http:/www.mathos.unios.hr/images/uploads/2.pdf ), Theoretical Computer Science 438 (2012), 96-101
+    Refereed Proceedings
+        R. Čorić, M. Đumić, S. Jelić,  A clustering model for time-series forecasting (http://docs.mipro-proceedings.com/proceedings/mipro_2019_proceedings.pdf), 42nd International Convention - MIPRO 2019, Opatija, 2019, 1295-1299
+        R. Čorić, M. Đumić, S. Jelić,  A Genetic Algorithm for Group Steiner Tree Problem (http://docs.mipro-proceedings.com/cis/cis_02_4726.pdf), 41st International Convention - MIPRO 2018, Opatija, Hrvatska, 2018, 1113-1118
+        S. Jelić,  On the fractional group Steiner tree problem, SYM-OP-IS 2015: XLII International Symposium on Operations Research, Donje Gradište, 2015
+        S. Jelić, D. Matijević,  The relation of Connected Set Cover and Group Steiner Tree, Conference on Applied Mathematics and Scientific Computing 2011, Trogir, 2011
+    Others
+        D. Matijević, D. Ševerdija, S. Jelić, L. Borozan, Uparena optimizacijska metoda (http://e.math.hr/Vol30/Borozan), Math.e : hrvatski matematički elektronski časopis  30 (2016)
+        Z. Ivančević, S. Jelić, Primjena SVD rastava matrice u dohvatu informacija i kompresiji slike, Osječki matematički list (2015), prihvaćen za objavljivanje
+        S. Jelić, Primjena karakterističnih funkcija u statistici, Osječki matematički list 10/1 (2010), 85-94
+        S. Jelić, D. Matijević, Stage Illumination Problem (http://demonstrations.wolfram.com/StageIlluminationProblem/) (2009)
+
+
+Projekti
+    "Paralelno računanje na grafičkom čipu u problemima diskretne linearne optimizacije", (Odjel za matematiku, Sveučilište u Osijeku - Sveučilište u Osijeku) - voditelj projekta: Domagoj Matijević
+
+
+Teaching
+    Past
+        Uvod u strukture podataka i algoritme (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/196)
+        Osnove baza podataka  (https://www.mathos.unios.hr/index.php/nastava/preddiplomski-studij-matematike/211)
+        Dizajniranje i modeliranje baza podataka (https://www.mathos.unios.hr/index.php/nastava/matematika-i-racunarstvo/260)
+        Osnove umjetne inteligencije (https://www.mathos.unios.hr/index.php/nastava/financijska-matematika-i-statistika/238)

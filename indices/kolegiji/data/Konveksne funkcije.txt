@@ -1,0 +1,39 @@
+OSNOVNE INFORMACIJE
+	Kolegij Konveksne funkcije izvodi se u ljetnom semestru prve godine sveučilišnog diplomskog studija matematike i četvrte godine sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je sistematizirati geometrijska i analitička svojstva konveksnih skupova i konveksnih funkcija, koja se koriste u različitim područjima primijenjene matematike.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m053.pdf).
+	VODITELJ KOLEGIJA	
+		prof. dr. sc. Mihaela Ribičić Penava (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/115)	
+		KONZULTACIJE: Po dogovoru	
+	OSNOVNA LITERATURA
+		S. Boyd, L. Vandenbergher, Convex Optimization, Cambridge University Press, Cambridge, 2004.
+		M. Alić, G. Nogo, Optimizacija: Uvod u teoriju nužnih i dovoljnih uvjeta ekstrema, Odjel za matematiku, Sveučilište u Osijeku, 2004.
+	DOPUNSKA LITERATURA
+		D. Bertsimas, J. N. Tsitsiklis, Introduction to Linear Optimization, Athena Scientific, 1997.
+		M. S. Bazarra, H. D. Sherali, C. M. Shetty, Nonlinear Programming:Theory and Algorithms, 3rd Edition, Wiley, New Jersey, 2006.
+		J. M. Borwein, A. S. Lewis, Convex Analysis and Nonlinear Optimization, Springer-Verlag, New York, 2000.
+		J. Pečarić, F. Proschan, Y. L. Tong, Convex Functions, Partial Orderings and Statistical Applications, Academic Press, London, 1992.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Konveksne funkcije realizira se s fondom od 30 sati (tjedno 1 sata predavanja i 1 sata vježbi). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: Utorak, 13-14h	PREDAVAONICA: D-9	
+	VJEŽBE	TERMIN: Utorak, 14-15h	PREDAVAONICA: D-9	
+
+
+PRAVILA POLAGANJA ISPIT
+	Tijekom semestra studenti mogu polagati dva kolokvija koji zamjenjuju pismeni dio ispita. Uvjet za polaganje kolokvija je ostvarenih minimalno 30 bodova po svakom kolokviju i minimalno 90 bodova ukupno.
+	PISMENI ISPIT
+		Pismeni ispit je obavezan za studente koji nisu uspješno položili kolokvije i nosi ukupno 100 bodova. Bodovni prag za polaganje pismenog ispita je 50 bodova.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.
+
+
+PRIMJERI KOLOKVIJA I PISMENIH ISPITA
+	PRIMJERI KOLOKVIJA
+		2013./14. Kolokvij 1 (https://www.mathos.unios.hr/images/homepages/mihaela/prvi_kol_2013.pdf)  Kolokvij 2 (https://www.mathos.unios.hr/images/homepages/mihaela/drugi_kol_2013.pdf)
+		2012./13. Kolokvij 1 (https://www.mathos.unios.hr/images/homepages/mihaela/prvi_kolokvij.pdf)  Kolokvij 2 (https://www.mathos.unios.hr/images/homepages/mihaela/drugi_kolokvij.pdf)
+	PRIMJERI PISMENIH ISPITA
+		3. srpnja 2015. (https://www.mathos.unios.hr/images/homepages/mihaela/pismeni_3_7.pdf)
+		8. srpnja 2016. (https://www.mathos.unios.hr/images/homepages/mihaela/pismeni_7mj_2016.pdf)
+		7. srpnja 2017. (https://www.mathos.unios.hr/images/homepages/mihaela/pismeni_7_7.pdf)
+		2. srpnja 2018. (https://www.mathos.unios.hr/images/homepages/mihaela/pismeni_2_7_2018.pdf)

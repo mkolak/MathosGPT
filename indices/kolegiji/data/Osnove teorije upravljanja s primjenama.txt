@@ -1,0 +1,29 @@
+OSNOVNE INFORMACIJE
+	Osnove teorije upravljanja s primjenama izvodi se u ljetnom semestru treće godine sveučilišnog preddiplomskog studija matematike i računarstva. Studenti će naučiti matematičke temelje teorije upravljanja dinamičkih sustava. Nakon odslušanog predmeta moći će konstruktivno analizirati svojstava sustava važna za upravljanje (stabilnost, upravljivost i obzervabilnost (mjerljivost)), bit će u stanju dizajnirati regulatore s željenim svojstvima te ih primijeniti na realnim sustavima. Teorijska znanja bit će primijenjena na problem upravljanja mobilnim robotima kroz rad na simulatoru kao i rad na stvarnom robotu.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (https://www.mathos.unios.hr/images/homepages/mugrica/OTUP/m092.pdf)) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i010.pdf).
+	VODITELJ KOLEGIJA	
+		izv.prof.dr.sc. Zoran Tomljanović (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119)	
+		KONZULTACIJE: vidjeti (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/119/#teaching)	
+	ASISTENT	
+		Marinela Pilj Vidaković (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/26-homepage/odjel/kadrovi/homepages/662-marinela-pilj-vidakovic-s-home-page)	
+		KONZULTACIJE: po dogovoru	
+	OSNOVNA LITERATURA
+		J. Hespanha, Linear Systems Theory, Princeton University Press, 2009
+		Z. Li, S. S. Ge, Fundamentals in Modeling and Control of Mobile Manipulators, CRC Press, 2013.
+		S. M. Lavelle, Planning Algorithms, Cambridge University Press, 2006.
+		A. Barrera, Advances in Robot Navigation, INTECH Open Access Publisher, 2011.
+		W. E. Dixon, D. M. Dawson, E. Zergeroglu, A. Behal, Nonlinear Control of Wheeled Mobile Robots, Springer, 2001.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Osnove teorije upravljanja s primjenama realizira se s fondom od 90 sati (tjedno 2 sata predavanja, 1 sat seminara i 2 sata vježbi). Pohađanje predavanja, seminara i vježbi je obavezno.
+	PREDAVANJA	TERMIN: Srijeda, 8-10h	PREDAVAONICA: P8	
+	VJEŽBE	TERMIN: Četvrtak, 8-10h	PREDAVAONICA: P6/RP1	
+
+
+PRAVILA POLAGANJA ISPITA
+	PISMENI ISPIT
+		Pismeni dio ispita se može položiti putem 2 kolokvija od kojih svaki vrijedi 100 bodova.  Na svakom kolokviju bodovni prag je 30 bodova.  Studenti, koji ukupno imaju barem 80 bodova i zadovoljavaju bodovne pragove, položili su pismeni dio ispita.
+		Pismeni ispit obavezan je za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit obavezan je za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s kolokvija (pismenog ispita) i seminarskog rada, formira konačna ocjena.

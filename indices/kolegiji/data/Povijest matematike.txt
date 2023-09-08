@@ -1,0 +1,47 @@
+OSNOVNE INFORMACIJE
+	Povijest matematike izvodi se u ljetnom semestru druge godine sveučilišnog diplomskog studija - nastavničkog studija matematike i informatike. Kolegij upoznaje studente s razvojem glavnih matematičkih ideja kroz povijest. Time se postiže poznavanje niza primjera korisnih za budući rad nastavnika matematike, kao i za njihovu opću kulturu i mogućnost komunikacije s drugim strukama. Također, upoznava se s vezama matematike s drugim strukama i društvenim razvojem, te provodi se ponavljanje već upoznatog matematičkog gradiva. U prvom dijelu predmeta obrađuje se razdoblje do uključivši renesanse u uglavnom kronološkom redoslijedu, a u drugom dijelu obrađuje se novovjeka matematika prema razvoju pojedinih matematičkih disciplina. 
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (povmat.pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/m117.pdf)).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Tomislav Marošević
+		Konzultacije: U ljetnom semestru ak.god. 2022./2023.: poslije nastave, ili po dogovoru.
+		email   tmarosev@mathos.hr                         
+	OSNOVNA LITERATURA
+		F. M. Brueckler: Povijest matematike I, Odjel za matematiku Sveučilišta J. J. Strossmayera u Osijeku, 2007.                                               
+		F. M. Brueckler: Povijest matematike II, Odjel za matematiku Sveučilišta J. J. Strossmayera u Osijeku, 2010.
+	DODATNA LITERATURA
+		Ž. Dadić: Razvoj matematike. Ideje i metode egzaktnih znanosti u njihovu povijesnom razvoju, Školska knjiga, Zagreb, 1975.
+		Z. Šikić, Kako je stvarana novovjekovna matematika, Školska knjiga Zagreb, 1989. 
+		Š. Znam i dr., Pogled u povijest matematike, Tehnička knjiga Zagreb, 1989.
+		The MacTutor History of Mathematics Archives: http://mathshistory.st-andrews.ac.uk (http://mathshistory.st-andrews.ac.uk)
+		S.Anglin, J.Lambek: The Heritage of Thales, Springer Verlag, Berlin, 1995.
+		D.E.Smith: History of Mathematics - Vol. I, Dover, New York, 1958.
+		D.E.Smith: History of Mathematics - Vol. II, Dover, New York, 1953.
+	NASTAVNI MATERIJALI
+		Dvije knjige osnovne literature dostupne su u elektroničkom obliku na sljedećoj poveznici:              
+		F_M_Brueckler_Povijest_matematike (https://www.mathos.unios.hr/index.php/odjel/nasa-izdanja)     
+
+
+RASPORED PREDAVANJA 
+	Nastava u ljetnom  semestru 2022./2023. izvodi se redovno uživo kao kontaktna nastava.  
+	Za pristup Teams kanalu koristiti AAIEdu pristupne podatke i kod  3vbnx39 .
+	Izvedbeni program kolegija Povijest matematike ostvaruje se fondom od 45 sati (tjedno 3 sata predavanja). Predavanja su obvezna. 
+	PREDAVANJA	TERMIN: srijeda, 9:00-12:00	PREDAVAONICA: D-7	
+
+
+PRAVILA POLAGANJA ISPITA
+	Dolje navedeno odnosi se na provedbu ispita u uvjetima održavanja redovne kontaktne nastave:
+	Tijekom semestra student može napisati i u okviru nastavnih termina održati jedan seminarski rad na danu temu. Održani seminar utječe na konačnu ocjenu.  Studenti mogu polagati kolokvije koji nisu obvezni. Kolokvij 1 odnosi se na gradivo predavano u prvom dijelu do uključivši razdoblja renesanse, a provodi se sredinom ljetnog semestra. Kolokvij 2 uključuje gradivo predavano u drugom dijelu o razvoju matematike u novom vijeku, te se provodi na kraju semestra, ili u lipnju i srpnju u okviru redovitog ispitnog roka. Pozitivno ocijenjeni kolokviji mogu zamijeniti potpuno pisani i usmeni dio ispita. Nakon odslušanih predavanja provodi se pisani i usmeni dio ispita.
+	PISANI ISPIT
+		Pisani ispit obvezan je za studente koji nisu položili kolegij preko kolokvija.
+	USMENI ISPIT
+		Usmeni ispit se provodi nakon pisanog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena. Seminarski rad ili esej na danu temu mogu zamijeniti potpuno usmeni ispit. 
+		Napomena za ak.god. 2021./2022.:                                                                                                                                       U akademskoj godini 2022./2023. pisani kolokvij I i pisani kolokvij II imaju po 100 bodova (tj.  po 100 %),  pri čemu je minimalni prag jednog kolokvija 35 boda, te se gleda srednja vrijednost tih kolokvija.  Seminarski rad ili esej na danu temu, koji nisu obvezni, donose do plus 15 bodova.
+			Ocjene su sljedeće:  40-54% dovoljan;  55-69% dobar; 70-84% vrlo dobar;  85-100% izvrstan.
+
+
+ISPITNA PITANJA  (pdf)  
+	Pitanja za kolokvij 1 iz Povijesti matematike, ak.god. 2021./2022.:   kol_1_pov_mat_2022 (https://www.mathos.unios.hr/images/homepages/tmarosev/Pitanja_za_kolokvij_I_iz_pov_mat_2022.pdf)   
+	Pitanja za kolokvij 2 iz Povijesti matematike, ak.god. 2022./2023.:   kol_2_pov_mat_2023 (https://www.mathos.unios.hr/images/homepages/tmarosev/Pitanja_kolokvij_II_pov_mat_2023.pdf) 
+	Pitanja za kolokvij I iz Povijesti matematike     kol_I_2020 (https://www.mathos.unios.hr/images/homepages/tmarosev/Pitanja_za_kolokvij_I_iz_pov_mat_2020.pdf)
+	Stara pitanja za gradivo ljetnog semestra iz Povijesti matematike     pdf (https://www.mathos.unios.hr/images/homepages/tmarosev/Pitanja_iz_gradiva_ljetnog_semestra_Povijest_matematike.pdf)  
+	Pitanja za kolokvij II iz Povijesti matematike     kolokvij_II_2020 (https://www.mathos.unios.hr/images/homepages/tmarosev/Pitanja_kolokvij_II_pov_mat_2020.pdf)

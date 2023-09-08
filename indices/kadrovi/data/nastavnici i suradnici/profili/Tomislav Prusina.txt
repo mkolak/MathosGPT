@@ -1,0 +1,26 @@
+General Information
+    PhD student 
+    Department of Mathematics
+    Josip Juraj Strossmayer University of Osijek 
+    email: tprusina@mathos.hr
+    office: 8 (ground floor)
+    Research Interests
+        Machine learning
+    Degrees
+        MSc in mathematics, Mathematics and Computer Science, Department of Mathematics, University of Osijek, Croatia, 2022.
+        BSc in Computer Science, Department of Mathematics, University of Osijek, Croatia, 2020.
+
+
+Publications
+    Refereed Proceedings
+        D. Ševerdija, T. Prusina, A. Jovanović, L. Borozan, J. Maltar, D. Matijević,  Compressing Sentence Representation with Maximum Coding Rate Reduction (Best paper award in AIS - Artificial Intelligence Systems track) (https://ieeexplore.ieee.org/document/10159709), ICT and Electronics Convention (MIPRO), 2023 46th MIPRO, Opatija, Hrvatska, 2023
+    Technical Reports
+        T. Prusina, D. Matijević, L. Borozan, J. Maltar, A. Jovanović, Compressing Sentence Representation with maximum Coding Rate Reduction (2023)
+
+
+Office Hours: 
+    Konzultacije su moguće i po dogovoru.
+
+
+Personal
+    Birthplace: Osijek.

@@ -1,0 +1,53 @@
+OSNOVNE INFORMACIJE
+	Kolegij 3D računalna grafika izvodi se u ljetnom semestru druge godine sveučilišnog diplomskog studija matematike smjera matematike i računarstva. Studenti će upoznati te primjenjivati temeljne algoritme za 3D modeliranje i iscrtavanje s naglaskom u realnom vremenu te dizajnirati i implementirati vlastite grafičke programe u C++ programskom jeziku koristeći OpenGL grafičku biblioteku za iscrtavanje statičkih i dinamičkih scena.
+	Sadržaj kolegija možete dohvatiti na sljedećoj poveznici: pdf (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i059.pdf).
+	Kolegij se potpuno izvodi na MERLIN/MS Teams sustavu
+	VODITELJ KOLEGIJA	
+		doc.dr.sc. Domagoj Ševerdija	KONZULTACIJE: srijeda 10-12h	
+	ASISTENT
+		Bartol Borozan	KONZULTACIJE: srijeda 10-12h	
+	Osnovna literatura
+		S. Buss, „3D Computer Graphics: A mathematical approach with OpenGL“, Cambridge University Press, 2003.
+		P. Shierley et al. "Fondations of Computer Graphics 4th Edition", CRC Press, 2015
+	Dopunska literatura
+		G. Sellers, R.S.Wright, N. Haemel, „OpenGL Superbible: Comprehensive Tutorial and Reference“, Addison-Wesley Professional; 7 edition, 2015.
+		A. Watt, „3D Computer Graphics“, Addison Wesley, 2000.
+		S. J. Gortier, „Foundations of 3D Computer Graphics“, MIT Press, 2012 4. E. Angel, „Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL (6th Edition)“, Pearson; 6 Ed, 2011
+		L. Benstead, :“Beginning OpenGL Game Programming“, 2Ed, Cengage Learning PTR, 2009.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija 3D računalna grafika realizira se s fondom od 75 sati (tjedno 2 sata predavanja i 2 sata vježbi i 1 sat seminara). Pohađanje predavanja i vježbi je obavezno.
+	PREDAVANJA	TERMIN: utorak, 10-12h	PREDAVAONICA: D-6	
+	VJEŽBE	TERMIN: ponedjeljak, 14-16h	PREDAVAONICA: RP-2
+
+
+PRAVILA POLAGANJA ISPITA
+	Kolegij se polaže na temelju aktivnosti prema bodovima:
+	KATEGORIJA: pohađanje predavanja i vježbi 
+		ECTS: 1
+		aktivnost studenata:  prisutnost na nastavi, rasprava, timski rad, samostalan rad na zadacima i kratke provjere znanja
+		bodovanje: 0-10
+	KATEGORIJA: zadaće
+		ECTS: 2
+		aktivnost studenata:  samostalno rješavanje programskih zadataka
+		bodovanje: 18-30 
+	KATEGORIJA: 2 kolokvija
+		ECTS: 2
+		aktivnost studenata:  	provjera usvojenosti teorijskog dijela gradiva
+		bodovanje: 	16-30 
+	KATEGORIJA: završni ispit 
+		ECTS: 2
+		aktivnost studenata:  	Izrada seminarskog rada/programskog projekta
+		bodovanje: 	16-30 
+	OCJENA
+		Zadovoljavanje minimalnog praga bodova za sve kategorije je nužnost za prolaz na kolegiju. Obzirom na ostvarene bodove, student može ostvariti sljedeće ocjene:
+			ocjena dovoljan (2): 50%-59%
+			ocjena dobar(3): 60%-75%
+			ocjena vrlo dobar(4): 75%-98%
+			ocjena izvrstan(5): >90%
+		Studenti koji nisu zadovoljili minimalni broj bodova iz zadaća, a ostale uvjete jesu imaju pravo na bonus zadaću. U slučaju da nije zadovljen dovoljni broj bodova iz kolokvija, student treba ići na pismeni ispit. 
+		PISMENI ISPIT
+			Pismeni i usmeni ispit je obavezan za studente koji nisu položili kolegij preko navedenih kriterija.
+		USMENI ISPIT
+			Usmeni ispit je obavezan za sve studente koji kolegij polažu preko pismenog ispita. Na usmenom ispitu se, u ovisnosti od ocjene s pismenog ispita, formira konačna ocjena.

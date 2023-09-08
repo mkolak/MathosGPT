@@ -1,0 +1,12 @@
+OSNOVNE INFORMACIJE
+	U posljednjem semestru studenti preddiplomskog studija Matematike i računarstva moraju demonstrirati stečene vještine i znanja izradom završnog praktičnog projekta.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/i058.pdf).
+	VODITELJ KOLEGIJA
+		izv.prof.dr.sc. Domagoj Matijević (http://www.mathos.hr/~domagoj)	KONZULTACIJE: Ponedjeljkom od 11-13h	
+	Organizacija i komunikacija se održava putem službenog Teams kanala. Pristupni kod je 5tzz5ci.
+
+
+PRAVILA POLAGANJA ISPITA
+	Student ili individualno ili u grupnom radu pristupa izradi definiranog projektnog zadatka po svim pravilima struke (analiza zahtjeva, dizajn rješenja, implementacija i testiranje).
+	Svaki student ili grupa od najviše četiri studenta (u slučaju grupnog rada) će imati dodijeljenoga najmanje jednog mentora od strane Odjela za matematiku iz redova nastavnika, te eventualno još jednog iz industrije, ukoliko se projektni zadatak radi u suradnji sa privredom. Svaki projektni zadatak mora biti odobren od strane nositelja predmeta. Student ili grupa studenata je obvezna izraditi popratnu dokumentaciju te ju priložiti nositelju predmeta po završetku projekta, potpisanu od strane (oba) mentora.
+	Rezultati projektnog rada kojeg je student ili grupa studenata rješavala se izlažu u obliku javne prezentacije.

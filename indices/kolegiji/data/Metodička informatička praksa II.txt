@@ -1,0 +1,31 @@
+OSNOVNE INFORMACIJE
+	Metodička informatička praksa I izvodi se u ljetnom semestru druge godine diplomskog sveučilišnog nastavničkog studija matematike i informatike. Cilj kolegija je osposobiti studente za kvalitetnu pripremu, izvođenje i analizu svih vrsta nastave informatike u srednjoj školi, ovladavanje raznovrsnim repertoarom metoda poučavanja, adekvatnu uporabu medija te pripremu učenika za informatička natjecanja.  
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf) (https://www.mathos.unios.hr/images/sadrzaji_kolegija/ip004.pdf).
+	VODITELJICA KOLEGIJA
+		izv.prof.dr.sc. Darija Marković (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/112)	
+		KONZULTACIJE: po dogovoru	
+	OSNOVNA LITERATURA
+		V. Galešev i dr., Informatika i računarstvo: metodički priručnik za nastavnike, SysPrint, Zagreb, 2006.
+		Nacionalni kurikulum nastavnog predmeta informatike za osnovne i srednje škole, MZOS, 2018. 
+	DOPUNSKA LITERATURA
+		Nastavni planovi i programi informatike/računarstva za osnovnu i srednju školu, Ministarstvo znanosti, obrazovanja i športa RH
+		Udžbenici iz informatike/računarstva za osnovnu i srednje škole
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Metodička informatičkaa praksa I realizira se s fondom od 30 sati (tjedno 2 sata vježbi).
+
+
+OBAVEZE STUDENATA
+	hospitiranje na nastavi mentora 
+	izvesti 2 probna nastavna sata 
+	odslušati ispitne nastavne sate kolega 
+	odraditi 2 ispitna (ogledna) sata 
+	aktivno sudjelovati u analizi satova 
+	izraditi pripreme za nastavne sate koje izvode 
+	voditi dnevnik prakse
+
+
+PRAVILA POLAGANJA ISPITA
+	Studenti koji su u cijelosti odradili metodičku praksu i dobili prolaznu ocjenu od mentora (nastavnika – praktičara), te prolazne ocjene iz dnevnika prakse, pisanih priprema za svaki nastavni sat i ogledni sat imaju pravo na potpis.
+	Studentima koji su stekli pravo na potpis ocjena se formira na temelju ocjene mentora (aktivnost na praksi, redovitost pohađanja, odnos prema radu u školi, održani samostalni probni satovi) (40%), ocjene svake pisanepripreme za održane nastavne sate (15%), ocjene oglednog sata (40%), dnevnik prakse (5%)

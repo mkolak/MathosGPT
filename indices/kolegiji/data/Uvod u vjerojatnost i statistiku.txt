@@ -1,0 +1,35 @@
+OSNOVNE INFORMACIJE
+	Uvod u vjerojatnost i statistiku izvodi se u zimskom semestru druge godine Sveučilišnog preddiplomskog studija matematike. Cilj kolegija je studente upoznati s osnovnim pojmovima teorije vjerojatnosti i statistike. Naglasak je na uvođenju osnovnih pojmova, njihovoj interpretaciji, usvajanju i razumijevanju osnovnih svojstava, ovladavanju osnovnim tehnikama i metodamama te njihovom primjenom.
+	Sadržaj kolegija možete dohvatiti na sljedećem linku (pdf (http://www.mathos.unios.hr/images/sadrzaji_kolegija/m098.pdf)).
+	VODITELJ KOLEGIJA I ASISTENT	
+		doc. dr. sc. Ivan Papić (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/132)	
+		KONZULTACIJE: Vrijeme konzultacija (https://www.mathos.unios.hr/index.php/kadrovi/nastavnici-i-suradnici/132#teaching)		
+	DEMONSTRATORICA	
+		Magdalena Mikić	
+		KONZULTACIJE: mmikic1@mathos.hr
+	OSNOVNA LITERATURA
+		M. Benšić, N. Šuvak - Uvod u vjerojatnost i statistiku (https://www.mathos.unios.hr/images/homepages/ipapic/UVIS/UVIS_knjiga_web.pdf), Odjel za matematiku, Osijek, 2013.
+		M. Benšić, N. Šuvak - Primijenjena statistika (https://www.mathos.unios.hr/images/homepages/dgrahova/Uvod_u_vjerojatnost_i_statistiku/Materijali-predavanja/00_statistika.pdf), Odjel za matematiku, Osijek, 2013.
+		L.E. Bain, M. Engelhardt - Introduction to Probability and Mathematical Statistics, BROOKS/COLE Cengage Learning, 2008.
+
+
+RASPORED PREDAVANJA I VJEŽBI
+	Izvedbeni program kolegija Uvod u vjerojatnost i statistiku realizira se u trećem semestru Sveučilišnog preddiplomskog studija matematike s fondom od 60 sati (tjedno 2 sata predavanja i 2 sata vježbi). 
+	Kod za pristupanje timu za kolegij Uvod u vjerojatnost i statistiku u "Microsoft Teams" aplikaciji je axr7rby. 
+	PREDAVANJA	TERMIN: Ponedjeljak, 10:00-12:00	PREDAVAONICA: D-2	
+	VJEŽBE	TERMIN: Srijeda, 08:00-10:00	PREDAVAONICA: D-9	
+
+
+PRAVILA POLAGANJA ISPITA
+	KOLOKVIJI
+		Tijekom semestra bit će organizirano polaganje dvaju kolokvija:
+		Kolokvij 1 - osnovni pojmovi teorije vjerojatnosti (50 bodova)
+		Kolokvij 2 - slučajne varijable, parametarske familije slučajnih varijabli, slučajni vektori (50 bodova)
+		Barem 50 bodova ostvarenih putem ovih dvaju kolokvija zamjena su za pismeni ispit i studentu osiguravaju pravo pristupanja usmenom ispitu tijekom akademske godine u kojoj je slušao kolegij. Ocjena za pristupanje usmenom ispitu formira se na temelju bodova ostvarenih na kolokvijima prema sljedećem kriteriju:
+			50-65: dovoljan(2); 66-80: dobar(3); 81-90: vrlo dobar(4); 91-100: izvrstan (5).
+	PISMENI ISPIT
+		Ukoliko student ne ostvari barem 50 bodova putem kolokvija, pristupa pismenom ispitu. Na pismenom ispitu moguće je ostvariti najviše 100 bodova. Ocjena pismenog ispita formira se prema sljedećem kriteriju:
+			50-65: dovoljan(2); 66-80: dobar(3); 81-90: vrlo dobar(4); 91-100: izvrstan (5).
+		Sa ostvarenih barem 50 bodova student ima pravo pristupiti usmenom ispitu u ispitnom roku (zimskom, ljetnom ili jesenskom) u kojem je položio pismeni ispit.
+	USMENI ISPIT
+		Usmeni ispit je obavezan za sve studente. Na usmenom ispitu se, u ovisnosti od ocjene s kolokvija ili pismenog ispita, formira konačna ocjena.
