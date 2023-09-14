@@ -1,2 +1,8 @@
 flask
 openai
+flask_cors
+gunicorn
+llama_index
+fsspec
+langchain
+tiktoken
