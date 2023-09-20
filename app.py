@@ -8,6 +8,7 @@ from uuid import uuid4
 app = Flask(__name__, template_folder="static/")
 CORS(app)
 
+chats = {}
 # Set up OpenAI API credentials
 # openai.api_key = "YOUR_API_KEY"
 
@@ -60,5 +61,4 @@ def chat(chat_id):
 
 
 if __name__ == "__main__":
-    chats = {}
     app.run()

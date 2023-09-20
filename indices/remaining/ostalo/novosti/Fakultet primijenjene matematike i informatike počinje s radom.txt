@@ -1,6 +1,0 @@
-Fakultet primijenjene matematike i informatike započinje s radom od 1. srpnja 2023. Ujedno tim danom Odjel za matematiku prestaje s poslovanjem. Time svi studenti i zasposelnici dosadašnjeg Odjela za matematiku postaju studenti i zaposlenici novog Fakulteta primijenjene matematike i informatike.
-
-Osnovni podaci Fakulteta primijenjene matematike i informatike:
-    IBAN: HR8724020061101166712
-    Matični broj: 5769159
-    OIB: 56597320763
